@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_01170",
+  "doc_src": "scurelle_v2.1__2023.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Cosa posso scrivere per il mio Piano famiglia con macro ambito Welfare territoriale?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Prendendo come spunto il Piano Famiglia di Scurelle del 2023,  nel macro ambito \"Welfare territoriale e sostenibilità\", puoi includere interventi a sostegno della conciliazione dei tempi tra famiglia, lavoro e territorio, servizi infermieristici comunali, sostegno psicologico alle famiglie, servizi per la prima infanzia, parchi gioco attrezzati e sicuri, colonnine di ricarica e-bike e nuovi collegamenti ciclabili. Questi sono solo alcuni degli elementi che potresti considerare per il tuo Piano famiglia con macro ambito Welfare territoriale.",
+      "ground": "PIANO FAMIGLIA DI SCURELLE ANNO 2023\n\n|||\n\nCentro di aggregazione sociale presso l'area sportiva di Scurelle\n\n|||\n\nInterventi a sostegno della conciliazione dei tempi (famiglia/lavoro/territorio)\n\n|||\n\nServizio infermieristico comunale\n\n|||\n\nSostegno psicologico alle famiglie\n\n|||\n\nCampo da calcio e palestra comunale\n\n|||\n\nCollegamento pedonale ponte Palanca – Ponte Carette\n\n|||\n\nColonnine di ricarica e-bike\n\n|||\n\n2.3 Il Parco tematico sull'acqua dedicato alle famiglie\n\n|||\n\nNuovo collegamento ciclabile\n\n|||\n\nParchi gioco attrezzati e in sicurezza\n\n|||\n\nServizio prima infanzia"
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Mi faresti un esempio di un'azione che parla della creazione di un collegamento ciclabile?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Certamente, ti riporto in seguito l'esempio del Comune di Scurelle del 2023.\n\nTITOLO: Nuovo collegamento ciclabile\nTASSONOMIA: Progetti per favorire l’autonomia dei bambini (Pedibus, Nonno vigile, ecc.)\nMACRO-AMBITO: Welfare territoriale e sostenibilitа\nDESCRIZIONE: Il 22 agosto 2018 la Giunta comunale approvava il progetto preliminare per la realizzazione del nuovo collegamento ciclabile tra il paese e la ciclabile del Brenta. Con delibera del 17 gennaio 2019 la Comunitа di Valle ha approvato il progetto e confermato il suo finanziamento per l’importo di\n304.997,76 euro. Nel 2022 è prevista la definizione del progetto esecutivo, previo coordinamento con i Comuni limitrofi, al fine della definizione del percorso ottimale, mentre l’avvio dei lavori per la realizzazione del collegamento ciclopedonale avverrа presumibilmente nell’anno 2023.",
+      "ground": "И prevista anche una recinzione a steccato per proteggere\nil parco dagli animali al pascolo nella valle.\n-----\n\nTITOLO: Nuovo collegamento ciclabile\nTASSONOMIA: Progetti per favorire l’autonomia dei bambini (Pedibus, Nonno vigile, ecc.)\nMACRO-AMBITO: Welfare territoriale e sostenibilitа\nDESCRIZIONE: Il 22 agosto 2018 la Giunta comunale approvava il progetto preliminare\nper la realizzazione del nuovo collegamento ciclabile tra il paese e la\nciclabile del Brenta. Con delibera del 17 gennaio 2019 la Comunitа di Valle ha\napprovato il progetto e confermato il suo finanziamento per l’importo di\n304.997,76 euro."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Ne scriveresti una anche per il mio Comune?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Va bene. Avrei bisogno di sapere quando è stata l'approvazione da parte della giunta  comunale per la costruzione, quanto è l'importo stanziato, dove verrà fatta la pista, quando il progetto esecutivo è stato approvato e quando è previsto l'avvio dei lavori.",
+      "ground": " Il 22 agosto 2018 la Giunta comunale approvava il progetto preliminare\nper la realizzazione del nuovo collegamento ciclabile tra il paese e la\nciclabile del Brenta. Con delibera del 17 gennaio 2019 la Comunitа di Valle ha\napprovato il progetto e confermato il suo finanziamento per l’importo di\n304.997,76 euro."
+    },
+    {
+      "id": "T07",
+      "speaker": "Citizen",
+      "message": "L'approvazione della giunta è avvenuta il 24 Settembre 2023, per la costruzione della pista ciclabile lungo il fiume Ledra. La delibera del 4 Gennaio 2024 ha finanziato il progetto con 220.550,50 euro. Prevediamo che per Agosto 2024 i lavori verranno avviati e entro la fine del 2025 questi saranno conclusi.",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agent",
+      "message": "TITOLO: Nuovo collegamento ciclabile lungo il fiume Ledra\nTASSONOMIA: Progetti per favorire l’autonomia dei bambini (Pedibus, Nonno vigile, ecc.)\nMACRO-AMBITO: Welfare territoriale e sostenibilitа\nDESCRIZIONE: Il 24 Settembre 2023 la giunta comunale ha approvato il progetto per la costruzione di una pista ciclabile lungo il fiume Ledra. Con la delibera del 4 Gennaio 2024 è stato stanziato un finanziamento di 220.550,50 euro per il progetto. I lavori sono previsti per essere avviati entro Agosto 2024 e conclusi entro la fine del 2025.",
+      "ground": "И prevista anche una recinzione a steccato per proteggere\nil parco dagli animali al pascolo nella valle.\n-----\n\nTITOLO: Nuovo collegamento ciclabile\nTASSONOMIA: Progetti per favorire l’autonomia dei bambini (Pedibus, Nonno vigile, ecc.)\nMACRO-AMBITO: Welfare territoriale e sostenibilitа\nDESCRIZIONE: Il 22 agosto 2018 la Giunta comunale approvava il progetto preliminare\nper la realizzazione del nuovo collegamento ciclabile tra il paese e la\nciclabile del Brenta. Con delibera del 17 gennaio 2019 la Comunitа di Valle ha\napprovato il progetto e confermato il suo finanziamento per l’importo di\n304.997,76 euro."
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

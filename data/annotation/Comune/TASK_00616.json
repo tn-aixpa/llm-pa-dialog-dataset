@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00616",
+  "doc_src": "comune.trento_aree-tematiche_D0348.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni riguardo all'apertura di una rivendita di giornali..",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, certo. Per aprire una rivendita di giornali e riviste è necessario presentare una Segnalazione certificata di inizio attività tramite lo Sportello unico per le attività produttive telematico.",
+      "ground": "L'apertura di una rivendita di giornali e riviste, il subingresso, le modifiche, l'ampliamento o la riduzione di superficie e la cessazione della relativa attività sono soggetti a presentazione di una Segnalazione certificata di inizio attività (SCIA) tramite Sportello unico per le attività produttive (SUAP) telematico."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E se volessi fare un subingresso nell'attività?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Anche in questo caso è necessario presentare la SCIA tramite SUAP telematico. Posso fornirle tutte le informazioni necessarie per questo tipo di procedura.",
+      "ground": "Informazioni necessarie per presentare, tramite\nSuap"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

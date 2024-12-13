@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01166",
+  "doc_src": "telve_di_sopra_v2.1__2023.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Scrivi un'azione in cui il Comune di Gelli aderisce al Distretto Famiglia della Zona delle Farfalle",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "TITOLO: Adesione Distretto Famiglia Zona delle Farfalle\n\nTASSONOMIA: Adesione ai marchi familiari\n\nMACRO-AMBITO: Governance e azioni di rete\n\nOBIETTIVO: individuazione e lo sviluppo di un modello di responsabilitа territoriale coerente con le indicazioni della politica europea e nazionale.\n\nDESCRIZIONE: Il Comune di Gelli aderisce al distretto famiglia della Zona delle Farfalle promuovendo le iniziative del distretto. Attraverso il Distretto si intende attivare azioni a sostegno delle famiglie del Comune.\n",
+      "ground": "TITOLO: Adesione Distretto Famiglia Valsugana e Tesino\nTASSONOMIA: Adesione ai marchi familiari\nMACRO-AMBITO: Governance e azioni di rete\nDESCRIZIONE: Il Comune di Telve di Sopra aderisce al distretto famiglia e promuove tutte le iniziative e attivitа promosse dall'ente. Attraverso il Distretto si intende attivare importanti azioni a sostegno delle famiglie del comune. L'obiettivo è l'individuazione e lo sviluppo di un modello di responsabilitа territoriale coerente con le indicazioni della politica europea e nazionale."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Dammi adesso un'azione per l'adesione al Marchio Family.",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Adesso ti scriverò un'azione, vorrei prima sapere da quando il Comune di Gelli aderisce al Marchio Family e cosa ha fatto finora verso le famiglie a grandi linee",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Il Comune aderisce al marchio dal 2021, finora per le famiglie abbiamo crato diverse politiche di sostegno e di integrazione sociale.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "TITOLO: Adesione Marchio Family\n\nTASSONOMIA: Adesione ai marchi familiari\n\nMACRO-AMBITO: Governance e azioni di rete\n\nOBIETTIVO: mantenimento del Marchio Family\n\nDESCRIZIONE: Dal 2021 il Comune di Gelli aderisce al marchio Family, implementando politiche di sostegno e di integrazione sociale per le famiglie del territorio.",
+      "ground": "TITOLO: Adesione Marchio Family\nTASSONOMIA: Adesione ai marchi familiari\nMACRO-AMBITO: Governance e azioni di rete\nDESCRIZIONE: Dal 2017 il Comune di Telve di Sopra aderisce al marchio Family e si impegna a orientare le proprie politiche in un'ottica family friendly mettendo in campo servizi che rispondono alle esigenze e alle aspettative espresse dalle famiglie del territorio."
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

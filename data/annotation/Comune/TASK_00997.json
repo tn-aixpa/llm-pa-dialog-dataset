@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00997",
+  "doc_src": "comSalerno0780.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Cosa si fa durante l'assemblea Anci?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Durante l'assemblea Anci, sindaci, amministratori e rappresentanti del mondo istituzionale nazionale e regionale, e imprenditori si riuniscono per parlare di temi d'interesse per i Comuni. Lo scopo è di ideare, sviluppare e promuovere progetti e soluzioni che accrescono l'efficienza dei Comuni e il benessere dei cittadini.",
+      "ground": "L’Assemblea Regionale di Anci Campania è il tradizionale appuntamento annuale dell’Associazione che coinvolge Sindaci, amministratori e rappresentanti del mondo istituzionale nazionale e regionale, e imprenditori in un focus di dialogo sui principali temi d’interesse per i Comuni. Due giorni di lavori che costituiscono un’occasione privilegiata di incontro e luogo di ideazione, crescita e sviluppo di ambiziosi progetti e soluzioni che accrescono l’efficienza dei comuni e il benessere dei cittadini della Campania."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Dove e quando si svolgerà l'Assemblea Anci?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "L'Assemblea Regionale di Anci Campania si svolgerà nel Palazzo di Città a Salerno con inizio il pomeriggio del 6 ottobre e fine nel mattino del 7 ottobre.",
+      "ground": "L’Assemblea Regionale di Anci Campania si svolgerà nel Palazzo di Città a Salerno dal 6 al 7 ottobre 2023. La location è un’opera monumentale che è diventata simbolo indiscusso di una Salerno che mira alla modernità. L’Assemblea Regionale di Anci e quella di Anci Giovani si terranno rispettivamente nello storico Salone di Marmi e nella sala della Giunta.\nI lavori inizieranno nel pomeriggio di venerdì 6 ottobre e termineranno sabato 7 ottobre a fine mattinata."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "C'è un programma disponibile da qualche parte?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Sì, il programma è disponibile al link https://www.comune.salerno.it/sites/default/files/2023-10/anci.pdf .",
+      "ground": "[https://www.comune.salerno.it/sites/default/files/2023-10/anci.pdf](Programma)"
+    }
+  ],
+  "subcategory": "Salerno"
+}

@@ -1,0 +1,34 @@
+{
+  "task_id": "TASK_00659",
+  "doc_src": "comune.trento_aree-tematiche_D0434.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, potrebbe darmi informazioni sulla Torbiera delle Viote?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "La Torbiera delle Viote, chiamata anche Palù di Bondone, è il residuo di una palude d'età tardiglaciale ed è caratterizzata da prati umidi. La zona più umida è circondata da praterie e pascoli utilizzati anche per i bagni di fieno. Anche se minacciate dal progressivo prosciugamento, le pozze risultano particolarmente importanti per la vita e la riproduzione degli anfibi. La torbiera rappresenta l'habitat naturale anche per un gran numero di invertebrati e specie botaniche.",
+      "ground": "[]()\nDescrizione\nChiamata anche Palù di Bondone, è il residuo di una palude d'età tardiglaciale ed è caratterizzata da prati umidi, cariceti, erioforeti e sfagni. La sua origine deriva all'intorbamento di un vasto lago formatosi all'interno del mantello morenico abbandonato sulla conca dalle glaciazioni. La zona più umida, esempio di torbiera piana delle Alpi, è circondata da praterie e pascoli a nardo\n(Nardus stricta)\nche vengono utilizzati anche per i bagni di fieno (fitobalneoterapia). Anche se minacciate dal progressivo prosciugamento, le pozze risultano particolarmente importanti pure per la vita e la riproduzione degli anfibi. Sono infatti presenti la rana di montagna\n(Rana temporaria)\n, il rospo comune\n(Bufo bufo)\ne il tritone alpestre\n(Tritur\nus alpestris)\n, specie per le quali le pozze della zona umida costituiscono l'habitat riproduttivo. La torbiera rappresenta l'habitat naturale anche per un gran numero di invertebrati. Il coleottero acquatico\nAgabus nebulosus\nè stato rinvenuto solamente qui in Trentino. Tra le specie botaniche più interessanti si segnalano\nEriophorum alpinum,\nCarex davalliana\n, Carex dioica, Carex lasiocarpa,\nDrosera rotundifolia\n, Primula farinosa, Bartsia alpina, Salix rosmarinifolia,\nPinguicola vulgaris\n,\nMenyanthes trifoliata\n."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quindi è una zona di conservazione speciale?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Esatto, la Torbiera delle Viote è una Zona Speciale di Conservazione con una superficie di 24 ettari nel comune di Trento.",
+      "ground": ": ZSC – Zona Speciale di Conservazione\nSuperficie\n: 24 ha\nComune\n: Trento"
+    }
+  ],
+  "subcategory": "Trento"
+}

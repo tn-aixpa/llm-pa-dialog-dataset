@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00187",
+  "doc_src": "comune.milano_aree-tematiche_links_D0215.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Cosa sono i certificati elettorali?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "I certificati elettorali sono rilasciati dal comune e includono:\n- Iscrizione alle liste elettorali\n- Godimento dei diritti politici (si possono anche autocertificare)\n\nTutti i certificati rilasciati hanno validità legale",
+      "ground": "Il Comune rilascia i seguenti certificati:\niscrizione nelle liste elettorali\ngodimento dei diritti politici (sostituibile dall’\n[https://www.comune.milano.it/web/guest/servizi/autocertificazioni-anagrafiche](autocertificazione)\nse richiesto da enti pubblici).\nI certificati hanno validità legale."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Posso ottenere i certificati elettorali online?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Purtroppo non dispongo di questa informazione. Le consiglio di consultare il link https://www.comune.milano.it/servizi/votare/servizi-certificati-elettorali oppure di rivolgersi allo sportello",
+      "ground": "Utilizza i servizi\n[https://www.comune.milano.it/servizi/votare/servizi-certificati-elettorali](Certificati elettorali)\nModalità di accesso al servizio:\nSportello"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Capito, grazie mille per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È stato un piacere aiutarti, se hai bisogno di ulteriori informazioni non esitare a contattarci. Buona giornata!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

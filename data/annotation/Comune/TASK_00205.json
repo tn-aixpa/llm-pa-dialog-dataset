@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00205",
+  "doc_src": "comune.milano_aree-tematiche_links_D0233.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, potrebbe darmi informazioni sulla Protezione Civile?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "La Protezione Civile è l'insieme delle competenze e delle attività volte a tutelare la vita, l'integrità fisica, i beni, gli insediamenti, gli animali e l'ambiente dai danni derivanti da eventi calamitosi. È una struttura operativa in grado di coordinare i corpi specialistici dispiegati nelle emergenze e di affiancarli negli interventi.",
+      "ground": "È l’insieme delle competenze e delle attività volte a tutelare la vita, l'integrità fisica, i beni, gli insediamenti, gli animali e l'ambiente dai danni o dal pericolo di danni derivanti da eventi calamitosi di origine naturale o derivanti dall'attività dell'uomo.\n\n|||\n\nLa Protezione Civile è anche una struttura operativa in grado di coordinare i corpi specialistici dispiegati nelle emergenze e di affiancarli negli interventi.\n\n"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Come posso entrare nella Protezione Civile?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Per far parte della protezione civile è necessario seguire i corsi organizzati periodicamente dagli Enti preposti. Si tratta di un'attività di volontariato gratuita.",
+      "ground": "È indispensabile seguire i corsi organizzati periodicamente dagli Enti preposti.\nSi tratta di un’attività di volontariato assolutamente gratuita."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "E cosa fa esattamente?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "La Protezione Civile prevede, analizza e determina le cause dei fenomeni calamitosi, individua i rischi, delimita il territorio interessato, nonché mette in campo ogni azione volta ad evitare o ridurre danni e fornisce ogni forma di prima assistenza. Infine, aiuta a superare l'emergenza regolando il ritorno allo stato di normalità.",
+      "ground": "Analizza e determina le cause dei fenomeni calamitosi, individua i rischi e delimita il territorio interessato.\n\n|||\n\nFornisce ogni forma di prima assistenza attraverso l’attivazione dell’Unità di Crisi Locale e del Centro Operativo Comunale. Coordina i volontari e le strutture operative di Protezione Civile.\nSupera l’emergenza\nRegola il ritorno allo stato di normalità attraverso il monitoraggio delle operazioni di ripristino strade, edifici pubblici, attività produttive."
+    }
+  ],
+  "subcategory": "Milano"
+}

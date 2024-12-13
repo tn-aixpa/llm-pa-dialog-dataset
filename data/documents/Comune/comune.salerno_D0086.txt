@@ -1,0 +1,24 @@
+[](Descrizione)
+Descrizione
+La
+misura 1.4.4 "Adozione identità digitale"
+è finalizzata a favorire l'adozione dell’identità digitale (Sistema Pubblico di Identità Digitale, SPID e Carta d'Identità Elettronica, CIE) e dell'Anagrafe nazionale della popolazione residente (ANPR).
+Il valore complessivo della
+misura 1.4.4 Adozione identità digitale
+è di 285 milioni di euro e prevede come beneficiari varie amministrazioni pubbliche, dai Comuni, alle Città Metropolitane, e Regioni e Province autonome, Scuole, ASL e Università, ed altre.
+L'avviso ha l’obiettivo di
+favorire l’adozione delle piattaforme di identità digitale SPID e CIE
+(è raccomandata anche l’integrazione al nodo italiano eIDAS) per i servizi on line degli Enti rivolti a cittadini ed imprese, che permettono di fruire di un on line di un procedimento o effettuare un adempimento verso l’amministrazione.
+Il Comune di Salerno intende
+integrare il portale istituzionale dell’Ente con le funzionalità rese disponibili dalla CIE.
+Ambito:
+Trasformazione digitale
+CUP:
+I51F22004180006
+Struttura referente:
+Settore Servizi Informatici e Telematici
+Importo attribuito:
+€
+14.000,00
+Stato
+: attività in corso

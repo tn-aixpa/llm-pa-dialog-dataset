@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00235",
+  "doc_src": "comune.milano_aree-tematiche_links_D0264.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Salve, vorrei informazioni sui servizi a scuola per i ragazzi con disabilità.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Salve a lei, lo scopo dell'assistenza educativa è di garantire agli studenti con disabilità il diritto allo studio e delle potenzialità nell'apprendimento, nella comunicazione, nelle relazioni e nella socializzazione attraverso un percorso di integrazione scolastica",
+      "ground": "Il servizio di assistenza educativa garantisce agli alunni con disabilità il diritto allo studio e lo sviluppo delle potenzialità nell'apprendimento, nella comunicazione, nelle relazioni e nella socializzazione attraverso un percorso di integrazione scolastica che comporta:"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "In cosa consiste il percorso di integrazione?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Il percorso di integrazione consiste in:\n\n- Assistenza educativa per l’integrazione scolastica, in collaborazione con il corpo docente e con l’insegnante di sostegno \n- Supporto pratico funzionale per l’esecuzione delle indicazioni fornite dall'insegnante di classe con cui integrare le proprie azioni per la realizzazione del progetto educativo \n- Formulazione di un progetto educativo complessivo che tenga conto di tutto il sistema di relazioni\n- Assistenza personale durante i momenti di recupero funzionale, anche per interventi semplici o di facilitazione ed in particolare di sostegno alla comunicazione \n- Supporto all'integrazione scolastica dell’alunno nella vita di relazione \n- Assistenza educativa durante le attività extrascolastiche organizzate dalla scuola \n- Partecipazione agli incontri di programmazione e di verifica con gli insegnanti di classe o sezione, con i servizi sanitari e con la famiglia e collaborazione nella predisposizione e attuazione dei progetti educativi individualizzati (PEI) e nelle relative verifiche \n- Azioni di coordinamento tecnico-metodologico.",
+      "ground": "Il servizio di assistenza educativa garantisce agli alunni con disabilità il diritto allo studio e lo sviluppo delle potenzialità nell'apprendimento, nella comunicazione, nelle relazioni e nella socializzazione attraverso un percorso di integrazione scolastica che comporta:\nassistenza educativa per l’integrazione scolastica, in collaborazione con il corpo docente e con l’insegnante di sostegno\nsupporto pratico funzionale per l’esecuzione delle indicazioni fornite dall'insegnante di classe con cui integrare le proprie azioni per la realizzazione del progetto educativo\nformulazione di un progetto educativo complessivo che tenga conto di tutto il sistema di relazioni\nassistenza personale durante i momenti di recupero funzionale, anche per interventi semplici o di facilitazione ed in particolare di sostegno alla comunicazione\nsupporto all'integrazione scolastica dell’alunno nella vita di relazione\nassistenza educativa durante le attività extrascolastiche organizzate dalla scuola\npartecipazione agli incontri di programmazione e di verifica con gli insegnanti di classe o sezione, con i servizi sanitari e con la famiglia e collaborazione nella predisposizione e attuazione dei progetti educativi individualizzati (PEI) e nelle relative verifiche\nazioni di coordinamento tecnico-metodologico."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

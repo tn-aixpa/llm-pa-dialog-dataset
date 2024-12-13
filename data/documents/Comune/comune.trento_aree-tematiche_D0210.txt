@@ -1,0 +1,27 @@
+Sebbene l’amministrazione locale detenga importanti informazioni relative alla posizione e disponibilità dei vari tipi di parcheggio a Trento, questi dati sono spesso parziali o non aggiornati. Una valida alternativa all’utilizzo di risorse istituzionali per la loro raccolta è il
+crowdsourcing
+, ovvero la raccolta di dati e informazioni direttamente dai cittadini. Tra i motivi per cui il coinvolgimento della cittadinanza è da preferire, vi sono:
+la conoscenza, di gran lunga più dettagliata, di chi abita e vive quotidianamente una determinata zona della città
+la partecipazione dei cittadini al processo decisionale, che parte proprio dalla disponibilità dei dati
+Nello specifico, a Trento è stata indicata come prioritaria la raccolta di dati e informazioni relative ai parcheggi per:
+bici
+auto
+QROWD permette di recuperare i dati mancanti nel seguente modo:
+Tramite il Virtual City Explorer, una
+piattaforma di
+crowdsourcing
+- che offrono la possibilità agli utenti registrati (che non necessitano quindi di essere presenti a Trento) di esplorare la città virtualmente (utilizzando Google Street View) e di fotografare i vari tipi di parcheggio rispondendo a brevi domande relative al tipo e al numero degli stessi
+Tramite l’app
+i-Log
+- che permette ai cittadini locali di fotografare di persona i vari tipi di parcheggio e rispondere a brevi domande relative al tipo e al numero degli stessi
+[]()
+Risultati
+Durante il progetto sono state lanciate diverse sfide, sia tramite il Virtual City Explorer che utilizzando i-Log. Sono stati quindi raccolti dati sugli stalli per le biciclette e sui parcheggi gialli presenti in città.
+I dati provenienti da tutte le diverse fonti (istituzionali e
+crowdsourcing
+) sono stati fusi assieme e possono essere visualizzati su una mappa interattiva all’interno della
+dashboard dedicata ai cittadini
+:
+[http://citizendashboard.qrowd.aksw.org/qrowdDashboard/](QROWD | Dashboard)
+[]()
+Nella figura: visualizzazione sulla dashboard degli stalli per biciclette in centro storico, risultato della fusione di dati provenienti dagli open data (Municipality dataset), dal Virtual City Explorer e da Open Street Map (Linked Geodata)

@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00261",
+  "doc_src": "comune.milano_aree-tematiche_links_D0292.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sul funerale convenzionato. Come funziona esattamente?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, il Servizio funebre convenzionato è un servizio offerto dal Comune grazie ad una convenzione con alcune imprese di onoranze funebri. Possono usufruirne le persone destinate a sepoltura nei cimiteri milanesi o a cremazione nel Polo Crematorio di Lambrate. Il de cuius deve essere deceduto a Milano (indipendentemente dalla residenza effettiva) o deceduta all'ospedale San Raffaele e residente a Milano",
+      "ground": "Il Servizio funebre convenzionato è un servizio che il Comune offre grazie a una convenzione con alcune imprese di onoranze funebri.\nPossono beneficiare del servizio funebre convenzionato le persone destinate a sepoltura nei cimiteri milanesi o a cremazione nel Polo Crematorio di Lambrate, che siano:\npersone decedute a Milano, indipendentemente dal luogo di residenza;\npersone decedute all'ospedale San Raffaele di Segrate (MI) e residenti a Milano."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Ci sono riduzioni in base all'ISEE?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Sì, è possibile richiedere una riduzione se il defunto aveva un ISEE in corso di validità uguale o inferiore a 25mila euro.",
+      "ground": "servizio funebre convenzionato\nridotto\nche può essere richiesto se la persona defunta aveva un ISEE, in corso di validità, inferiore o uguale a euro 25.000\n[https://repository.comune.milano.it/s/9BNb4DWJpEBezSP](Verifica qui il modulo informativo funerale standard/ridotto e le condizioni di adesione)"
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni. Ci sono dei contatti?",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "Certamente, puoi contattare l'Ufficio ai numeri 02 884.62160 / 02 884.62158 ",
+      "ground": "Informazioni\ntel. 02 884.62160 / 02 884.62158"
+    }
+  ],
+  "subcategory": "Milano"
+}

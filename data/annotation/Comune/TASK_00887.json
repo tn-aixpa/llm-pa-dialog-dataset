@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00887",
+  "doc_src": "comune.salerno_D0213.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Cosa sa dirmi del voto  fuori sede per le prossime elezioni europee?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "L'articolo 1-ter del decreto legge del 29 gennaio 2024 ha introdotto una disciplina sperimentale per l'esercizio del voto da parte degli studenti fuori sede. Gli interessati devono presentare una domanda entro il 5 maggio.",
+      "ground": "L'art. 1-\nter\ndel decreto legge  29 gennaio 2024, n. 7 (Disposizioni urgenti per le consultazioni elettorali dell'anno 2024), convertito con modificazioni dalla legge 25 marzo 2024, n. 38, ha introdotto una disciplina sperimentale per l'esercizio del voto da parte degli studenti fuori sede, in occasione dell'elezione dei membri del Parlamento Europeo spettanti all'Italia che si terrà l'8 e 9 giugno 2024.\n\n|||\n\nPer poter esercitare il voto fuori sede, gli interessati iscritti nelle liste elettorali del Comune di Salerno devono presentare\napposita domanda\n, compilando il modello sotto allegato, con l'indicazione dell'indirizzo completo del temporaneo domicilio e, ove possibile, di un recapito di posta elettronica,\nentro e non oltre domenica 5 maggio"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Cosa succede il mio comune di domicilio temporaneo non è nella stessa circoscrizione del comune di residenza?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "In quel caso potrà votare presso sezioni speciali istituite nel comune capoluogo della regione alla quale appartiene il comune temporaneo. ",
+      "ground": "In tal caso, il comune di temporaneo domicilio fornirà alla sezione elettorale un elenco degli studenti fuori sede ammessi a votare nella sezione medesima. Inoltre, i nominativi degli studenti che si presentano nel seggio per votare sono aggiunti in calce alla lista sezionate e annotati nel verbale in apposito paragrafo;"
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "Sono a disposizione per ulteriori chiarimenti, buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_01049",
+  "doc_src": "altavalle__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Buongiorno, vorrei avere delle idee da scrivere sul piano sul come sostenere le politiche familiari.",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Buongiorno, alcune possibili idee sono:\n\n- sostegno e promozione attivitа di informazione e formazione in tema di genitorialitа;\n- sostegno e promozione di e del territorio dal punto di vista ambientale culturale e sociale;\n- promozione e organizzazione di eventi sportivi e ludici e messa a disposizione di strutture e servizi comunali;",
+      "ground": "Anche per l’anno 2022 l’Amministrazione di Altavalle nella stesura del Piano annuale degli interventi in materia di politiche familiari intende continuare a promuovere e sostenere azioni generative di sviluppo e sostegno alla famiglia, con particolare attenzione all’infanzia e ai giovani, coinvolgendo la Giunta a sostenere politiche di benessere familiare attraverso:\n\n|||\n\nsostegno e promozione attivitа di informazione e formazione in tema di genitorialitа;\n\n|||\n\nsostegno e promozione di e del territorio dal punto di vista ambientale culturale e sociale;\n\n|||\n\npromozione e organizzazione di eventi sportivi e ludici e messa a disposizione di strutture e servizi comunali;"
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Che azioni possono venire collegate alla cultura?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Dalla tassonomia, suggerirei \"Interventi per rafforzare la rete\", \"Incontri formativi e informativi: Educazione, Genitorialitа, Conciliazione, Vita di coppia\", \"Azioni di contrasto alle dipendenze\", \"Proposte culturali: museo, cinema, teatro, arte ecc.\", e \"Attivitа  di educazione ambientale (laboratori, giornate ecologiche, giornata del riuso, raccolta differenziata)\"",
+      "ground": "TASSONOMIA: Interventi per rafforzare la rete\n\n|||\n\nTASSONOMIA: Attivitа  di educazione ambientale (laboratori, giornate ecologiche, giornata del riuso, raccolta differenziata)\n\n|||\n\nTASSONOMIA: Incontri formativi e informativi: Educazione, Genitorialitа, Conciliazione, Vita di coppia\n\n|||\n\nTASSONOMIA: Azioni di contrasto alle dipendenze\n\n|||\n\nTASSONOMIA: Proposte culturali: museo, cinema, teatro, arte ecc.\n"
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Mi puoi fare qualche esempio di azioni legate al contrasto delle dipendenze?",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Il Comune di Altavalle nel loro piano del 2022 ha la seguente azione:\n\nTITOLO: Incontri e momenti formativi\n\nTASSONOMIA: Azioni di contrasto alle dipendenze\n\nDESCRIZIONE: Realizzare incontri e momenti formativi, anche on-line, sulle politiche familiari in collaborazione con il Distretto Famiglia e la Comunitа di Valle per promuovere iniziative di sensibilizzazione sul tema della dipendenza patologica in generale e della ludopatia in particolare.",
+      "ground": "=== PIANO FAMIGLIA DI ALTAVALLE ANNO 2022 ===\n\n|||\n\nTITOLO: Incontri e momenti formativi\n\nTASSONOMIA: Azioni di contrasto alle dipendenze\n\nDESCRIZIONE: Realizzare incontri e momenti formativi, anche on-line, sulle politiche familiari in collaborazione con il Distretto Famiglia e la Comunitа di Valle per promuovere iniziative di sensibilizzazione sul tema della dipendenza patologica in generale e della ludopatia in particolare."
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "E per le attività di educazione ambientale?",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "Potrebbe incentivare l'uso di prodotti alimentari trentini o a chilometri zero, fare una festa dedicata agli alberi e al rispetto della natura, proporre una giornata di pulizia della sua città o paese, o più in generale sostenere iniziative che mettono l'ambiente al primo piano.",
+      "ground": "TITOLO: Sostegno alle iniziative attente all'ambiente\n\n|||\n\nTITOLO: Incentivo di prodotti alimentari trentini/km 0\n\n|||\n\nTITOLO: Festa degli alberi\n\n|||\n\nDESCRIZIONE: Sostegno alla giornata ''ripuliAMO Altavalle'', giornata in cui la popolazione con il sostegno dell'Amministrazione comunale e delle associazioni ripuliscono i paese e le strade dai rifiuti."
+    },
+    {
+      "id": "T9",
+      "speaker": "Citizen",
+      "message": "Festa dedicata agli alberi?",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agent",
+      "message": "Sì, sempre il Comune di Altavalle nel 2022 si è proposto di collaborare con le sue scuole per la \"Festa degli Alberi\" in collaborazione con la Rete di reserve del Corpo Forestale. Lo scopo è quello di favorire la conoscenza del territorio e dell'ambiente, oltre a rispettare la natura e le aree protette.",
+      "ground": "=== PIANO FAMIGLIA DI ALTAVALLE ANNO 2022 ===\n\n|||\n\nDESCRIZIONE: Sostegno e collaborazione con la scuola primaria e secondaria per la giornata della ''Festa degli alberi'' col contributo della Rete di riserve de del Corpo Forestale al fine di favorire la conoscenza del territorio, dell'ambiente circostante, del rispetto della natura, dei tesori naturalistici e delle aree protette con uso delle stoviglie personali per la consumazione del pasto."
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

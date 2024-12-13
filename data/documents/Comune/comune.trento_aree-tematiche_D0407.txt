@@ -1,0 +1,11 @@
+Foglio di calcolo per il dimensionamento di massima di una vasca di laminazione sul territorio del Comune di Trento, comprensivo di istruzioni, particolari grafici e dati di pioggia.
+Le acque meteoriche che cadono al suolo durante una precipitazione di pioggia devono essere opportunamente raccolte e restituite al loro ciclo naturale, evitando, possibilmente, il loro convogliamento nelle reti fognarie e favorendo, invece, lo smaltimento in loco attraverso l’infiltrazione naturale nel terreno, con lo scopo di alimentare le falde sotterranee. Qualora, per molteplici ragioni, ciò non fosse possibile, tali acque debbono essere scaricate nei riceventi, siano essi corsi d’acqua superficiali o tubazioni interrate. In tali situazioni si rende necessario prevedere la realizzazione di una vasca di laminazione. Tale manufatto, infatti, è in grado di fungere da ammortizzatore idraulico durante i piovaschi di particolare intensità e durata, trattenendo temporaneamente la portata intercettata dalle superfici impermeabili, evitando pertanto pericolosi sovraccarichi per i riceventi finali.
+
+= Collegamenti =
+[/Aree-tematiche/Ambiente-e-territorio/Acqua/Acque-meteoriche-Vasca-di-laminazione/Vasca-di-laminazione-dimensionamento-di-massima](
+
+)
+[https://www.comune.trento.it/Aree-tematiche/Ambiente-e-territorio/Acqua/Acque-meteoriche-Vasca-di-laminazione/Vasca-di-laminazione-dimensionamento-di-massima](Vasca di laminazione: dimensionamento di massima)
+Foglio di calcolo, istruzioni, dati di precipitazione e particolari grafici utilizzabili per il dimensionamento di massima di una vasca di laminazione sul territorio del Comune di Trento.
+Servizio di competenza:
+OPERE DI URBANIZZAZIONE PRIMARIA

@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00696",
+  "doc_src": "comune.trento_aree-tematiche_D0514.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei poter offrire un servizio di bed and breakfast. Lo posso fare solo offrendo una parte di casa mia, mi conferma?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, certo. Si definisce \"bed and breakfast\" l'ospitalità turistica offerta con carattere saltuario da coloro che, avvalendosi della sola organizzazione familiare, utilizzano parte dell'edificio in cui risiedono, fino ad un massimo di quattro camere, fornendo servizio di alloggio e di prima colazione.",
+      "ground": "bed and breakfast\n\" l'ospitalità turistica offerta con carattere saltuario da coloro che, avvalendosi della sola organizzazione familiare, utilizzano parte dell'edificio in cui risiedono, fino ad un massimo di quattro camere, fornendo servizio di alloggio e di prima colazione."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E il servizio di prima colazione è garantito?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, il servizio di prima colazione è assicurato fornendo cibi e bevande che non richiedono manipolazione. ",
+      "ground": "Il servizio di prima colazione è assicurato fornendo cibi e bevande che non richiedono manipolazione."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni. Posso chiedere quali sono i riferimenti normativi che regolano questa attività?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Certamente, i riferimenti normativi sono la Legge provinciale 14/07/2000 n. 9 e la Legge provinciale 15/05/2002 n. 7, nonché il Regolamento di esecuzione della legge provinciale 15 maggio 2002, n. 7 DPP 25 settembre 2003 n. 28-149/Leg.",
+      "ground": "”.\nLegge provinciale 15/05/2002 n. 7\n“\nDisciplina degli esercizi alberghieri ed extra-alberghieri e promozione della qualità della ricettività turistica\n”.\nRegolamento di esecuzione della legge provinciale 15 maggio 2002\n, n. 7 DPP 25 settembre 2003 n. 28-149/Leg."
+    }
+  ],
+  "subcategory": "Trento"
+}

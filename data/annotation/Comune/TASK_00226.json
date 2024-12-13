@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00226",
+  "doc_src": "comune.milano_aree-tematiche_links_D0254.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Buongiorno, vorrei informazioni sui concorsi internazionali di progettazione. Posso partecipare anche se non sono un professionista del settore?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Buongiorno, non le so dare questa informazione, ma penso che nei singoli concorsi diano dettagli sul chi possa partecipare.",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Quali sono i concorsi attivi?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Al momento i concorsi ativi sono i seguenti:\nElenco concorsi:\n- Nuova B.E.I.C. - Biblioteca Europea di Informazione e Cultura \n/web/guest/aree-tematiche/rigenerazione-urbana-e-urbanistica/urban-center/concorsi-internazionali-di-progettazione/nuova-b.e.i.c.\n- Magnifica Fabbrica\n/web/guest/aree-tematiche/rigenerazione-urbana-e-urbanistica/urban-center/concorsi-internazionali-di-progettazione/magnifica-fabbrica\n- Novecentopiùcento\n/web/guest/aree-tematiche/rigenerazione-urbana-e-urbanistica/urban-center/concorsi-internazionali-di-progettazione/novecentopiucento\n- Scuola Scialoia \n/web/guest/aree-tematiche/rigenerazione-urbana-e-urbanistica/urban-center/concorsi-internazionali-di-progettazione/scuola-scialoia\n- Scuola Pizzigoni\n/web/guest/aree-tematiche/rigenerazione-urbana-e-urbanistica/urban-center/concorsi-internazionali-di-progettazione/scuola-pizzigoni\n- Nuova Biblioteca Lorenteggio\n/web/guest/aree-tematiche/rigenerazione-urbana-e-urbanistica/urban-center/concorsi-internazionali-di-progettazione/nuova-biblioteca-lorenteggio\n- Attra\\Verso San Cristoforo\n/web/guest/aree-tematiche/rigenerazione-urbana-e-urbanistica/urban-center/concorsi-internazionali-di-progettazione/attraverso",
+      "ground": "Elenco concorsi:\n[/web/guest/aree-tematiche/rigenerazione-urbana-e-urbanistica/urban-center/concorsi-internazionali-di-progettazione/nuova-b.e.i.c.](Nuova B.E.I.C. - Biblioteca Europea di Informazione e Cultura)\n[/web/guest/aree-tematiche/rigenerazione-urbana-e-urbanistica/urban-center/concorsi-internazionali-di-progettazione/magnifica-fabbrica](Magnifica Fabbrica)\n[/web/guest/aree-tematiche/rigenerazione-urbana-e-urbanistica/urban-center/concorsi-internazionali-di-progettazione/novecentopiucento](Novecentopiùcento)\n[/web/guest/aree-tematiche/rigenerazione-urbana-e-urbanistica/urban-center/concorsi-internazionali-di-progettazione/scuola-scialoia](Scuola Scialoia)\n[/web/guest/aree-tematiche/rigenerazione-urbana-e-urbanistica/urban-center/concorsi-internazionali-di-progettazione/scuola-pizzigoni](Scuola Pizzigoni)\n[/web/guest/aree-tematiche/rigenerazione-urbana-e-urbanistica/urban-center/concorsi-internazionali-di-progettazione/nuova-biblioteca-lorenteggio](Nuova Biblioteca Lorenteggio)\n[/web/guest/aree-tematiche/rigenerazione-urbana-e-urbanistica/urban-center/concorsi-internazionali-di-progettazione/attraverso](Attra\\Verso San Cristoforo)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Grazie per la gentilezza.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "È stato un piacere poterla aiutare. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

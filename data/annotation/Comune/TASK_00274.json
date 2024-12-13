@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_00274",
+  "doc_src": "comune.milano_aree-tematiche_links_D0305.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei avere informazioni sull'Obitorio civico.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Cosa vorrebbe sapere?",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Posso vedere la salma di mio padre?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, basta che questa non sia arrivata da oltre 24 ore. Trascorse queste la salma è tenuta in cella refrigerata in cui rimane fino al riconoscimento.",
+      "ground": "All'arrivo in obitorio la salma viene collocata nella sala di osservazione per le 24 ore successive al decesso. \n\n|||\n\nTrascorse le 24 ore la salma viene posta in una cella refrigerata e non è più visitabile sino al momento del riconoscimento."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Posso avere una certificazione sulle cause di morte?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Certamente, basta che il certificato sia richiesto da un erede o delegato. La richiesta va presentata all'ATS Milano, Dipartimento di Prevenzione.",
+      "ground": "Il certificato che attesta le cause di morte può essere richiesto da un erede della persona defunta o da un suo delegato/delegata. La richiesta va presentata a:\nATS Milano\nDipartimento di Prevenzione – Ufficio Protocollo\nvia Statuto, 5 - 1° piano - stanza 102\ntel\n. 02 8578 9001/ 02 8578 9003"
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "E quali sono le tariffe per i servizi dell'Obitorio civico?",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "Le tariffe sono le seguenti:\n- 156,16€ per il trasporto;\n- 13,28€ giornalieri per il deposito;\n- 146,08€ per il servizio comunale di vestizione della salma;\n- 89,77€ per il servizio comunale di trasferimento del feretro sull'auto funebre\n\nNei casi di accoglienza di persone morte in altri Comuni, il deposito può essere a carico del Comune di provenienza, mentre eventuale vestizione è a carico del richiedente.\nL'autopsia è eseguita senza oneri.\n\nSappia che nessun operatore del Comune è autorizzato a presentarsi per proporre servizi aggiuntivi",
+      "ground": "Nei casi in cui il familiare, il medico curante, l’ospedale o la struttura sanitaria privata richiedano l’accoglienza della salma nell'Obitorio civico, i servizi che ne derivano sono a pagamento e prevedono le tariffe seguenti:\n€ 156,16 per il trasporto;\n€ 13,28 giornalieri per il deposito;\n€ 146,08 per il servizio comunale di vestizione della salma;\n€ 89,77 per il servizio comunale di trasferimento del feretro sull'auto funebre.\nSu disposizione dell’Autorità giudiziaria, nei casi di accoglienza di persone decedute in altri Comuni, il deposito è a carico del Comune di provenienza mentre l’eventuale servizio comunale di vestizione è a carico del familiare richiedente.\nL’autopsia è eseguita senza alcun onere per i cittadini/cittadine.\nImportante\n: nessun operatore dell’Obitorio civico e del Comune di Milano è autorizzato a presentarsi dai familiari per proporre servizi aggiuntivi."
+    },
+    {
+      "id": "T09",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni, ho capito.",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agente",
+      "message": "È stato un piacere poterla aiutare. Se ha altre domande, non esiti a chiedere. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

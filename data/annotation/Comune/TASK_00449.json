@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00449",
+  "doc_src": "comune.trento_aree-tematiche_D0066.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Salve, vorrei informazioni sui piani attuativi in pubblicazione del Comune di Trento.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, certo. I piani attuativi approvati che necessitano di pubblicazione sul sito istituzionale del Comune sono disponibili in una pagina del Comune di Trento, come previsto dalla legge provinciale per il governo del territorio del 2015.",
+      "ground": "Vengono pubblicati in questa sezione i piani attuativi approvati che necessitano di pubblicazione sul sito istituzionale del comune ai sensi del comma 2, art. 51 della L.P. 4 agosto 2015, n. 15 - \"legge provinciale per il governo del territorio 2015\"."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quindi posso trovarli online sul sito del comune?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Esattamente, i piani attuativi sono consultabili sul sito istituzionale del comune per un periodo di 60 giorni, come stabilito dal regolamento per la tutela della riservatezza dei dati personali. Una volta scaduto il termine, i documenti e gli elaborati cartografici saranno disponibili presso gli uffici del Servizio Urbanistica o tramite una richiesta di accesso agli atti.",
+      "ground": "Ai sensi del comma 2 dell'art. 20 ter del \"Regolamento per la tutela della riservatezza dei dati personali\" del Comune di Trento, i piani attuativi qui pubblicati sono messi a disposizione sul sito istituzionale del comune per la durata di 60 giorni. Decorso il termine dei 60 giorni i documenti e gli elaborati cartografici dei piani attuativi approvati sono consultabili presso gli uffici del\n[/Comune/Organizzazione-comunale/Organigramma/Servizi/URBANISTICA](Servizio Urbanistica)\nin via del Brennero, 312 (Top Center) o con\n[/Comune/Documenti/Moduli/Modulo-102-Richiesta-accesso-agli-atti](richiesta di accesso agli atti)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Quindi non posso accedervi online una volta scaduto il periodo di pubblicazione online?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Esatto, sarà necessario recarsi direttamente negli uffici del Servizio Urbanistica o presentare una richiesta formale di accesso agli atti. Spero di esserle stato d'aiuto.",
+      "ground": "Decorso il termine dei 60 giorni i documenti e gli elaborati cartografici dei piani attuativi approvati sono consultabili presso gli uffici del\n[/Comune/Organizzazione-comunale/Organigramma/Servizi/URBANISTICA](Servizio Urbanistica)\nin via del Brennero, 312 (Top Center) o con\n[/Comune/Documenti/Moduli/Modulo-102-Richiesta-accesso-agli-atti](richiesta di accesso agli atti)"
+    }
+  ],
+  "subcategory": "Trento"
+}

@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00263",
+  "doc_src": "comune.milano_aree-tematiche_links_D0294.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sui lavori di manutenzione straordinaria al Cimitero Maggiore.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "La manutenzione straordinaria riguarda i reparti 131, 134, 135 e parte del reparto 130 dell’edificio Piramide. L'accesso in queste zone è parzialmente vietato fino a conclusione dei lavori per questioni di sicurezza.",
+      "ground": "I reparti 131, 134, 135 e parte del reparto 130 dell’edificio Piramide del cimitero Maggiore sono interessati da interventi di manutenzione straordinaria. L’accessibilità ai reparti è pertanto parzial...\n[javascript:void(0);](Leggi tutto)\nLeggi tutto\nI reparti\n131, 134, 135\ne\nparte del reparto 130\ndell’edificio Piramide del cimitero Maggiore sono interessati da interventi di manutenzione straordinaria. L’accessibilità ai reparti è pertanto parzialmente vietata, per questioni di sicurezza, sino alla conclusione dei lavori."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Capito, quindi non è possibile accedervi al momento?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Esattamente, mi dispiace per il disagio.",
+      "ground": "L’accessibilità ai reparti è pertanto parzialmente vietata, per questioni di sicurezza, sino alla conclusione dei lavori."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "No, grazie mille per le informazioni. Buona giornata!",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Prego, buona giornata anche a lei!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

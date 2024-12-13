@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00960",
+  "doc_src": "comune.milano_aree-tematiche_links_D0335.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Cosa sarebbe racCONTAMI?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "racCONTAMI è un progetto che si propone di raccogliere il numero delle persone senza dimora presenti nel territorio della città di Milano per fornire una fotografia attuale del fenomeno dei senza tetto e comprendere meglio i bisogni di queste persone e le dinamiche che conducono alla marginalità e alla povertà estrema.",
+      "ground": "L’obiettivo del progetto è raccogliere il numero delle persone senza dimora presenti nel territorio della città di Milano per fornire una fotografia attuale del fenomeno e quindi comprendere meglio i bisogni delle persone senza dimora e le dinamiche che conducono alla marginalità e alla povertà estrema."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Quali enti sono coinvolti in racCONTAMI?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "racCONTAMI coinvolge il Comune di Milano, la Fondazione \"Ing. Rodolfo Debenedetti\" e numerose realtà del privato sociale che operano nel campo dei servizi a favore delle persone senza dimora e a contrasto della grave marginalità adulta.",
+      "ground": "racCONTAMI 2024 – 5° Rilevazione dei Senza Dimora di Milano\nNella settimana del 12 – 16 febbraio 2024 si è svolto\nracCONTAMI\n, la rilevazione dei senza dimora di Milano promossa dal Comune di Milano e finanziata nell’ambito del POC - Programma Operativo Complementare Inclusione.\nIl progetto è stato realizzato in collaborazione con la Fondazione \"Ing. Rodolfo Debenedetti\", a cui il servizio è affidato, e con le numerose realtà del privato sociale che operano nel campo dei servizi a favore delle persone senza dimora e a contrasto della grave marginalità adulta."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "I risultati dei censimenti sono disponibili da qualche parte?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "È possibile scaricare la presentazione di alcuni risultati preliminari ricavati dalla rilevazione di giugno 2023 al seguente link: https://repository.comune.milano.it/s/xXniawCpDeY2Jm3. Il rapporto finale, che includerà i risultati della rilevazione estiva e invernale, sarà elaborato nel corso della primavera 2024.",
+      "ground": "È possibile scaricare la presentazione di alcuni risultati preliminari ricavati dalla\n[https://repository.comune.milano.it/s/xXniawCpDeY2Jm3](rilevazione di giugno 2023)\n. Il gruppo di ricerca elaborerà un rapporto finale nel corso della primavera 2024, che includerà sia i risultati della rilevazione estiva (giugno 2023) che di quella invernale (febbraio 2024)."
+    }
+  ],
+  "subcategory": "Milano"
+}

@@ -1,0 +1,64 @@
+{
+  "task_id": "TASK_00721",
+  "doc_src": "comune.trento_aree-tematiche_D0558.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sulle certificazioni di stato civile.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, posso aiutarla. Di che tipo di certificazione ha bisogno?",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Mi servirebbe una certificazione per la correzione di errori materiali di scrittura in un atto di nascita.",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Certamente, per avere più informazioni sulla procedura le consiglio di consultare il seguente collegamento: https://www.comune.trento.it/Aree-tematiche/Servizi-demografici/Stato-civile/Morti/Certificazioni-di-stato-civile-correzione-errori-materiali-di-scrittura-atti-di-nascita-matrimonio-morte",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Servizi-demografici/Stato-civile/Morti/Certificazioni-di-stato-civile-correzione-errori-materiali-di-scrittura-atti-di-nascita-matrimonio-morte](Certificazioni di stato civile: correzione errori materiali di scrittura (atti di nascita, matrimonio, morte))\nL’Ufficiale dello Stato civile corregge gli errori materiali di scrittura in cui sia incorso nella redazione degli atti..."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Ehm, sì, forse mi servirebbe una certificazione rilasciata mediante compilazione a mano.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Per le certificazioni rilasciate tramite compilazione a mano le consiglio il link https://www.comune.trento.it/Aree-tematiche/Servizi-demografici/Stato-civile/Morti/Certificazioni-di-stato-civile-rilasciate-mediante-compilazione-a-mano .",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Servizi-demografici/Stato-civile/Morti/Certificazioni-di-stato-civile-rilasciate-mediante-compilazione-a-mano](Certificazioni di stato civile rilasciate mediante compilazione a mano)\nVi rientrano i certificati e gli estratti per riassunto relativi ad atti non informatizzati e le copie integrali di nascita, di matrimonio, di unione civile, di morte."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T09",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per l'aiuto.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

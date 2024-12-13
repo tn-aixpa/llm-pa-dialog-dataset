@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_01054",
+  "doc_src": "arco__2021.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Buongiorno, vorrei scrivere un azione in cui intendo rafforzare la partecipazione del mio Comune ai network amici della famiglia",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Buongiorno, nella tua azione puoi scrivere che intende  migliorare la partecipazione al network promuovendo e organizzando attività così da consolidare la condivizione e il confronto con gli altri Comuni.\nQuesta azione ha come tassonomia \"Adesione ai marchi familiari\"",
+      "ground": "TASSONOMIA: Adesione ai marchi familiari\n\nOBIETTIVO: Si intende, compatibilemente con le esigenze di servizio, rafforzare la partecipazione alle inziative promosse e organizzate dal Network, al fine di consolidare il confronto e la condivisione delle esperienze con gli altri Comuni Amici della Famiglia."
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "E che altro si più fare per potenziare la rete?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Un esempio lo riporto dal piano famiglia di Arco del 2021,  che si propone di potenziare il sito del distretto ( altogardafamily.it ) al fine di comunicare meglio iniziative e progetti rivolti alle famiglie all'interno sia del Comune che del Distretto.",
+      "ground": "=== PIANO FAMIGLIA DI ARCO ANNO 2021 ===\n\n|||\n\nOBIETTIVO: Potenziamento del portale in collaborazione con Comuni e soggetti aderenti al Distretto.\n\nDESCRIZIONE: Nel 2021, vista la rinnovata collaborazione con le nuove amministrazioni comunali aderenti al Distretto Famiglia dell'Alto Garda, si intende rafforzare il portale www.altogardafamily.it volto a pubblicizzare e veicolare; modo univoco, iniziative e progetti di promozione familiare organizzati nel territorio comunale e dal Distretto."
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Sai darmi qualche indicazione riguardo al progetto Tagesmutter?",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Sì, puoi per esempio rimarcare che il suo Comune sostiene tale servizio, e se questa è anche la sua situazione, rimarcare come il suo Comune intenda aggiornare le convenzioni così da espandere l'offerta del servizio.",
+      "ground": "DESCRIZIONE: Il Comune di Arco riconosce e sostiene il nido familiare - servizio Tagesmutter,\n\nquale servizio complementare al nido d'infanzia, che consente alle\n\nfamiglie di affidare in modo stabile e continuativo i propri figli a\n\npersonale educativo, appositamente formato, presso il domicilio della\n\nTagesmutter o altro ambiente adeguato ad offrire cure familiari.\n\nNel 2021 si provvederа all'aggiornamento delle convenzioni in vigore tra il Comune ed i gestori iscritti all'Albo provinciale alla L.P. 4/2002, ampliando la gamma dell'offerta a disposizione delle famiglie."
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "Riusciresti a darmi qualche spunto anche per degli incontri formativi?",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "Certamente, alcune idee riprese sempre dal Comune di Arco sono di organizzare alcuni di questi incontri con un'associazione locale nel loro territorio e quello di Comuni limitrofi. Alcuni esempi di questi incontri sono:\n\n- ''Crescere uomini. Le parole dei ragazzi su sessualitа, pornografia, sessismo'', ''Governare le relazioni: so stare nella crisi'' conferenza e laboratori a cura della giornalista Monica Lanfranco;\n- Piantumazione alberi in memoria delle donne vittime di violenza.\n- ''Tra i sentieri'' n. 3 Camminate sul territorio dei Comuni di Arco, Dro e Drena\n- ''Nata sotto la pioggia'', ''Diamoci del Lei'', ''Rapsodia'', ''Profughe nella cittа di legno'': spettacoli culturali e musicali.\n- ''Testimoni consapevoli: diventare un nodo della rete antiviolenza''; '' A-Mors. Amore versus violenza'' conferenze ed incontri a cura di Fondazione Famiglia Materna .",
+      "ground": "DESCRIZIONE: Progetto sovracomunale, coordinato dall'Associazione Giovani Arco, con iniziative multiple ed eventi che verranno realizzati nel periodo tra il mese di marzo a novembre 2021 sui territori del Comune di Arco, del Comune di Dro e del Comune di Drena, sia con momenti formativi, che con iniziative culturali e ambientali per promuovere una cultura di ugualianza e giustizia. Sinteticamente di seguito alcuni eventi in programma:\n\n''Crescere uomini. Le parole dei ragazzi su sessualitа, pornografia, sessismo'', ''Governare le relazioni: so stare nella crisi'' conferenza e laboratori a cura della giornalista Monica Lanfranco;\n\nPiantumazione alberi in memoria delle donne vittime di violenza.\n\n''Tra i sentieri'' n. 3 Camminate sul territorio dei Comuni di Arco, Dro e Drena\n\n''Nata sotto la pioggia'', ''Diamoci del Lei'', ''Rapsodia'', ''Profughe nella cittа di legno'': spettacoli culturali e musicali.\n\n''Testimoni consapevoli: diventare un nodo della rete antiviolenza''; '' A-Mors. Amore versus violenza'' conferenze ed incontri a cura di Fondazione Famiglia Materna ."
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

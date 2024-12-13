@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00276",
+  "doc_src": "comune.milano_aree-tematiche_links_D0308.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei sapere di più sulla Carta dei Servizi Welfare e Salute.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "La carta dei Servizi Welfare e Salute è riferita a un complesso di servizi e interventi di welfere e promozione per la salute pubblica comunale, gestiti direttamente dall'Amministrazione o in collaborazione con il Terzo Settore, per il privato sociale o volontariato.\nLa carta fornisce tutte le informazioni fondamentali come caratteristiche, modalitta di accesso e standard di qualità",
+      "ground": "Carta dei Servizi Welfare e Salute\nsi riferisce al sistema dei servizi e degli interventi di welfare e promozione della salute a regia pubblica comunale, gestiti direttamente dall’Amministrazione o in collaborazione con enti del Terzo Settore, del privato sociale e del volontariato, attraverso le diverse forme giuridiche previste dalla norma. Il documento fornisce tutte le informazioni fondamentali relative a caratteristiche, modalità di accesso e standard di qualità cui i servizi si devono conformare."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Capisco, grazie comunque. E questa Carta fornisce informazioni sui servizi per persone anziane?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Ci sono alcuni supporti alla persona durante la sua vita nella sezione omonima, questa è fatta dalle seguenti voci:\nLa sezione comprende i seguenti Servizi:\nAssistenza domiciliare\nPasti a domicilio\nTeleassistenza\nWeMi Center - Tate Colf Badanti\nWeMi - Educazione Finanziaria\nRete Alzheimer",
+      "ground": "Supporto alla persona nel suo contesto di vita\nLa sezione comprende i seguenti Servizi:\nAssistenza domiciliare\nPasti a domicilio\nTeleassistenza\nWeMi Center - Tate Colf Badanti\nWeMi - Educazione Finanziaria\nRete Alzheimer"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Va bene, grazie per l'aiuto. Buona giornata!",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Altrettanto, buona giornata a lei.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

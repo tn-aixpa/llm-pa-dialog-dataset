@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01032",
+  "doc_src": "comSalerno1093.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "PA Operator",
+      "message": "In che modo il nuovo sistema di rete influenzerà il bilancio del Comune di Salerno?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Il nuovo sistema contribuirà a ridurre le bollette telefoniche, portando a un risparmio di circa 300-400mila euro all’anno.",
+      "ground": "La realizzazione dei Punti comunali da parte di Open Fiber, inoltre, comporterà un notevole risparmio di spesa per il bilancio dell’ente: solo in termini di bollette telefoniche, grazie a questo intervento di centralizzazione della rete, i costi verranno ridotti nell’ordine di circa 300-400mila euro all’anno a partire dalla scadenza dei contratti già stipulati."
+    },
+    {
+      "id": "T03",
+      "speaker": "PA Operator",
+      "message": "E quale sarà l'impatto sulla sicurezza informatica?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Il nuovo sistema migliorerà la sicurezza poiché presenta un'unica infrastruttura con un unico punto di accesso alla rete esterna e l'utilizzo di un solo firewall. Questo renderà più semplice e sicuro monitorare il traffico dati e bloccare connessioni pericolose o indesiderate. Questo permette di proteggere efficacemente milioni di dati e informazioni sensibili che transitano nella rete informatica comunale.",
+      "ground": "Si tratta di un’infrastruttura tecnologica che presenta importanti caratteristiche soprattutto in termini di cybersecurity: con un unico punto di accesso alla rete esterna e attraverso l’utilizzo di un solo firewall – il dispositivo per la sicurezza di un network – sarà più semplice e sicuro monitorare il traffico dati e bloccare gli eventi pericolosi o indesiderati per la rete informatica comunale, difendendo così in modo sempre più efficaci i milioni di dati e le informazioni sensibili che vi transitano."
+    },
+    {
+      "id": "T05",
+      "speaker": "PA Operator",
+      "message": "Quanto è durata l'installazione e quanto è costata?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "L'installazione è durata due anni e ha comportato un investimento complessivo di circa 15 milioni di euro.",
+      "ground": "Nell’arco di due anni e grazie ad un investimento complessivo di circa 15 milioni di euro, l’azienda ha già connesso 60mila unità immobiliari del capoluogo, dotando cittadini, imprese e pubbliche amministrazioni di un’infrastruttura moderna e tecnologicamente avanzata che supporta velocità di connessione fino a 10 Gbps (fino a 10 Gigabit al secondo), consentendo così il massimo delle performance."
+    }
+  ],
+  "subcategory": "Salerno"
+}

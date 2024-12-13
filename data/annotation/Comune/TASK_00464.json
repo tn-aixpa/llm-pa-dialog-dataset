@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00464",
+  "doc_src": "comune.trento_aree-tematiche_D0087.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, potrei avere informazioni sulle normative edilizie?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Per le domande frequenti su quesiti relativi all'attività edilizia, si consiglia di consultare la sezione \"Faq \" presente sul portale del Servizio Urbanistica al link http://www.urbanistica.provincia.tn.it/codice_urbanistica/faq_codice/ .",
+      "ground": "Per domande frequenti su quesiti relativi all'attività edilizia, si rimanda anche alla sezione\n[http://www.urbanistica.provincia.tn.it/codice_urbanistica/faq_codice/](\"Faq (domande frequenti)\" )"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quindi non è possibile chiedere informazioni direttamente da lei?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Per questo contesto non sono in grado di fornirle direttamente le informazioni richieste.",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Capisco. Buona giornata!",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Altrettanto, buona giornata a lei.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

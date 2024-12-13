@@ -1,0 +1,82 @@
+{
+  "task_id": "TASK_01055",
+  "doc_src": "ascoli_piceno__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Salve, sto scrivendo la premessa sul mio piano e vorrei scrivere qualcosa riguardo ai valori della famiglia. Consigli?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Puoi scrivere che la famiglia è il fulcro della comunità, il posto dove gli individui crescono, si formano e maturano come futuri cittadini del mondo. E' il primo contesto dove ci rapportiamo, nonché quello dove impariamo i valori educazione, relazione, aiuto e cura.",
+      "ground": "La famiglia è il nucleo fondante della comunitа dove le persone crescono, si maturano e si formano come futuri cittadini del mondo, essa costituisce la prima ed imprescindibile forma di Welfare naturale con cui ci rapportiamo fin dal momento della nascita, un luogo di educazione, relazione, vita, aiuto e cura. "
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "E come posso dire che il mio Comune supporta la famiglia?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Può dire che il suo Comune si interessa al sostegno della famiglia, della sua famiglia educativa nonché al sostegno di famiglie con disabili, numerosi o aventi anziani non sufficienti.",
+      "ground": "Le prioritа e gli obiettivi generali che l’Amministrazione si prefigge di realizzare sono quelli di sostenere la famiglia nella propria funzione educativa, sostenere le famiglie numerose, le famiglie con disabili o anziani non autosufficienti, le famiglie con disagi conclamati sia nella coppia che nelle relazioni genitori-figli che richiedono sostegni urgenti ,favorire la conciliazione dei tempi delle famiglie, rafforzare il sistema dei servizi sociali di supporto alle famiglie in difficoltа, favorire il mutuo aiuto tra le famiglie e la crescita della comunitа."
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Grazie per lo spunto.",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Di nulla, posso aiutare con altro?",
+      "ground": ""
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "Cosa posso scrivere in un'azione in cui si intende dare contributi per le spese relative ai libri di testo degli studenti?",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "Può dire verso quali clasi classi è rivolto e quali sono i limiti ISEE. Può inoltre dare una statistica di quante famiglie in passato hanno beneficiato del contributo",
+      "ground": "=== PIANO FAMIGLIA DI ASCOLI PICENO ANNO 2022 ===\n\n|||\n\nPossono accedere al beneficio gli studenti residenti nel Comune di Ascoli Piceno, frequentanti la scuola Secondaria di 1° e 2° Grado statale e paritaria, appartenenti a famiglie il cui Indicatore della Situazione Economica Equivalente (ISEE), determinato ai sensi del D. Lgs. 5 dicembre 2013 n. 159 e s.m.i. non sia superiore a Ђ. 10.632,94.\n\nOgni anno circa 300 famiglie beneficiano dei contributi di cui trattasi."
+    },
+    {
+      "id": "T9",
+      "speaker": "Citizen",
+      "message": "Ha anche qualche idea per eventi estivi?",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agent",
+      "message": "Mi spiace ma non mi risultano azioni legate a eventi estivi.",
+      "ground": ""
+    },
+    {
+      "id": "T11",
+      "speaker": "Citizen",
+      "message": "Fa lo stesso. Grazie.",
+      "ground": ""
+    },
+    {
+      "id": "T12",
+      "speaker": "Agent",
+      "message": "A lei, saluti.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

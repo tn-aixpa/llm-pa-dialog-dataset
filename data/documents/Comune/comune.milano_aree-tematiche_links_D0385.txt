@@ -1,0 +1,8 @@
+Dati statistici: SISI-Sistema Statistico Integrato
+L'
+Unità Statistica
+mette a disposizione i dati sulla città, classificati per aree tematiche con l'obiettivo di consultare in modo semplice ed efficace un insieme di dati e indicatori, utili per approfondire la conoscenza della città e dei suoi quartieri.
+Interroga e scarica dati
+Per la consultazione e la diffusione delle statistiche comunali è possibile utilizzare la piattaforma
+[http://sisi.comune.milano.it/](SISI)
+predisposta dall'Unità Statistica del Comune di Milano.

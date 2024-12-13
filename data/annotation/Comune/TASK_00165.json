@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00165",
+  "doc_src": "comune.milano_aree-tematiche_D0191.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Salve, vorrei informazioni riguardo al progetto \"City Plug .",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, cosa vuole sapere?",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Vorrei sapere se è prevista l'installazione di colonnine di ricarica nella mia zona.",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Mi dispiace, ma non dispongo di informazioni riguardo le zone in cui verranno installate le infrastrutture. Le consiglio di contattare l'indirizzo mta.mobilitasostenibile@comune.milano.it .",
+      "ground": "Per informazioni inviare una e-mail a:\nmta.mobilitasostenibile@comune.milano.it"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Capito, grazie mille per l'aiuto.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È stato un piacere poterla assistere. Buona giornata!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

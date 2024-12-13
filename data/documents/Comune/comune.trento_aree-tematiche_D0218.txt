@@ -1,0 +1,50 @@
+La
+piattaforma ComunWeb espone automaticamente
+i propri contenuti pubblici utilizzando il paradigma degli Open Data; in tale senso, allo scopo di valutare le modalità con cui mediante tali dati è possibile creare dei nuovi servizi.
+Sono qui di seguito fornite alcune informazioni utili per chi intende sviluppare applicazioni e sfruttare le interfacce di programmazione (API) messe a disposizione dalla piattaforma ComunWeb per accedere ai dati.
+Tutti i contenuti del sito, strutturati nativamente con le
+[http://www.comunweb.it/openpa/classes](classi informative previste in ComunWeb)
+, possono essere liberamente estratti in formato strutturato, attraverso due diversi criteri:
+link diretti a file in formato CSV (compatibile con i software per i fogli di calcolo come Microsoft Excel e OpenOffice Calc), per i cittadini senza particolari competenze informatiche
+API
+[http://it.wikipedia.org/wiki/Representational_State_Transfer](RESTful)
+in formato JSON, per programmatori
+Qualora l'accesso non risulta possibile, si prega di contattare il Consorzio dei Comuni Trentini <
+[mailto:innovazione@consorziocomuni.it](innovazione@consorziocomuni.it)
+> per avere un supporto diretto.
+[]()
+API v.2 (raccomandata per nuovi progetti)
+E' stata realizzata una versione delle API completamente nuova, basata sul paradigma degli
+open services
+.
+Per maggiori informazioni sulle API e sulle modalità di uso, visita il progetto su Github ([https://github.com/opendatatrentino/openservices](link)
+).
+[]()
+API v.1 (sconsigliata per nuovi progetti)
+Tutti i contenuti del sito possono essere liberamente estratti in formato strutturato, attraverso due diversi criteri:
+link diretti a file in formato CSV (compatibile con i software per i fogli di calcolo come Microsoft Excel e OpenOffice Calc), per i cittadini senza particolari competenze informatiche
+API
+[http://it.wikipedia.org/wiki/Representational_State_Transfer](RESTful)
+in formato JSON, per programmatori
+Utilizzo formato JSON
+l’API espone le seguenti funzionalità:
+la lista di tutti i dataset pubblicati sul sito, completi di relativi metadati
+la lista di tutti i dataset contenenti informazioni strutturate gestite da ComunWeb, in formato JSON:
+[/api/opendata/v1/content/classList](/api/opendata/v1/content/classList)
+Alcuni esempi pratici:
+elenco navigabile dei servizi comunali :
+[/api/opendata/v1/content/class/servizio](/api/opendata/v1/content/class/servizio)
+elenco navigabile dei moduli disponibili:
+[/api/opendata/v1/content/class/modulo](/api/opendata/v1/content/class/modulo)
+elenco degli ultimi 10 moduli:
+[/api/opendata/v1/content/class/modulo/offset/0/limit/100](/api/opendata/v1/content/class/modulo/offset/0/limit/10)
+Seguendo i singoli link, si possono raggiungere i documenti/dati con i relativi metadati associati ad esso.
+[]()
+Utilizzo del formato CSV
+Nel rispetto della licenze indicate, chiunque può scaricare i contenuti strutturati presenti nel sito, utilizzando un link nella forma “
+/exportas/csv/<tipologia_di_contenuto>
+”, ad esempio:
+per scaricare la lista dei moduli:
+[/exportas/csv/modulo](/exportas/csv/modulo)
+per scaricare la lista dei servizi:
+[/exportas/csv/servizio](/exportas/csv/servizio)

@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00806",
+  "doc_src": "comune.salerno_D0089.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sui lavori di manutenzione straordinaria per l'area di Santa Teresa a Salerno. È possibile l'accesso alla spiaggia durante i lavori?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Durante i lavori di manutenzione l'accesso alla spiaggia potrebbe essere limitato per motivi di sicurezza.",
+      "ground": "Il piano di lavoro e l'organizzazione di cantiere è stata concordato tra Comune di Salerno e ditta esecutrice per consentire sempre e comunque la fruizione dell'area in sicurezza seppur con le inevitabili limitazioni e le indispensabili cautele."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Capito, grazie per le informazioni. E per quanto riguarda la durata dei lavori, si sa già quando potranno concludersi?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Attualmente la durata dei lavori è prevista in circa cento giorni lavorativi, ma potrebbero verificarsi imprevisti che potrebbero allungare i tempi di completamento.",
+      "ground": "La manutenzione straordinaria ci restituirà una Santa Teresa ancora più bella, attraente, idonea ad ospitare manifestazioni sportive, d'intrattenimento, spettacolo.\nLa durata dei lavori è fissata, fatti salvi eventuali impedimenti imprevisti sopraggiunti in corso d'opera, in circa cento giorni lavorativi."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per l'aiuto. Buona giornata.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Altrettanto, buona giornata anche a lei.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

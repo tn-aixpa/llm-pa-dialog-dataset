@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01024",
+  "doc_src": "comSalerno1008.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "PA Operator",
+      "message": "Qual è l'importo totale del finanziamento ricevuto dal Comune per l'adeguamento della rete fognaria?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Il Comune ha ricevuto un finanziamento da € 11.285.280,00 per l’adeguamento della rete fognaria.",
+      "ground": "Il Comune è destinatario di un finanziamento di  € 11.285.280,00 per l’adeguamento della rete fognaria cittadina."
+    },
+    {
+      "id": "T03",
+      "speaker": "PA Operator",
+      "message": "Dove e quando verrà migliorata la rete fognaria?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Il miglioramento della rete fognaria interesserà i quartieri di Torrione, Pastena e Mercatello. I lavori cominceranno con delle verifiche sul campo inizieranno l'11 aprile.",
+      "ground": "Il progetto interessa i quartieri di Torrione, Pastena e Mercatello e prevede la realizzazione di una rete duale con separazione delle fognatura di acqua bianca ed acqua nera.\n\n|||\n\nL’Amministrazione ha messo in campo una articolata campagna di verifiche sul campo che si svolgeranno a partire dal giorno 11 aprile e si svilupperanno fino al 15 maggio.  "
+    },
+    {
+      "id": "T05",
+      "speaker": "PA Operator",
+      "message": "Chi si può contattare per avere ulteriori dettagli?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Non mi risultano esserci contatti per chiedere ulteriori dettagli.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

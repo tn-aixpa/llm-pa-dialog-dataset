@@ -1,0 +1,34 @@
+{
+  "task_id": "TASK_00540",
+  "doc_src": "comune.trento_aree-tematiche_D0225.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei sapere quanti seggi elettorali senza barriere architettoniche sono presenti in città.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Attualmente ci sono 17 seggi elettorali senza barriere architettoniche distribuiti in tutte le Circoscrizioni cittadine.",
+      "ground": "I seggi senza barriere architettoniche sono attualmente 17 e sono presenti in tutte le Circoscrizioni cittadine."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Se un elettore che non riesce a muoversi volesse votare in una sezione diversa dalla propria cosa fa?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Gli elettori non deambulanti possono votare in una sezione diversa solo presentando un'attestazione medica rilasciata dall'Azienda Sanitaria, che attesti l'impossibilità o la capacità gravemente ridotta di deambulazione. Non è possibile l'autocertificazione.",
+      "ground": "Si ricorda che gli elettori non deambulanti possono esprimere il diritto di voto in una sezione, priva di barriere architettoniche diversa da quella di appartenenza solo esibendo insieme alla tessera elettorale ed a un documento di riconoscimento un’attestazione medica rilasciata dall’Azienda Sanitaria, anche per altre elezioni o per altri scopi o di copia autentica della patente di guida speciale, purché dalle certificazioni esibite (che non possono essere sostituite dall’autocertificazione) risulti l’impossibilità o la capacità gravemente ridotta di deambulazione (legge 15 gennaio 1991 n. 15)."
+    }
+  ],
+  "subcategory": "Trento"
+}

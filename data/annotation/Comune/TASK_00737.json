@@ -1,0 +1,40 @@
+{
+  "task_id": "TASK_00737",
+  "doc_src": "comune.trento_aree-tematiche_D0599.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sui pannelli fotovoltaici per le scuole comunali.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno. Ci sono 48 pannelli fotovoltaici previsti per cinque scuole comunali. Tuttavia, il finanziamento disponibile è di 1 milione e 500 mila euro, questo coprirà solo metà del consumo energetico.",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Ambiente-e-territorio/Energia-sostenibile/Avvisi/48-pannelli-fotovoltaici-per-cinque-scuole-comunali](48 pannelli fotovoltaici per cinque scuole comunali)\n1 milione e 500 mila euro per l’efficientamento energetico e sostituzione del manto di copertura. Il consumo energetico sarà coperto fino a metà."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

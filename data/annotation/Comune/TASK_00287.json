@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00287",
+  "doc_src": "comune.milano_aree-tematiche_links_D0319.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Buongiorno, vorrei avere informazioni sul Centro Sammartini.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Il Centro Sammartini è il punto di accesso per le persone adulte in situazione di grave marginalità. Offre informazioni, ascolto e orientamento verso i servizi sanitari e sociali, sia pubblici che privati, che possano rispondere ai bisogni essenziali delle persone.",
+      "ground": "Cosa offre\nInformazione, ascolto e orientamento verso i servizi sanitari e sociali, sia pubblici che privati, che possano dare una risposta immediata ai bisogni essenziali delle persone (mense, strutture di accoglienza diurna e notturna, centri di ascolto, guardaroba e altro)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "E' necessario un appuntamento per usare ai servizi del centro?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "No, basta che la persona sia maggiorenne e in situazione di grave marginalità.",
+      "ground": "Possono accedere ai servizi offerti dal Centro Sammartini, senza appuntamento, tutte le persone adulte e maggiorenni in situazione di grave marginalità sociale."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Grazie mille per le informazioni. Buona giornata!",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Prego, è stato un piacere aiutarla. Buona giornata anche a lei!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01156",
+  "doc_src": "sanzeno_v2.1__2021.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Dammi un esempio di azione che potrei scrivere legata alla biblioteca comunale",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Certamente. In seguito ti propongo un'azione presa dal Piano Famiglia di Sanzeno del 2021\n\n\nTITOLO: Biblioteca diffusa\n\nTASSONOMIA: Servizi integrativi: Spazio genitori/bambini, spazio gioco\n\nMACRO-AMBITO: Welfare territoriale e sostenibilitа\n\nOBIETTIVO: Promuovere la lettura e la condivisione di libri tra genitori e bambini.\n\nDESCRIZIONE: Il Comune ha attivato nel 2016 la biblioteca diffusa in collaborazione con la biblioteca intercomunale di Predaia. Presso Casa de Gentili, la biblioteca ha fornito un primo quantitativo di libri, permettendo ai lettori di prendere e consegnare libri in un'ottica amplificata del concetto di \"book-crossing\". Questa iniziativa è particolarmente frequentata da genitori e bambini, favorendo l'interazione e il coinvolgimento della comunità nella lettura.",
+      "ground": "=== PIANO FAMIGLIA DI SANZENO ANNO 2021 ===\n\n|||\n\nTITOLO: biblioteca diffusa\nTASSONOMIA: Servizi integrativi: Spazio genitori/bambini, spazio gioco\nMACRO-AMBITO: Welfare territoriale e sostenibilitа\nDESCRIZIONE: Il Comune ha attivato nel 2016\nla biblioteca diffusa in\ncollaborazione con la biblioteca intercomunale di Predaia. Presso Casa de Gentili\nla biblioteca ha fornito cosм un primo quantitativo di libri e, da allora, i lettori\npossono prendere e consegnare libri in un'ottica amplificata del concetto di\n''book-crossing''.  Si precisa\nche la biblioteca diffusa è frequentata soprattutto da genitori e bambini."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Puoi mettermi dei campi vuoti negli spazi dove si va sul dettaglio?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Certamente.\n\nTITOLO: __________\n\nTASSONOMIA: __________\n\nMACRO-AMBITO: __________\n\nOBIETTIVO: __________\n\nDESCRIZIONE: __________",
+      "ground": "=== PIANO FAMIGLIA DI SANZENO ANNO 2021 ===\n\n|||\n\nTITOLO: biblioteca diffusa\nTASSONOMIA: Servizi integrativi: Spazio genitori/bambini, spazio gioco\nMACRO-AMBITO: Welfare territoriale e sostenibilitа\nDESCRIZIONE: Il Comune ha attivato nel 2016\nla biblioteca diffusa in\ncollaborazione con la biblioteca intercomunale di Predaia. Presso Casa de Gentili\nla biblioteca ha fornito cosм un primo quantitativo di libri e, da allora, i lettori\npossono prendere e consegnare libri in un'ottica amplificata del concetto di\n''book-crossing''.  Si precisa\nche la biblioteca diffusa è frequentata soprattutto da genitori e bambini."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Non hai capito niente. Per dettaglio intendevo tipo quando si specifica l'anno, il Comune o la tipologia di scuola.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Scusami per non aver capito correttamente.\n\nTITOLO: biblioteca diffusa\n\nTASSONOMIA: Servizi integrativi: Spazio genitori/bambini, spazio gioco\n\nMACRO-AMBITO: Welfare territoriale e sostenibilitа\n\nDESCRIZIONE: Il Comune ha attivato nel ____\nla biblioteca diffusa in\ncollaborazione con l____. Presso ____\nla biblioteca ha fornito così un primo quantitativo di libri e, da allora, i lettori\npossono prendere e consegnare libri in un'ottica amplificata del concetto di\n''book-crossing''.  Si precisa\nche la biblioteca diffusa è frequentata soprattutto da genitori e bambini.",
+      "ground": "=== PIANO FAMIGLIA DI SANZENO ANNO 2021 ===\n\n|||\n\nTITOLO: biblioteca diffusa\nTASSONOMIA: Servizi integrativi: Spazio genitori/bambini, spazio gioco\nMACRO-AMBITO: Welfare territoriale e sostenibilitа\nDESCRIZIONE: Il Comune ha attivato nel 2016\nla biblioteca diffusa in\ncollaborazione con la biblioteca intercomunale di Predaia. Presso Casa de Gentili\nla biblioteca ha fornito cosм un primo quantitativo di libri e, da allora, i lettori\npossono prendere e consegnare libri in un'ottica amplificata del concetto di\n''book-crossing''.  Si precisa\nche la biblioteca diffusa è frequentata soprattutto da genitori e bambini."
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

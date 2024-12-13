@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00236",
+  "doc_src": "comune.milano_aree-tematiche_links_D0265.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei delle informazioni sulle elezioni dei Consigli relativi all'educazione a Milano.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, certamente. Le elezioni si sono svolte online dal 13 al 15 dicembre 2022. Posso aiutarla con qualcos'altro?",
+      "ground": "Per gli anni educativi 2022/2023 e 2023/2024, le elezioni si sono svolte dal\n13 dicembre al 15 dicembre 2022\n, online."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Posso modificare il mio voto una volta confermato?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Mi dispiace ma una volta confermato il voto non è possibile modificarlo o cancellarlo.",
+      "ground": "L’operazione di voto si completa con l’invio di una notifica via e-mail a quanti hanno votato.\nIl voto espresso e confermato\nnon può essere modificato o cancellato."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Capito, grazie per le informazioni. ",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È stato un piacere aiutarla. Se ha bisogno di ulteriori chiarimenti, non esiti a contattarci. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

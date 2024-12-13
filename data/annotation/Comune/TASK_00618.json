@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00618",
+  "doc_src": "comune.trento_aree-tematiche_D0354.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Cosa sa dirmi del progetto \"Smart City Lab a Vela\"?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Il progetto \"Smart City Lab a Vela\" è una collaborazione tra il Comune di Trento e FBK per testare soluzioni innovative di Smart City in un rione specifico di Trento, la Vela. Le attività principali includono l'installazione di strumentazione e infrastrutture ICT, attività di analisi e monitoraggio del quartiere, realizzazione di soluzioni informatiche per i cittadini e coinvolgimento della comunità locale nei progetti di innovazione.",
+      "ground": "Il progetto \"Smart citiy Lab a Vela\" vede il Comune di Trento e FBK collaborare assieme per testare soluzioni innovative di Smart City in un rione specifico di Trento, la Vela\nLe attività che si intendono realizzare nel contesto dello Smart City Lab a Vela sono molteplici. Le principali sono:\ninstallazione di strumentazione e infrastrutture ICT (es. sensori intelligenti, apparati di comunicazione innovativi - es. WiMax e rete LoRA);\nattività di analisi e monitoraggio dello stato del quartiere (\"city sensing\") e creazione di cruscotti informativi dedicati alla pubblica amministrazione e alla cittadinanza;\nrealizzazione di soluzioni informatiche (es. app, portali, strumenti di collaborazione e partecipazione) per i cittadini;\nattività di coinvolgimento della comunità locale nei progetti di innovazione e sperimentazione."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Queste attività sono già in corso?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Al momento, a Vela è in corso l'iniziativa \"Climb / Kids go green\", che permette ai bambini della scuola elementare di percorrere virtualmente tragitti nel mondo il base a quanti chilometri sono stati fatti collettivamente con mezzi sostenibili. Inoltre, c'è il progetto europeo \"Decenter\" che mira ad aumentare la sicurezza degli attraversamenti pedonali e ridurre il rischio di incidenti.",
+      "ground": "Climb / Kids go green\nAttualmente a Vela è in corso l'iniziativa\n[https://kidsgogreen.eu](Climb / Kids go green)\n.\nSviluppata all’interno del progetto\n[https://www.comune.trento.it/Aree-tematiche/Ambiente-e-territorio/Mobilita-e-traffico-urbano/Iniziative/Bambini-A-Piedi-Sicuri](Bambini a piedi sicuri)\ne realizzata dall’ufficio Politiche giovanili in collaborazione con la Fondazione Bruno Kessler e Kaleidoscopio, l'iniziativa permette ai bambini della scuola elementare di percorrere virtualmente dei tragitti a tappe nel mondo.\nI bambini sono dotati di dispositivi che sfruttano sensori di prossimità. I km fatti con mezzi sostenibili (a piedi, in bici, col pedibus smart o con lo scuolabus) permettono alla scuola di avanzare in un viaggio didattico-interattivo che, tappa dopo tappa, porta alla scoperta di città, paesi e ambienti, trasmettendo il valore dei km sostenibili fatti collettivamente.\n\n|||\n\n[https://www.comune.trento.it/Aree-tematiche/Smart-city/Progetti-d-innovazione-in-corso/Decenter](progetto europeo Decenter)\nha come obiettivo quello di aumentare la sicurezza degli attraversamenti pedonali e ridurre il rischio di incidenti. "
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Quindi, non posso ancora partecipare attivamente a nessuna delle attività?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Non sono in grado di fornire informazioni riguardo l'apertura delle attività verso il pubblico.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

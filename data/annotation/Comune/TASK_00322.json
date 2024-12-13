@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00322",
+  "doc_src": "comune.milano_aree-tematiche_links_D0354.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "CHe cosa sono le Case delle associazioni a Milano.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, certo. Le Case delle associazioni e del volontariato sono strutture presenti sul territorio cittadino, dove le associazioni possono incontrarsi e svolgere attività istituzionali.",
+      "ground": "Le Case delle associazioni e del volontariato sono strutture presenti sul territorio cittadino, in cui le associazioni possono incontrarsi e svolgere attività istituzionali mirate allo sviluppo di reti e partenariati, scambio di informazioni, esperienze e buone pratiche per una più efficace progettazione sociale."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Le associazioni possono accedere a tutti i servizi gratuitamente?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, le associazioni e le organizzazioni di volontariato possono accedere a tutti i servizi in modo gratuito, fintanto che sono iscritte alla Casa.",
+      "ground": "Le associazioni e le organizzazioni di volontariato possono:\naccedere a tutti i servizi in modo gratuito, previa iscrizione alla Casa;"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Gli abitanti non associati possono accedere alla casa liberamente?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "I cittadini possono andare alla casa per incontrare le associazioni e scoprire eventuali opportunità di volontariato. Sarebbe però meglio la persona contatti prima un referente dell'associazione con cui intende parlare.",
+      "ground": "I cittadini:\npossono incontrare le associazioni per conoscere le opportunità di volontariato presenti sul territorio, previo appuntamento con un/a referente dell'associazione di interesse."
+    }
+  ],
+  "subcategory": "Milano"
+}

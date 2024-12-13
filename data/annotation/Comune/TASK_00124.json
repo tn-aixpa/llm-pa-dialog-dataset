@@ -1,0 +1,40 @@
+{
+  "task_id": "TASK_00124",
+  "doc_src": "comune.milano_aree-tematiche_D0144.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni riguardo al bando per il rilascio di nuove licenze per il Taxi.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Il bando è stato pubblicato sul sito del Comune di Milano il 14 marzo 2024. Le informazioni dettagliate sono disponibili nella sezione \"Bandi e gare>Avvisi\".",
+      "ground": "14/03/2024\n\nIn data 14 marzo 2024 è stato pubblicato sul sito istituzionale del Comune di Milano sezione \"Bandi e gare>Avvisi\"  il Bando di concorso pubblico straordinario per il rilascio a titolo oneroso di n. 4..."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Posso partecipare al concorso per ottenere una di queste licenze?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Mi dispiace, ma il bando ha chiuso a fine febbraio.",
+      "ground": "la normativa prevede che le istanze debbano essere presentate entro la fine di febbraio."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Capisco, grazie comunque per l'informazioni.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

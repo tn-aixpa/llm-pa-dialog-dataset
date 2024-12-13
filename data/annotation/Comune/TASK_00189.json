@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00189",
+  "doc_src": "comune.milano_aree-tematiche_links_D0217.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Buongiorno, vorrei informazioni sul diritto di voto cittadini Europei.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Buongiorno. Chi proviene dai Paesi dell'Unione Europea e risiede a Milano ha diritto di voto ad elezioni e referendum comunali e alle elezioni europee iscrivendosi alle liste elettorali del Comune di Milano.",
+      "ground": "Chi proviene dai Paesi dell’Unione Europea e risiede a Milano ha diritto di voto ad elezioni e referendum comunali e alle elezioni europee iscrivendosi alle liste elettorali del Comune di Milano."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Posso iscrivermi alle liste elettorali del Comune di Milano per votare alle elezioni europee?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Sì è possibile. Le consiglio di consultare la pagina https://www.comune.milano.it/servizi/votare/votare-cittadini-ue per ulteriori informazioni",
+      "ground": "Utilizza i servizi\n[https://www.comune.milano.it/servizi/votare/votare-cittadini-ue](Voto di cittadine e cittadini UE)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Capito, grazie per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "È stato un piacere aiutarla. Se ha bisogno di ulteriori chiarimenti, non esiti a contattarci. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

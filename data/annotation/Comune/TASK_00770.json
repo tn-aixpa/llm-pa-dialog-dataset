@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00770",
+  "doc_src": "comune.salerno_D0034.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni riguardo all'affidamento in concessione dell'area verde di via Guido Vestuti per la realizzazione di manifestazioni. Dove trovo l'avviso?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, l'avviso pubblico è disponibile al seguente link https://www.comune.salerno.it/sites/default/files/2024-05/Avviso%20pubblico%20concessione%20area%202024.pdf  .",
+      "ground": "[https://www.comune.salerno.it/sites/default/files/2024-05/Avviso%20pubblico%20concessione%20area%202024.pdf](Avviso Pubblico)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Ho guardato i documenti allegati, ma non ho trovato informazioni sulla durata massima della concessione. È possibile affittare l'area per un periodo superiore a 30 giorni?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Mi dispiace, ma la concessione dell'area verde è prevista per periodi di 15/30 giorni, dal 15 giugno al 30 settembre.",
+      "ground": "In allegato Avviso Pubblico e relativa modulistica per l'affidamento in concessione, per periodi di 15/30 giorni, dal 15 giugno al 30 settembre, dell'area verde di proprietà comunale di via Guido Vestuti, per la realizzazione di manifestazioni culturali/ricreative/sportive."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Capito, grazie comunque per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Sì, confermo. Dalle indagini è emerso che di 35 attività, 15 non erano nemmeno censite presso l'Ufficio Tributi del Comune. Queste sono state segnalate al Settore tributi, oltre che al richieste di pagare l'ammontare evaso con interessi.",
+      "ground": "Pertanto, personale del Nucleo Anti-evasione Tributaria ha proceduto al controllo di 35 attività: tra queste ben 15 sono risultate del tutto sconosciute all’Ufficio Tributi del Comune in quanto non avevano mai presentato denuncia Ta.ri. Il totale dei mq. evasi è risultato di circa 6.000 mq. Per gli evasori assoggettati a tassazione a seguito dei controlli della P.M. e segnalati al Settore Tributi, si procederà mediante avviso di accertamento gravato, oltre che della tassa evasa, di interessi e sanzioni, qualora i medesimi evasori non opteranno per il procedimento auto dichiarativo del ravvedimento operoso."
+    }
+  ],
+  "subcategory": "Salerno"
+}

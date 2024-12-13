@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00239",
+  "doc_src": "comune.milano_aree-tematiche_links_D0268.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, ha aggiornamenti sull'attività \"L’università va all'asilo\"?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Sì, l'attività è tornata dopo che è stata sospesa causa pandemia la frequentazione in presenza.\nCorrentemente sul sito https://asiloeuni-giocoesalute.it/il-progetto-uva/ è attivo un blog dove genitori e bambini possono fare domande sulla salute alla Dr.ssa Mariachiara Perrotta, laureata in Igene Dentale, i mercoledì mattina dalle 10 alle 12.\nSul portale è disponibile anche materiale informativo.",
+      "ground": "L’attività in presenza è stata sospesa a marzo 2020 a causa della pandemia e riprende ora con una nuova proposta.\nSul\n[https://asiloeuni-giocoesalute.it/il-progetto-uva/](sito di progetto)\nè attivo un blog interattivo grazie al quale genitori e bambini possono rivolgere domande sulla salute alla dr.ssa Mariachiara Perrotta (laureata in Igiene Dentale presso l’Università degli Studi di Milano), tutti i mercoledì mattina (dalle ore 10:00 alle ore 12:00). Sul portale è inoltre possibile consultare il materiale informativo e compilare il questionario sulle abitudini alimentari."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Capito, grazie per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È un piacere, se ha bisogno di ulteriori informazioni non esiti a contattarci.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

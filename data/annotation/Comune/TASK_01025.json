@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01025",
+  "doc_src": "comSalerno1019.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "PA Operator",
+      "message": "Qual è la scadenza per la presentazione della domanda di ammissione per la selezione di un sociologo esperto?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "La domanda per la selezione per un sociologo esperto deve essere inviata entro l'11 Aprile alle 17.",
+      "ground": "La domanda di ammissione alla selezione dovrà pervenire entro e non oltre il giorno 11/04/2023 alle ore 17,00 attraverso consegna a mezzo PEC al seguente indirizzo protocollo@pec.comune.salerno.it utilizzando esclusivamente il modello di domanda allegato."
+    },
+    {
+      "id": "T03",
+      "speaker": "PA Operator",
+      "message": "Quali sono i requisiti richiesti per la figura?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Non sono a conoscenza di nessun requisito per la posizione. Potresti trovare più dettagli nell'avviso pubblico: ",
+      "ground": "[https://www.comune.salerno.it/sites/default/files/2023-03/Avviso%20pubblico%20coordinatore.pdf](Avviso pubblico)"
+    },
+    {
+      "id": "T05",
+      "speaker": "PA Operator",
+      "message": "Quale sarà il suo ruolo?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Il ruolo del sociologo sarà quello di coordinare due equipe multidisciplinari a supporto del RUP dell'investimento PNRR 1.1.1, che si concentra sul sostegno alle capacità genitoriali e sulla prevenzione delle vulnerabilità delle famiglie e dei bambini.",
+      "ground": "Pubblicata la determina n. 1902 del 22/03/2023  con la quale è indetta una procedura pubblica di selezione, mediante raccolta di curriculum, di un sociologo esperto in gestione dei servizi sociali da impiegare con contratto di collaborazione di lavoro autonomo ai sensi dell’articolo 7, comma 6, del decreto legislativo n. 165/01, quale coordinatore delle due equipe multidisciplinari a supporto del RUP dell’investimento PNRR 1.1.1 – Sostegno alle capacità genitoriali e prevenzione delle vulnerabilità delle famiglie e dei bambini."
+    }
+  ],
+  "subcategory": "Salerno"
+}

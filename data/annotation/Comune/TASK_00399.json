@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_00399",
+  "doc_src": "comune.trento_aree-tematiche_D0002.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sugli interventi edilizi liberi secondo  l'articolo 78 della L.P. 15/2015.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, certo. Gli interventi elencati nell'art. 78 non richiedono un titolo abilitativo, ma è necessaria una comunicazione preventiva al Comune. La mancata comunicazione comporta una sanzione di 500 euro.",
+      "ground": "La Legge Urbanistica Provinciale (L.P. 15/2015) ha individuato all’art. 78 alcune tipologie di interventi per la cui realizzazione non è richiesto alcun titolo abilitativo. Per gli interventi elencati al comma 3 dell'art. 78 è prevista tuttavia una previa comunicazione al comune. La sola omissione della comunicazione al comune comporta il pagamento di una sanzione amministrativa pecuniaria da versare al comune competente pari a 500 euro, se comunque gli interventi risultano realizzati nel rispetto delle altre condizioni richieste dalla legge."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni, dove posso trovare la modulistica necessaria?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Puoi consultare il link https://www.comune.trento.it/Aree-tematiche/Attivita-edilizia/Interventi-edilizi/Attivita-edilizia-libera/Comunicazione-opere-libere-ex-comunicazione-di-manutenzione-straordinaria per la Comunicazione di opere libere.",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Attivita-edilizia/Interventi-edilizi/Attivita-edilizia-libera/Comunicazione-opere-libere-ex-comunicazione-di-manutenzione-straordinaria](Comunicazione opere libere (ex comunicazione di manutenzione straordinaria))\nInformazioni e modulistica necessaria per presentare la comunicazione per opere libere di cui all'art. 78, comma 3, della L.P. 15/2015, che ha sostituito il precedente modello di comunicazione di manutenzione straordinaria."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T09",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per l'aiuto, buona giornata!",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agente",
+      "message": "È stato un piacere, buona giornata anche a lei!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

@@ -1,0 +1,22 @@
+{
+  "task_id": "TASK_00935",
+  "doc_src": "comune.milano_aree-tematiche_links_D0222.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Quali sono i requisiti per i cittadini extra UE per iscriversi alle liste elettorali di Milano?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "I cittadini extra UE che vogliono iscriversi alle liste elettorali di Milano devono avere i seguenti requisiti:\n- Essere residenti a Milano;\n- Avere un permesso di soggiorno;\n- Essere privi di condanne penali che impediscano l'elettorato attivo per le normative italiane.",
+      "ground": "residenza a Milano\npermesso di soggiorno\nassenza di condanne penali che impediscano l’elettorato attivo secondo la normativa italiana."
+    }
+  ],
+  "subcategory": "Milano"
+}

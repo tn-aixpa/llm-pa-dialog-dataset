@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01168",
+  "doc_src": "terre_d'adige_v2.1__2021.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Fammi un'azione in cui viene detto che la municipalità locale si impegna a migliorare la comunicazione con i cittadini.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "TITOLO: Comunicazione con i cittadini\n\nTASSONOMIA: Interventi per rafforzare la rete\n\nMACRO-AMBITO: Governance e azioni di rete\n\nOBIETTIVO: Realizzazione di  un sito con pagine dedicate a politiche sociali e familiari. Attivazione di Newsletter del Comune.\n\nDESCRIZIONE: La municipalità si vuole impegnare a rafforzare la comunicazione con i cittadini. Il Comune vuole fare ciò attraverso il suo sito internet, con pagine dedicate alle famiglie. E' inoltre possibile iscriversi alla newsletter per sapere le future iniziative comunali.",
+      "ground": "TITOLO: COMINICAZIONE CON I CITTADINI\nTASSONOMIA: Interventi per rafforzare la rete\nMACRO-AMBITO: Governance e azioni di rete\nOBIETTIVO: L'obiettivo per il 2021 è di realizzare un nuovo sito con nuove pagine dedicate alle politiche sociali e alle politiche familiari. Inoltre prevediamo di attivare anche la Newsletter del Comune.\nDESCRIZIONE: L'amministrazione del comune di Terre d'Adige si sta impegnando in una costante comunicazione con i cittadini, attraverso un sito internet, realizzato in collaborazione con il Consorzio dei comuni Trentini, con pagine dedicate ai servizi rivolti alle famiglie ( www.comune.terredadige.tn.it). Sul sito, sono disponibili anche le informazioni sui punti di lettura e vengono pubblicizzati i vari eventi, locali e di tutto il territorio della piana Rotaliana.\nSono poi stati attivati i seguenti servizi:\nTOTEM INFORMATICO E BACHECHE COMUNALI\nSOCIAL NETWORK, E' STATA ATTIVATA LA PAGINA FACEBOOK DEL COMUNE DI TERRE D'ADIGE, DOVE PUNTUALMENTE VENGONO DATE RISPOSTE AGLI UTENTI CHE PONGONO QUESITI SUI SERVIZI COMUNALI\nSERATE INFORMATIVE CON LA POPOLAZIONE\nINCONTRI INFORMATIVI CON GRUPPI RISTRETTI DI POPOLAZIONE, DA PARTE DEI SINGOLI ASSESSORI, PER INFORMARE ED ASCOLTARE LE PERSONE SU SINGOLE TEMATICHE\nLADDOVE OPPORTUNO/NECESSARIO CONSEGNA DI AVVISO A DOMICILIO, O PRESSO STRUTTURE DI INTERESSE PUBBLICO COLLETTIVO, COME LA FARMACIA, LA SCUOLA O LA MATERNA\nATTIVATO IL NUOVO SERVIZIO DI COMUNICAZIONE ''LA STANZA DEL SINDACO'' , UNA APP CHE DA LA POSSIBILITA' DI INVIARE, AI CITTADINI CHE LA SCARICHERANNO, TUTTE LE INFORMAZIONI ISTITUZIONALI E GLI EVENTI DEL COMUNE DI TERRE D'ADIGE\nUNA NUOVA APP ''IN TERRE D'ADIGE'', UN ULTERIORE STRUMENTO INFORMATIVO SUL TERRITORIO COMUNALE, CON L0INDICAZIONE DEI SERVIZI, DEI PRODOTTI TIPICI, RISTORANTI E STRUTTURE RICETTIVE, SPORT E PERCORSI NATURALISTICI"
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Togli tutto ciò che è legato al sito web, ma aggiungi Facebook.",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "TITOLO: Comunicazione con i cittadini\n\nTASSONOMIA: Interventi per rafforzare la rete\n\nMACRO-AMBITO: Governance e azioni di rete\n\nOBIETTIVO: Miglioramento della comunicazione del Comune verso i cittadini.\n\nDESCRIZIONE: Il Comune vuole rafforzare la comunicazione verso i cittadini attraverso l'uso di Facebook in cui verranno pubblicati diversi contenuti orientati alle famiglie. Verrà inoltre istituita una newsletter per permettere alla cittadinanza di rimanere aggiornata sulle future iniziative comunali.",
+      "ground": "TITOLO: COMINICAZIONE CON I CITTADINI\nTASSONOMIA: Interventi per rafforzare la rete\nMACRO-AMBITO: Governance e azioni di rete\nOBIETTIVO: L'obiettivo per il 2021 è di realizzare un nuovo sito con nuove pagine dedicate alle politiche sociali e alle politiche familiari. Inoltre prevediamo di attivare anche la Newsletter del Comune.\nDESCRIZIONE: L'amministrazione del comune di Terre d'Adige si sta impegnando in una costante comunicazione con i cittadini, attraverso un sito internet, realizzato in collaborazione con il Consorzio dei comuni Trentini, con pagine dedicate ai servizi rivolti alle famiglie ( www.comune.terredadige.tn.it). Sul sito, sono disponibili anche le informazioni sui punti di lettura e vengono pubblicizzati i vari eventi, locali e di tutto il territorio della piana Rotaliana.\nSono poi stati attivati i seguenti servizi:\nTOTEM INFORMATICO E BACHECHE COMUNALI\nSOCIAL NETWORK, E' STATA ATTIVATA LA PAGINA FACEBOOK DEL COMUNE DI TERRE D'ADIGE, DOVE PUNTUALMENTE VENGONO DATE RISPOSTE AGLI UTENTI CHE PONGONO QUESITI SUI SERVIZI COMUNALI\nSERATE INFORMATIVE CON LA POPOLAZIONE\nINCONTRI INFORMATIVI CON GRUPPI RISTRETTI DI POPOLAZIONE, DA PARTE DEI SINGOLI ASSESSORI, PER INFORMARE ED ASCOLTARE LE PERSONE SU SINGOLE TEMATICHE\nLADDOVE OPPORTUNO/NECESSARIO CONSEGNA DI AVVISO A DOMICILIO, O PRESSO STRUTTURE DI INTERESSE PUBBLICO COLLETTIVO, COME LA FARMACIA, LA SCUOLA O LA MATERNA\nATTIVATO IL NUOVO SERVIZIO DI COMUNICAZIONE ''LA STANZA DEL SINDACO'' , UNA APP CHE DA LA POSSIBILITA' DI INVIARE, AI CITTADINI CHE LA SCARICHERANNO, TUTTE LE INFORMAZIONI ISTITUZIONALI E GLI EVENTI DEL COMUNE DI TERRE D'ADIGE\nUNA NUOVA APP ''IN TERRE D'ADIGE'', UN ULTERIORE STRUMENTO INFORMATIVO SUL TERRITORIO COMUNALE, CON L0INDICAZIONE DEI SERVIZI, DEI PRODOTTI TIPICI, RISTORANTI E STRUTTURE RICETTIVE, SPORT E PERCORSI NATURALISTICI"
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Scrivimi un'azione riguardo l'apertura degli uffici comunali, lasciami degli spazi bianchi così che possa riempirli come voglio.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "TITOLO: Apertura uffici comunali\n\nTASSONOMIA: Orari concilianti per i propri utenti\n\nMACRO-AMBITO: Welfare territoriale e sostenibilita\n\nOBIETTIVO: Garantire servizio puntuale e continuo e oermettere ai dipendenti di lavorare in smart working.\n\nDESCRIZIONE: Presso il Comune di ____ sono disponibili servizi di segreteria per:\n____\nLa programmazione degli orari di apertura, compatibilmente con le esigenze familiari e lavorative di personale e utenza ha permesso di rispondere adeguatamente al conciliamento dei tempi famiglia-lavoro.\n\nOrari apertura degli uffici:\nLunedì ____\nMartedì ____\nMercoledì ____\nGiovedì ____\nVenerdì ____",
+      "ground": "TITOLO: APERTURA UFFICI COMUNALI\nTASSONOMIA: Orari concilianti per i propri utenti\nMACRO-AMBITO: Welfare territoriale e sostenibilitа\nOBIETTIVO: L'obiettivo è riuscire a garantire sempre un servizio puntuale e continuo, anche durante periodi che necessitano di procedure più restrittive, dando, nello stesso tempo, la possibilitа ai dipendenti di optare, se necessario, al lavoro di smart working.\nDESCRIZIONE: Presso il Comune di Terre d'Adige sono disponibili i servizi di:\nANAGRAFE\nSEGRETERIA\nRAGIONERIA E TRIBUTI\nEDILIZIA PUBBLICA\nEDILIZIA PRIVATA\ncon sportelli in entrambe le localitа.\nL'adeguata programmazione degli orari di apertura e chiusura degli uffici comunali, compatibilmente con le esigenze familiari e lavorative sia del personale dipendente che dell'utenza, ha permesso una risposta adeguata al sostegno della conciliazione dei tempi famiglia - lavoro.\nORARIO COMUNALE DI APERTURA AL PUBBLICO\nLUNEDI' 08.30 - 12.30\nMARTEDI' 08.30 - 12.30 / 14.30 - 16.30\nMERCOLEDI' 08.30 - 13.00\nGIOVEDI' 08.30 - 12.30\nVENERDI' 08.30 - 12.30\nNel periodo COVID gli uffici comunali sono rimasti aperti al pubblico solo su appuntamento, per garantire i protocolli di emergenza. "
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

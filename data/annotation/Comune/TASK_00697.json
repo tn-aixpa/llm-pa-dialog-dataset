@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00697",
+  "doc_src": "comune.trento_aree-tematiche_D0515.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sull'acquisto e il riconoscimento della cittadinanza italiana.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, certo. Per l'acquisto della cittadinanza italiana è necessario prestare giuramento, nonché soddisfare certe caratteristiche. Può trovare più dettagli al link https://www.comune.trento.it/Aree-tematiche/Servizi-demografici/Stato-civile/Cittadinanza/Acquisto-della-cittadinanza-italiana-prestazione-del-giuramento .",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Servizi-demografici/Stato-civile/Cittadinanza/Acquisto-della-cittadinanza-italiana-prestazione-del-giuramento](Acquisto della cittadinanza italiana: prestazione del giuramento)\nCondizioni per il conferimento della cittadinanza italiana"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E per il riconoscimento della cittadinanza italiana ai cittadini stranieri con origini italiane?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Per il riconoscimento della cittadinanza italiana Jure Sanguinis, le consiglio di consultare il link  https://www.comune.trento.it/Aree-tematiche/Servizi-demografici/Stato-civile/Cittadinanza/Riconoscimento-della-cittadinanza-italiana-ai-cittadini-stranieri-di-ceppo-italiano . ",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Servizi-demografici/Stato-civile/Cittadinanza/Riconoscimento-della-cittadinanza-italiana-ai-cittadini-stranieri-di-ceppo-italiano](Riconoscimento della cittadinanza italiana ai cittadini stranieri di ceppo italiano)\nIndicazioni per il riconoscimento della cittadinanza italiana ai cittadini stranieri di ceppo italiano (cittadinanza jure sanguinis)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

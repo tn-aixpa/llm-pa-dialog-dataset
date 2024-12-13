@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00179",
+  "doc_src": "comune.milano_aree-tematiche_links_D0207.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Come si fa una petizione?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Le petizioni possono essere presentate in carta libera o online, l'importante è che documenti di identificazione e dati personali siano leggibili. I residenti in altri Comuni devono allegare una dichiarazione sostitutiva di atto di notorietà in merito al loro rapporto con il territorio comunale.",
+      "ground": "Le petizioni sono presentate in carta libera o mediante la piattaforma digitale con l'indicazione leggibile del cognome, nome, data e luogo di nascita e residenza e\ndocumenti di identificazione dei presentatori\n. I presentatori residenti in altri Comuni devono allegare alle petizioni, apposita dichiarazione sostitutiva di atto di notorietà resa ai sensi dell’articolo 47 del DPR 28 dicembre 2000 n. 445, in merito alla sussistenza del rapporto continuativo con il territorio comunale, indicandone la natura."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Devo raccogliere firme per presentare una petizione?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Esatto, le petizioni devono essere sottoscritte da almeno 1000 cittadini. Le risposte vengono pubblicate sull'Albo Pretorio del Comune di Milano e trasmesse al Presidente del Consiglio Comunale per l'inoltro alla Commissione competente.",
+      "ground": "Le petizioni devono essere sottoscritte da almeno 1000 (mille) cittadine/cittadini.\nLe relative risposte sono pubblicate all’Albo Pretorio del Comune di Milano e trasmesse al Presidente del Consiglio Comunale per l’inoltro alla Commissione competente."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Posso accedere a questo servizio online?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Sì, puoi accedere al servizio online tramite il sito https://www.comune.milano.it/servizi/partecipazione/come-presentare-una-petizione](Come presentare una petizione . Può anche utilizzare la posta elettronica certificata, la mail o recarsi direttamente allo sportello. Posso aiutarti ulteriormente?",
+      "ground": "Utilizza i servizi\n[https://www.comune.milano.it/servizi/partecipazione/come-presentare-una-petizione](Come presentare una petizione)\nModalità di accesso al servizio:\nOnline\nPEC\nMail\nSportello"
+    }
+  ],
+  "subcategory": "Milano"
+}

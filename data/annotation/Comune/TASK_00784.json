@@ -1,0 +1,22 @@
+{
+  "task_id": "TASK_00784",
+  "doc_src": "comune.salerno_D0054.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sull'evento \"Le origini monastiche della Scuola Medica Salernitana\". È ancora possibile partecipare?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, sì, l'evento si terrà settimanalmente presso il Museo Virtuale dal 3 fino al 25 maggio alle ore 19. L'ingresso è gratuito fino ad esaurimento posti a sedere. ",
+      "ground": "Il primo appuntamento, dal titolo \"Le origini monastiche della Scuola Medica Salernitana\", è in programma venerdì 3 maggio. Si proseguirà per tutto il mese di maggio (nei sabato 11, 18 e 25) con incontri settimanali, tutti alle ore 19.00. L'ingresso è gratuito fino ad esaurimento posti a sedere."
+    }
+  ],
+  "subcategory": "Salerno"
+}

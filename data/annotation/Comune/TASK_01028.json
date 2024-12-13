@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01028",
+  "doc_src": "comSalerno1064.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "PA Operator",
+      "message": "Dove possono essere presentate le istanze per la riduzione della TARI?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Le istanze per la riduzione della TARI possono essere presentate via PEC all’indirizzo: tari@pec.comune.salerno.it, oppure presso i Patronati e i Centri di Assistenza Fiscale (C.A.F.).",
+      "ground": "Le istanze - debitamente compilate e corredate dalla documentazione da cui risultino i requisiti e le condizioni previste dal regolamento comunale - potranno essere presentate:\n- via PEC all’indirizzo: tari@pec.comune.salerno.it;\n- presso i Patronati e i Centri di Assistenza Fiscale (C.A.F.) convenzionati con l’Ente e di seguito indicati;"
+    },
+    {
+      "id": "T03",
+      "speaker": "PA Operator",
+      "message": "Dove si trovano i modelli per la domanda?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Nella pagina https://www.comune.salerno.it/node/19941 sono presenti i modelli di domanda comprensivi dei requisiti per l’accesso alle agevolazioni.",
+      "ground": "Nella pagina\n[https://www.comune.salerno.it/node/19941](Esenzione/Riduzione TARI)\nsono presenti i modelli di domanda comprensivi dei requisiti per l’accesso alle agevolazioni."
+    },
+    {
+      "id": "T05",
+      "speaker": "PA Operator",
+      "message": "E c'è un periodo limite?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Sì, le istanze possono essere presentate dal 15 febbraio fino al 30 giugno.",
+      "ground": "Si informano i gentili contribuenti che con decorrenza 15 febbraio 2024 e fino al 30 giugno 2024 potranno essere presentate le istanze di esenzione e riduzione della TARI 2024."
+    }
+  ],
+  "subcategory": "Salerno"
+}

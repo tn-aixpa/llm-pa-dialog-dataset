@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00095",
+  "doc_src": "comune.milano_aree-tematiche_D0102.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei avere informazioni sull'Edilizia Residenziale Sociale.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente. Quali informazioni desidera conoscere?",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Non riesco ad avere accesso alle residenze pubbliche, però non riesco a guadagnare abbastanza per permettermi un appartamento normale, ho qualche possibilità?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Nella sua situazione, l'Edilizia Residenziale Sociale (ERS) dovrebbe essere in grado di garantirle un'offerta di alloggi a canone convenzionato.",
+      "ground": "L’Amministrazione Comunale, attraverso lo sviluppo dell’Edilizia Residenziale Sociale (ERS) nelle sue diverse articolazioni, si pone l’obiettivo di garantire una più ampia offerta di alloggi di qualità a canone convenzionato, integrando con l'attivazione del partnernariato pubblico-privato le iniziative di natura pubblica, non più sostenute da adeguati finanziamenti pubblici, per la costruzione di alloggi a prezzo contenuto. \nL'attenzione è rivolta a tutte quelle categorie sociali di cittadini, che seppur fuori dai meccanismi di accesso all'edilizia residenziale pubblica, non hanno adeguata capacità economica per trovare nelle proposte del mercato immobiliare soddisfacimento al fabbisogno abitativo;"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Potrebbe indicarmi quali sono le altre tipologie di alloggi disponibili?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Le tipologie di alloggi previsti possono essere:\n\n- Edilizia convenzionata agevolata in cessione;  \n- Edilizia in coabitazione con servizi condivisi (co-housing) in cessione.   \n- Edilizia convenzionata agevolata in locazione con patto di futura vendita;\n- Edilizia in locazione a canone concordato;\n- Edilizia in locazione a canone convenzionato;\n- Edilizia in locazione a canone moderato;\n- Edilizia pubblica in locazione a canone sociale;\n- Residenze convenzionate per studenti universitari.",
+      "ground": "Rientrano in tale tipologia:\n\nedilizia convenzionata agevolata in cessione;  \nedilizia in coabitazione con servizi condivisi (co-housing) in cessione.   \nedilizia convenzionata agevolata in locazione con patto di futura vendita;\nedilizia in locazione a canone concordato;\nedilizia in locazione a canone convenzionato;\nedilizia in locazione a canone moderato;\nedilizia pubblica in locazione a canone sociale;\nresidenze convenzionate per studenti universitari.\n\nL’assegnazione e la gestione degli alloggi di Edilizia Residenziale Sociale è completamente demandata agli operatori privati. Per informazioni o documentazione occorre quindi rivolgersi direttamente all’operatore/proprietà.\n\nRequisiti soggettivi per l'accesso\n\nGli assegnatari delle tipologie abitative di Edilizia Residenziale Sociale, escluse quelle rientranti nella locazione a canone sociale per i quali valgono le specifiche disposizioni previste dalla normativa di riferimento e quelle relative agli occupanti delle residenze universitarie, dovranno possedere, ai sensi della Deliberazione di Consiglio Comunale n. 42 del 11.10.2010 e della Deliberazione di Consiglio Comunale n. 73 del 21."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "È stato un piacere poterla aiutare. Se ha bisogno di ulteriori informazioni, non esiti a contattarci nuovamente. Buona giornata!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00312",
+  "doc_src": "comune.milano_aree-tematiche_links_D0344.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sui servizi di reinserimento per gli ex detenuti.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, mi scusi, potrebbe essere più specifico nella sua richiesta?",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Mi chiedevo se ci sono strumenti di sostegno.",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, il Comune di Milano ha in corso azioni e progetti per il reinserimento sociale e professionale. Gli interventi di sostegno sono sviluppati dal Servizio per gli Adulti e Politiche per l'Immigrazione.",
+      "ground": "degli ex detenuti degli istituti penitenziari milanesi.\nGli interventi di sostegno per le persone sottoposte a provvedimenti dell’autorità giudiziaria in ambito penale sono sviluppati dal Servizio per gli Adulti e Politiche per l'Immigrazione."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "E' un piacere, le auguro buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

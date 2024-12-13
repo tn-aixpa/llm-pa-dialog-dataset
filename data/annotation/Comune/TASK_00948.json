@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00948",
+  "doc_src": "comune.milano_aree-tematiche_links_D0239.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Qual è lo scopo del progetto \"Piazze Aperte\"?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Lo scopo del progetto \"Piazze Aperte\" è valorizzare lo spazio pubblico come luogo di aggregazione, ampliando le aree pedonali e promuovendo forme sostenibili di mobilità per migliorare l'ambiente e la qualità della vita in città.",
+      "ground": "Piazze Aperte mira a valorizzare lo spazio pubblico come luogo di aggregazione al centro dei quartieri, ad ampliare le aree pedonali e a promuovere forme sostenibili di mobilità a beneficio dell’ambiente e della qualità della vita in città."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Come si relaziona il progetto \"Piazze Aperte\" con le politiche del Comune di Milano?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Il progetto \"Piazze Aperte\" si relaziona con le politiche del Comune di Milano perseguendo gli obiettivi di rigenerazione urbana, mobilità sostenibile, equità e salute del Piano di Governo del Territorio Milano 2030, del Piano Urbano della Mobilità Sostenibile e del Piano Aria Clima, nell’ambito del Piano Quartieri.",
+      "ground": "Il progetto è volto a perseguire gli obiettivi di rigenerazione urbana, mobilità sostenibile, equità e salute del Piano di Governo del Territorio Milano 2030, del Piano Urbano della Mobilità Sostenibile e del Piano Aria Clima, nell’ambito del Piano Quartieri."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Quanti interventi sono stati svolti finora?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "42 interventi sono stati svolti finora dal programma Piazze Aperte tra il 2018 e il 2023. Per maggiori informazioni puoi consultare il seguente report https://www.comune.milano.it/documents/20126/33917286/Piazze+Aperte+Report_ita.pdf/61b5a205-c927-959e-5978-e678d6c02642?t=1657879170942",
+      "ground": "Sono 42 in totale gli interventi realizzati dal programma Piazze Aperte tra il 2018 e il 2023: oltre 28mila mq. resi pedonali e vivibili grazie all’installazione di nuovi arredi, tra cui 280 panchine, 450 posti bici, 50 tavoli da picnic, 38 tavoli da ping pong e 380 fioriere.\n[https://www.comune.milano.it/documents/20126/33917286/Piazze+Aperte+Report_ita.pdf/61b5a205-c927-959e-5978-e678d6c02642?t=1657879170942](Clicca qui)\nper il report in italiano"
+    }
+  ],
+  "subcategory": "Milano"
+}

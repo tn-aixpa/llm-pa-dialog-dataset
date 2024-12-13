@@ -1,0 +1,464 @@
+=== PIANO FAMIGLIA DI MIRANO ANNO 2022 ===
+
+nan
+
+
+
+
+
+=== AZIONI ===
+
+
+
+TITOLO: Forum delle associazioni familiari
+
+TASSONOMIA: Sostegno economico alle associazioni del territorio / Concessione spazi
+
+OBIETTIVO: La cittа di Mirano intende promuovere la famiglia per metterla nelle condizioni migliori per svolgere funzioni sociali fondamentali
+
+DESCRIZIONE: Promozione associazionismo familiare e del mutuo aiuto
+
+-----
+
+
+
+TITOLO: Istituzione della Commissione comunale per le Politiche familiari
+
+TASSONOMIA: Sostegno economico alle associazioni del territorio / Concessione spazi
+
+OBIETTIVO: La cittа di Mirano intende promuovere la famiglia
+
+per metterla nelle condizioni migliori per svolgere funzioni sociali
+
+fondamentali
+
+DESCRIZIONE: Promozione associazionismo familiare e del mutuo aiuto
+
+-----
+
+
+
+TITOLO: Pacco dono ai neonati
+
+TASSONOMIA: Promozione della natalitа (Bonus bebè, kit nuovi nati ecc.)
+
+OBIETTIVO: La cittа di Mirano intende promuovere la famiglia
+
+per metterla nelle condizioni migliori per svolgere funzioni sociali
+
+fondamentali
+
+-----
+
+
+
+TITOLO: Family Card
+
+TASSONOMIA: Agevolazioni tariffarie e contributi attivitа ricreative/culturali/aggregative/formative
+
+OBIETTIVO: La cittа di Mirano intende promuovere la famiglia
+
+per metterla nelle condizioni migliori per svolgere funzioni sociali
+
+fondamentali
+
+DESCRIZIONE: Family Card in rapporto al numero di figli a carico, per sconti al cinema, al teatro, sugli acquisti nei negozi
+
+-----
+
+
+
+TITOLO: Facilitazioni economiche per attivitа sportive
+
+TASSONOMIA: Agevolazioni e contributi per famiglie numerose
+
+OBIETTIVO: La cittа di Mirano intende promuovere la famiglia
+
+per metterla nelle condizioni migliori per svolgere funzioni sociali
+
+fondamentali
+
+DESCRIZIONE: Facilitazioni economiche per l'attivitа sportiva dei ragazzi di famiglie numerose
+
+-----
+
+
+
+TITOLO: Riduzione tariffa per servizi prima infanzia
+
+TASSONOMIA: Agevolazioni tariffarie e contributi per servizi educativi e di conciliazione
+
+DESCRIZIONE: Riduzione tariffaria in base:
+
+- alla composizione del nucleo familiare
+
+- al reddito familiare
+
+-----
+
+
+
+TITOLO: Agevolazioni tariffarie
+
+TASSONOMIA: Agevolazioni per tariffe comunali
+
+DESCRIZIONE: Scontistica ed esenzione per tariffa rifiuti, acqua, gas, ecc. per famiglie numerose
+
+-----
+
+
+
+TITOLO: Tariffe personalizzate su base ISEE
+
+TASSONOMIA: Agevolazioni tariffarie e contributi per servizi educativi e di conciliazione
+
+DESCRIZIONE: Tariffe personalizzate e agevolate su base ISEE e scontistica ulteriore per fratelli e sorelle:
+
+- Trasporti scolastici
+
+- Asili nido comunali
+
+- Mense scolastiche
+
+- Centri estivi
+
+-----
+
+
+
+TITOLO: Agevolazioni per la fruizione di servizi culturali o ricreativi
+
+TASSONOMIA: Agevolazioni tariffarie e contributi attivitа ricreative/culturali/aggregative/formative
+
+DESCRIZIONE: Agevolazioni per la fruizione di servizi culturali o ricreativi (musei di Mestre-Venezia, teatro, cinema) da parte di più membri di uno stesso nucleo familiare.
+
+Convenzioni con i gestori
+
+-----
+
+
+
+TITOLO: Agevolazioni per la fruizione di servizi sportivi
+
+TASSONOMIA: Agevolazioni tariffarie e contributi attivitа ricreative/culturali/aggregative/formative
+
+DESCRIZIONE: Agevolazioni per la fruizione di servizi sportivi (piscina, impianti sportivi, ecc.) da parte di più membri di uno stesso nucleo familiare
+
+Convenzione con i gestori
+
+-----
+
+
+
+TITOLO: Promozione di iniziative di sostegno all'economia familiare
+
+TASSONOMIA: Agevolazioni tariffarie e contributi attivitа ricreative/culturali/aggregative/formative
+
+DESCRIZIONE: Convenzioni con supermercati, aziende di trasporto, ristoranti, esercizi ricettivi
+
+-----
+
+
+
+TITOLO: Servizio internet gratuito presso la Biblioteca
+
+TASSONOMIA: Wifi free
+
+-----
+
+
+
+TITOLO: Guida dei servizi
+
+TASSONOMIA: Strumenti di comunicazione
+
+DESCRIZIONE: Guida sei servizi della cittа per le famiglie in cartaceo e on line
+
+-----
+
+
+
+TITOLO: Sito internet
+
+TASSONOMIA: Strumenti di comunicazione
+
+DESCRIZIONE: Sito internet dedicato e aggiornato sulle attivitа e le iniziative di periodo, visibile eventualmente anche nei monitor pubblicitari, presso pediatri / consultori / farmacie / asili / scuole
+
+-----
+
+
+
+TITOLO: Punti di ascolto
+
+TASSONOMIA: Sportelli informativi e di orientamento
+
+DESCRIZIONE: In rete con i punti di ascolto / accoglienza parrocchiali e delle associazioni di volontariato: informazione, ascolto e orientamento
+
+-----
+
+
+
+TITOLO: Centro di ascolto per i giovani
+
+TASSONOMIA: Sportelli informativi e di orientamento
+
+-----
+
+
+
+TITOLO: Ludoteca
+
+TASSONOMIA: Centri di aggregazione per giovani
+
+DESCRIZIONE: Ludoteca presso la biblioteca comunale
+
+-----
+
+
+
+TITOLO: Servizi di assistenza per gli anziani non autosufficienti
+
+TASSONOMIA: Consegna spesa a domicilio/ Banco alimentare
+
+DESCRIZIONE: - Servizio di assistenza domiciliare
+
+- Consegna pasti a domicilio
+
+- Servizio di trasporto sociale
+
+- Telesoccorso (in collaborazione con la Ulss)
+
+-----
+
+
+
+TITOLO: Iniziative per favorire l'integrazione delle famiglie straniere
+
+TASSONOMIA: Sensibilizzazione sul tema dell'intercultura 
+
+DESCRIZIONE: In collaborazione con le associazioni di migranti e di volontariato: 
+
+- Corsi di lingua e cultura italiana;
+
+- Attivitа di socializzazione interetnica/interculturale
+
+-----
+
+
+
+TITOLO: Spazi autogestiti per i giovani
+
+TASSONOMIA: Centri di aggregazione per giovani
+
+DESCRIZIONE: Spazi autogestiti per l'aggregazione giovanile (sala prove per gruppi musicali, spazio compiti)
+
+-----
+
+
+
+TITOLO: Sensibilizzazione al servizio civile
+
+TASSONOMIA: Progetti di partecipazione attiva di bambini, ragazzi e giovani (consiglio comunale dei ragazzi..)
+
+DESCRIZIONE: Sensibilizzazione al servizio civile con proposta di esperienze nel volontariato e nel servizio alla comunitа
+
+-----
+
+
+
+TITOLO: Campagna di educazione e prevenzione
+
+TASSONOMIA: Azioni di contrasto alle dipendenze
+
+DESCRIZIONE: In collaborazione con le Scuole, la ULSS 3 e il SERD, la Questura di Venezia: 
+
+Campagna di educazione alla legalitа, prevenzione della violenza di genere, del bullismo, dello spaccio, della ludopatia e delle dipendenze
+
+-----
+
+
+
+TITOLO: Distribuzione pacchi alimentari
+
+TASSONOMIA: Consegna spesa a domicilio/ Banco alimentare
+
+DESCRIZIONE: In collaborazione con Caritas, Croce Rossa e Associazioni di volontariato per distribuzione pacchi alimentari per famiglie in difficoltа: Emporio solidale indiretto
+
+-----
+
+
+
+TITOLO: Spazi sicuri
+
+TASSONOMIA: Sensibilizzazione su convivenza e rispetto reciproco (impegno civico, volontariato, sicurezza stradale, giornata dell’infanzia e dell’adolescenza, sicurezza delle famiglie)
+
+DESCRIZIONE: Nonno vigile, aree pedonali, piste ciclabili
+
+-----
+
+
+
+TITOLO: Educazione al riciclo e alla raccolta differenziata
+
+TASSONOMIA: Attivitа  di educazione ambientale (laboratori, giornate ecologiche, giornata del riuso, raccolta differenziata)
+
+DESCRIZIONE: Con la collaborazione dell'associazionismo e delle scuole cittadine: laboratori didattici nei parchi per educare i bambini alla custodia ed alla pulizia delle aree verdi, alla raccolta differenziata ed al riciclo dei materiali
+
+-----
+
+
+
+TITOLO: Promozione alla lettura
+
+TASSONOMIA: Proposte culturali: museo, cinema, teatro, arte ecc.
+
+DESCRIZIONE: Laboratori creativi e di pubblica lettura per famiglie e bambini nella biblioteca Comunale
+
+-----
+
+
+
+TITOLO: Gruppi di lettura
+
+TASSONOMIA: Attivitа/progetti formativi specifici per bambini e ragazzi
+
+DESCRIZIONE: Gruppi di lettura per bambini e ragazzi
+
+-----
+
+
+
+TITOLO: Concorso di poesia
+
+TASSONOMIA: Attivitа/progetti formativi specifici per bambini e ragazzi
+
+-----
+
+
+
+TITOLO: Eventi per famiglie
+
+TASSONOMIA: Promozione e organizzazione di eventi ludici (festa delle famiglie, spettacoli ecc.)
+
+DESCRIZIONE: Con la collaborazione delle associazioni cittadine: 
+
+Festa della famiglia
+
+Feste, laboratori e attivitа ludiche nelle aree verdi o nel teatro di Villa Belvedere
+
+Il carnevale dei bambini, pomeriggio in maschera dedicato ai giochi per bambini
+
+Festa del papа e della mamma, in occasione di questi eventi vengono organizzati eventi ludici per le famiglie
+
+Festa del Santo patrono, durante questa giornata sono previsti una serie di eventi con spazi completamente dedicati ai più piccoli
+
+Il teatro della domenica, una serie di incontri domenicali rivolti ai più piccoli e alle loro famiglie
+
+-----
+
+
+
+TITOLO: Servizi alle famiglie con bambini da 0 a 3 anni
+
+TASSONOMIA: Nido d’infanzia (pubblico, in convenzione)
+
+DESCRIZIONE: Servizi educativi comunali per la prima infanzia:
+
+asilo nido comunale
+
+asili nido privati autorizzati
+
+asili nido parrocchiali
+
+scuola dell'infanzia comunale
+
+scuole dell'infanzia parrocchiali
+
+scuole dell'infanzia private autorizzate
+
+-----
+
+
+
+TITOLO: Spazi genitori - bambini
+
+TASSONOMIA: Servizi integrativi: Spazio genitori/bambini, spazio gioco
+
+DESCRIZIONE: In collaborazione con le parrocchie e le associazioni:
+
+- Spazi genitori - bambini per attivitа ludiche di socializzazione
+
+-----
+
+
+
+TITOLO: Servizi per anziani per promuovere socializzazione e aggregazione
+
+TASSONOMIA: Servizi integrativi: Spazio genitori/bambini, spazio gioco
+
+DESCRIZIONE: - Centro diurno ''Arcobaleno''
+
+In collaborazione con le varie associazioni cittadine: 
+
+- Centro ''Over 65'' di animazione sociale con gruppi di discussione, cineforum,  conferenze, dibattiti, visite guidate, gite nei siti più interessanti del territorio, spettacoli e concerti, presentazione libri e commento giornali, ballo, incontri intergenerazionali, mostre opere artistiche di over 65
+
+-----
+
+
+
+TITOLO: Parcheggi rosa
+
+TASSONOMIA: Sostegno alla mobilitа
+
+DESCRIZIONE: Aree parcheggio nelle quali riservare alcuni posti auto a donne in gravidanza o con bambini piccoli 0-3 anni
+
+-----
+
+
+
+TITOLO: Creazione orto sociale
+
+TASSONOMIA: Pianificazione urbanistica (strade, parchi, orti, campi sportivi ecc.)
+
+-----
+
+
+
+TITOLO: Creazione di aree sportive
+
+TASSONOMIA: Pianificazione urbanistica (strade, parchi, orti, campi sportivi ecc.)
+
+DESCRIZIONE: Attrezzature ludiche specificatamente prodotte per diverse disabilitа motorie
+
+-----
+
+
+
+TITOLO: Spazio di lettura
+
+TASSONOMIA: Servizi integrativi: Spazio genitori/bambini, spazio gioco
+
+DESCRIZIONE: Spazio di lettura dedicato specificatamente a bambini e genitori-bambini nella Biblioteca comunale
+
+-----
+
+
+
+TITOLO: Baby Pit Stop presso la biblioteca
+
+TASSONOMIA: Fasciatoi/Spazio allattamento/Baby Little Home/Spazi per la famiglia
+
+DESCRIZIONE: Corner con poltrona per la gestante e per l'allattamento e pit stop per cambio pannolini presso la biblioteca
+
+-----
+
+
+
+TITOLO: Scaffali tematici in biblioteca
+
+TASSONOMIA: Biblioteca family-oriented / media library
+
+DESCRIZIONE: Scaffale con pubblicazioni dedicate alla genitorialitа, libri tattili, aumentativi, in braille
+
+-----
+

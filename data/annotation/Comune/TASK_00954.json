@@ -1,0 +1,34 @@
+{
+  "task_id": "TASK_00954",
+  "doc_src": "comune.milano_aree-tematiche_links_D0285.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Come può un cittadino rinunciare alla concessione dei suo colombaro?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Non sono in grado di dirti quello che il cittadino deve fare per rinunciare al colombaro. L'ufficio Funerali, Sepolture e Cremazioni, raggiungibile tramite telefono 02 884.62160 / 62167 e e-mail funebrifuneralicremazioni@comune.milano.it  potrebbe saper rispondere a questa domanda.\n\nVorrei ricordare che la rinuncia anticipata al colombario rispetto al contratto, dà diritto al concessionario a un rimborso parziale.\n",
+      "ground": "Ufficio Funerali, Sepolture e Cremazioni\nvia Larga, 12 - 1° piano - stanza 115/120\ntel. 02 884.62160 / 62167\ne-mail:\nmailto\n.funebrifuneralicremazioni@comune.milano.it\n\n|||\n\nIn caso di rinuncia anticipata rispetto alla scadenza contrattuale, il concessionario ha diritto ad un parziale rimborso del corrispettivo versato per il cui calcolo verrà dedotto il 20% dell’importo versato per ogni anno o per frazione di anno trascorso dalla data della concessione."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Quanto ammonta il rimborso?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Il rimborso ammonta all'importo versato per la concessione, da cui viene dedotto il 20% per ogni anno o frazione di anno trascorso dalla data della concessione. Non sono incluse nel rimborso le somme pagate per diritti di segreteria, marche erariali ed eventuali spese.",
+      "ground": "Rinuncia alla concessione\nIn caso di rinuncia anticipata rispetto alla scadenza contrattuale, il concessionario ha diritto ad un parziale rimborso del corrispettivo versato per il cui calcolo verrà dedotto il 20% dell’importo versato per ogni anno o per frazione di anno trascorso dalla data della concessione.\nIl rimborso non riguarda le somme pagate per diritti di segreteria, marche erariali ed eventuali spese."
+    }
+  ],
+  "subcategory": "Milano"
+}

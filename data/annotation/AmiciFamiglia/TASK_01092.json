@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01092",
+  "doc_src": "cles__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Cosa consiglia come tassonomia \"Strumenti di Comunicazione\"?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Può realizzare del materiale promozionale e informativo per una comunicazione efficace verso collettività e famiglie, oltreché tenere aggiornati il sito del suo Comune, il Canale Telegram, la Newsletter e la pagina Facebook e Instagram.",
+      "ground": "DESCRIZIONE: Realizzazione e promozione di materiale promozionale e informativo attraverso il distretto Famiglia Val di Non.\n\n|||\n\nDESCRIZIONE: Costante aggiornamento del sito online del Comune, della pagina Facebook, della pagina Instagram, della piattaforma Telegram e della newsletter."
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "E se volessi promuovere la cittadinanza attiva?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Può porsi l'obiettivo di mettere al centro la scuola come motore per la valorizzazione del territorio e la coesione sociale. Può fare ciò educando i giovani all'intercultura, aiutandoli a superare gli stereotipi e stimolando la coesione.\n\nPossibili azioni più pratiche sono l'istituzione di gemellaggi con altre città e la creazione un progetto di mentoring basato su dialogo e mutuo aiuto che assogio un giovane a un bambino/ragazzo.",
+      "ground": "OBIETTIVO: Mettere al centro scuola, salute ed empowerement come motori propulsivi per la valorizzazione del territorio e la coesione sociale.\n\nIl proposito principale è educare i giovani cittadini all'intercultura. Promuovere all'eliminazione delle differenze reciproche ed i pregiudizi e rinsaldare il sentimento di coesione dei cittadini.\n\nDESCRIZIONE: Promozione di 3 gemellaggi:\n\nSuzdal (Russia);\n\nPemba (arcipelago di Zanzibar, Tanzania)\n\nSlawno ( Polonia) ;\n\nIn collaborazione con Consiglio Comunale dei Ragazzi (CCR) e progetto Scar\n\nScuola e cittadinanza attiva con il coinvolgimento degli Istituti Comprensivi di Cles.\n\nProgetto Mentoring: iter formativo basato sul dialogo e il mutuo aiuto, sulla fiducia e il rispetto reciproco tra un giovane e un bambino/ragazzo finalizzato alla crescita personale e delle proprie competenze sia sociali che professionali. In collaborazione con l’istituto comprensivo di Cles, le scuole superiori e il centro socio-educativo Gandalf."
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "E per il sostegno dei parcheggi rosa cosa potrei scrivere?",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Può offrire alle donne in gravidanza o genitori che accompagnano figli fino al 2 anno di età compiuto e residenti nel suo Comune i contrassegni per \"parcheggi Famiglia\", che permetterà loro di usufruire di parcheggi riservati e gratuiti.",
+      "ground": "Le donne in stato di gravidanza o i genitori che accompagnano il/i figlio/i fino al compimento del 2^ anno di etа e residenti nel Comune di Cles potranno richiedere i contrassegni per i ''Parcheggi Famiglia'', tramite i quali si potrа usufruire di parcheggi auto-riservati e gratuiti."
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

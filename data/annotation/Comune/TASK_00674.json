@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00674",
+  "doc_src": "comune.trento_aree-tematiche_D0465.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Scusi, potrebbe dirmi se sul Bondone è possibile praticare sci in inverno?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Mi dispiace, ma non sono in grado di darle questa informazione.",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Riuscirebbe allora a indicarmi dove posso trovare queste località?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Mi spiace, ma non sono in grado nemmeno di darle questa informazione.",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

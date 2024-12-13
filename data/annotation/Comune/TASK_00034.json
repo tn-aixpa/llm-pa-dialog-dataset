@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00034",
+  "doc_src": "comune.milano_aree-tematiche_D0050.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Salve, vorrei informazioni riguardo alla richiesta di residenza per persone straniere che provengono dall'estero.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Prima di avviare la richiesta di residenza, è necessario preparare la documentazione da allegare al modulo interattivo. La piattaforma accetta documenti di tipo gif, jpeg, jpg, pdf, tiff, tff e il peso massimo di ciascun allegato non può superare i 7MB.",
+      "ground": "Prima di avviare la richiesta di residenza, prepara la documentazione da allegare al modulo interattivo.\n\nLa piattaforma accetta documenti di tipo gif, jpeg, jpg, pdf, tiff, tff\nil peso massimo di ciascun allegato non può superare i 7MB."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E se invio i file via email, vengono presi in considerazione?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Purtroppo no, i file inviati per email sono ignorati.",
+      "ground": "Attenzione: eventuali file inviati via email non verranno presi in considerazione."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Okay. Mi chiedevo se ci sono documenti che vanno inclusi in qualsiasi di richiesta in questo senso.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Sì, deve compilare il Consenso del componente già residente per inserimento nello stato di famiglia ( www.linktopdffile.pdf ) nonché una copia fronte/retro di un documento di itendità in corso di validità.",
+      "ground": "[www.linktopdffile.pdf Consenso del componente già residente per inserimento nello stato di famiglia]\n\n|||\n\ncopia fronte/retro del documento di identità in corso di validità\nchi è in possesso di patente e/o libretto di circolazione emessi dall'autorità italiana deve  indicarlo all'interno del modulo"
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Perfetto, grazie mille per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "Se ha ulteriori domande, non esiti a contattarci.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_01064",
+  "doc_src": "bocenago__2023.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Buongiorno, nel mio piano vorrei evidenziare come la pandemia ha influito sul Comune, cosa mi suggerisce di scrivere?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Salve, potrebbe evidenziare come la pandemia sia stata al centro delle preoccupazioni familiari nonché il fatto che, seppure finita, sta mettendo alla prova salute, stabilità economica e benessere sociale. ",
+      "ground": "la pandemia ha rappresentato un tema centrale nelle discussioni e nelle preoccupazioni familiari. Non è da sottovalutare il periodo post pandemico, che ha messo a dura prova salute psicofisica, stabilitа economica e benessere sociale generale."
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Hai anche suggerimenti per qualcosa da scrivere verso le famiglie numerose?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Può dire che la sua Amministrazione ha un occhio di riguardo verso le famiglie numerosi poiché, grazie ai loro bisogno, l'intera collettività ne beneficia. ",
+      "ground": "Un occhio di riguardo verrа riservato alle famiglie numerose poichй, in maniera più o meno consapevole, forniscono un servizio alla societа: è infatti la societа a doversi attrezzare per far fronte ai loro crescenti bisogni e ciт diviene, a cascata, un fenomeno a beneficio della collettivitа. E' convinzione dell'Amministrazione comunale di Bocenago che la Famiglia debba essere o tornare ad essere un istituzione granitica inserita in un sistema sociale funzionante;"
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Grazie dei suggerimenti.",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Di nulla. Vuole sapere altro?",
+      "ground": ""
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "Hai un testo di un azione verso la fornitura di legna?",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "Il Piano Famiglia di Bocenago scrive la seguente azione:\n\nTITOLO: Fornitura legna per anziani e disabili\n\nTASSONOMIA: Fornitura legna\n\nOBIETTIVO: Garantire il diritto di uso civico a tutti i censiti, fornendo un servizio alle categorie fragili di anziani e disabili.\n\nDESCRIZIONE: La fornitura di legna per anziani è espressamente prevista nel Regolamento per l'esercizio dei diritti ed il godimento dei beni d'uso civico, che all'art. 17 prevede '' Per garantire il diritto di legnatico da ardere ai censiti ultraottantenni, ai portatori di handicap o comunque impossibilitati al loro materiale esercizio da altri comprovati gravi motivi, l'Amministrazione Comunale valuterа annualmente la possibilitа di distribuire per ogni nucleo famigliare un bancale di legna da ardere pronta e posta nei pressi delle abitazioni degli stessi, o in alternativa l'equivalente del valore in tronchetti, ''pellet''.",
+      "ground": "=== PIANO FAMIGLIA DI BOCENAGO ANNO 2023 ===\n\n|||\n\nTITOLO: Fornitura legna per anziani e disabili\n\nTASSONOMIA: Fornitura legna\n\nOBIETTIVO: Garantire il diritto di uso civico a tutti i censiti, fornendo un servizio alle categorie fragili di anziani e disabili.\n\nDESCRIZIONE: La fornitura di legna per anziani è espressamente prevista nel Regolamento per l'esercizio dei diritti ed il godimento dei beni d'uso civico, che all'art. 17 prevede '' Per garantire il diritto di legnatico da ardere ai censiti ultraottantenni, ai portatori di handicap o comunque impossibilitati al loro materiale esercizio da altri comprovati gravi motivi, l'Amministrazione Comunale valuterа annualmente la possibilitа di distribuire per ogni nucleo famigliare un bancale di legna da ardere pronta e posta nei pressi delle abitazioni degli stessi, o in alternativa l'equivalente del valore in tronchetti, ''pellet''."
+    },
+    {
+      "id": "T9",
+      "speaker": "Citizen",
+      "message": "Grazie. Vorrei anche avvicinare i ragazzi allo sport. Idee?",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agent",
+      "message": "Può dare dei contributi alle associazioni locali per tenere dei corsi gratuiti cosicché i giovani possano avvicinarsi allo sport. Per esempio, sempre Bocenago nel 2023 ha dato contributi a un'Associatione per organizzare corsi gratuiti di Golf  per bambini fino ai 18 anni. ",
+      "ground": "TITOLO: Contributo per realizzazione di corsi gratuiti di avvicinamento di bambini e ragazzi alla pratica sportiva\n\nTASSONOMIA: Agevolazioni tariffarie e contributi attivitа ricreative/culturali/aggregative/formative\n\nOBIETTIVO: Avvicinare i ragazzi alla pratica sportiva coinvolgendo l'Associazione sportiva Golf Rendena, avente sede nel territorio di Bocenago.\n\nDESCRIZIONE: Verrа concesso, anche per il 2023, un contributo all'Associazione Golf Rendena per sostenere i corsi gratuiti di avvicinamento alla pratica del golf per bambini e ragazzi fino all'etа di 18 anni."
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

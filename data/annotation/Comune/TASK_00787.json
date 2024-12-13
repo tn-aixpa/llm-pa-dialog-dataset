@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00787",
+  "doc_src": "comune.salerno_D0057.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni riguardo all'avviso pubblico per la definizione di un elenco di professionisti per l'accoglienza di persone con disturbi dello spettro autistico. Potete aiutarmi?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, può trovare l'avviso pubblico al link https://www.comune.salerno.it/sites/default/files/2024-04/AVVISO%20professionisti%20e%20operatori%20AUTISMO_revP%20%283%29.doc . \nC'è inoltre la domanda al link https://www.comune.salerno.it/sites/default/files/2024-04/allegatoA%20domanda%20autismo.pdf e la dichiarazione sostitutiva al link https://www.comune.salerno.it/sites/default/files/2024-05/allegato%20B%20dichiarazione%20sostitutiva%E2%80%9CAUTISMO%20%E2%80%93%20UN%20IMPEGNO%20CONDIVISO%E2%80%9D.doc",
+      "ground": "[https://www.comune.salerno.it/sites/default/files/2024-04/AVVISO%20professionisti%20e%20operatori%20AUTISMO_revP%20%283%29.doc](Avviso Pubblico)\n[https://www.comune.salerno.it/sites/default/files/2024-04/allegatoA%20domanda%20autismo.pdf](Allegato A - Domanda)\n[https://www.comune.salerno.it/sites/default/files/2024-05/allegato%20B%20dichiarazione%20sostitutiva%E2%80%9CAUTISMO%20%E2%80%93%20UN%20IMPEGNO%20CONDIVISO%E2%80%9D.doc](Allegato B - Dichiarazione sostitutiva)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni, ma posso chiedervi se c'è un numero di telefono a cui posso rivolgermi per ulteriori domande?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Mi dispiace, ma al momento non disponiamo di un numero telefonico dedicato a questo progetto.",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Perfetto, grazie ancora per l'aiuto. Buona giornata.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Di niente, resto a disposizione per ulteriori informazioni. Buona giornata anche a lei.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

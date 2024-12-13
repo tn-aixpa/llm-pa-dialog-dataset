@@ -1,0 +1,40 @@
+{
+  "task_id": "TASK_00878",
+  "doc_src": "comune.salerno_D0196.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Quando sarà inaugurala la mostra di Elio Rumma?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "La mostra sarà inaugurata giovedì 2 maggio alle 17.30.",
+      "ground": "Sarà inaugurata giovedì 2 maggio, alle ore 17.30, presso la Pinacoteca Provinciale di Salerno, in via dei Mercanti, la mostra di Elio Rumma \"Tra Ydam e Orixas\"."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Fino a quando sarà aperta?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, l'esposizione sarà visitabile fino al 13 maggio, con orario dal martedì alla domenica dalle 9.00 alle 19.45.",
+      "ground": "L'esposizione sarà visitabile fino al 13 maggio dal martedì alla domenica dalle 9.00 alle 19."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

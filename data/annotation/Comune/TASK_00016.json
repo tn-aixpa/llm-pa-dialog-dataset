@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00016",
+  "doc_src": "comune.milano_aree-tematiche_D0022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, potrebbe gentilmente darmi informazioni sul calendario di accensione degli impianti di riscaldamento per la stagione 2023/2024 negli edifici pubblici?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, il funzionamento di tutti gli impianti termici nel territorio comunale è regolamentato dal 22 ottobre 2023 all'8 aprile 2024, con un'attivazione dalle 5:00 alle 23:00 per un massimo di 13 ore al giorno. La temperatura massima impostabile è 19°C con 2°C di tolleranza",
+      "ground": "Nel territorio comunale il funzionamento di tutti gli impianti termici viene regolamentato come segue:\n\nperiodo di accensione: dal 22 ottobre 2023 all'8 aprile 2024\nore giornaliere: 13 - dalle 5:00 alle 23:00\ntemperatura massima:\n\n19°C + 2°C di tolleranza per tutti gli edifici ad esclusione di quelli adibiti ad attività industriali, artigianali e assimilabili il cui limite rimane invariato a 18°C+ 2°C di tolleranza;"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E per gli edifici adibiti ad attività industriali e artigianali, qual è la temperatura massima consentita?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Per gli edifici di questo tipo, la temperatura massima consentita è di 18°C con una tolleranza di 2°C.",
+      "ground": "temperatura massima: 19°C   2°C di tolleranza per tutti gli edifici ad esclusione di quelli adibiti ad attività industriali, artigianali e assimilabili il cui limite rimane invariato a 18°C  2°C di tolleranza;"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Capito, e al di fuori del periodo di accensione consentito, è possibile attivare gli impianti termici in determinate situazioni?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Sì, ma solo dal Responsabile in presenza di situazioni climatiche eccezionali, per un massimo di 7 ore al giorno.",
+      "ground": "Al di fuori del periodo di accensione consentito e senza alcuna ulteriore disposizione delle Autorità, gli impianti termici possono essere attivati dal Responsabile solo in presenza di situazioni climatiche che ne giustifichino l’esercizio e, comunque, per una durata giornaliera non superiore alla metà di quella consentita in via ordinaria (7 ore). Sono previste deroghe per alcuni edifici."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "Di nulla.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

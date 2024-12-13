@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00072",
+  "doc_src": "comune.milano_aree-tematiche_D0097.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Salve, vorrei informazioni sul superbonus 110%. È possibile ottenere gli atti edilizi tramite il Comune?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, sì, il Comune di Milano ha attivato un servizio digitale per supportare gli utenti che desiderano usufruire del superbonus. ",
+      "ground": "Per OTTENERE informazioni aggiornate consultare la relativa pagina \"Superbonus 110% - Governo Italiano Presidenza del Consiglio dei Ministri\" >>>[www.ministri.it]"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E se voglio verificare lo stato degli immobili?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "È possibile accedere al servizio online \"Visure e copie dei fascicoli edilizi\" per presentare un'istanza. Se vuole seguire questo iter deve allegare il verbale dell'assemblea condominiale con l'approvazione degli interventi.",
+      "ground": "Per PRESENTARE istanza di visura dei fascicoli edilizi finalizzata alla verifica dello stato legittimo degli immobili accedere al servizio online \"Visure e copie dei fascicoli edilizi\" >>>[www.visura.eu]\nE' indispensabile allegare il verbale dell’assemblea condominiale nel quale sia chiaramente indicata l’approvazione degli interventi finalizzati all’ottenimento del bonus 110%."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "E per informazioni sullo stato delle istanze?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Dal febbraio 2021 è attiva la casella di posta InfoBonus110@comune.milano.it a cui è possibile inviare richieste relative allo stato delle istanze di accesso agli atti per il superbonus. È necessario indicare il numero di protocollo che ha ricevuto tramite pec o alla compilazione della domanda online e l'indirizzo dell'immobile.",
+      "ground": "A partire da febbraio 2021 è stata attivata la nuova casella di posta InfoBonus110@comune.milano.it alla quale è possibile inviare richiesta di informazioni relative esclusivamente allo stato di lavorazione delle istanze di accesso agli atti finalizzate all’ottenimento del superbonus 110% (ovvero quelle alle quali, all’atto della presentazione, sia stata allegata la delibera assembleare con specifica approvazione della richiesta dello stesso così come indicato nelle informazioni contenute nel portale) e delle quali sia indicato il numero di protocollo assegnato tramite pec o all’atto della presentazione online e l'indirizzo dell'immobile."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni, ho anche bisogno di informazioni tecniche generali.",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "Per informazioni tecniche, le posso che:\n- In caso di redazione energetica o inquadramento energetivo degli interventi può contattare indirizzo SueMonitoraggioUcredil@comune.milano.it ;\n- Per ciò che riguarda il cemento armato, come obblighi normativi e presentazione di depositi sismici può contattare l'indirizzo SueCementiArmati@comune.milano.it .",
+      "ground": "Per OTTENERE informazioni aggiornate consultare la relativa pagina \"Superbonus 110% - Governo Italiano Presidenza del Consiglio dei Ministri\" >>> \nPer PRESENTARE istanza di visura dei fascicoli edilizi finalizzata alla verifica dello stato legittimo degli immobili accedere al servizio online \"Visure e copie dei fascicoli edilizi\" >>>"
+    }
+  ],
+  "subcategory": "Milano"
+}

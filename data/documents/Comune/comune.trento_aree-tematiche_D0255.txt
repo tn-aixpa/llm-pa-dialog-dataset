@@ -1,0 +1,59 @@
+Il piano di emergenza inondazione fiume Adige è composto da una relazione e da una serie di allegati e tavole. È disponibile anche una presentazione sintetica dei contenuti del piano.
+[]()
+Descrizione degli allegati
+[/Aree-tematiche/Protezione-civile/Piano-emergenza-inondazione-fiume-Adige/Documentazione-ufficiale/Piano-emergenza-inondazione-fiume-Adige](Piano emergenza inondazione fiume Adige)
+: piano relativo all’organizzazione delle procedure d’intervento in emergenza, dell’attività di monitoraggio del territorio e dell’assistenza alla popolazione riferite al rischio di inondazione del Fiume Adige. È concepito sia come strumento operativo sia per la cittadinanza che va evacuata, sia per tutti gli operatori della protezione civile.
+[/Aree-tematiche/Protezione-civile/Piano-emergenza-inondazione-fiume-Adige/Documentazione-ufficiale/Presentazione-sintetica-piano-emergenza-inondazione-fiume-Adige](Presentazione sintetica piano emergenza inondazione fiume Adige)
+[/Aree-tematiche/Protezione-civile/Piano-emergenza-inondazione-fiume-Adige/Documentazione-ufficiale/Allegato-2-Elenco-centri-di-accoglienza](Allegato 2 - Elenco centri di accoglienza)
+: elenco degli edifici in zona sicura, esterno all’area inondata, dove viene alloggiata e assistita la popolazione fino alla fine dell’evento di inondazione
+[/Aree-tematiche/Protezione-civile/Piano-emergenza-inondazione-fiume-Adige/Documentazione-ufficiale/Allegato-3-Elenco-punti-di-raccolta](Allegato 3 - Elenco punti di raccolta)
+: elenco dei luoghi dove si raccoglie la popolazione prima dell’evento di piena per essere trasferita ai centri di accoglienza dagli operatori di protezione civile
+[/Aree-tematiche/Protezione-civile/Piano-emergenza-inondazione-fiume-Adige/Documentazione-ufficiale/Allegato-7-Schede-evacuazione](Allegato 7 - Schede evacuazione)
+: sono descritti i settori di evacuazione e per ogni settore i punti di raccolta, i centri di accoglienza e i percorsi di evacuazione.
+[/Aree-tematiche/Protezione-civile/Piano-emergenza-inondazione-fiume-Adige/Documentazione-ufficiale/Tavola-E10-Modello-di-intervento-tr-30-portata-attesa-inferiore-a-2050-metri-cubi-al-secondo](Tavola E10 - Modello di intervento tr 30)
+- portata attesa inferiore a 2050 metri cubi al secondo
+: si riferisce ad uno scenario per cui sono attese situazioni locali di allagamento. La tavola rappresenta il territorio soggetto ad inondazione, suddiviso in settori indicati con lettera maiuscola. Il
+Modello di intervento
+prevede che si attui l’evacuazione preventiva di tutto l’edificio delle aree estese con bassa densità di popolazione e costruzioni isolate (colore viola) e la messa in sicurezza con evacuazione solo dei piani terra delle altre aree (colore rosa).
+[/Aree-tematiche/Protezione-civile/Piano-emergenza-inondazione-fiume-Adige/Documentazione-ufficiale/Tavola-E11-Modello-di-intervento-tr-100-200-portata-attesa-maggior-o-uguale-a-2050-metri-cubi-al-secondo](Tavola E11 - Modello di intervento tr 100-200)
+- portata attesa maggior o uguale a 2050 metri cubi al secondo
+: si riferisce ad uno scenario per cui si prevede una inondazione estesa del fondovalle. La tavola rappresenta il territorio soggetto ad inondazione, suddiviso in settori indicati con lettera maiuscola. Il
+Modello di intervento
+prevede che si attui l’evacuazione preventiva di tutto l’edificio delle aree estese con bassa densità di popolazione e costruzioni isolate (colore viola) e la messa in sicurezza con evacuazione solo dei piani terra delle altre aree (colore rosa).
+[/Aree-tematiche/Protezione-civile/Piano-emergenza-inondazione-fiume-Adige/Documentazione-ufficiale/Tavola-E12-Area-evacuazione-tr-30-portata-attesa-inferiore-a-2050-metri-cubi-al-secondo](Tavola E12 - Area evacuazione tr 30)
+- portata attesa inferiore a 2050 metri cubi al secondo
+: si riferisce ad uno scenario per cui sono attese situazioni locali di allagamento. La tavola rappresenta il territorio soggetto ad inondazione, suddiviso in settori colorati indicati con lettera maiuscola. Per ogni settore sono indicati:
+i
+punti di raccolta
+presidiati, a cui deve recarsi la popolazione che non ha avuto la possibilità di raggiungere  in modo autonomo un alloggio esterno all’area soggetta a inondazione;
+i
+centri di accoglienza
+dove gli operatori di protezione civile, con gli autobus che seguono i percorsi indicati, trasportano la popolazione  e la accudiscono durante l’emergenza.
+[/Aree-tematiche/Protezione-civile/Piano-emergenza-inondazione-fiume-Adige/Documentazione-ufficiale/Tavola-E13-Area-evacuazione-tr-100-200-portata-attesa-maggior-o-uguale-a-2050-metri-cubi-al-secondo](Tavola E13 - Area evacuazione tr 100-200)
+- portata attesa maggior o uguale a 2050 metri cubi al secondo
+: si riferisce ad uno scenario per cui si prevede una inondazione estesa del fondovalle. La tavola rappresenta il territorio soggetto ad inondazione, suddiviso in settori colorati indicati con lettera maiuscola. Per ogni settore sono indicati:
+i
+punti di raccolta
+presidiati, a cui deve recarsi la popolazione che non ha avuto la possibilità di raggiungere  in modo autonomo un alloggio esterno all’area soggetta a inondazione;
+i
+centri di accoglienza
+dove gli operatori di protezione civile, con gli autobus che seguono i percorsi indicati, trasportano la popolazione  e la accudiscono durante l’emergenza.
+[/Aree-tematiche/Protezione-civile/Piano-emergenza-inondazione-fiume-Adige/Documentazione-ufficiale/Tavola-E14A-Viabilita-tr-30-portata-attesa-inferiore-a-2050-metri-cubi-al-secondo](Tavola E14A - Viabilità tr 30)
+- portata attesa inferiore a 2050 metri cubi al secondo
+: si riferisce ad uno scenario per cui sono attese situazioni locali di allagamento. Sono rappresentati:
+una serie di punti detti cancelli di chiusura della viabilità della zona interessata dall’inondazione, i cancelli sono transitabili dai mezzi privati solo in uscita;
+i sottopassi, luoghi pericolosi a rischio di allagamento, che vengono chiusi al traffico su tutto il fondovalle ancor prima dell’arrivo dell’onda di piena.
+[/Aree-tematiche/Protezione-civile/Piano-emergenza-inondazione-fiume-Adige/Documentazione-ufficiale/Tavola-E14B-Viabilita-tr-100-200-portata-attesa-maggior-o-uguale-a-2050-metri-cubi-al-secondo](Tavola E14B - Viabilità tr 100-200)
+- portata attesa maggior o uguale a 2050 metri cubi al secondo
+: si riferisce ad uno scenario per cui sono attese situazioni locali di allagamento. Sono rappresentati:
+una serie di punti detti cancelli di chiusura della viabilità della zona interessata dall’inondazione, i cancelli sono transitabili dai mezzi privati solo in uscita;
+i sottopassi, luoghi pericolosi a rischio di allagamento, che vengono chiusi al traffico su tutto il fondovalle ancor prima dell’arrivo dell’onda di piena.
+[/Aree-tematiche/Protezione-civile/Piano-emergenza-inondazione-fiume-Adige/Documentazione-ufficiale/Fig.-11a-Evacuazione-completa](Fig. 11a - Evacuazione completa)
+: descrive la situazione di evacuazione completa dell’edificio (aree a colore viola del Modello di intervento), come comportarsi e cosa portare con sé in caso di evacuazione (vedi
+[/Aree-tematiche/Protezione-civile/Piano-emergenza-inondazione-fiume-Adige/Comportamento-della-popolazione-in-caso-di-esondazione-del-fiume-Adige/Zaino-di-emergenza](Zaino di emergenza)
+).
+[/Aree-tematiche/Protezione-civile/Piano-emergenza-inondazione-fiume-Adige/Documentazione-ufficiale/Fig.-11b-Messa-in-sicurezza-evacuazione-piani-terra](Fig. 11b - Messa in sicurezza)
+- evacuazione piani terra
+: descrive la situazione di messa in sicurezza con evacuazione dei piani terra (aree a colore rosa del Modello di intervento), come comportarsi e di cosa dotarsi per la permanenza nell’alloggio (vedi
+[/Aree-tematiche/Protezione-civile/Piano-emergenza-inondazione-fiume-Adige/Comportamento-della-popolazione-in-caso-di-esondazione-del-fiume-Adige/Scorte-di-emergenza](Scorte di emergenza)
+per la permanenza nei piani superiori degli edifici).

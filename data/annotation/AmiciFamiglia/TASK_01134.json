@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_01134",
+  "doc_src": "ospedaletto__2023.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Cosa suggerisce per potenziare la comunicazione del Comune?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Può creare o potenziare l'uso di social come Facebook e Telegram, così da tenere aggiornati i cittadini con le iniziative locali e provinciali. Nel caso la sua popolazione ha difficoltà a usare i social, può pensare alla creazione di un notiziario con sezioni dedicate alle politiche sociali e familiari.",
+      "ground": "Proseguirа anche per il 2023 la pubblicazione del Notiziario ''Ospedaletto Notizie'', in un'unica uscita annuale contenente anche sezioni dedicate alle politiche sociali e familiari . Esso rappresenta un ulteriore strumento di comunicazione, utile soprattutto per tutte quelle persone che non utilizzano i canali social/web.\n\n|||\n\nAnche per il 2023 vi è la volontа di potenziare la pagina Facebook ''Comune di Ospedaletto - TN'' e il canale Telegram, sempre aggiornati con post riguardanti anche iniziative locali e provinciali."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Grazie. Per eventi estivi che azioni mi propone?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Potrebbe organizzare una serie di eventi sportivi all'aria aperta, come canyoning, mountain bike e arrampicata, per coinvolgere i giovani tra gli 11 e i 16 anni. Parallelamente, può pensare di offrire uno spazio di dialogo fra adunti e genitori per discutere sul valore dello sport attraverso serate informative a tema.",
+      "ground": "[\"Nell'estate 2023 verrа presentato il progetto ''#Meetsport. Lo sport oltre lo sport'' sul Piano Giovani di Zona Valsugana e Tesino in collaborazione con l'ASD Ortigaralefre e supportato dai Comuni di Grigno, Castel Ivano, Samone e Bieno.\\n\\nIl progetto, rivolto a giovani 11-16 anni, prevede un ricco calendario di attivitа ludico-sportive all'aria aperta (canyoning, Mountain bike, roller, arrampicata, cammino esperienziale, ecc.) al fine di offrire una proposta accattivante ad un target di ragazze/i solitamente difficile da coinvolgere.\\n\\nParallelamente si vuole offrire uno spazio di dialogo e confronto tra adulti/genitori al fine di aprire dibattiti e riflessioni sul valore costruttivo dello sport. Verranno organizzate n.3 serate informative sui seguenti temi: psicologia dello sport, alimentazione e sport, prevenzione dei traumi in etа adolescenziale.\"]"
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Questa proposta piacerà molto alla comunità.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Sono felice di ciò. Posso aiutarla con altro?",
+      "ground": ""
+    },
+    {
+      "id": "T07",
+      "speaker": "Citizen",
+      "message": "No, sono a posto così. A presto.",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agent",
+      "message": "Saluti e buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

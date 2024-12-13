@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00396",
+  "doc_src": "comune.milano_aree-tematiche_links_D0430.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, come procede l'agricoltura a Milano?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "L'agricoltura a Milano negli ultimi decenni si è ridotta a causa dell'espansione urbana. Tuttavia, recentemente ci sono stati sforzi per riavvicinare le aziende alla vita metropolitana attraverso nuove iniziative e servizi.",
+      "ground": "Il settore primario ha avuto grande rilevanza nel territorio di Milano sino all’espansione della città nel dopoguerra, quando la crescente urbanizzazione e il potenziamento delle principali arterie infrastrutturali e tecnologiche hanno ridotto l’estensione dei fondi agricoli situati entro i confini del Comune.\nIn tempi recenti, tuttavia, questi stessi fattori hanno contribuito a riavvicinare le aziende alla vita metropolitana attraverso la diversificazione, la multifunzionalità e l’offerta di nuovi servizi."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Ci sono ancora agriturismi e fattorie didattiche attive nella zona?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, sono sempre più frequenti gli agriturismi e le fattorie didattiche a Milano che offrono educazione, ospitalità e vendita diretta.",
+      "ground": "E sono sempre più frequenti gli agriturismi e le fattorie didattiche che stabiliscono un rapporto attivo con la cittadinanza all’insegna dell’educazione, dell’ospitalità e della vendita diretta."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni, mi piacerebbe saperne di più. Ci sono dei siti web o risorse a cui posso fare riferimento?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Certamente, sul sito del Comune di Milano puoi trovare ulteriori informazioni sui distretti agricoli, i mercati agricoli di vendita diretta, i parchi rurali e altri progetti legati all'agricoltura nella città. Le riporto in seguito alcune di queste fonti:\n- Distretti agricoli di Milano https://www.comune.milano.it/aree-tematiche/verde/milano-metropoli-rurale/i-distretti-agricoli-di-milano]\n- Mercati agricoli di vendita diretta https://www.comune.milano.it/aree-tematiche/verde/milano-metropoli-rurale/mercati-agricoli-di-vendita-diretta\n- Progetto Agricity https://www.comune.milano.it/aree-tematiche/verde/milano-metropoli-rurale/progetto-agricity",
+      "ground": "[https://www.comune.milano.it/aree-tematiche/verde/milano-metropoli-rurale/banca-della-terra-lombarda](Banca della Terra Lombarda)\n[https://www.comune.milano.it/aree-tematiche/verde/milano-metropoli-rurale/cascine-a-milano](Cascine a Milano: dove sono, cosa offrono)\n[https://www.comune.milano.it/aree-tematiche/verde/milano-metropoli-rurale/i-distretti-agricoli-di-milano](I distretti agricoli di Milano)\n[https://www.comune.milano.it/aree-tematiche/verde/milano-metropoli-rurale/mercati-agricoli-di-vendita-diretta](Mercati agricoli di vendita diretta)\n[https://www.comune.milano.it/aree-tematiche/verde/milano-metropoli-rurale/parchi-rurali](Parchi rurali di Milano)\n[https://www.comune.milano.it/aree-tematiche/verde/milano-metropoli-rurale/progetto-agricity](Progetto Agricity)\n[https://www.comune.milano.it/aree-tematiche/verde/milano-metropoli-rurale/statistiche-agricoltura](Statistiche sull’agricoltura milanese)"
+    }
+  ],
+  "subcategory": "Milano"
+}

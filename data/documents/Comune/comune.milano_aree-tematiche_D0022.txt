@@ -1,0 +1,49 @@
+Calendario di accensione degli impianti di riscaldamento
+
+Stagione 2023/2024
+Nel territorio comunale il funzionamento di tutti gli impianti termici viene regolamentato come segue:
+
+periodo di accensione: dal 22 ottobre 2023 all'8 aprile 2024
+ore giornaliere: 13 - dalle 5:00 alle 23:00
+temperatura massima:
+	
+19°C + 2°C di tolleranza per tutti gli edifici ad esclusione di quelli adibiti ad attività industriali, artigianali e assimilabili il cui limite rimane invariato a 18°C+ 2°C di tolleranza;
+
+Al di fuori del periodo di accensione consentito e senza alcuna ulteriore disposizione delle Autorità, gli impianti termici possono essere attivati dal Responsabile solo in presenza di situazioni climatiche che ne giustifichino l’esercizio e, comunque, per una durata giornaliera non superiore alla metà di quella consentita in via ordinaria (7 ore).
+Sono previste deroghe per alcuni edifici. Consulta il paragrafo dedicato.
+
+Deroghe ed esenzioni
+
+Deroghe al periodo/ore di funzionamento per tutti gli impianti attivazione (Deliberazione n. XI/3502 - Regione Lombardia)
+
+edifici adibiti a ospedali, cliniche o case di cura e assimilabili ivi compresi quelli adibiti a ricovero o cura di minori o anziani, nonché alle strutture protette per l'assistenza ed il recupero dei tossico-dipendenti e di altri soggetti affidati a servizi sociali pubblici
+sedi delle rappresentanze diplomatiche e di organizzazioni internazionali, che non siano ubicate in stabili condominiali
+edifici adibiti a scuole materne e asili nido
+edifici adibiti a piscine, saune e assimilabili
+edifici adibiti ad attività industriali ed artigianali e assimilabili, nei casi in cui ostino esigenze tecnologiche o di produzione
+
+Deroghe limitatamente alla durata giornaliera di attivazione (Deliberazione n. XI/3502 - Regione Lombardia)
+
+edifici adibiti a uffici e ad attività commerciali o a loro assimilabili, limitatamente alle parti adibite a servizi senza interruzione giornaliera delle attività
+impianti termici che utilizzano calore proveniente da centrali di cogenerazione con produzione combinata di elettricità e calore
+impianti termici che utilizzano sistemi di riscaldamento di tipo a pannelli radianti incassati nell’opera muraria
+impianti termici al servizio di uno o più edifici dotati di circuito primario, volti esclusivamente ad alimentare gli edifici di cui alle deroghe previste al comma 5, per la produzione di acqua calda per usi igienici e sanitari, nonché al fine di mantenere la temperatura dell’acqua nel circuito primario al valore necessario a garantire il funzionamento dei circuiti secondari nei tempi previsti
+impianti termici al servizio di più unità immobiliari residenziali e assimilate, dotati di gruppo termoregolatore pilotato da una sonda di rilevamento della temperatura esterna con programmatore che consenta la regolazione almeno su due livelli della temperatura ambiente nell’arco delle 24 ore; questi impianti possono essere condotti in esercizio continuo purché il programmatore giornaliero venga tarato e sigillato per il raggiungimento di una temperatura degli ambienti pari a 16° C + 2° C di tolleranza nelle ore al di fuori della durata giornaliera di attivazione, di cui al comma 7 del presente punto
+impianti termici al servizio di più unità immobiliari residenziali e assimilate sui quali sia installato e funzionante, in ogni singola unità immobiliare, un sistema di contabilizzazione del calore e un sistema di termoregolazione della temperatura ambiente dell’unità immobiliare stessa, dotato di un programmatore che consenta la regolazione almeno su due livelli di detta temperatura nell’arco delle 24 ore; il programmatore deve comunque essere programmato in modo tale da non superare il limite massimo di attivazione oraria giornaliera per la singola unità immobiliare, come previsto dal comma 7
+impianti termici per singole unità immobiliari residenziali e assimilate dotati di un sistema di termoregolazione della temperatura ambiente con programmatore giornaliero che consenta la regolazione di detta temperatura almeno su due livelli nell’arco delle 24 ore nonché lo spegnimento del generatore di calore sulla base delle necessità dell’utente, purché il programmatore sia programmato in modo tale da non superare il limite massimo di attivazione oraria giornaliera, come previsto dal comma 7
+impianti termici condotti mediante “contratti di servizio energia” o “contratti di rendimento energetico”, ove i corrispettivi sono correlati al raggiungimento del comfort ambientale nei limiti consentiti dal presente dispositivo, purché si provveda, durante le ore al di fuori della durata di attivazione degli impianti consentita dai commi 7 e 8, ad attenuare la potenza erogata dall’impianto nei limiti indicati alla lettera e)
+
+Deroghe alle temperature ambiente
+
+gli ospedali, le cliniche o case di cura e assimilabili, ivi compresi quelli adibiti a ricovero o cura di minori o anziani, nonché le strutture protette per l’assistenza e il recupero di soggetti fragili o affidati a servizi sociali pubblici, sono esclusi dal rispetto dei commi 1 e 2 della Deliberazione n. XI / 3502, limitatamente alle zone riservate alla permanenza e al trattamento medico dei degenti o degli ospiti
+per gli edifici adibiti a piscine, saune e assimilabili, per le sedi delle Rappresentanze diplomatiche e di Organizzazioni internazionali non ubicate in stabili condominiali, i Comuni possono concedere deroghe motivate ai limiti di temperatura di cui ai commi 1 e 2, qualora elementi oggettivi o esigenze legate alla specifica destinazione d’uso giustifichino temperature diverse di detti valori
+
+Per maggiori dettagli consultare la sezione Riferimenti normativi.
+
+Riferimenti normativi
+
+Ordinananza sindacale n. 65 del 05.10.2023
+
+
+
+

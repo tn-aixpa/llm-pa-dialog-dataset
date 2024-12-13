@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00730",
+  "doc_src": "comune.trento_aree-tematiche_D0577.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni riguardo alla dichiarazione di nascita e alle certificazioni di stato civile.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno. La dichiarazione di nascita può essere ricevuta dalla Direzione sanitaria dove è avvenuto il parto o dal Comune. Per quanto riguarda le certificazioni di stato civile, possiamo correggere errori materiali di scrittura negli atti di nascita, matrimonio e morte.",
+      "ground": "Ricevuta dalla Direzione sanitaria ove è avvenuto il parto oppure dal Comune\n\n|||\n\ncorrezione errori materiali di scrittura (atti di nascita, matrimonio, morte))\nL’Ufficiale dello Stato civile corregge gli errori materiali di scrittura in cui sia incorso nella redazione degli atti..."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E per il riconoscimento paterno di un minore?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "I genitori possono presentarsi su appuntamento all'ufficiale di Stato civile per sottoscrivere l'atto di riconoscimento di paternità e per ottenere l'attribuzione del cognome al figlio minore.",
+      "ground": "I genitori, su appuntamento, si presentano innanzi all’ufficiale dello Stato civile e sottoscrivono l’atto di riconoscimento di paternità. I genitori sottoscrivono anche la domanda indirizzata al Tribunale Ordinario per ottenere l’attribuzione del cognome al figlio minore."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È stato un piacere, se ha bisogno di ulteriori chiarimenti non esiti a contattarci. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

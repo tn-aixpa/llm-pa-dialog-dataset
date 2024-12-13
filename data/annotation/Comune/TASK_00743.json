@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00743",
+  "doc_src": "comune.trento_aree-tematiche_D0614.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Posso consultare online la cartografia dei cimiteri del Comune di Trento?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, alla pagina https://gis.comune.trento.it/it/map/cimiteri/ può consultare i 22 cimiteri del Comune di Trento. ",
+      "ground": "Consulta online la cartografia dei cimiteri messa a disposizione dal Comune di Trento\nQuesto servizio consente la consultazione dei 22 cimiteri del Comune amministrativo di Trento."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Posso cercare i nominativi dei defunti tramite questa cartografia?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Sì, è possibile navigare la mappa dando i nominativi dei defunti.",
+      "ground": "L'approccio alla cartografia avviene secondo i classici modelli di tipo geometrico tramite navigazione sulla mappa ed alfanumerico con ricerche per nominativo dei defunti."
+    }
+  ],
+  "subcategory": "Trento"
+}

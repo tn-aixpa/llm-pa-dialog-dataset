@@ -1,0 +1,10 @@
+Uno strumento che basandosi sulle caratteristiche dell'acquifero e ne valuta la vulnerabilità in caso di contatto con un inquinante
+La Carta della Vulnerabilità Intrinseca degli Acquiferi è stata elaborata facendo riferimento alla metodologia s.i.n.t.a.c.s, che definisce la suscettibilità specifica dei sistemi acquiferi ad ingerire e diffondere, anche mitigandone gli effetti, un inquinante fluido idroveicolato tale da produrre impatto sulla qualità dell'acqua sotterranea nello spazio e nel tempo (Civita 1987). Tale strumento si rende opportuno nell'ambito della conoscenza specifica del territorio in relazione alla catalogazione ed omogeneizzazione dei dati relativi al suolo ed al sottosuolo necessari nella programmazione della fruizione del territorio sia a livello urbanisticho che di infrastrutture.
+Lo studio è stato realizzato nel 2001 dal Comune di Trento attraverso la consulenza e l'analisi di dati e studi anche in possesso dell'Amministrazione da parte del dott. geol. Paolo Passardi.
+La cartografia è consultabile sul
+[/Aree-tematiche/Cartografia/Portale-cartografico](portale cartografico "Ambiente" del Comune di Trento)
+, selezionando "
+Falda
+" fra le possibili viste proposte nel menù a tendina e spuntando "
+Vulnerabilità
+" fra la lista dei tematismi.

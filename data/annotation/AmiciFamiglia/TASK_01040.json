@@ -1,0 +1,82 @@
+{
+  "task_id": "TASK_01040",
+  "doc_src": "Plan_59399.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Dovrei scrivere il piano per gli amici della famiglia. Il mio Comune soffrendo di spopolamento, su cosa consigli di concentrarsi? ",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Un esempio è dato dal Comune di Cinte Tesino. Loro intendono affrontare lo spopolamento  creando posti di lavoro per le famiglie e pagando loro l'affitto se si muovono in appartamento per un anno. In cambio la famiglia, pagando i servizi e mandando i figli nelle scuole locali, contribuisce a dividere i costi della comunità.",
+      "ground": "Limitazione dello spopolamento: fra gli indirizzi di governo, approvati lo scorso autunno, ad inizio del mandato amministrativo, l’Amministrazione comunale ne ha inserito uno che riguarda la creazione di nuovi posti di lavoro. Questo garantirа a nuove persone ma soprattutto a nuove famiglie di poter venire a vivere in Tesino e a Cinte in particolare lasciando una realtа caotica e poco sicura per venire a vivere in una valle stupenda come la nostra. Il patto fra la famiglia ed il Comune è vantaggioso per entrambi: il Comune ti offre un lavoro e ti paga l’affitto dell’appartamento per un anno; tu ti trasferisci con la tua famiglia e ci aiuti a dividere i nostri costi (acquedotti, fognature, pulizia strade, rifiuti ecc.) e mandi i tuoi figli nei nostri asili e scuole."
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Tutto questo mi sembra strano, quali sarebbero i vantaggi?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "I vantaggi sono diversi e per tutta la collettività, gli imprenditori riescono ad investire, si riesce a controllare lo spopolamento, scuole e asili riescono a rimanere aperti, i proprietari di immobili riescono ad affittare grazie all'intermediazione del Comune e gli esercizi commerciali riescono ad avere più clientela",
+      "ground": "    Il patto potrа realizzare vantaggi per l’intera collettivitа:\n\n§ L’imprenditore realizza i suoi investimenti\n\n§ La Provincia riesce a contenere uno spopolamento oramai incontrastabile della montagna\n\n§ Scuole e asili del Tesino potranno continuare a restare aperti\n\n§ I proprietari di immobili che vorranno affittare un appartamento potranno farlo con l’intermediazione del Comune che garantirа sia il pagamento dell’affitto che la conduzione dell’appartamento stesso.\n\n§ Gli esercizi commerciali potranno avere qualche cliente in più che aiuterа loro a supportare i costi di esercizio."
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Sembra proprio un piano ben pensato. Per le azioni riguardo ai bambini cosa hanno pensato?",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Ci sono diverse azioni, per esempio, dare dei contributi per gli studenti meritevoli quando conseguono l'esame di istruzione secondaria superiore, il bonus bebè all'iscrizione nella scuola materna in uno dei Comuni di Tesino per i neonati residenti a Cinte Tesino e il supporto all'organizzazione del Grest verso i ragazzi.",
+      "ground": "DESCRIZIONE: Concessione di\n\ncontributi per il conseguimento di titoli di laurea o similari e\n\nper studenti meritevoli in occasione del conseguimento dell’esame di\n\nstato conclusivo del corso di studio di istruzione secondaria superiore.\n\n|||\n\nDESCRIZIONE: Erogazione del\n\nbonus bebè al momento dell’iscrizione alla scuola materna di uno dei comuni del Tesino per i nuovi nati residenti a Cinte Tesino.\n\n|||\n\nDESCRIZIONE: Supporto nell’organizzazione del Grest rivolto ai\n\nragazzi, promosso dall’Associazione NOI TESINO APS"
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "Non ci sono supporti alle famiglie nel periodo estivo?",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "C'è l'organizzazione della Colonia estiva. Il Comune intende collaborare con la pro loco locale e l'associazione NOI TESINO APS per favorire la conciliazione dei tempi lavoro-famiglia per intrattenere i bambini con attività ludico didattiche.",
+      "ground": "TITOLO: Colonia estiva\n\nOBIETTIVO: favorire una efficace conciliazione dei tempi\n\nlavoro-famiglia\n\nDESCRIZIONE: Supporto nella preparazione, in collaborazione con\n\nla pro loco di Cinte Tesino e l’associazione NOI TESINO APS, durante il periodo\n\nestivo, di una colonia estiva, per bambini da 6 a 14 anni con attivitа ludico didattiche\n\naperta a residenti e turisti."
+    },
+    {
+      "id": "T9",
+      "speaker": "Citizen",
+      "message": "Intendono fare qualcosa con i parchi?",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agent",
+      "message": "Sì, questo comune intende aprire un nuovo parco avventura, nonché far manutenzione di parchi e giardini, aggiungendo tavoli e panchine alle attrezzature già presenti",
+      "ground": "TITOLO: Apertura nuovo parco\n\nOBIETTIVO: Consentire a residenti e turisti di trovare uno spazio per l'attivitа ludico - sportiva\n\nDESCRIZIONE: A partire dalla prossima stagione estiva sarа aperto un nuovo parco avventura\n\nTITOLO: Manutenzione parchi e giardini\n\nOBIETTIVO: Consentire alle famiglie di fruire di spazi all'aria aperta più confortevoli e sicuri\n\nDESCRIZIONE: Manutenzione dei parchi comunali con inserimento\n\nnegli stessi di nuove panchine, tavoli e giochi e sistemazione delle\n\nattrezzature giа esistenti"
+    },
+    {
+      "id": "T11",
+      "speaker": "Citizen",
+      "message": "Ci sono anche idee sul come ascoltare il cittadino?",
+      "ground": ""
+    },
+    {
+      "id": "T12",
+      "speaker": "Agent",
+      "message": "E' prevista un azione per accogliere reclami e segnalazioni dei cittadini, cosicché il comune possa prendere nota e trovare idee per il miglioramento dei servizi comunali. È inoltre prevista l'estensione dell'apertura (dalle 7.30) così da agevolare i lavoratori.",
+      "ground": "OBIETTIVO: Risolvere problemi segnalati dai cittadini e valutare ed attuare le richieste presentate dai cittadini\n\nDESCRIZIONE: All'ingresso della sede municipale viene posta una cassetta dove i cittadini possono liberamente, in qualsiasi ora del giorno, depositare le proprie proposte per migliorare i servizi comunali o per segnalare disservizi\n\n|||\n\nTITOLO: Apertura uffici comunali\n\nOBIETTIVO: Agevolare le persone che lavorano\n\nDESCRIZIONE: Gli uffici comunali aprono al pubblico dalle ore 7.30 del mattino"
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

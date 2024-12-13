@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00272",
+  "doc_src": "comune.milano_aree-tematiche_links_D0303.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni su come posso trasferire delle ossa fuori dal Comune di Milano.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Per il trasporto in un altro Comune o Stato estero è necessario ottenere le autorizzazioni necessarie, che dipendo di caso in caso. Le pratiche possono essere svolte direttamente dal cittadino o da un'impresa funebre delegata.",
+      "ground": "Per il trasferimento è indispensabile disporre delle autorizzazioni descritte caso per caso. Le pratiche possono essere sbrigate direttamente dal cittadino/cittadina oppure da un’impresa funebre delegata."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Posso portarle con la mia auto?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, è possibile usare la propria auto per il trasporto.",
+      "ground": "Le ceneri o i resti ossei si possono trasportare anche con la propria autovettura."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È un piacere, resto a disposizione per ulteriori chiarimenti. Buona giornata!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

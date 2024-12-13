@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_00065",
+  "doc_src": "comune.milano_aree-tematiche_D0087.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Ciao, potresti spiegarmi cos'è Art Bonus?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, Art Bonus favorisce il mecenatismo, ovvero il sostegno di attività artistiche e culturali. Lo Stato incentiva le donazioni per la tutela del patrimonio culturale e lo sviluppo della cultura, nonché il rilancio del turismo.",
+      "ground": "Art Bonus favorisce il mecenatismo culturale. Lo Stato incentiva le donazioni per la tutela del patrimonio culturale, lo sviluppo della cultura e il rilancio del turismo attraverso cospicue detrazioni fiscali."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Come posso contribuire?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Il decreto Art Bonus consente di effettuare donazioni per finanziare progetti comunali di conservazione e valorizzazione del patrimonio artistico culturale della città. In cambio verrà dato un credito di imposta pari al 65% della somma donata.",
+      "ground": "Il decreto Art Bonus consente a te cittadino e a te impresa di effettuare donazioni per finanziare progetti comunali di conservazione e valorizzazione del patrimonio artistico culturale della città.\nIn cambio avrai un credito d’imposta pari al 65% della somma donata, che verrà applicato in base alle modalità previste dalla legge.\nPer conoscere gli interventi individuati dal Comune di Milano visita la pagina sui progetti."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "E quali sono i limiti per richiedere il credito d'imposta?",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "Per le persone fisiche e gli enti non commerciali il limite è del 15% del reddito imponibile, mentre per i soggetti titolari di reddito d'impresa è del 5 per mille dei ricavi annui.",
+      "ground": "per le persone fisiche e gli enti non commerciali nei limiti del 15% del reddito imponibile\nper i soggetti titolari di reddito d'impresa nei limiti del 5 per mille (0,5%) dei ricavi annui."
+    },
+    {
+      "id": "T09",
+      "speaker": "Cittadino",
+      "message": "Capito, grazie per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

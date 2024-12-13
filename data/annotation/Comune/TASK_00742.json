@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00742",
+  "doc_src": "comune.trento_aree-tematiche_D0613.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, sa dirmi se ci sono nuove linee guida per il trasporto pubblico a Trento?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Può trovare più informazioni sulle nuove linee guida per il trasporto pubblico di qualità alla pagina al seguente link: https://www.comune.trento.it/Aree-tematiche/TrentoLab/Eventi-e-news/SuperTrento-ecco-le-Linee-guida-nel-cuore-della-citta-una-rete-verde-con-un-nuovo-trasporto-pubblico-di-qualita .",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/TrentoLab/Eventi-e-news/SuperTrento-ecco-le-Linee-guida-nel-cuore-della-citta-una-rete-verde-con-un-nuovo-trasporto-pubblico-di-qualita](SuperTrento, ecco le Linee guida: nel cuore della città una rete verde con un nuovo trasporto pubblico di qualità)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie!",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Prego, se avrà bisogno di ulteriori informazioni non esiti a contattarci. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

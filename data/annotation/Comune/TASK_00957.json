@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00957",
+  "doc_src": "comune.milano_aree-tematiche_links_D0327.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Come è stato finanziato il Progetto per l'acquisto e la distribuzione di beni di prima necessità?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Il Progetto è stato cofinanziamento dell’Unione europea tramite il PON Inclusione – Fondo Sociale Europeo 2014 – 2020 e con il Fondo di Aiuti Europei agli Indigenti - PO I FEAD, con uno stanziamento di 4,2 milioni di euro per l'acquisto e la distribuzione di beni di prima necessità.",
+      "ground": "Progettualità realizzata con il cofinanziamento dell’Unione europea, PON Inclusione – Fondo Sociale Europeo 2014 – 2020”.\nIl Progetto realizzato a valere sul Fondo di Aiuti Europei agli Indigenti - PO I FEAD, Avviso n. 4/2016 - Misura 4 “Deprivazione materiale dei senza dimora e altre persone fragili”, ha  visto lo stanziamento di 4,2 milioni di euro per i beni a contrasto della povertà estrema e della grave deprivazione materiale."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Quali sono stati i risultati raggiunti finora?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Il Progetto ha permesso di distribuire più di 120000 beni di prima necessità, 290 attrezzature e dotazioni per gli alloggi a oltre 120 persone. Inoltre, sono stati acquistati strumenti specifici per il sostegno a percorsi formativi e la promozione di percorsi di inserimento lavorativo.",
+      "ground": "Oltre alla distribuzione di più di 120000 beni di prima necessità, Il Progetto ha permesso di acquistare piccoli elementi di arredo per allestire gli alloggi di chi, nell’ambito di un percorso di inclusione sociale, è riuscito a trovare un posto dove vivere (attraverso la partecipazione a percorsi di Housing First, l’assegnazione di un appartamento di Edilizia Residenziale Pubblica, oppure l’inserimento in un appartamento a prezzi calmierati).\nSono state distribuite 290 attrezzature e dotazioni per gli alloggi (divani, letti, padelle e utensili da cucina ecc.) ad oltre 120 persone.\nInoltre, i fondi vincolati a disposizione hanno permesso di acquistare strumenti specifici per il sostegno a percorsi formativi e la promozione di percorsi di inserimento lavorativo."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Sai farmi qualche esempio degli strumenti usati per il sostegno nei percorsi formativi?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Mi dispiace ma non sono a conoscenza dei dettagli.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00009",
+  "doc_src": "comune.milano_aree-tematiche_D0012.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei avere informazioni sul Piano Aria e Clima.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Quali informazioni vuole sapere?",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Mi chiedevo quali siano gli obiettivi del Piano.",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Il Piano vuole portare a contenere le concentrazioni degli inquinanti atmosferici nei limiti fissati, ridurre del 45% le emissioni di CO2 entro il 2030 e Carbon Neutral entro il 2050 nonché di contenere l'aumento locale della temperatura a meno di 2°C.",
+      "ground": "rientrare nei valori limite delle concentrazioni degli inquinanti atmosferici PM10 e NOx (polveri sottili e ossidi di azoto), fissati dalla Direttiva 2008/50/EC (recepita dal D.Lgs 155/2010 e s.m.i.) a tutela della salute pubblica\nridurre le emissioni di CO2 (anidride carbonica) del 45% al 2030 e diventare una Città Carbon Neutral al 2050\ncontribuire a contenere l'aumento locale della temperatura al 2050 entro i 2°C, mediante azioni di raffrescamento urbano e riduzione del fenomeno dell'isola di calore in città."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Cosa posso fare per partecipare alle attività del Piano?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Il Comune di Milano ha avviato un percorso di consultazione pubblica e ha istituito un'Assemblea Permanente dei Cittadini sul Clima. Se vuole è libero di parteciparci. ",
+      "ground": "Come partecipare\n\nIl Comune di Milano ha avviato sia in fase di adozione che ora in fase di attuazione un percorso di consultazione pubblica e di ascolto della cittadinanza in merito al Piano Aria e Clima."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni, mi terrò aggiornato.",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "È stato un piacere aiutarla, rimango a disposizione per ulteriori chiarimenti.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

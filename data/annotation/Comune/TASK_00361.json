@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00361",
+  "doc_src": "comune.milano_aree-tematiche_links_D0393.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei chiedere informazioni sull'autotutela fiscale.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, certo. L'autotutela fiscale permette all'Amministrazione di correggere i propri atti in caso di errori. Il cittadino può presentare un'istanza per chiedere la revisione dell'atto.",
+      "ground": "L’Amministrazione può prevenire il contenzioso annullando, in misura parziale o totale, i propri atti viziati dalla presenza di errori.\nIl cittadino può proporre istanza di autotutela per la revisione dell’atto."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Se l'atto viene annullato, cosa succede agli atti correlati?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "L'annullamento dell'atto illegittimo comporta automaticamente l'annullamento degli atti ad esso correlati. Ad esempio, se viene ritirato un avviso di accertamento infondato, l'Amministrazione deve annullare la successiva iscrizione a ruolo e restituire le somme riscosse.",
+      "ground": "L'annullamento dell'atto illegittimo comporta automaticamente l'annullamento degli atti ad esso correlati. Ad esempio, il ritiro di un avviso di accertamento infondato comporta per l’Amministrazione:\nl'annullamento della successiva iscrizione a ruolo e dei relativi titoli esecutivi\nl'obbligo di restituzione delle somme riscosse riferite agli atti annullati."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "E se voglio presentare un ricorso?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "La presenza dell'istanza di autotutela non pregiudica la possibilità di fare ricorso.",
+      "ground": "Autotutela, ricorso, giudizio\nLa presentazione dell’istanza di autotutela non pregiudica, né sospende, la facoltà di presentare ricorso."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

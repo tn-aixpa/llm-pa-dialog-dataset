@@ -1,0 +1,40 @@
+{
+  "task_id": "TASK_00141",
+  "doc_src": "comune.milano_aree-tematiche_D0163.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Salve, vorrei informazioni riguardo all'accesso ai servizi di Area C a partire dal 29 marzo. Posso continuare ad utilizzare username e password?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, mi dispiace ma dal 29 marzo l'accesso ai servizi di Area C sarà possibile solo tramite SPID, CIE o ID azienda. L'attuale modalità con username e password non sarà più disponibile.",
+      "ground": "I servizi del portale Area C saranno accessibili dal 29 marzo solo con SPID, CIE o id azienda. L'attuale modalità di accesso tramite username e password non sarà più in uso."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Se sono già registrato con username e password, come posso procedere?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Se sei già registrato, potrai accedere al tuo profilo utilizzando SPID, CIE o ID azienda senza perdere i dati inseriti. Ti consiglio di leggere le guide su come ottenere SPID al link spid.gov.it/cos-e-spid/come-attivare-spid/",
+      "ground": "Se sei già registrato al sito con user e password potrai accedere al tuo profilo con SPID, CIE o id azienda senza perdere i dati inseriti. \nLeggi la guida per ottenere SPID: spid.gov.it/cos-e-spid/come-attivare-spid/"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

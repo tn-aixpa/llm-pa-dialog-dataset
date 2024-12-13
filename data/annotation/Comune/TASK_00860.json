@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00860",
+  "doc_src": "comune.salerno_D0171.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Vorrei informazioni sulla procedura di co-progettazione per la realizzazione di un HUB della creatività e della comunicazione nel quartiere Matierno.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "La procedura è stata pubblicata alla seguente pagina https://albofornitori.comune.salerno.it/PortaleAppalti/it/ppgare_bandi_lista.wp . La domanda di partecipazione e la documentazione dovranno essere caricate entro e non oltre le ore 14:00 del 17 giugno 2024.",
+      "ground": "La procedura sarà svolta telematicamente attraverso il Portale Appalti del Comune di Salerno accessibile al seguente link:\n[https://albofornitori.comune.salerno.it/PortaleAppalti/it/ppgare_bandi_lista.wp](https://albofornitori.comune.salerno.it/PortaleAppalti/it/ppgare_bandi_lista.wp)\nLa domanda di partecipazione e la documentazione relativa alla predetta procedura dovrà essere caricata in piattaforma entro e non oltre le ore 14:00 del giorno 17/06/2024."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E per il quartiere Arbostella?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Anche per il quartiere Arbostella è stata pubblicata una procedura al link https://albofornitori.comune.salerno.it/PortaleAppalti/it/ppgare_bandi_lista.wp . In questo caso la scadenza per l'invio della documentazione è entro le ore 14:00 del giorno 20 giugno 2024.",
+      "ground": "La procedura sarà svolta telematicamente attraverso il Portale Appalti del Comune di Salerno accessibile al seguente link:\n[https://albofornitori.comune.salerno.it/PortaleAppalti/it/ppgare_bandi_lista.wp](https://albofornitori.comune.salerno.it/PortaleAppalti/it/ppgare_bandi_lista.wp)\nLa domanda di partecipazione e la documentazione relativa alla predetta procedura dovrà essere caricata in piattaforma entro e non oltre le ore 14:00 del giorno 20/06/2024."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È stato un piacere, resto a disposizione per ulteriori chiarimenti.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

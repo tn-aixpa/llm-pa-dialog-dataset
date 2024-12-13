@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01017",
+  "doc_src": "comSalerno0920.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Qual è la principale funzione del bilancio di previsione?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "La principale funzione del bilancio di previsione è quella di programmare l'attività e i servizi che il Comune offrirà ai cittadini nei 3 anni successivi, specificando le entrate e le spese previste e autorizzate in base alle necessità e alle priorità individuate dall'Amministrazione. Inoltre, deve garantire il pareggio di bilancio, obbligatorio per legge, in cui le spese e le entrate previste devono uguagliarsi.",
+      "ground": "è un documento con cui il Comune programma l’attività e i servizi che offrirà ai cittadini nei 3 anni successivi, indicando le fonti di finanziamento a cui attingerà per pagare le spese.\nspecifica le entrate e le spese previste e autorizzate sulla base delle necessità e delle priorità individuate dall’Amministrazione.\nè triennale per permettere una programmazione di lungo periodo.\nspese ed entrate previste devono uguagliarsi per raggiungere il pareggio di bilancio, obbligatorio per legge."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Quali sono le principali differenze tra il bilancio di previsione e il bilancio consuntivo?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Le differenze tra il bilancio di previsione e il bilancio consuntivo sono:\n\nFunzione: Il bilancio di previsione è un documento programmatico che pianifica le attività e i servizi del Comune per i 3 anni successivi, mentre il bilancio consuntivo è un documento di rendicontazione che tira le somme a fine anno, certificando le entrate e le spese effettivamente incassate e sostenute.\n\nPeriodo di riferimento: Il bilancio di previsione è triennale, mentre il bilancio consuntivo è annuale.\n\nApprovazione: Il bilancio di previsione viene approvato dal Consiglio Comunale all'inizio del periodo di riferimento, mentre il bilancio consuntivo deve essere approvato entro il 30 Aprile dell’anno successivo a quello cui si riferisce.\n\nPareggio di bilancio: Nel bilancio di previsione, spese ed entrate previste devono uguagliarsi per garantire il pareggio di bilancio, obbligatorio per legge. Nel bilancio consuntivo, possono emergere un avanzo (somme non spese) o un disavanzo (spese superiori alle entrate).\n\nScopo: Il bilancio di previsione serve a pianificare e autorizzare le risorse per le attività future, mentre il bilancio consuntivo serve a rendere conto dell'utilizzo delle risorse e a valutare i risultati della gestione economica dell'anno precedente.",
+      "ground": "1 - bilancio di previsione\nè un documento con cui il Comune programma l’attività e i servizi che offrirà ai cittadini nei 3 anni successivi, indicando le fonti di finanziamento a cui attingerà per pagare le spese.\nspecifica le entrate e le spese previste e autorizzate sulla base delle necessità e delle priorità individuate dall’Amministrazione.\nè triennale per permettere una programmazione di lungo periodo.\nspese ed entrate previste devono uguagliarsi per raggiungere il pareggio di bilancio, obbligatorio per legge.\nIl processo di formazione del Bilancio è complesso e coinvolge, oltre alle articolazioni organizzative dell'Ente, la Giunta Comunale, che ne definisce lo schema e il Consiglio Comunale che ha l'importante compito di approvarlo. Con l'approvazione, il Bilancio diventa \"autorizzatorio\" per lo svolgimento di tutte le attività e programmi per i quali sono state stanziate e approvate le relative risorse.\n2 - bilancio consuntivo o rendiconto\nè un documento di rendicontazione, quindi “tira le somme” a fine anno per certificare le entrate e le spese effettivamente incassate e sostenute dal Comune;\nè annuale;\nviene approvato dal Consiglio Comunale entro il 30 Aprile dell’anno successivo a quello a cui si riferisce;\npuò presentare un “avanzo”, cioè somme non spese che vengono rinviate all’anno successivo o accantonate, oppure un “disavanzo”, cioè quando la gestione complessiva delle spese (competenza e residui) è maggiore delle entrate. Il bilancio consuntivo è l’atto con cui la Giunta comunale rendiconta e certifica, di fronte al Consiglio Comunale, le spese e le entrate effettivamente sostenute nell’anno per la gestione dell’Ente. Il bilancio consuntivo, approvato dal Consiglio Comunale, conclude il processo di programmazione e di controllo. Si tratta, infatti, di una sintesi al 31 dicembre dell’anno precedente che serve a:\nrendere conto alla comunità del corretto utilizzo delle risorse a disposizione del Comune\nmisurare il raggiungimento degli obiettivi e la realizzazione dei programmi previsti • valutare i risultati definitivi della gestione economica dell’anno precedente e gli effetti socialmente rilevanti."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Quali sono i riferimenti normativi per il bilancio di previsione?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "I riferimenti normativi per il bilancio di previsione sono il Testo Unico degli Enti Locali (TUEL - D. Lgs. n. 267/2000), che stabilisce regole di ordinamento finanziario e contabile relative alla gestione del bilancio, e il D. Lgs. n. 118/2011, che ha ridisegnato l'ordinamento contabile degli enti territoriali, promuovendo la trasparenza e la corretta rappresentazione della situazione finanziaria, economica e patrimoniale.",
+      "ground": "Le due principali fonti normative sono costituite dal\nTesto Unico degli Enti Locali (TUEL - D. Lgs. n. 267/2000)\nche detta regole di ordinamento finanziario e contabile relative principalmente alla fase di gestione del bilancio e il\nD. Lgs. n. 118/2011\nche ha che ha profondamente ridisegnato l’ordinamento contabile degli enti territoriali e dei loro enti e organismi strumentali, avviando un percorso di riforma fondato sulla trasparenza e sulla corretta rappresentazione della situazione finanziaria, economico e patrimoniale dando corso ad un processo di riforma degli ordinamenti contabili diretto a rendere i bilanci di tutte le pubbliche amministrazioni omogenei, confrontabili ed aggregabili."
+    }
+  ],
+  "subcategory": "Salerno"
+}

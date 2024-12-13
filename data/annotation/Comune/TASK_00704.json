@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00704",
+  "doc_src": "comune.trento_aree-tematiche_D0525.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, potrebbe darmi informazioni sulla Carta della Vulnerabilità degli Acquiferi?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, la Carta della Vulnerabilità Intrinseca degli Acquiferi valuta la vulnerabilità dell'acquifero in caso di contatto con un inquinante fluido che può venir trasportato nel fluido stesso. È stata elaborata utilizzando la metodologia s.i.n.t.a.c.s e si rende utile per la conoscenza del territorio e la programmazione della fruizione del territorio.",
+      "ground": "La Carta della Vulnerabilità Intrinseca degli Acquiferi è stata elaborata facendo riferimento alla metodologia s.i.n.t.a.c.s, che definisce la suscettibilità specifica dei sistemi acquiferi ad ingerire e diffondere, anche mitigandone gli effetti, un inquinante fluido idroveicolato tale da produrre impatto sulla qualità dell'acqua sotterranea nello spazio e nel tempo (Civita 1987). Tale strumento si rende opportuno nell'ambito della conoscenza specifica del territorio in relazione alla catalogazione ed omogeneizzazione dei dati relativi al suolo ed al sottosuolo necessari nella programmazione della fruizione del territorio sia a livello urbanisticho che di infrastrutture."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E' stata realizzata dal Comune di Trento?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Esatto, il Comune di Trento ha realizzato lo studio nel 2001 attraverso la consulenza del dott. geol. Paolo Passardi e l'analisi di dati e studi disponibili. La cartografia è consultabile sul portale cartografico \"Ambiente\" del Comune di Trento, selezionando \"Falda\" e spuntando \"Vulnerabilità\".",
+      "ground": "Vulnerabilità Intrinseca degli Acquiferi è stata elaborata facendo riferimento alla metodologia s.i.n.t.a.c.s, che definisce la suscettibilità specifica dei sistemi acquiferi ad ingerire e diffondere, anche mitigandone gli effetti, un inquinante fluido idroveicolato tale da produrre impatto sulla qualità dell'acqua sotterranea nello spazio e nel tempo (Civita 1987). Tale strumento si rende opportuno nell'ambito della conoscenza specifica del territorio in relazione alla catalogazione ed omogeneizzazione dei dati relativi al suolo ed al sottosuolo necessari nella programmazione della fruizione del territorio sia a livello urbanisticho che di infrastrutture.\nLo studio è stato realizzato nel 2001 dal Comune di Trento attraverso la consulenza e l'analisi di dati e studi anche in possesso dell'Amministrazione da parte del dott. geol. Paolo Passardi.\nLa cartografia è consultabile sul\n[/Aree-tematiche/Cartografia/Portale-cartografico](portale cartografico \"Ambiente\" del Comune di Trento)\n, selezionando \"\nFalda\n\" fra le possibili viste proposte nel menù a tendina e spuntando \"\nVulnerabilità\n\" fra la lista dei tematismi."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È stato un piacere aiutarla, se ha altre domande non esiti a chiedere. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

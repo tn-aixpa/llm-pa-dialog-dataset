@@ -1,0 +1,40 @@
+{
+  "task_id": "TASK_00216",
+  "doc_src": "comune.milano_aree-tematiche_links_D0244.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni su come migliorare gli spazi intorno al mio appartamento.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Per abbellire il contesto urbano a lei circostante è necessario presentare un progetto che armonizzi gli spazi pubblici vicino al suo edificio. Sappia però che gli abbellimenti sono a carico dei richiedenti e che è necessaria l'approvazione preventiva dell'Amministrazione comunale.",
+      "ground": "A cura e spese di proprietari o richiedenti possono essere predisposti e realizzati progetti in armonia con il contesto urbano circostante, finalizzati alla valorizzazione dei marciapiedi e in generale degli spazi pubblici antistanti gli edifici stessi.\nI progetti richiedono l'approvazione preventiva dell'Amministrazione comunale."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quindi devo presentare una richiesta di autorizzazione per poter procedere con il progetto?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Esattamente, la procedura prevede il rilascio di un'autorizzazione da parte dell'Amministrazione comunale. Puoi trovare più informazioni al link https://www.comune.milano.it/servizi/presentare-un-progetto-di-valorizzazione-di-spazi-pubblici .",
+      "ground": "I progetti richiedono l'approvazione preventiva dell'Amministrazione comunale. Per i dettagli sul rilascio dell'autorizzazione visita la pagina di servizio.\nUtilizza i servizi\n[https://www.comune.milano.it/servizi/presentare-un-progetto-di-valorizzazione-di-spazi-pubblici](Presentare un progetto di valorizzazione di spazi pubblici art. 80 c. 3 del Regolamento Edilizio)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Va bene, grazie per le informazioni.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00665",
+  "doc_src": "comune.trento_aree-tematiche_D0443.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Salve, vorrei avere informazioni sul Servizio di educazione scolastica. ",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, certo. Il Servizio di educazione scolastica è un servizio provinciale che ha lo scopo di istruire e formare giovani sviluppandone le capacità e conoscenze.",
+      "ground": "Servizio di educazione scolastica\nè un servizio provinciale che ha lo scopo di istruire e formare giovani capaci di concorrere allo sviluppo sociale ed economico del territorio, nel rispetto dell’ambiente e delle esigenze di una crescita sostenibile, sviluppandone le capacità e le competenze, attraverso conoscenze e abilità, generali e specifiche, coerenti con le attitudini e le scelte personali, adeguate all’inserimento nella vita sociale e nel mondo del lavoro, anche con riguardo alle dimensioni locale, nazionale ed europea."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Com'è prevista l'assegnazione dei fondi alle istituzioni scolastiche? ",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Per le istituzioni scolastiche del primo ciclo, il Comune procede all'assegnamento dei fondi scolastici provvedendo i fondi necessari tali da far funzionare le attività con le modalità previste.",
+      "ground": "Per l’erogazione di questo servizio spetta al Comune la realizzazione degli interventi di edilizia per le strutture delle istituzioni scolastiche e formative provinciali del primo ciclo e fino al trasferimento ai comuni delle funzioni previste dalla legge provinciale 16 giugno 2006, n. 3 l’assegnazione alle istituzioni scolastiche del primo ciclo dei fondi necessari a provvedere al funzionamento dell’attività con le modalità previste dalle disposizioni provinciali."
+    }
+  ],
+  "subcategory": "Trento"
+}

@@ -1,0 +1,22 @@
+{
+  "task_id": "TASK_00181",
+  "doc_src": "comune.milano_aree-tematiche_links_D0209.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, sa dirmi se al momento ci sono referendum comunali?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Al momento non ci risulta ci siano referendum a livello comunale in corso. Posso aiutarla con qualcos'altro?",
+      "ground": "Referendum e iniziative popolari a carattere comunale\nAl momento non sono presenti raccolte di sottoscrizioni."
+    }
+  ],
+  "subcategory": "Milano"
+}

@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00999",
+  "doc_src": "comSalerno0785.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Cos'è un censimento?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Il censimento è un'operazione dove un'intera popolazione viene rilevate così da poter studiare determinate caratteristiche di interesse per uno studio statistico.",
+      "ground": "Operazione statistica di rilevazione diretta e totale intesa ad accertare lo stato di un fatto collettivo in un dato momento e caratterizzata dall’istantaneità, dalla generalità e dalla periodicità"
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Quali sono le modalità usate per la rilevazione del Censimento Istat 2023?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Le modalità usate per la rilevazione del Censimento Istat 2023 sono due: la modalità \"da lista\", in cui le famiglie selezionate ricevono una lettera nominativa con le credenziali per compilare il questionario elettronico, e la modalità \"areale\", dove le famiglie ricevono la visita di un rilevatore dipendente comunale, preannunciata da una locandina e da una lettera non nominativa.",
+      "ground": "• \"\nda lista\n\": le famiglie selezionate riceveranno una lettera nominativa con le credenziali di accesso al sito Istat per la compilazione del questionario elettronico, secondo le istruzioni riportate nella lettera - è comunque possibile rivolgersi al Settore Servizi Demografici per ricevere un aiuto alla compilazione;\n• \"\nareale\n\": le famiglie dimoranti agli indirizzi selezionati riceveranno la visita di un Rilevatore dipendente comunale, preannunciata da una locandina affissa nei locali condominiali e da una lettera non nominativa.\nPer ogni altra informazione consultare la pagina dedicata\nhttps://www.comune.salerno.it/argomento/932\n."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Posso trovare ulteriori informazioni da qualche parte?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Certamente. Puoi trovare ulteriori informazioni consultando la pagina dedicata https://www.comune.salerno.it/argomento/932 .",
+      "ground": "Per ogni altra informazione consultare la pagina dedicata\n[https://www.comune.salerno.it/argomento/932](https://www.comune.salerno.it/argomento/932)\n."
+    }
+  ],
+  "subcategory": "Salerno"
+}

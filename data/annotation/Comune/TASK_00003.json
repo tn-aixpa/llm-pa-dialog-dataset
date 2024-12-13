@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00003",
+  "doc_src": "comune.milano_aree-tematiche_D0003.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni riguardo alla gestione dei corsi d'acqua da parte del Comune.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, cosa vuole sapere?",
+      "ground": "Reticolo Idrico Minore Il Comune gestisce il Reticolo Idrico Minore (RIM) per i corsi d'acqua demaniali."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E' vero che la manutenzione dei pozzi di prima falda è affidata a MM S.p.A.?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Esattamente, il Comune ha affidato a MM S.p.A. la manutenzione dei pozzi di prima falda per contrastare la risalita della falda.",
+      "ground": "Nell'ambito degli interventi per contrastare la risalita della falda, il Comune ha affidato a MM S.p.A. la manutenzione dei pozzi di prima falda."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Cosa devo fare per ottenere un autorizzazione per fini idrici.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Per ottenere l’autorizzazione può consultare il servizio Manomissione o concessione di area demaniale dei corsi d’acqua.",
+      "ground": "Per ottenere l’autorizzazione ai fini idrici e per contattare gli uffici consulta il servizio Manomissione o concessione di area demaniale dei corsi d’acqua (vedi link in questa pagina)."
+    }
+  ],
+  "subcategory": "Milano"
+}

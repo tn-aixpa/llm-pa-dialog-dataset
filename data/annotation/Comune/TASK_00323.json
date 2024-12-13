@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00323",
+  "doc_src": "comune.milano_aree-tematiche_links_D0355.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, Cosa sono i Centri di Aggregazione Disabili?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, certo. Posso aiutarla. I Centri di Aggregazione Disabili (CAD) sono strutture rivolte a persone con invalidità superiore al 46 e sono rivolti sopratutto a persone con disabilità che hanno bisogno di socializzazione e di integrazione nel tessuto sociale.",
+      "ground": "Il servizio è rivolto a cittadini e cittadine residenti nel Comune di Milano con percentuale di invalidità uguale o superiore al 46%.\nLe persone destinatarie sono, in via prioritaria, persone adulte con disabilità che:\nnon hanno altre opportunità di socializzazione;"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Perché qualcuno dovrebbe andare in uno di questi centri?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Lo scopo di questi centri è, fra i tanti quello, garantire un miglioramento della qualità della vita alle persone con disabilità, oltre a prouovere l'autonomia e la libera scelta dell'organizzazione del tempo libero.",
+      "ground": "Obiettivi\nGli obiettivi del Cad sono:\noffrire opportunità di socializzazione in contesti protetti che garantiscano un miglioramento della qualità di vita della persona con disabilità;\npromuovere autonomie, libera scelta e implementazione nella auto-organizzazione del proprio tempo nel territorio di appartenenza;\nmonitorare il benessere della persona, arginando, mediante la quotidianità degli interventi, eventuali situazioni di aggravamento e/o di rischio delle condizioni di fragilità;\norientare la persona sia rispetto alle risorse del territorio sia rispetto al suo progetto di vita;\nsostenere temporaneamente situazioni di crisi in attesa della loro risoluzione o sviluppare percorsi di accompagnamento a servizi più adeguati."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Questi cnetri costano?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Sì, alle famiglie è richiesto il pagamento delle spese vive",
+      "ground": "Costi\nAlle famiglie viene richiesto il pagamento delle spese vive per le attività."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni. Buona giornata!",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "Prego, buona giornata anche a lei.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

@@ -1,0 +1,64 @@
+{
+  "task_id": "TASK_00168",
+  "doc_src": "comune.milano_aree-tematiche_D0195.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sui parcheggi sotterranei in aree pubbliche.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno. I parcheggi sotterranei realizzati nel sottosuolo di aree pubbliche in diritto di superficie sono divisi in due categorie:\n\n- Parcheggi per residenti realizzati per le necessità dei residenti dell’area oggetto dell’intervento al fine di migliorare la fruibilità e vivibilità della città;\n- Parcheggi pubblici a rotazione destinati a soddisfare le esigenze di sosta breve per diverse categorie di utenti.",
+      "ground": "I parcheggi sotterranei costruiti nel sottosuolo di aree pubbliche in diritto di superficie previsti nel Piano Urbano dei Parcheggi (P.U.P.) e attuati attraverso il coinvolgimento degli operatori economici privati sono riconducibili a due categorie:\n\nparcheggi per residenti realizzati per le necessità dei residenti dell’area oggetto dell’intervento al fine di migliorare la fruibilità e vivibilità della città;\nparcheggi pubblici a rotazione destinati a soddisfare le esigenze di sosta breve per diverse categorie di utenti."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Di chi sono questi parcheggi?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Dipende dal bando, tutti i parcheggi sono disciplinati da una convenzione che stabilisce il \"diritto di superficie\" o il \"diritto d'uso\", entrambi i casi di durata pluriennale - generalmente 90 anni dalla sottoscrizione della convenzione. Alla fine di questa, tutte le opere e gli impianti del parcheggio diventano proprietà dell'Ammnistrazione comunale.",
+      "ground": "Tutti i parcheggi sono disciplinati da una Convenzione nella quale viene istituito, a seconda del Bando cui fa riferimento, il “diritto di superficie” o il “diritto d’uso” che in entrambi i casi ha una durata pluriennale (solitamente 90 anni a partire dalla data di sottoscrizione della Convenzione).\nAlla scadenza del termine concessorio, tutte le opere e gli impianti del parcheggio compreso le attrezzature e i macchinari, diverranno “de jure” di proprietà dell’Amministrazione comunale."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Vorrei sapere di più su come poter cedere il mio box auto a qualcun altro.",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "La cessione dipende dalla Convenzione di cui il suo parcheggio fa parte e dall'atto notarile che ha acquisito quando ha ottenuto il box auto.",
+      "ground": "La disciplina delle cessioni o trasferimenti dei box/posti auto dei parcheggi realizzati nel sottosuolo di aree pubbliche è rinvenibile in via prioritaria nelle singole Convenzioni. Detta disciplina è anche riportata nell’atto di acquisizione del box (Rogito notarile)."
+    },
+    {
+      "id": "T09",
+      "speaker": "Cittadino",
+      "message": "No, grazie per le informazioni.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

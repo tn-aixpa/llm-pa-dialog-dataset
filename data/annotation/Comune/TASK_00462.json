@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00462",
+  "doc_src": "comune.trento_aree-tematiche_D0084.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei avere informazioni sulla variante al piano guida della zona C3 a Vigolo Baselga.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, posso aiutarla. La variante al piano guida della zona C3 in località Ariol a Vigolo Baselga è stata approvata con deliberazione del Consiglio comunale n. 86 del 4 giugno 2013. Ha comportato la modifica delle previsioni del Piano Regolatore Generale.",
+      "ground": "Informazioni, documenti ed elaborati grafici.\nL’approvazione della variante al piano guida della zona C3 in località Ariol a Vigolo Baselga, avvenuta con deliberazione del Consiglio comunale n. 86 del 4 giugno 2013, ha comportato la modifica delle previsioni del Piano Regolatore Generale."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Questa variante è stata adottata definitivamente?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, la variante zona C3 è stata adottata dal Consiglio comunale con propria deliberazione n. 86 del 4 giugno 2013 come prima adozione, e poi adottata definitivamente con la deliberazione n. 144 del 8 ottobre 2013. Inoltre, è stata approvata dalla Giunta provinciale con deliberazione n. 2622 del 13 dicembre 2013.",
+      "ground": "1. adottata dal Consiglio comunale con propria deliberazione n. 86 del 4 giugno 2013 (prima adozione);\n2. adottata definitivamente dal Consiglio comunale con propria deliberazione n. 144 del 8 ottobre 2013 (adozione definitiva);\n3. approvata dalla Giunta provinciale con deliberazione n. 2622 del 13 dicembre 2013, pubblicata sul Bollettino Ufficiale della Regione n. 52/I-II del 24 dicembre 2013 e quindi in vigore dal giorno 25 dicembre 2013."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Posso consultare i documenti relativi alla variante?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Sì, i documenti sono consultabili online sul sito del Comune di Trento",
+      "ground": "Gli elaborati tecnici di variante allegati alla deliberazione del Consiglio comunale sono i seguenti:\nRelazione;\nElaborati grafici;\nRendicontazione urbanistica – Rapporto ambientale.\nI documenti sono consultabili nella sezione ALLEGATI a fondo pagina."
+    }
+  ],
+  "subcategory": "Trento"
+}

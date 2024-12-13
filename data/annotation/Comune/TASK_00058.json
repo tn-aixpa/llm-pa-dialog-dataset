@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00058",
+  "doc_src": "comune.milano_aree-tematiche_D0080.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sul piano di recupero delle case popolari sfitte. È ancora in corso?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Da quel che so il piano era di recuperare entro il 30 Aprile 2021 3.000 case, non so però dirle se sono state fatte nuove previsioni.",
+      "ground": "L'Amministrazione Comunale, nel maggio 2018, si è prefissata di recuperare, entro il 30 aprile 2021, 3.000 case popolari sfitte."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E' possibile avere informazioni su gli alloggi sono stati assegnati?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Certamente, trovi informazioni sugli Open Data ( www.opendatamilano.net ) sul sito dell'Amministrazione Comunale.",
+      "ground": "È ora possibile seguire l’attività di ristrutturazione e assegnazione degli alloggi popolari nella pagina >>Open Data[www.opendatamilano.net]"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "No, grazie per l'aiuto. Buona giornata!",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Buona giornata anche a lei.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

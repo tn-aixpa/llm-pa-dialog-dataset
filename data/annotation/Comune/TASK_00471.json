@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00471",
+  "doc_src": "comune.trento_aree-tematiche_D0100.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Ho sentito che le perdite negli acquedotti sono state ridotte. Mi conferma?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Sì confermo, è stata monitorata una riduzione delle perdite del 12.5%.\nPer più dettagli può consultare il link https://www.comune.trento.it/Aree-tematiche/Ambiente-e-territorio/Acqua/Avvisi/Acquedotti-perdite-ridotte-al-12-5-per-cento",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Ambiente-e-territorio/Acqua/Avvisi/Acquedotti-perdite-ridotte-al-12-5-per-cento](Acquedotti, perdite ridotte al 12,5 per cento)\nRiduzione della pressione, misurazioni costanti e progressiva sostituzione delle tubature consentono una buona efficienza per gli acquedotti della città."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Capito. E per quanto riguarda il nuovo collettore a Laste, i lavori sono iniziati?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "L'inizio dei lavori è stimato per il prossimo giugno.",
+      "ground": "Inizio dei lavori nel prossimo giugno per una durata di 210 giorni."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie per la risposte. Buona giornata.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Buona giornata anche a lei.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

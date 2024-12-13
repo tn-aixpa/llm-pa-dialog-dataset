@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_01110",
+  "doc_src": "folgaria__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Che tipo di azioni potrei rivolgere verso le associazioni?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Potrebbe dare loro delle sale pubbliche, creare convenzioni con associazioni culturali o sportive.",
+      "ground": "TITOLO: Utilizzo sale pubbliche\n\n|||\n\nTITOLO: Convenzioni con associazioni culturali e sportive"
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Insomma non molte proposte...",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Mi dispiace per questo. Posso comunque aiutarla per altro?",
+      "ground": ""
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "E per tassonomia \"Servizi doposcuola e servizi estivi\" cosa mi consiglia?",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Potrebbe offrire un servizio di sostegno ai compiti, un servizio di doposcuola oppure un servizio estivo per bambini.",
+      "ground": "TITOLO: Servizio estivo per bambini\n\n|||\n\nTITOLO: Interventi scolastici e laboratoriali\n\n|||\n\nTITOLO: Servizio sostegno ai compiti"
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "Cosa mi suggerisce come azione per il servizio di sostegno?",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "Le riporto di seguito il testo dell'azione scritta dal comune di Folgaria nel 2022:\n\nTITOLO: Servizio sostegno ai compiti\n\nTASSONOMIA: Servizi doposcuola e servizi estivi\n\nDESCRIZIONE: Grazie alla collaborazione tra Istituto comprensivo, Comunitа di Valle, biblioteca comunale e Comune di Folgaria è ripartito a febbraio 2022 il servizio sperimentale che comprende ripassi e/o rafforzamenti specifici su alcune materie didattiche e ripetizioni su materie scolastiche che esulano dai compiti per affrontare con maggiore serenitа e sicurezza il successivo anno scolastico. Il progetto, rivolto principalmente a bambini e ragazzi dell’Istituto Comprensivo di Folgaria, Lavarone e Luserna, ma anche a ospiti che intendano avvalersi dell’aiuto di personale idoneo all’attivitа di supporto ai compiti, ha la duplice funzione di supportare i fruitori nei compiti scolastici assegnati, nonchй di creare piccole occasioni di collaborazione lavorativa.",
+      "ground": "=== PIANO FAMIGLIA DI FOLGARIA ANNO 2022 ===\n\n|||\n\nTITOLO: Servizio sostegno ai compiti\n\nTASSONOMIA: Servizi doposcuola e servizi estivi\n\nDESCRIZIONE: Grazie alla collaborazione tra Istituto comprensivo, Comunitа di Valle, biblioteca comunale e Comune di Folgaria è ripartito a febbraio 2022 il servizio sperimentale che comprende ripassi e/o rafforzamenti specifici su alcune materie didattiche e ripetizioni su materie scolastiche che esulano dai compiti per affrontare con maggiore serenitа e sicurezza il successivo anno scolastico. Il progetto, rivolto principalmente a bambini e ragazzi dell’Istituto Comprensivo di Folgaria, Lavarone e Luserna, ma anche a ospiti che intendano avvalersi dell’aiuto di personale idoneo all’attivitа di supporto ai compiti, ha la duplice funzione di supportare i fruitori nei compiti scolastici assegnati, nonchй di creare piccole occasioni di collaborazione lavorativa."
+    },
+    {
+      "id": "T9",
+      "speaker": "Citizen",
+      "message": "Perfetto, grazie.",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agent",
+      "message": "Le serve altro?",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

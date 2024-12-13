@@ -1,0 +1,52 @@
+{
+  "task_id": "TASK_01088",
+  "doc_src": "castello_tesino__2023.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Ho sentito parlare del marchio \"Esercizio Amico dei Bambini\", sai dirmi di che si tratta?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Nel piano di Castello Tesino del 2023, viene descritto nell'azione 'Promozione del marchio \"Esercizio Amico dei Bambini\"' come una campagna di sensibilazzione verso gli esercizi pubblici del paese atta ad adeguare la loro struttura con un occhio di riguardo nei confronti dei bambini",
+      "ground": "=== PIANO FAMIGLIA DI CASTELLO TESINO ANNO 2023 ===\n\n|||\n\nTITOLO: Promozione del marchio ''Esercizio Amico dei Bambini''\n\n|||\n\nDESCRIZIONE: Il Comune di Castello Tesino continuerа a realizzare una campagna di sensibilizzazione nei confronti degli Esercizi Pubblici presenti in paese affinchй possano adeguare la loro offerta ed i loro servizi, garantendo un occhio di riguardo nei confronti dei più piccoli."
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Sembra davvero interessante.",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Vuole sapere altro?",
+      "ground": ""
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Sì, cosa mi proponi per l'organizzazione di eventi ludici?",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Può abbellire le vie del paese durante le festività di Halloween e Natale, creando opportunità di incontro oppure potrebbe organizzare un incontro fra l'Amministrazione e i bambini delle scuole dove l'Amministrazione consegna uova pasquali ",
+      "ground": "OBIETTIVO: Creare momenti di incontro durante le festivitа ed incentivare l'abbellimento di vie e contrade.\n\nDESCRIZIONE: Realizzazione villaggio di Halloween con eventi ludici correlati, incontro con Babbo Natale lungo le vie del paese; abbellimento di vie e contrade con decorazioni a tema natalizio.\n\n|||\n\nOBIETTIVO: Interagire con una realtа locale quale quella della Scuola Provinciale dell'Infanzia di Castello Tesino e rendere omaggio ai bimbi con la consegna delle uova pasquali ed uno scambio di auguri a bimbi e famiglie per le festivitа di Pasqua.\n\nDESCRIZIONE: Benvenuto di Primavera con la consegna da parte dell'Amministrazione comunale delle uova di Pasqua ai bimbi della Scuola Provinciale dell'Infanzia di Castello Tesino."
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

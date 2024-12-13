@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00666",
+  "doc_src": "comune.trento_aree-tematiche_D0444.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sulla carta semplificata del Comune di Trento. È disponibile anche in formato cartaceo?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, la carta semplificata del Comune di Trento è disponibile solo in formato PDF per il download.",
+      "ground": "La carta semplificata del Comune di Trento è una mappa della città suddivisa per aree (nord, sud, centro) e per singola circoscrizione, disponibile allo scaricamente nel formato PDF.\n\n"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "In che  scala è?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "La scala nominale di rappresentazione è 1:8000. Le aree delle strade sono centrate sulla mezzeria delle stesse e la larghezza della carreggiata potrebbe non essere in scala, ma è stato fatto per inserire il testo del nome della via in modo leggibile.",
+      "ground": "la scala nominale di rappresentazione è 1:8000.\nLe aree delle strade sono centrate sulla mezzeria delle stesse e la larghezza della carreggiata può non essere in scala, in particolare può essere più grande della realtà: questo per consentire l’inserimento del testo del nome della via in caratteri di dimensione leggibile."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Molto interessante. Posso richiedere ulteriori informazioni via email?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Certamente, puoi inviare eventuali richieste di chiarimenti all'indirizzo di posta elettronica infogis@comune.trento.it .",
+      "ground": "Ulteriori informazioni e chiarimenti possono essere richiesti all’indirizzo di posta elettronica\n[mailto:infogis@comune.trento.it](infogis@comune.trento.it)"
+    }
+  ],
+  "subcategory": "Trento"
+}

@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00748",
+  "doc_src": "comune.salerno_D0007.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, potrebbe dirmi se le attività del Centro per la Legalità sono già iniziate?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Se si riferisce alla cooperativa sociale Galahad, venerdì 14 giugno 2024 alle ore 17.30, presso la Chiesa Santa Maria dei Greci di Fratte a Salerno si terrà la presentazione delle prossime attività promosse dal Centro per la Legalità.",
+      "ground": "Tutto pronto, presso gli spazi attigui alla storica Chiesa Santa Maria dei Greci di Fratte (Salerno), per la presentazione delle prossime attività promosse dal Centro per la Legalità della cooperativa sociale Galahad, con il patrocinio morale dell’Assessorato alle Politiche Sociali del Comune di Salerno e dell’Ufficio Cultura e Arte dell’Arcidiocesi di Salerno-Campagna-Acerno e in collaborazione con la Parrocchia Santi Felice e Giovanni in Pastorano. A presentare il progetto, venerdì 14 giugno 2024, alle ore 17.30, presso la Chiesa Santa Maria dei Greci di Fratte, a Salerno (di fronte all’ingresso del parcheggio del Centro Commerciale Le Cotoniere), l’Assessore alle Politiche Sociali del Comune di Salerno, Paola De Roberto, la Direttrice dell’Ufficio Cultura e Arte dell’Arcidiocesi, la professoressa Lorella Parente, il Parroco di Santi Felice e Giovanni in Pastorano, Don Marco Raimondo e la presidente della cooperativa sociale Galahad, la giornalista Marilia Parente, alla presenza, tra gli altri, delle comunità parrocchiali di Matierno-Cappelle-Pastorano e di alcune delegazioni del mondo animalista."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Sarà possibile visitare il Gattoparco anche prima dell'inizio delle attività?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Purtroppo no, il Gattoparco sarà fruibile tramite aperture sperimentali nel periodo estivo, a partire dall'inaugurazione delle attività il 14 giugno.",
+      "ground": "Lo spazio verde, attiguo alla chiesa Santa Maria Dei Greci, sarà fruibile tramite aperture sperimentali, nel periodo estivo, e sarà accessibile gratuitamente, a turni programmati, dai gatti domestici regolarmente vaccinati e sterilizzati, accompagnati dai loro proprietari. Nello stesso spazio saranno organizzate anche iniziative di natura sociale e culturale aperte a tutta la comunità."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni, sarò presente all'evento di presentazione.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Ci auguriamo che l'iniziativa sia di suo gradimento. Buona giornata.",
+      "ground": ""
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Va bene, capisco. grazie comunque.",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "È stato un piacere, se ha bisogno di ulteriori dettagli non esiti a contattarci. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

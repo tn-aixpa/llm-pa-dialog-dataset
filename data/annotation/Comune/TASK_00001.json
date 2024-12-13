@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00001",
+  "doc_src": "comune.milano_aree-tematiche_D0001.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, potrebbe dirmi dove posso trovare una delle Case dell'Acqua a Milano?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Mi dispiace ma non glielo so dire. ",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Capisco... Le Case dell'Acqua cosa erogano?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Le Case dell'Acqua forniscono acqua fresca, liscia e gassata gratuitamente, basta essere in possesso della Carta dei Servizi Regionale o Nazionale o della Tessera Sanitaria. ",
+      "ground": "Cosa erogano le Case dell'Acqua?\nGli impianti erogano acqua fresca, liscia e gassata.\nCome si preleva l'acqua?\nIl servizio è gratuito e accessibile a tutti i cittadini in possesso di Carta Regionale/Nazionale dei Servizi, o Tessera Sanitaria."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie!",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Di nulla. Buona giornata!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

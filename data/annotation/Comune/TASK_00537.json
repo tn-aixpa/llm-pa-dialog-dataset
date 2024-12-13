@@ -1,0 +1,34 @@
+{
+  "task_id": "TASK_00537",
+  "doc_src": "comune.trento_aree-tematiche_D0219.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Salve, vorrei informazioni sul Censimento permanente della popolazione e delle abitazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, certo. Il Censimento permanente è obbligatorio e disciplinato dal Regolamento  763/2008 del Parlamento europeo. Quali informazioni desidera sapere esattamente?",
+      "ground": "Riferimenti normativi, finalità e modalità operative.\nIl Censimento permanente deve essere svolto obbligatoriamente in quanto previsto dal Regolamento (CE) 9 luglio 2008 n, 763/2008 del Parlamento e del Consiglio europeo, che ne ha disposto l'effettuazione da parte di tutti gli Stati membri e ne ha indicato le modalità di svolgimento."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "È vero che il censimento coinvolge tutto il territorio e tutte le abitazioni?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "No, a differenza del passato, i censimenti permanenti coinvolgono solo una parte del territorio e delle abitazioni, attraverso campioni rappresentativi.",
+      "ground": "A differenza del passato, i censimenti permanenti\nnon coinvolgono tutto il territorio, tutti i cittadini e tutte le abitazioni, ma solo una parte di essi"
+    }
+  ],
+  "subcategory": "Trento"
+}

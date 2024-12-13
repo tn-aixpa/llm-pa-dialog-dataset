@@ -1,0 +1,82 @@
+{
+  "task_id": "TASK_01052",
+  "doc_src": "altavalle__2023.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Sto scrivendo il piano del mio Comune, come mi consigli di iniziare?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Una buona apertura potrebbe essere quella di ricordare da quando il tuo comune ha ottenuto il certificato Family, per poi ricordare il significato di questo e rimarcare l'impegno che il comune ha svolto in passato",
+      "ground": "Il Comune di Altavalle è certificato Family dal 2019. Il marchio ha lo scopo di rafforzare le politiche familiari sul territorio promuovendo e sostenendo azioni di sviluppo e di sostegno che vedono la famiglia al centro con particolare attenzione all’infanzia e ai giovani, coinvolgendo la giunta a sostenere politiche di benessere.\n\nNel 2023 la Giunta intende continuare con le azioni attuate negli ultimi anni, diventate orami attivitа ordinaria (come contributi alle associazioni, manutenzione dei parchi e dei parchi attrezzati, angolo allattamento è fasciatoio, ecc) e intraprendere nuove iniziative puntuali per aumentare la qualitа della proposta creando eventi, attivitа, incontri e progetti, in accordo con la cittadinanza, volti a migliorare sensibilmente la vita famigliare del nostro territorio."
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Mi sembra buona.",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "C'è altro che posso fare per lei?",
+      "ground": ""
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Vorrei creare delle opportunità per ottenere premi, ma non so cosa sia più adatto.",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Il Piano di Altavalle nel 2023 ha inserito le seguenti azioni nella tassonomia \"Sistemi premianti\":\n- Contributo associazioni\n- Contributo attivitа socioculturali",
+      "ground": "=== PIANO FAMIGLIA DI ALTAVALLE ANNO 2023 ===\n\n|||\n\nTITOLO: Contributo attivitа socioculturali\n\n|||\n\nTITOLO: Contributo associazioni"
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "Puoi dirmi di più sul contributo della attività socioculturali?",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "Sì, il Comune di Altavalle prevede di sostenere progetti e iniziative che promuovono coesione sociale e benessere della comunità.",
+      "ground": "DESCRIZIONE: Sostegno ai progetti e alle iniziative socioculturali che propongano un attivitа che promuova la coesione sociale e il benessere della comunitа."
+    },
+    {
+      "id": "T9",
+      "speaker": "Citizen",
+      "message": "Ci sono proposte anche sul come migliorare la comunicazione?",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agent",
+      "message": "Sì, loro prevedono l'uso di WhatsApp e Facebook per comunicare velocemente e rendere note le novità del territorio.",
+      "ground": "OBIETTIVO: Comunicazione veloce ed efficace delle inizative.\n\nDESCRIZIONE: Mantenere il servizio di comunicazione veloce con il servizio Whatapp del Comune\n\n|||\n\nOBIETTIVO: Comunicazione veloci ed efficaci delle iniziative.\n\nDESCRIZIONE: Condividere tramite i Social network le iniziative del territorio."
+    },
+    {
+      "id": "T11",
+      "speaker": "Citizen",
+      "message": "Sembra tutto interessante. Grazie mille.",
+      "ground": ""
+    },
+    {
+      "id": "T12",
+      "speaker": "Agent",
+      "message": "E' stato un piacere, buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

@@ -1,0 +1,40 @@
+{
+  "task_id": "TASK_00756",
+  "doc_src": "comune.salerno_D0020.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, sa dirmi se quest'anno si terrà Salerno Letteratura?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Sì, quest'anno l'evento si terrà dal 15 al 22 giugno. Saranno presenti oltre centoquaranta ospiti italiani e internazionali che animeranno il centro storico di Salerno. Quest'anno il festival è dedicato a Franz Kafka, di cui ricorre il centenario dalla morte.",
+      "ground": "Dal 15 al 22 giugno si svolgerà la dodicesima edizione di Salerno Letteratura. Saranno oltre centoquaranta gli ospiti, italiani e internazionali, che animeranno il centro storico di Salerno per confrontarsi con il pubblico e rendere un tributo non rituale alla figura di Franz Kafka, a cui il festival è dedicato in occasione del centenario della morte."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E quale sarà il tema di questa edizione?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Il tema di questa edizione sarà \"Le domande giuste\", per provare a interrogarsi sul presente e sul futuro.",
+      "ground": "Il tema di questa edizione è Le domande giuste per provare a interrogarsi sul presente e sul futuro."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

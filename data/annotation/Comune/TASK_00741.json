@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00741",
+  "doc_src": "comune.trento_aree-tematiche_D0610.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, potrebbe darmi informazioni sul cimitero Monumentale di Trento?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, il cimitero Monumentale di Trento è stato progettato dall'ingegnere Giuseppe Pietro Dal Bosco e inaugurato nel 1826. In origine era composto solo dal quadrante nord, a cui si è aggiunto il quadrante sud alla fine del secolo.",
+      "ground": "Il cimitero Monumentale di Trento, progettato dall'ingegnere Giuseppe Pietro Dal Bosco è stato inaugurato nel 1826; si compone di due quadranti costruiti in tempi successivi e convenzionalmente distinti in quadrante nord, il più antico risalente come detto al secondo decennio del milleottocento, e il quadrante sud realizzato negli ultimi anni del secolo."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Esistono sculture di rilievo all'interno del cimitero?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, all'interno del cimitero Monumentale di Trento sono presenti numerose sculture di grande valore artistico, tra cui opere di Andrea Malfatti e Stefano Zuech.",
+      "ground": "al centro di ogni lato del quadrante vi è una grande cappella, Il Famedio sul lato ovest e la Cappella dei Benefattori a est sui cui fronti risaltano i gruppi scultorei dell'artista Andrea Malfatti\nLa Fama\n(1)\n[https://www.comune.trento.it/Aree-tematiche/Servizi-funerari-e-cimiteriali/Valorizzazione-cimitero-monumentale/Tour-virtuale/1-La-Fama]((1) La Fama)\ne\nLa Beneficenza\n(2)\n[https://www.comune.trento.it/Aree-tematiche/Servizi-funerari-e-cimiteriali/Valorizzazione-cimitero-monumentale/Tour-virtuale/2-La-Beneficienza]((2) La Beneficienza)\n.\n\n|||\n\nsulla sommità della chiesa spicca\nil Redentore\n(3)\n[https://www.comune.trento.it/Aree-tematiche/Servizi-funerari-e-cimiteriali/Valorizzazione-cimitero-monumentale/Tour-virtuale/3-Il-Redentore]((3) Il Redentore)\nopera anch'essa dello scultore Malfatti.\n\n|||\n\n[https://www.comune.trento.it/Aree-tematiche/Servizi-funerari-e-cimiteriali/Valorizzazione-cimitero-monumentale/Tour-virtuale/12-La-tomba-Cloz]((12)La tomba Cloz)\n. Sul Lato ovest del colonnato prima di arrivare alla cappella centrale adibita a Famedio dove spicca il gruppo scultoreo di Stefano Zuech “"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Posso visitare il cimitero Monumentale di Trento in modo autonomo?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Non ho informazioni se il cimitero sia visitabile senza accompagnamento.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

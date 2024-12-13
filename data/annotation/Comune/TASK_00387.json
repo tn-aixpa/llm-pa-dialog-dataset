@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_00387",
+  "doc_src": "comune.milano_aree-tematiche_links_D0421.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni su come disinfestare un'area. Il comune può aiutarmi?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "L'Amministrazione comunale interviene solo sui propri immobili e le aree limitrofe, così come sulle rive comunali e le aree delimitate da recinzioni. Negli altri casi, gli interventi vengono eseguiti su segnalazione dell'Agenzia di Tutela della Salute.",
+      "ground": "l'Amministrazione comunale interviene solo su\n:\ni propri immobili a gestione diretta\nle loro pertinenze: spazi, giardini, cortili, cantine e solai annessi o antistanti gli edifici comunali, le strutture scolastiche ecc.\nle rive comunali di rogge scoperte e le aree di proprietà comunale delimitate da recinzioni.\nIn tutti gli altri casi, inclusi gli edifici privati, gli interventi sono eseguiti su segnalazione dell'Agenzia di Tutela della Salute."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Ci sono interventi verso le blatte?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Il Comune interviene solo se ci sono blatte nei pozzetti stradali comunali.",
+      "ground": "Il Comune interviene sono nel caso in cui si presenti l’insorgenza di blatte/scarafaggi nei pozzetti stradali di proprietà comunale."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "E per i topi?",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "Il Comune ha interventi di derattizzazione nelle aree verdi pubbliche come parchi, aiuole o giardini.",
+      "ground": "Il Comune attiva interventi di derattizzazione quando viene riscontrata la presenza di topi\nall'interno di aree verdi pubbliche\ncome parchi, aiuole o giardini pubblici."
+    },
+    {
+      "id": "T09",
+      "speaker": "Cittadino",
+      "message": "No, grazie mille per le informazioni fornite. Buona giornata!",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agente",
+      "message": "Prego, resto a disposizione per ulteriori chiarimenti. Buona giornata anche a lei!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

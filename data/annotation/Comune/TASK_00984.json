@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00984",
+  "doc_src": "comune.trento_aree-tematiche_D0106.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Il Comune ha approvato le graduatorie per la locazione di alloggi a canone moderato?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Sì, il Comune ha approvato le graduatorie, distinte tra richiedenti comunitari ed extracomunitari, redatte secondo i criteri previsti nel bando.",
+      "ground": "Il Comune approva le graduatorie, distinte tra richiedenti comunitari ed extracomunitari (ai sensi della delibera di Giunta provinciale n. 1.276 di data 15 giugno 2007), redatte secondo i criteri previsti nel bando."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Per quanto tempo sono valide?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Le graduatorie hanno validità di 2 anni dalla data di pubblicazione per gli alloggi nuovi e di 6 mesi dalla data di pubblicazione per gli alloggi di risulta (bandi di aprile e ottobre).",
+      "ground": "Le graduatorie hanno validità di:\n2 anni dalla data di pubblicazione per gli alloggi nuovi\n6 mesi dalla data di pubblicazione per gli alloggi di risulta (bandi di aprile e ottobre)."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Dove si possono consultare?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Tali graduatorie sono consultabili al link /Comune/Organizzazione-comunale/Organigramma/Servizi/POLITICHE-ABITATIVE .",
+      "ground": "Tali graduatorie sono consultabili anche presso il progetto\n[/Comune/Organizzazione-comunale/Organigramma/Servizi/POLITICHE-ABITATIVE](Politiche abitative)"
+    }
+  ],
+  "subcategory": "Trento"
+}

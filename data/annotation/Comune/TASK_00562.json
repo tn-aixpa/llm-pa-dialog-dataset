@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00562",
+  "doc_src": "comune.trento_aree-tematiche_D0255.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Vorrei sapere di più sul piano di emergenza in caso di inondazione dell'Adige.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Il piano di emergenza è composto da una relazione e da una serie di allegati e tavole. È disponibile anche una presentazione sintetica dei contenuti del piano al link /Aree-tematiche/Protezione-civile/Piano-emergenza-inondazione-fiume-Adige/Documentazione-ufficiale/Presentazione-sintetica-piano-emergenza-inondazione-fiume-Adige .",
+      "ground": "Il piano di emergenza inondazione fiume Adige è composto da una relazione e da una serie di allegati e tavole. È disponibile anche una presentazione sintetica dei contenuti del piano.\n\n|||\n\n[/Aree-tematiche/Protezione-civile/Piano-emergenza-inondazione-fiume-Adige/Documentazione-ufficiale/Presentazione-sintetica-piano-emergenza-inondazione-fiume-Adige](Presentazione sintetica piano emergenza inondazione fiume Adige)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E dove posso trovare gli allegati?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Gli allegati sono disponibili sul sito del Comune.",
+      "ground": "Descrizione degli allegati"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

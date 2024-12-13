@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00182",
+  "doc_src": "comune.milano_aree-tematiche_links_D0210.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, potrebbe darmi informazioni riguardo alla raccolta firme per il progetto di legge \"Diritto alla libertà di pagamento in contanti\"?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "La raccolta di firme per il progetto di legge \"Diritto alla libertà di pagamento in contanti\" è depositata alla sede centrale di Via Larga 12, secondo piano, stanze 234, 237 e 239. Come orari è dal lunedì al venerdì dalle 9.30 alle 12 e dalle 14.30 alle 15.30. Nonché possibile presso la sede dei municipi.\n\nNon le so dire quante firme siano state raccolte finora ma il termine ultimo per firmare è il 30 Giugno 2024",
+      "ground": "\nDiritto alla libertà di pagamento in contanti\nProgetto di legge di iniziativa popolare: \"Diritto alla libertà di pagamento in contanti\"\nGazzetta Ufficiale n. 274 del 23/11/2023\nLa raccolta firme è depositata presso la sede centrale di Via Larga 12 - secondo piano - stanze 234 - 237 - 239 dal lunedì al venerdì - dalle 9:30 alle 12:00 e dalle 14:30 alle 15:30 e presso la sede di Municipi.\nT\nermine ultimo per la raccolta delle firme: 30/6/2024"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Ah capisco, c'è per caso qualcosa che riguarda la Palestina?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, al momento è in corso la raccolta firme per l'iniziativa popolare \"Riconoscimento dello Stato di Palestina con capitale Gerusalemme Est\".\nLa raccolta firme avviene sempre presso la sede centrale di Via Larga 12, secondo piano nelle stanze 234, 237, 239 dal lunedì al venerdì dalle 9:30 alle 12:00 e dalle 14:30 alle 15:30 nonché presso la sede dei Municipi.\n\nSi potrà supportare questa iniziativa fino al 28 Luglio 2024\n",
+      "ground": "Riconoscimento dello Stato di Palestina con capitale Gerusalemme Est\nProgetto di legge di iniziativa popolare \"Riconoscimento dello Stato di Palestina con capitale Gerusalemme Est\".\nGazzetta Ufficiale - Serie Generale n. 297 del 21/12/2023\nLa raccolta firme è depositata presso la sede centrale di Via Larga 12 - secondo piano - stanze 234 - 237 - 239 dal lunedì al venerdì - dalle 9:30 alle 12:00 e dalle 14:30 alle 15:30 e presso la sede dei Municipi.\nTermine ultimo per la raccolta firme: 28/07/2024"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie per tutto. Buona giornata!",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Altrettanto, buona giornata a lei!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

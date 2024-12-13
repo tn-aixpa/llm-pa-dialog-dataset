@@ -1,0 +1,40 @@
+{
+  "task_id": "TASK_00820",
+  "doc_src": "comune.salerno_D0112.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni riguardo alla selezione per i Funzionari di area Tecnica, Amministrativa e Informatica. È ancora possibile candidarsi?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, mi dispiace ma la scadenza per la candidatura è stata il 17 novembre 2023. ",
+      "ground": "Selezione per la copertura di n. 3 posti per Funzionari di area: Tecnica, Amministrativa e Informatica, a tempo pieno e indeterminato ai sensi dell’art. 8 della L. 68/99\nunicamente in modalità telematica dalle ore 09:00 del 13/11/2023 alle ore 17:00 del 17/11/2023, per il tramite del portale regionale Cliclavoro Campania all’indirizzo:"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Capisco, grazie comunque. Dove posso trovare ulteriori dettagli?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Può trovare più dettagli al link https://lavoro.regione.campania.it/index.php/229-collocamento-mirato",
+      "ground": "Gli interessati possono prendere visione degli Avvisi al seguente link:\n[https://lavoro.regione.campania.it/index.php/229-collocamento-mirato](https://lavoro.regione.campania.it/index.php/229-collocamento-mirato)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per l'aiuto, buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

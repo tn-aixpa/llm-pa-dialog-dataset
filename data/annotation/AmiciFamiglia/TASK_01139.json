@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01139",
+  "doc_src": "pieve_tesino__2023.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Che azioni posso legare alla lettura?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Puoi pensare di organizzare dei laboratori di lettura nel periodo pasquale, svolgere dei laboratori in biblioteca oppure dare alle famiglie un punto di lettura in biblioteca. ",
+      "ground": "Nel periodo che precede la Pasqua verranno proposti ai bambini dai 4 anni due laboratori creativi, accompagnati da letture a tema, a cura di Valentina Saitta, artigiana e formatrice.  \n\nMission educativa: riciclo di materiali usati - il piacere della lettura\n\n|||\n\nTITOLO: ATTIVITA’ LABORATORIALI in BIBLIOTECA\n\nTASSONOMIA: Attivitа/progetti formativi specifici per bambini e ragazzi\n\nDESCRIZIONE: Saranno organizzate delle attivitа\n\nlaboratoriali che faranno incontrare i bambini negli spazi della biblioteca. Laboratori\n\nmanuali in cui anche la lettura troverа il suo spazio in un contesto più\n\nfavorevole.\n\n|||\n\nTITOLO: PUNTO DI LETTURA\n\nTASSONOMIA: Biblioteca family-oriented / media library\n\nDESCRIZIONE: Presso la biblioteca comunale vi è uno spazio dedicato ai bambini e alle famiglie, dove i genitori possono leggere insieme ai loro figli.  Annualmente vengono aggiornati i testi che vengono proposti alle famiglie. "
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Puoi darmi un testo relativo al laboratorio di lettura? Quello senza la parte pasquale.",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "TITOLO ATTIVITA’ LABORATORIALI in BIBLIOTECA\n\nTASSONOMIA Attivitа/progetti formativi specifici per bambini e ragazzi\n\nDESCRIZIONE Saranno organizzate delle attivitа laboratoriali che faranno incontrare i bambini negli spazi della biblioteca. Laboratori manuali in cui anche la lettura troverа il suo spazio in un contesto più favorevole.",
+      "ground": "T\n\n|||\n\nI\n\n|||\n\nT\n\n|||\n\nO\n\n|||\n\nL\n\n|||\n\nO\n\n|||\n\n:\n\n|||\n\n \n\n|||\n\nA\n\n|||\n\nT\n\n|||\n\nT\n\n|||\n\nI\n\n|||\n\nV\n\n|||\n\nI\n\n|||\n\nT\n\n|||\n\nA\n\n|||\n\n’\n\n|||\n\n \n\n|||\n\nL\n\n|||\n\nA\n\n|||\n\nB\n\n|||\n\nO\n\n|||\n\nR\n\n|||\n\nA\n\n|||\n\nT\n\n|||\n\nO\n\n|||\n\nR\n\n|||\n\nI\n\n|||\n\nA\n\n|||\n\nL\n\n|||\n\nI\n\n|||\n\n \n\n|||\n\ni\n\n|||\n\nn\n\n|||\n\n \n\n|||\n\nB\n\n|||\n\nI\n\n|||\n\nB\n\n|||\n\nL\n\n|||\n\nI\n\n|||\n\nO\n\n|||\n\nT\n\n|||\n\nE\n\n|||\n\nC\n\n|||\n\nA\n\n|||\n\n\n\n\n|||\n\n\n\n\n|||\n\nT\n\n|||\n\nA\n\n|||\n\nS\n\n|||\n\nS\n\n|||\n\nO\n\n|||\n\nN\n\n|||\n\nO\n\n|||\n\nM\n\n|||\n\nI\n\n|||\n\nA\n\n|||\n\n:\n\n|||\n\n \n\n|||\n\nA\n\n|||\n\nt\n\n|||\n\nt\n\n|||\n\ni\n\n|||\n\nv\n\n|||\n\ni\n\n|||\n\nt\n\n|||\n\nа\n\n|||\n\n/\n\n|||\n\np\n\n|||\n\nr\n\n|||\n\no\n\n|||\n\ng\n\n|||\n\ne\n\n|||\n\nt\n\n|||\n\nt\n\n|||\n\ni\n\n|||\n\n \n\n|||\n\nf\n\n|||\n\no\n\n|||\n\nr\n\n|||\n\nm\n\n|||\n\na\n\n|||\n\nt\n\n|||\n\ni\n\n|||\n\nv\n\n|||\n\ni\n\n|||\n\n \n\n|||\n\ns\n\n|||\n\np\n\n|||\n\ne\n\n|||\n\nc\n\n|||\n\ni\n\n|||\n\nf\n\n|||\n\ni\n\n|||\n\nc\n\n|||\n\ni\n\n|||\n\n \n\n|||\n\np\n\n|||\n\ne\n\n|||\n\nr\n\n|||\n\n \n\n|||\n\nb\n\n|||\n\na\n\n|||\n\nm\n\n|||\n\nb\n\n|||\n\ni\n\n|||\n\nn\n\n|||\n\ni\n\n|||\n\n \n\n|||\n\ne\n\n|||\n\n \n\n|||\n\nr\n\n|||\n\na\n\n|||\n\ng\n\n|||\n\na\n\n|||\n\nz\n\n|||\n\nz\n\n|||\n\ni\n\n|||\n\n\n\n\n|||\n\n\n\n\n|||\n\nD\n\n|||\n\nE\n\n|||\n\nS\n\n|||\n\nC\n\n|||\n\nR\n\n|||\n\nI\n\n|||\n\nZ\n\n|||\n\nI\n\n|||\n\nO\n\n|||\n\nN\n\n|||\n\nE\n\n|||\n\n:\n\n|||\n\n \n\n|||\n\nS\n\n|||\n\na\n\n|||\n\nr\n\n|||\n\na\n\n|||\n\nn\n\n|||\n\nn\n\n|||\n\no\n\n|||\n\n \n\n|||\n\no\n\n|||\n\nr\n\n|||\n\ng\n\n|||\n\na\n\n|||\n\nn\n\n|||\n\ni\n\n|||\n\nz\n\n|||\n\nz\n\n|||\n\na\n\n|||\n\nt\n\n|||\n\ne\n\n|||\n\n \n\n|||\n\nd\n\n|||\n\ne\n\n|||\n\nl\n\n|||\n\nl\n\n|||\n\ne\n\n|||\n\n \n\n|||\n\na\n\n|||\n\nt\n\n|||\n\nt\n\n|||\n\ni\n\n|||\n\nv\n\n|||\n\ni\n\n|||\n\nt\n\n|||\n\nа\n\n|||\n\n\n\n\n|||\n\n\n\n\n|||\n\nl\n\n|||\n\na\n\n|||\n\nb\n\n|||\n\no\n\n|||\n\nr\n\n|||\n\na\n\n|||\n\nt\n\n|||\n\no\n\n|||\n\nr\n\n|||\n\ni\n\n|||\n\na\n\n|||\n\nl\n\n|||\n\ni\n\n|||\n\n \n\n|||\n\nc\n\n|||\n\nh\n\n|||\n\ne\n\n|||\n\n \n\n|||\n\nf\n\n|||\n\na\n\n|||\n\nr\n\n|||\n\na\n\n|||\n\nn\n\n|||\n\nn\n\n|||\n\no\n\n|||\n\n \n\n|||\n\ni\n\n|||\n\nn\n\n|||\n\nc\n\n|||\n\no\n\n|||\n\nn\n\n|||\n\nt\n\n|||\n\nr\n\n|||\n\na\n\n|||\n\nr\n\n|||\n\ne\n\n|||\n\n \n\n|||\n\ni\n\n|||\n\n \n\n|||\n\nb\n\n|||\n\na\n\n|||\n\nm\n\n|||\n\nb\n\n|||\n\ni\n\n|||\n\nn\n\n|||\n\ni\n\n|||\n\n \n\n|||\n\nn\n\n|||\n\ne\n\n|||\n\ng\n\n|||\n\nl\n\n|||\n\ni\n\n|||\n\n \n\n|||\n\ns\n\n|||\n\np\n\n|||\n\na\n\n|||\n\nz\n\n|||\n\ni\n\n|||\n\n \n\n|||\n\nd\n\n|||\n\ne\n\n|||\n\nl\n\n|||\n\nl\n\n|||\n\na\n\n|||\n\n \n\n|||\n\nb\n\n|||\n\ni\n\n|||\n\nb\n\n|||\n\nl\n\n|||\n\ni\n\n|||\n\no\n\n|||\n\nt\n\n|||\n\ne\n\n|||\n\nc\n\n|||\n\na\n\n|||\n\n.\n\n|||\n\n \n\n|||\n\nL\n\n|||\n\na\n\n|||\n\nb\n\n|||\n\no\n\n|||\n\nr\n\n|||\n\na\n\n|||\n\nt\n\n|||\n\no\n\n|||\n\nr\n\n|||\n\ni\n\n|||\n\n\n\n\n|||\n\n\n\n\n|||\n\nm\n\n|||\n\na\n\n|||\n\nn\n\n|||\n\nu\n\n|||\n\na\n\n|||\n\nl\n\n|||\n\ni\n\n|||\n\n \n\n|||\n\ni\n\n|||\n\nn\n\n|||\n\n \n\n|||\n\nc\n\n|||\n\nu\n\n|||\n\ni\n\n|||\n\n \n\n|||\n\na\n\n|||\n\nn\n\n|||\n\nc\n\n|||\n\nh\n\n|||\n\ne\n\n|||\n\n \n\n|||\n\nl\n\n|||\n\na\n\n|||\n\n \n\n|||\n\nl\n\n|||\n\ne\n\n|||\n\nt\n\n|||\n\nt\n\n|||\n\nu\n\n|||\n\nr\n\n|||\n\na\n\n|||\n\n \n\n|||\n\nt\n\n|||\n\nr\n\n|||\n\no\n\n|||\n\nv\n\n|||\n\ne\n\n|||\n\nr\n\n|||\n\nа\n\n|||\n\n \n\n|||\n\ni\n\n|||\n\nl\n\n|||\n\n \n\n|||\n\ns\n\n|||\n\nu\n\n|||\n\no\n\n|||\n\n \n\n|||\n\ns\n\n|||\n\np\n\n|||\n\na\n\n|||\n\nz\n\n|||\n\ni\n\n|||\n\no\n\n|||\n\n \n\n|||\n\ni\n\n|||\n\nn\n\n|||\n\n \n\n|||\n\nu\n\n|||\n\nn\n\n|||\n\n \n\n|||\n\nc\n\n|||\n\no\n\n|||\n\nn\n\n|||\n\nt\n\n|||\n\ne\n\n|||\n\ns\n\n|||\n\nt\n\n|||\n\no\n\n|||\n\n \n\n|||\n\np\n\n|||\n\ni\n\n|||\n\nù\n\n|||\n\n\n\n\n|||\n\n\n\n\n|||\n\nf\n\n|||\n\na\n\n|||\n\nv\n\n|||\n\no\n\n|||\n\nr\n\n|||\n\ne\n\n|||\n\nv\n\n|||\n\no\n\n|||\n\nl\n\n|||\n\ne\n\n|||\n\n."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Aggiungici a questa azione che è la biblioteca comunale, e si intende fare dei laboratori bimensili. Specifica inoltre che lo scopo dei laboratori è di educare i bambini al senso civico.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "TITOLO ATTIVITA’ LABORATORIALI in BIBLIOTECA\n\nTASSONOMIA Attivitа/progetti formativi specifici per bambini e ragazzi\n\nDESCRIZIONE Saranno organizzate nella biblioteca comunale delle attivitа laboratoriali bimensili che faranno incontrare i bambini negli spazi della biblioteca. Questi laboratori sono orientati a istruire i ragazzi al senso civico, offrendo anche attività manuali in cui anche la lettura troverа il suo spazio in un contesto più favorevole.",
+      "ground": "TITOLO: ATTIVITA’ LABORATORIALI in BIBLIOTECA\n\nTASSONOMIA: Attivitа/progetti formativi specifici per bambini e ragazzi\n\nDESCRIZIONE: Saranno organizzate delle attivitа\n\nlaboratoriali che faranno incontrare i bambini negli spazi della biblioteca. Laboratori\n\nmanuali in cui anche la lettura troverа il suo spazio in un contesto più\n\nfavorevole."
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

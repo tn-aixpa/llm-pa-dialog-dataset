@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_01078",
+  "doc_src": "borgo_chiese__2023.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Buongiorno, cosa potrei scrivere sul contributo che le politiche familiare hanno avuto sul Comune?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Buongiorno, può dire come le politiche familiari hanno aiutato a sostenere la genitorialità, la conciliazione dei tempi famiglia/lavoro nonché a rafforzare i legami con il territorio.\n\nPuò da qui poi discutere come il rafforzamento delle politiche familiari permetta di raggiungere un benessere sociale e di intervenire su possibili disagi. ",
+      "ground": "Il rafforzamento delle politiche familiari permettere di raggiungere un benessere sociale e consente di intervenire su potenziali situazioni di disagio, permette di rafforzare il tessuto sociale nell'importanza rivestita dalla famiglia e la coesione e la sicurezza sociale e dell'intera collettivitа."
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Grazie dell'idea.",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "E' un piacere. Vuole porre altri quesiti?",
+      "ground": ""
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Hai idee su iniziative verso la violenza di genere?",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Potrebbe raccogliere materiale legato alla tematica e creare uno spazio, tipo nella biblioteca comunale, in cui raccogliere questo materiale",
+      "ground": "Occupare un posto per una vittima di femminicidio c/o Sala Consiglio e presso la Biblioteca comunale.\n\nIl progetto è finalizzato a sensibilizzare la comunitа contro le violenze sulle donne, raccogliendo tutte le iniziative socio/culturali che denunciano la violenza di genere e che ricordano tramite l'esposizione di oggetti simbolo di colore rosso, sulla quale sono appesi avvisi, proposte.\n\nLa biblioteca comunale allestisce uno spazio dedicato con proposte di libri a tema."
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "Hai anche qualche proposta per spingere il turismo?",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "|Potrebbe organizzare delle visite in palazzi locali, monumenti del territorio oppure proporre delle passeggiate ed escursioni",
+      "ground": "DESCRIZIONE: Visite ai monumenti del territorio\n\n|||\n\nDESCRIZIONE: visite ai palazzi locali\n\n|||\n\nDESCRIZIONE: organizzazione di passeggiate ed escursioni"
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

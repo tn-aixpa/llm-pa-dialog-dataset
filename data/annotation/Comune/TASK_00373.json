@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00373",
+  "doc_src": "comune.milano_aree-tematiche_links_D0405.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, potrebbe darmi informazioni sull'imposta di soggiorno?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "L'imposta di soggiorno è dovuta da tutti i non residenti che soggiornano nelle strutture ricettive di Milano. Le entrate derivanti vengono utilizzate per interventi turistici e di recupero dei beni culturali della città.",
+      "ground": "Tutti i non residenti che soggiornano nelle strutture ricettive del territorio comunale di Milano devono pagare l’imposta di soggiorno.\nLe entrate derivanti dall'imposta di soggiorno sono destinate ad interventi relativi a servizi turistici nonché al recupero e/o manutenzione dei beni culturali e ambientali della città di Milano."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Posso essere esentato dall'imposta di soggiorno?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "L'esenzione si applica a diversi casi, come minori di 18 anni, giovani fino a 30 anni negli ostelli per la gioventù, persone con disabilità e i loro accompagnatori. Per ottenere l'esenzione è necessario compilare un modulo di autocertificazione.",
+      "ground": "Sono esenti dal pagamento dell'imposta di soggiorno:\ni minori di 18 anni\ni giovani fino a 30 anni che pernottano negli Ostelli per la Gioventù, gestiti da soggetti pubblici o privati per il conseguimento di finalità sociali, culturali ed educative, così come definito dalla vigente normativa regionale\ni familiari e/o affini o comunque accompagnatori, limitatamente al periodo di ricovero, di soggetti in degenza nelle strutture sanitarie sul territorio della provincia di Milano. Per ottenere l’esenzione devono presentare un’attestazione in base alle disposizioni di cui agli articoli 46 e 47 del D.P.R. n. 445 del 2000 e successive modificazioni, in cui si dichiara che il soggiorno presso la struttura ricettiva è finalizzato all'assistenza sanitaria nei confronti del familiare\ni soggetti che, a seguito di ricovero ospedaliero, proseguono le cure presso le strutture sanitarie milanesi e della Provincia di Milano. L’esenzione si estende ai loro accompagnatori\nchi soggiorna in residence, case e appartamenti per vacanze e nelle case per ferie gestite da enti no profit, come sopra individuati. L’esenzione si applica oltre il quattordicesimo giorno consecutivo di permanenza. Se la consecutività si interrompe, si ricomincia il conteggio per i successivi pernottamenti\nil personale appartenente alle forze dell’Ordine e/o forze armate che per ragioni di servizio alloggia nella Città di Milano e limitatamente al servizio medesimo\ngli studenti universitari fino a 26 anni, iscritti agli Atenei milanesi, che alloggiano nelle strutture ricettive\nle persone con disabilità e i loro accompagnatori\ntutti i volontari coordinati dalla Protezione Civile provinciale, regionale e nazionale e gli appartenenti ad associazioni di volontariato in caso di calamità e grandi eventi individuati dall'Amministrazione\nchi è stato alloggiato nelle strutture ricettive a seguito di provvedimenti adottati dalle autorità pubbliche e/o dallo stesso Comune di Milano per far fronte a situazioni di emergenza sociale o di natura straordinaria.\nChi ha diritto all'esenzione o alla riduzione dell'imposta deve compilare il modulo di autocertificazione disponibile nella sezione\nAllegati"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Posso pagare l'imposta direttamente al gestore della struttura ricettiva?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Sì, l'imposta di soggiorno si paga al gestore della struttura e la ricevuta/fattura deve essere conservata per almeno sei anni. Per eventi congressuali o viaggi di gruppo, il pagamento è fatto all'inizio del soggiorno.",
+      "ground": "L'imposta di soggiorno si paga al gestore della struttura ricettiva.\nLa ricevuta/fattura dovrà essere conservata per un periodo di almeno sei anni.\nPer eventi congressuali, convegni o viaggi di gruppo l’assolvimento del tributo dovrà avvenire preventivamente, ossia all'inizio del soggiorno, per consentire al gestore della struttura ricettiva di precisare in fattura l’avvenuto assolvimento del tributo."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "Sono a disposizione per ulteriori chiarimenti, non esiti a contattarci per qualsiasi dubbio.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00444",
+  "doc_src": "comune.trento_aree-tematiche_D0058.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "I nidi dell'infanzia di Trento sono certificati ISO?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Sì, il servizio di nido d'infanzia del Comune di Trento è certificato secondo la norma UNI EN ISO 9001 dal 2006, con ultimi aggiornamenti nel 2015. ",
+      "ground": "Conseguita nel 2006 la certificazione del sistema di gestione per la qualità per il servizio di nido d'infanzia.\nIl servizio di nido d’infanzia del Comune di Trento (sia per le strutture a gestione diretta che indiretta) è certificato dal 2006 secondo la norma UNI EN ISO 9001, da ultimo aggiornata nel 2015."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E la certificazione è stata rinnovata di recente?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, la certificazione è di durata triennale ed è stata rinnovata nel 2009, 2012, 2015, 2018 e 2021 per l'attività di \"Progettazione ed erogazione del servizio di nido d’infanzia\". ",
+      "ground": "Avendo la certificazione durata triennale, si è proceduto, nel 2009,  2012, 2015, 2018 e 2021  al rinnovo della stessa,  per l'attività di  “Progettazione ed erogazione del servizio di nido d’infanzia”."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni! ",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È stato un piacere poterla aiutare, buona giornata!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

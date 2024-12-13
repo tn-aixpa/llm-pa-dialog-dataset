@@ -1,0 +1,12 @@
+Le caratteristiche generali dell'acquifero sul fondo valle del Comune di Trento
+La carta delle isofreatiche è stata realizzata nel 2000 dal Servizio Ambiente del Comune di Trento raccogliendo e rielaborando le letture piezometriche provenienti da dati d'archivio del Comune, da dati contenuti in relazioni idrogeologiche allegate a progetti di opere pubbliche e private, da letture piezometriche effettuate nell'ambito di monitoraggi e da rilevazioni eseguite per la creazione e l'aggiornamento della mappatura delle criticità idrogeologiche.
+Le isofreatiche in planimetria sono rappresentate da colori diversi in base alla fonte dei dati e riportano le diverse date di lettura piezometrica.
+La carta delle isofreatiche è collegata con lo Studio idrogeologico finalizzato alla caratterizzazione dell'acquifero di fondovalle compreso nel territorio comunale di Trento realizzato nel 2000 dal Comune di Trento attraverso la consulenza e l'analisi di dati e studi anche in possesso dell'Amministrazione da parte della dott.ssa geol. Paola Visintainer.
+Tale studio fornisce le caratteristiche generali dell'acquifero superficiale quali, morfologia dell'area in esame, caratteristiche di confinamento della falda, descrizione della superficie piezometrica, valore della massima escursione ecc.
+La cartografia è consultabile sul
+[/Aree-tematiche/Cartografia/Portale-cartografico](portale cartografico "Ambiente" del Comune di Trento)
+, selezionando "
+Falda
+" fra le possibili viste proposte nel menù a tendina e spuntando "
+Isofreatiche
+" sulla lista dei tematismi.

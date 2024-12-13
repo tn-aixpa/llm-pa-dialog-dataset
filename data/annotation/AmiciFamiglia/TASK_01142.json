@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01142",
+  "doc_src": "pomarolo__2023.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Riscrivi questa azione\n\nTitolo: concessione strutture comunali\nTassonomia:\nObiettivo: sostenere le associazioni locali nell'organizzazione di eventi\nDescrizione: Il Comune di Ronchi concede degli spazi alle associazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "TITOLO: Concessione in uso di sale e strutture comunali\n\nTASSONOMIA: Sostegno economico alle associazioni del territorio / Concessione spazi\n\nOBIETTIVO: Promuovere attivitа di carattere sociale e culturale sul territorio e favorire la cittadinanza attiva.\n\nDESCRIZIONE: Il Comune di Ronchi, in conformità con i regolamenti stabiliti, concede l’uso di sale e spazi comunali alle associazioni locali iscritte all'Albo comunale affinché organizzino eventi, corsi sportivi, culturali, educativi o di intrattenimento per le famiglie e i bambini.",
+      "ground": "TITOLO: Sostegno attivitа Banda Musicale ''Felice e Gregorio Fontana'' di Pomarolo\n\nTASSONOMIA: Sostegno economico alle associazioni del territorio / Concessione spazi\n\nOBIETTIVO: Sostenere attivitа e iniziative culturali che costituiscono rilevante interesse per la comunitа e concorrono alla sua valorizzazione.\n\nDESCRIZIONE: Il Comune di Pomarolo manterrа, nei limiti delle disponibilitа di bilancio, il proprio sostegno economico a favore della Banda Musicale “Felice e Gregorio Fontana” di Pomarolo tenuto conto del ruolo fondamentale che essa svolge all’interno della comunitа, attraverso la formazione musicale e culturale di bambini, ragazzi e adulti.\n\n-----"
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Vorrei anche un'azione da fare nelle scuole.",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Che tipo di azione ti interessa? Alcune possibili idee sono sport, salute, educazione ambientali, servizi di asilo nido, parchi giochi e pedibus",
+      "ground": "TITOLO: Progetto ''Scuola e Sport''\n\n|||\n\nTITOLO: Giornata ecologica ed educazione ambientale\n\n|||\n\nTITOLO: Servizio di asilo nido sovracomunale 0-3 anni\n\n|||\n\nTITOLO: Parco giochi e aree verdi\n\n|||\n\n\nTITOLO: Sostegno all'iniziativa Pedibus\n\n|||\n\nTITOLO: Progetto ''Scuola e Salute''"
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Vorrei un'azione sull'educazione ambientale.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "TITOLO: Giornata ecologica ed educazione ambientale\n\nTASSONOMIA: Attività di educazione ambientale (laboratori, giornate ecologiche, giornata del riuso, raccolta differenziata)\n\nDESCRIZIONE: Il Comune di Ronchi punta a sensibilizzare la fascia dei più piccoli, invitando gli istituti scolastici presenti sul territorio ad affrontare con gli alunni la tematica del ciclo dei rifiuti e l’importanza di effettuare una corretta raccolta differenziata. Inoltre, il Comune sostiene la cura dell'ambiente e la consapevolezza ecologica tra gli studenti.",
+      "ground": "TITOLO: Giornata ecologica ed educazione ambientale\n\nTASSONOMIA: Attivitа  di educazione ambientale (laboratori, giornate ecologiche, giornata del riuso, raccolta differenziata)\n\nDESCRIZIONE: Il Comune di Pomarolo punta a sensibilizzare la fascia dei più piccoli, invitando gli istituti scolastici presenti sul territorio ad affrontare con gli alunni la tematica del ciclo dei rifiuti e l’importanza di effettuare una corretta raccolta differenziata.\n\nIl Comune di Pomarolo sostiene l'iniziativa ''Giornata degli Alberi'' promossa dalla scuola primaria R. Galvagni."
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_00093",
+  "doc_src": "comune.milano_aree-tematiche_D0099.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, potrebbe darmi informazioni sulla Commissione per il Paesaggio?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, la Commissione Comunale per il Paesaggio è un organo tecnico e consultivo del Comune che esprime pareri obbligatori su diverse autorizzazioni paesaggistiche. ",
+      "ground": "La Commissione Comunale per il Paesaggio è l’organo tecnico–consultivo del Comune di Milano che esprime pareri obbligatori, non vincolanti – salvo diversa disposizione di legge - in merito a:\n\nautorizzazione paesaggistica ordinaria prevista dall’art. 146 del decreto legislativo del 22 gennaio 2004 n. 42, per quanto riguarda le competenze amministrative attribuite al Comune dall’art. 80 della Legge Regionale 11 marzo 2005 n. 12;\nautorizzazione paesaggistica semplificata prevista dal DPR 31/2017 per gli interventi elencati nell'Allegato \"B\";\naccertamento di compatibilità paesaggistica, ai sensi dell’art. 167 del decreto legislativo 22 gennaio 2004, n. 42;\nirrogazione delle sanzioni amministrative in materia paesaggistica;\nprovvedimenti a sanatoria ex Art.32 della Legge 28 febbraio 1985 n. 47;\nimpatto paesistico dei progetti di cui alla parte IV della normativa del piano paesaggistico regionale;\ncasi previsti dalle Norme di Attuazione del PGT;\nprogetti preliminari presentati ai sensi degli artt. 40 e 55 del Regolamento Edilizio;\npareri nei casi previsti dalle norme regolamentari vigenti."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Posso consultare il PGT online?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, è possibile consultare il PGT online per verificare i vincoli paesaggistici. ",
+      "ground": "Per verificare i vincoli paesaggistici è possibile consultare il PGT online(pgt.online.it) ."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Posso anche vedere i nominativi dei componenti della Commissione?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Sì, è possibile visionare i nominativi dei componenti della Commissione, i loro curricula e le dichiarazioni attestanti l'elenco dei progetti edilizi realizzati nella città di Milano. ",
+      "ground": "E’ possibile visionare i nominativi dei componenti della Commissione, i loro curricula nonché le dichiarazioni attestanti l’elenco dei progetti edilizi realizzati e/o avviati nella città di Milano nell’ultimo triennio (ai quali abbiano professionalmente collaborato e operato prima di assumere l’incarico - cfr. Regolamento Edilizio – art. 49.8)."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Ci sono elaborati che la Commissione esamina?",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "Sì, la commissione esamina i BOOK, che contiene gli elaborati necessari e sufficienti per la valutazione paesaggistica che committenti e progettisti devono presentare assieme alle pratiche edilizie. ",
+      "ground": "Al fine di semplificare l'attività amministrativa, si chiede a committenti e progettisti di presentare, contestualmente alle pratiche edilizie che necessitano di parere di competenza della Commissione per il Paesaggio, un BOOK che contenga gli elaborati necessari e sufficienti per la valutazione della Commissione."
+    },
+    {
+      "id": "T09",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agente",
+      "message": "Di nulla, è  stato un piacere poterla aiutare.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00516",
+  "doc_src": "comune.trento_aree-tematiche_D0177.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, potrebbe darmi informazioni sulla \"Seconda Variante 2011 per Opere pubbliche\"?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, la Seconda Variante è stata adottata definitivamente dal Consiglio comunale il 28 febbraio 2012.",
+      "ground": "adottata definitivamente\ndal Consiglio comunale con propria deliberazione n. 22 del 28 febbraio 2012 (adozione definitiva);"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "È stata anche approvata dalla Giunta provinciale?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, è stata approvata dalla Giunta provinciale il 13 aprile 2012 ed è entrata in vigore il giorno 25 aprile 2012.",
+      "ground": "approvata\ndalla Giunta provinciale con propria deliberazione n. 694 del 13 aprile 2012 pubblicata sul Bollettino Ufficiale della Regione n. 17/I-II del 24 aprile 2012;\n4. entrata in vigore il giorno 25 aprile 2012"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Dove posso trovare i documenti della variante?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "I documenti dovrebbero essere disponibili online. Non sono in grado di darle i link ma sono liberamente accessibili.",
+      "ground": "E' costituita dai seguenti allegati parte integrale ed essenziale della deliberazione e disponibili in formato pdf nella sottostante sezione \"Allegati\":"
+    }
+  ],
+  "subcategory": "Trento"
+}

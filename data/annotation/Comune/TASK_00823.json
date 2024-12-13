@@ -1,0 +1,40 @@
+{
+  "task_id": "TASK_00823",
+  "doc_src": "comune.salerno_D0115.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, mi potrebbe dare informazioni sulla manifestazione \"Alla Scoperta della Città con Erchemperto\"?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente. La manifestazione prevede delle visite guidate nel centro storico e presso i monumenti di Salerno, organizzate dall'Associazione Culturale Erchemperto. Si svolgeranno tutte le domeniche dal 10 marzo al 5 maggio.",
+      "ground": "Riprende la manifestazione “Alla Scoperta della Città con Erchemperto”, il ciclo di visite guidate al centro storico ed ai monumenti della città di Salerno organizzato dall’Associazione Culturale Erchemperto, che si terrà tutte le domeniche dal 10 marzo al 5 maggio."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "C'è il patrocinio del Comune di Salerno?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, la manifestazione ha ottenuto il patrocinio morale del Comune di Salerno.",
+      "ground": "La manifestazione ha ottenuto il patrocinio morale del Comune di Salerno."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "E' richiesta una quota di partecipazione?",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

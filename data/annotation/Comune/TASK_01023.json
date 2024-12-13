@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01023",
+  "doc_src": "comSalerno0971.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "PA Operator",
+      "message": "Qual è la durata della sperimentazione delle telecamere sulla Ztl?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "La durata della sperimentazione delle telecamere sulla Ztl è di 30 giorni.",
+      "ground": "Il Comune di Salerno ha avviato la fase sperimentale di 30 giorni delle nuove telecamere Ztl sul corso cittadino. "
+    },
+    {
+      "id": "T03",
+      "speaker": "PA Operator",
+      "message": "Dove sono state messe?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Le telecamere sono state posizionate in corrispondenza di via Raffaele Conforti direzione Nord all’intersezione con Corso Garibaldi, in Corso Garibaldi direzione Ovest all’intersezione con via Raffaele Conforti e in Corso Vittorio Emanuele direzione Ovest all’intersezione con via dei Principati.",
+      "ground": "Nello specifico, le telecamere sono state posizionate in corrispondenza di via Raffaele Conforti direzione Nord all’intersezione con Corso Garibaldi, in Corso Garibaldi direzione Ovest all’intersezione con via Raffaele Conforti e in Corso Vittorio Emanuele direzione Ovest all’intersezione con via dei Principati."
+    },
+    {
+      "id": "T05",
+      "speaker": "PA Operator",
+      "message": "Come verranno informati i cittadini sull'installazione di queste videocamere?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "I cittadini verranno informati sull'installazione delle videocamere tramite testate giornalistiche e televisive.",
+      "ground": "Il decreto ministeriale prevede: l’utilizzo di adeguata segnaletica e pre segnaletica (regolarmente apposta e ben visibile); una fase di pre esercizio della durata di trenta giorni da realizzare sotto il controllo della Polizia Municipale presente già da oggi sul perimetro della nuova Ztl; informativa alla cittadinanza tramite testate giornalistiche e televisive."
+    }
+  ],
+  "subcategory": "Salerno"
+}

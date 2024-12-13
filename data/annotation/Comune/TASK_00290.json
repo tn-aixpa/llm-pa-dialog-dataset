@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00290",
+  "doc_src": "comune.milano_aree-tematiche_links_D0322.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni su Milano Aiuta - Inverno. Come funziona esattamente?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Milano Aiuta - Inverno è un servizio offerto dal Comune per aiutare le persone senza dimora durante l'inverno. Durante questo periodo vengono ampliati i posti letto notturni nelle strutture comunali e di enti del Terzo Settore.",
+      "ground": "è il servizio che il Comune di Milano offre a persone senza dimora per affrontare il periodo invernale e le temperature rigide.\nNel periodo invernale è previsto un graduale ampliamento dei posti letto, in orario notturno, all’interno delle strutture appartenenti all’Amministrazione Comunale e di quelle messe a disposizione da Enti del Terzo Settore."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Se conosco qualcuno in difficoltà, posso segnalarlo?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì. è possibile segnalarlo ma non so darle contatti più precisi.",
+      "ground": "Il Comune lavora al potenziamento dei posti letto disponibili e chiede a cittadini e operatori di attivarsi per segnalare le persone fragili in stato di necessità che vivono in strada."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Ci sono i requisiti per l'accesso alle strutture?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Sì, per accedere alle strutture la persona in difficoltà deve sottoporsi a uno screening medico con il Test Mantoux e una visita medica generale.",
+      "ground": "Per accedere alle strutture è necessario uno screening medico con Test Mantoux e visita medica generale.\nIl servizio prevede, inoltre, il potenziamento delle Unità Mobili, altri servizi accessori ed iniziative, consultabili nelle sezioni di interesse."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni, sono contento di sapere che ci sia un servizio così importante a disposizione. ",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "È un dovere della comunità aiutare chi è più vulnerabile, siamo qui per garantire un aiuto concreto a chi ne ha bisogno.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

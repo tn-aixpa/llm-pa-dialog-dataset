@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01008",
+  "doc_src": "comSalerno0829.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Quali sono gli immobili correntemente posti in locazione?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Gli immobili correntemente posti in locazione sono: \n- Appartamento in Largo Conservatorio Vecchio\n- Locale commerciale in viale Salvo D'Acquisto\n- Locale ex Museo del Falso in via Porta Elina\n- Ufficio ex Info Point Galleria Capitol in Corso Vittorio Emanuele\n- Locale commerciale in viale Ciro Menotti",
+      "ground": "• Appartamento in Largo Conservatorio Vecchio\n• Locale commerciale in viale Salvo D'Acquisto\n• Locale ex Museo del Falso in via Porta Elina\n• Ufficio ex Info Point Galleria Capitol in Corso Vittorio Emanuele\n• Locale commerciale in viale Ciro Menotti"
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Mi puoi dare più informazioni sul locale in viale Salvo D'Acquisto e su quello in Viale Ciro Menotti? ",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Non sono in grado di fornirti ulteriori delle informazioni, potresti trovare dettagli ai seguenti link:\n\nScheda descrittiva via Salvo D'Acquisto\nhttps://www.comune.salerno.it/sites/default/files/2023-08/scheda%20descrittiva%20via%20Salvo%20D%E2%80%99Acquisto%2027%20a%20b%20c%20d.pdf\n\nScheda descrittiva viale Menotti\nhttps://www.comune.salerno.it/sites/default/files/2023-08/scheda%20descrittiva%20via%20c%20Menotti.pdf",
+      "ground": "[https://www.comune.salerno.it/sites/default/files/2023-08/scheda%20descrittiva%20via%20Salvo%20D%E2%80%99Acquisto%2027%20a%20b%20c%20d.pdf]()\n\n|||\n\n[https://www.comune.salerno.it/sites/default/files/2023-08/scheda%20descrittiva%20via%20c%20Menotti.pdf](Scheda descrittiva viale Menotti)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Mi potresti dare il modulo per presentare domanda come persona giuridica?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Puoi trovare il modulo per presentare domanda come persona giuridica al seguente link: https://www.comune.salerno.it/sites/default/files/2023-08/modello%20D2%20offerta%20persone%20giuridiche.pdf .",
+      "ground": "[https://www.comune.salerno.it/sites/default/files/2023-08/modello%20D2%20offerta%20persone%20giuridiche.pdf](Modello D2 - Offerta persone giuridiche)"
+    }
+  ],
+  "subcategory": "Salerno"
+}

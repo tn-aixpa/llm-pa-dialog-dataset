@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01015",
+  "doc_src": "comSalerno0863.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Hai il link riguardo ai contributi per le associazioni che assistono anziani?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Non sono sicuro cosa intendi. Potrebbero essere di tuo interesse i seguenti link:\n\nAvviso pubblico\nhttps://www.comune.salerno.it/sites/default/files/2023-06/avviso%20pubblico%20per%20associazioni_230621_120347.pdf\n\nDetermina\nhttps://www.comune.salerno.it/sites/default/files/2023-06/det_Verbale_16-06-2023_15-01-28_0.pdf",
+      "ground": "[https://www.comune.salerno.it/sites/default/files/2023-06/avviso%20pubblico%20per%20associazioni_230621_120347.pdf](Avviso Pubblico)\n[https://www.comune.salerno.it/sites/default/files/2023-06/det_Verbale_16-06-2023_15-01-28_0.pdf](Determina)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Riesci a dirmi di cosa parlano?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Mi dispiace ma non sono in grado di aprire i link",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Riesci almeno a dirmi a quanto ammontano i contributi?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Purtroppo non ho accesso a questa informazione.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

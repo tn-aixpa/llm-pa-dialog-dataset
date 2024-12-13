@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00877",
+  "doc_src": "comune.salerno_D0194.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Gli incontri del Salotto della Scuola Medica Salernitana sono ancora in corso?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Gli incontri del Salotto della Scuola Medica Salernitana cominceranno il 3 maggio, per concludersi il 25 maggio.",
+      "ground": "Il primo appuntamento, dal titolo \"Le origini monastiche della Scuola Medica Salernitana\", è in programma venerdì 3 maggio. Si proseguirà per tutto il mese di maggio (nei sabato 11, 18 e 25) con incontri settimanali, tutti alle ore 19.00."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "L'ingresso è gratuito?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, l'ingresso è gratuito fino ad esaurimento posti a sedere. ",
+      "ground": "L'ingresso è gratuito fino ad esaurimento posti a sedere."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni, a presto.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

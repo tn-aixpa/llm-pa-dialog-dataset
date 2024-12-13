@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00638",
+  "doc_src": "comune.trento_aree-tematiche_D0397.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Il Comune di Trento ha regola sulla cura del bene comune?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Sì, il Comune di Trento ha un Regolamento legato alla cura e la rigenerazione dei beni comuni.",
+      "ground": "Il Comune di Trento ha adottato il Regolamento per la cura e la rigenerazione dei beni comuni e promuove l'impegno di tutti i cittadini."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Si sa su quali beni questo regolamento si concentra?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, ma non so darle la lista precisa. Posso dirle che il regolamento riguarda gli spazi pubblici, gli spazi privati ad a uso pubblico e gli edifici pubblici.",
+      "ground": "Ha individuato alcune aree di intervento per le quali ha elaborato linee guide e/o avvisi mirati che hanno lo scopo di facilitare la collaborazione dei cittadini.\nGli interventi sui beni comuni urbani previsti dal\n[/Comune/Atti-e-albo-pretorio/Regolamenti/In-vigore/A19-Regolamento-sulla-collaborazione-tra-cittadini-ed-amministrazione-per-la-cura-e-la-rigenerazione-dei-beni-comuni-urbani](Regolamento)\npossono riguardare:\nspazi pubblici\nspazi privati ad uso pubblico\nedifici pubblici"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per l'aiuto.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È stato un piacere, buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

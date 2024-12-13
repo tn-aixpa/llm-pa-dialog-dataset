@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_01160",
+  "doc_src": "san_michele_all'adige_v2.1__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Scrivimi un'azione dove si vuole sensibilizzare le famiglie sul processo di sviluppo dei propri figli.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "TITOLO: Serate formative sullo dello sviluppo dei bambini\nTASSONOMIA: Incontri formativi e informativi: Educazione, Genitorialitа, Conciliazione, Vita di coppia\nMACRO-AMBITO: Comunitа educante\nOBIETTIVO: Sensibilizzare le famiglie sull'importanza del processo di sviluppo dei propri figli, fornendo loro strumenti e conoscenze utili per supportare al meglio la crescita dei ragazzi.\nDESCRIZIONE: Organizzazione di serate formative incentrate sull'analisi delle tappe dello sviluppo dei figli, dei bisogni specifici legati alle diverse nella crescita e sulle strategie educative per favorire un sano e armonioso percorso di crescita.",
+      "ground": "TITOLO: Serate sul dialogo genitori-figli\nTASSONOMIA: Incontri formativi e informativi: Educazione, Genitorialitа, Conciliazione, Vita di coppia\nMACRO-AMBITO: Comunitа educante\nOBIETTIVO: Analizzare sia gli aspetti legati alla gestione delle regole, delle trasgressioni, sia gli aspetti legati all'isolamento, ritiro sociale, uso massivo delle tecnologie.\nDESCRIZIONE: 1. SERATA-ADOLESCENZA E TECNOLGIE AL TEMPO DI COVID: Come i genitori possono affrontare queste sfide?\n2. SERATA- IL RAPPORTO GENITORI-FIGLI ADOLESCENTI: Comunicazione, conflitti e gestione delle regole. Due serate dedicate a conoscere il mondo adolescenziale con le sue problematicitа e i risvolti familiari nell'affrontare le sfide quotidiane, in particolare in seguito al distanziamento e alle modalitа di affrontare i cambiamenti imposti al Covid-19."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Aggiungi che queste serate sono organizzate dall'associazione \"Cuore d'oro\" e in collaborazione con degli esperti dello sviluppo. Chiarisci inoltre che l'accesso è libero per tutto ma è limitato.",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "TITOLO: Serate formative sullo dello sviluppo dei bambini\nTASSONOMIA: Incontri formativi e informativi: Educazione, Genitorialitа, Conciliazione, Vita di coppia\nMACRO-AMBITO: Comunitа educante\nOBIETTIVO: Sensibilizzare le famiglie sull'importanza del processo di sviluppo dei propri figli, fornendo loro strumenti e conoscenze utili per supportare al meglio la crescita dei ragazzi.\nDESCRIZIONE: Organizzazione di serate formative incentrate sull'analisi delle tappe dello sviluppo dei figli, dei bisogni specifici legati alle diverse nella crescita e sulle strategie educative per favorire un sano e armonioso percorso di crescita.\nLe serate sono organizzate dall'associazione \"Cuore d'oro\" in collaborazione con esperti dello sviluppo dei fanciulli. L'accesso è libero ma limitato.",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Dammi qualche idea di tematiche che possono venir trattate in queste serate.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Alcune tematiche che possono essere trattate in queste serate sono:\n1. Gestione delle regole e delle trasgressioni all'interno della famiglia.\n2. Isolamento e ritiro sociale dei ragazzi e come affrontarlo.\n3. Uso massivo delle tecnologie da parte dei giovani e le implicazioni educative.\n4. Comunicazione efficace genitori-figli in età adolescenziale.\n5. Educazione emotiva e gestione dei conflitti familiari.",
+      "ground": "A questo scopo nel Comune di San Michele all'Adige è attiva una sede locale dell'UTETD, alla quale i cittadini di etа superiore ad anni 35 possono accedere previa regolare iscrizione.  \n-----\n\nTITOLO: Serate sul dialogo genitori-figli\nTASSONOMIA: Incontri formativi e informativi: Educazione, Genitorialitа, Conciliazione, Vita di coppia\nMACRO-AMBITO: Comunitа educante\nOBIETTIVO: Analizzare sia gli aspetti legati alla gestione delle regole, delle trasgressioni, sia gli aspetti legati all'isolamento, ritiro sociale, uso massivo delle tecnologie.\nDESCRIZIONE: 1. SERATA-ADOLESCENZA E TECNOLGIE AL TEMPO  DI COVID: Come i genitori possono affrontare queste sfide?\n2."
+    },
+    {
+      "id": "T07",
+      "speaker": "Citizen",
+      "message": "Scrivimi un'azione dove si celebra la giornata della donna. Il Comune intende allestire nastri rosa per tutte le vie e ricordare con delle installazioni le donne che sono state vittime di violenze.",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agent",
+      "message": "TITOLO: Celebrazione della Giornata Internazionale della Donna\nTASSONOMIA: Incontri formativi e informativi: Educazione, Genitorialitа, Conciliazione, Vita di coppia\nMACRO-AMBITO: Comunità locale\nOBIETTIVO: Sensibilizzare sulla violenza di genere e commemorare le vittime\nDESCRIZIONE: Il Comune allestirà nastri rosa lungo le vie per commemorare la Giornata della Donna e installerà opere artistiche che ricordino le donne vittime di violenze, con l'obiettivo di sensibilizzare la comunità.",
+      "ground": "TITOLO: Giornata internazionale della donna\nTASSONOMIA: Incontri formativi e informativi: Educazione, Genitorialitа, Conciliazione, Vita di coppia\nMACRO-AMBITO: Comunitа educante\nOBIETTIVO: Parlare della violenza di genere\nDESCRIZIONE: Per l'anno 2022 per la giornata internazionale della donna verrа proposto uno spettacolo dal titolo ''Non volevo essere femminista'' ideato da stella Lupo e nel periodo febbraio /marzo presso la biblioteca verrа realizzata la mostra ''Donna. L'altra metа del cielo'' a cura dello studio d'arte Andromeda."
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

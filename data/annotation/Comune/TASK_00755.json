@@ -1,0 +1,40 @@
+{
+  "task_id": "TASK_00755",
+  "doc_src": "comune.salerno_D0019.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, potrebbe dirmi se le fontane a getto continuo nel Centro Storico saranno chiuse domani notte?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "No, le fontane verranno chiuse il 5 Giugno. Per minimizzare i disagi sono chiuse da mezzanotte alle 6 del mattino.",
+      "ground": "La chiusura avverrà in orario notturno per ridurre al minimo il disagio ai cittadini, e precisamente dalle ore 00,00 alle ore 06,00 di mercoledì 05.06.2024."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quindi non potremo usufruire delle fontane durante quel periodo?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Esattamente.",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

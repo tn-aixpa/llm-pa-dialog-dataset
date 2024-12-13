@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00089",
+  "doc_src": "comune.milano_aree-tematiche_D0061.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei avere informazioni sulle colonie feline a Milano. Come posso censire una colonia?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno. Come prima cosa deve contattare la ATS Vederinaria della sua zona, loro provvederanno a fare un sopralluogo, a censirla e prendersene cura se necessario.",
+      "ground": "Un volontario che si accorge della presenza di una colonia felina a Milano e decide di prendersene cura, deve per prima cosa contattare la ATS Veterinaria della sua zona, che provvederà a censirla successivamente al sopralluogo di un suo operatore.\nSarà sempre la ATS Veterinaria a sterilizzare (ed ora anche a microchippare) i mici presenti e a curare quelli che mostrano sintomi di malattie."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Capito, e se ho problemi di convivenza con i gatti di una colonia vicina?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "In caso di difficoltà, è possibile contattare le Associazioni convenzionate con il Comune o le Guardie Zoofile dell'OIPA per risolvere le problematiche di convivenza nel rispetto della normativa vigente.",
+      "ground": "Molte problematiche condominiali, o comunque legate a una difficile convivenza tra uomo e animale, sono state risolte grazie all'intervento diretto delle Associazioni convenzionate con l’Ufficio Tutela Animali o delle Guardie Zoofile dell’OIPA, l'Organizzazione Internazionale Protezione Animali, il cui nucleo è stato istituito nel 2008 dal Comune proprio per risolvere queste problematiche assicurando il rispetto della normativa vigente in materia di tutela animali."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

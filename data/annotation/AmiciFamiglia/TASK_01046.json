@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_01046",
+  "doc_src": "albignasego__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Vorrei scrivere un'azione sulla raccolta delle opinioni di cittadini e famiglie, cosa mi consigli?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Il piano di Albignasego del 2022 ha due azioni sul monitoraggio che corrispondono alla tassonomia \"Monitoraggio e Valutazione della soddisfazione/qualitа dei servizi e indagini sui fabbisogni e d’impatto dei progetti/politiche (questionari, ricerche ecc.)\": \n- Raccolta segnalazioni\n- Customer satisfaction",
+      "ground": "=== PIANO FAMIGLIA DI ALBIGNASEGO ANNO 2022 ===\n\n|||\n\nTITOLO: Raccolta segnalazioni\n\n|||\n\nTITOLO: Customer satisfaction"
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Customer satisfaction?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "E' un termine che viene dall'inglese traducibile come \"Soddisfazione della clientela\".  Nell'azione la descrizione è \"Sistema di indagini di customer satifaction Valutare la possibilitа di implementare un sistema di monitoraggio e valutazione d’impatto dei servizi.\"",
+      "ground": ""
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Sembra una buona idea da aggiungere al piano.",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "C'è altro con cui posso aiutarla?",
+      "ground": ""
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "Per le attività sportive suggerisci qualcosa?",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "E' possibile pensare all'inserimento di impianti e di valorizzare le società e associazioni sportive.",
+      "ground": "DESCRIZIONE: Presenza di impianti sportivi di vario tipo diffusi su tutto il territorio\n\n|||\n\nTITOLO: Valorizzazione societа sportive\n\n|||\n\nTITOLO: Associazioni sportive"
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

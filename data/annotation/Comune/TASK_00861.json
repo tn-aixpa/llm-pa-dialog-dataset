@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00861",
+  "doc_src": "comune.salerno_D0172.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei sapere se l'Amministrazione Comunale di Salerno ha già individuato gli Enti con cui concludere un accordo per l'utilizzo delle graduatorie concorsuali per l'assunzione degli Istruttori Amministrativi.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Mi dispiace, al momento non ci sono ancora Enti individuati per concludere tale accordo. Le Amministrazioni interessate hanno ancora tempo per comunicare la propria disponibilità entro 15 giorni da questo avviso.",
+      "ground": "Le Amministrazioni in possesso di graduatorie valide, se interessate, entro 15 giorni da questo avviso, possono comunicare la propria disponibilità all'indirizzo PEC personale@pec.comune.salerno."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

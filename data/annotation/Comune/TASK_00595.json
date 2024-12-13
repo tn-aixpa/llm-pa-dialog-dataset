@@ -1,0 +1,52 @@
+{
+  "task_id": "TASK_00595",
+  "doc_src": "comune.trento_aree-tematiche_D0312.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, come posso aprire un'attività di tintolavanderia?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, l'attività di tintolavanderia non è sottoposta a contingentamento ed è libera su tutto il territorio comunale. È necessario presentare una SCIA tramite SUAP telematico e rispettare le norme urbanistiche ed edilizie vigenti.",
+      "ground": "L'attività predetta non è sottoposta a contingentamento ed è quindi libera su tutto il territorio comunale. E' necessaria la presenza di un responsabile tecnico in possesso dell'idoneità professionale. Dovranno inoltre essere osservate le norme urbanistiche ed edilizie vigenti per i locali sede dell'attività esercitata. Prima di attivare l'attività è necessario presentare apposita\nS.C.I.A.\nda trasmettere\nesclusivamente\nmediante\nSUAP\ntelematico"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Mi conferma che serve un responsabile tecnico per avviare l'attività?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Esatto, è necessario che il responsabile tecnico abbia l'idoneità professionale.",
+      "ground": "E' necessaria la presenza di un responsabile tecnico in possesso dell'idoneità professionale. Dovranno inoltre essere osservate le norme urbanistiche ed edilizie vigenti per i locali sede dell'attività esercitata."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni!",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È un piacere, se ha bisogno di ulteriori chiarimenti non esiti a contattarci.",
+      "ground": ""
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

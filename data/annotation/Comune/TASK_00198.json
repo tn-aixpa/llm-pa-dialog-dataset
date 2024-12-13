@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00198",
+  "doc_src": "comune.milano_aree-tematiche_links_D0226.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Buongiorno, potrebbe dirmi qual è il numero di telefono della Centrale Operativa per le segnalazioni?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Mi dispiace ma non ho alcun numero di telefono legato alla Centrale Operativa, può comunque raggiungerli al sito web https://www.comune.milano.it/web/guest/servizi/centrale-operativa-tel-020208 .",
+      "ground": "Per segnalazioni su questo tema\n[https://www.comune.milano.it/web/guest/servizi/centrale-operativa-tel-020208](contatta la Centrale Operativa)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Per le segnalazioni riguardanti le attività commerciali chi posso contattare?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Anche in questo caso, le segnalazioni relative alle attività commerciali possono essere inviate tramite il sito web https://www.comune.milano.it/web/guest/servizi/centrale-operativa-tel-020208 . ",
+      "ground": "Annonaria e Commerciale\nSi occupa del controllo di tutte le attività commerciali in sede fissa o itinerante esercitate in area pubblica o privata. \n\n|||\n\nPer segnalazioni su questo tema\n[https://www.comune.milano.it/web/guest/servizi/centrale-operativa-tel-020208](contatta la Centrale Operativa)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Grazie per le informazioni, mi scusi il disturbo.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Non si preoccupi, è stato un piacere poterle aiutare. Buona giornata!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

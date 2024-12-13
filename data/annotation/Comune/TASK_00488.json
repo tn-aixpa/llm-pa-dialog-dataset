@@ -1,0 +1,34 @@
+{
+  "task_id": "TASK_00488",
+  "doc_src": "comune.trento_aree-tematiche_D0131.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Buongiorno, vorrei avere informazioni riguardo alle agevolazioni sulla TARI. In quali casi ne ho diritto?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Buongiorno, siamo qui per aiutarla. Le agevolazioni sulla tariffa rifiuti TARI sono previste per diverse categorie, come ad esempio per i cittadini a basso reddito, per gli enti ecclesiastici e le associazioni benefiche, per i genitori di bambini di età inferiore a 30 mesi e per gli utilizzatori di presidi sanitari. Se rientra in una di queste categorie, potrebbe essere possibile ottenere una riduzione della tariffa.",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Tributi-canoni-e-tariffe-comunali/Tariffe/Tari/Agevolazioni/Riduzione-della-tariffa-rifiuti-associazioni-ed-enti-ecclesiastici](Riduzione della tariffa rifiuti - associazioni ed enti ecclesiastici)\nAgevolazione sulla tariffa dei rifiuti per gli enti ecclesiastici e le associazioni che hanno per scopo l'assistenza e la beneficienza.\n\n|||\n\n[https://www.comune.trento.it/Aree-tematiche/Tributi-canoni-e-tariffe-comunali/Tariffe/Tari/Agevolazioni/Riduzione-della-tariffa-rifiuti-Isee](Riduzione della tariffa rifiuti - Isee)\nAgevolazione sulla tariffa dei rifiuti per i cittadini/nuclei familiari a basso reddito.\n\n|||\n\n[https://www.comune.trento.it/Aree-tematiche/Tributi-canoni-e-tariffe-comunali/Tariffe/Tari/Agevolazioni/Riduzione-della-tariffa-rifiuti-bambini-di-eta-inferiore-a-30-mesi](Riduzione della tariffa rifiuti - bambini di età inferiore a 30 mesi)\nAgevolazione sulla tariffa dei rifiuti per la presenza nel nucleo familiare di bambini di età inferiore a 30 mesi\n\n|||\n\n[https://www.comune.trento.it/Aree-tematiche/Tributi-canoni-e-tariffe-comunali/Tariffe/Tari/Agevolazioni/Riduzione-della-tariffa-rifiuti-rifiuti-sanitari](Riduzione della tariffa rifiuti - rifiuti sanitari)\nAgevolazione sulla tariffa dei rifiuti per gli utilizzatori di presìdi sanitari.\n\n|||\n\n[https://www.comune.trento.it/Aree-tematiche/Tributi-canoni-e-tariffe-comunali/Tariffe/Tari/Agevolazioni/Riduzione-della-tariffa-rifiuti-acquisto-pannolini-lavabili](Riduzione della tariffa rifiuti - acquisto pannolini lavabili)\nAgevolazione sulla tariffa dei rifiuti in caso di acquisto dei pannolini lavabili."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Mi può dare più informazioni per la riduzione della TARI per le famiglie a basso reddito?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Sì, può trovare più dettagli al link https://www.comune.trento.it/Aree-tematiche/Tributi-canoni-e-tariffe-comunali/Tariffe/Tari/Agevolazioni/Riduzione-della-tariffa-rifiuti-Isee .",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Tributi-canoni-e-tariffe-comunali/Tariffe/Tari/Agevolazioni/Riduzione-della-tariffa-rifiuti-Isee](Riduzione della tariffa rifiuti - Isee)\nAgevolazione sulla tariffa dei rifiuti per i cittadini/nuclei familiari a basso reddito."
+    }
+  ],
+  "subcategory": "Trento"
+}

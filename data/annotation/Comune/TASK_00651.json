@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00651",
+  "doc_src": "comune.trento_aree-tematiche_D0418.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Salve, vorrei chiedere se ci sono iniziative di intrattenimento al cimitero.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Sì, vengono offerte iniziative come visite guidate o anche spettacoli di intrattenimento.",
+      "ground": "Per stimolare la frequentazione del cimitero in momenti non \"canonici\" ovvero non per partecipare ad un funerale o per andare a far visita ad defunto, ma semplicemente per ammirare le opere d'arte custodite nel camposanto o per assistere ad uno spettacolo di intrattenimento in un luogo inusuale, assieme alle visite guidate, in quest'ultimo periodo sono state allestite altre iniziative a valenza culturale nella convinzione che una visita al cimitero in momenti diversi da quelli cotrassegnati da una forte carica di  emotività  di sentimenti e di dolore, consente  di apprezzare al meglio le bellezze del cimitero e che in definitiva consente anche di instaurare un rapporto più sereno con questo luogo che rappresenta si il posto dei ricordi individuali dove sono custoditi i nostri cari, ma nel contempo costituisce il luogo della memoria collettiva della comunità."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Capisco...",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

@@ -1,0 +1,34 @@
+{
+  "task_id": "TASK_00273",
+  "doc_src": "comune.milano_aree-tematiche_links_D0304.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei aggiungere i resti di mio nonno a quelli di mia nonna in un colombaro. Cosa devo fare?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, se nel colombaro c'è ancora spazio, quello che deve fare è ottenere l'autorizzazione. Se il Comune non ha la documentazione, dovrà richiedere a un marmista autorizzato di verificare lo spazio. Se invece è lei stesso in possesso della documentazione dovrà consegnare agli uffici l'originale  ",
+      "ground": "Oltre al feretro, in base allo spazio interno del manufatto, è consentita la tumulazione di:\ntre urne per ceneri;\noppure\ndue urne per ceneri e una cassettina per resti ossei;\noppure\ndue cassettine per resti ossei e un’urna per ceneri\nLa condizione comune è che le persone defunte da tumulare siano stati legate da rapporti di coniugio, unione civile, parentela o affinità.\nL’autorizzazione alla tumulazione verrà concessa solo\ndopo la verifica dello spazio disponibile\nrisultante dalla documentazione depositata negli uffici. \nNel caso in cui il Comune ne sia privo, la persona richiedente dovrà commissionare la verifica spazio a un marmista autorizzato ad operare nei cimiteri cittadini; nel caso invece ne sia già in possesso la consegnerà agli uffici in originale."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

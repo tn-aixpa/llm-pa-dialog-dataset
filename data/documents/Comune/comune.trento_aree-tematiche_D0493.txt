@@ -1,0 +1,13 @@
+Per tutta la durata del progetto ha avuto luogo un laboratorio di sperimentazione (QROWDLab) rivolto ai cittadini che hanno così potuto esprimere le proprie idee per migliorare la mobilità a Trento, testare l'app i-Log e raccogliere dati e informazioni sugli stalli per le biciclette e sui parcheggi gialli in città.
+Il QROWDLab si compone di due attività:
+Concorso di idee
+Sperimentazioni con l'app i-Log
+Nonostante la partecipazione al QROWDLab fosse volontaria, per ciascuna attività i cittadini hanno potuto ricevere un premio (gadget tecnologico) al superamento di specifiche soglie stabilite di volta in volta.
+[]()
+Concorso di idee
+Tra i mesi di agosto 2017 e febbraio 2018 si è svolto un concorso per la raccolta di idee sulla mobilità tramite una piattaforma di partecipazione online. Al termine del concorso una giuria ha scelto le idee vincitrici che sono state premiate durante la seconda edizione Trento Smart City Week (aprile 2018). Alcune delle idee sono state ritenute particolarmente utili e sono quindi state prese in considerazione al momento della definizione degli obiettivi di progetto.
+[]()
+Sperimentazioni
+Le sperimentazioni hanno permesso di testare l'app i-Log con l'aiuto dei cittadini. Nello specifico, sono state organizzate numerose sperimentazioni per tracciare i propri percorsi (al fine di capire le abitudini di spostamento di residenti e pendolari) o per raccogliere dati sugli stalli per le biciclette e sui parcheggi in città.
+Le informazioni sui parcheggi sono visibili nelle sezioni "Macchina" e "Bici" all'interno della dashboard dedicata ai cittadini:
+[http://citizendashboard.qrowd.aksw.org/qrowdDashboard/](QROWD | Dashboard)

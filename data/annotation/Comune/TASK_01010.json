@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01010",
+  "doc_src": "comSalerno0838.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Com'è stata strutturata la graduatoria per i beneficiari della Carta Solidale INPS?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "La graduatoria per i beneficiari della Carta Solidale INPS è stata strutturata in questo modo: i nuclei composti da almeno tre persone con ISEE inferiore a € 15.000,00 e con componenti nati tra il 2023 e il 31/12/2009 sono i primi in graduatoria. Successivamente, ci sono i nuclei sempre con almeno tre persone e ISEE inferiore a € 15.000,00, ma con componenti nati tra il 30/12/2009 e il 31/12/2005. L'ultima parte della graduatoria è stata redatta in base alla numerosità dei componenti della DSU, non inferiore a 3, in ordine di ISEE crescente e considerando la data di nascita dei tre componenti più giovani.\nLa graduatoria esclude chi percepisce una forma di sostegno al reddito e non fanno parte del Comune di Salerno.",
+      "ground": "1. I nuclei composti da almeno tre persone, con ISEE inferiore a € 15.000,00, con componenti nati tra il 2023 e il 31/12/2009 sono i primi in graduatoria.\n2. I nuclei composti da almeno tre persone, con ISEE inferiore a € 15.000,00, con componenti nati tra il 30/12/2009 e il 31/12/2005 sono i successivi in graduatoria.\n3. L’ultima parte della graduatoria è stata redatta in base alla numerosità componenti DSU non inferiore a 3 in ordine di ISEE crescente e data di nascita dei tre componenti più giovani.\nSono stati esclusi dall’INPS coloro che percepiscono una forma di sostegno al reddito o che non risiedono nel comune di Salerno."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Adesso quindi cosa succede?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "I beneficiari riceveranno a breve una comunicazione che arriverà con raccomandata. Dopo averla ricevuta, sarà possibile ritirare la Carta Solidale INPS presso gli uffici di Poste Italiane. Se qualcuno non dovesse ricevere la comunicazione, a partire dal 21 Agosto potrà recarsi presso gli Uffici del Servizio Politiche Sociali, in via La Carnale, 8, nei giorni di martedì e giovedì dalle 9.00 alle 12.00 e dalle 16.00 alle 17.00, per ritirare la comunicazione.",
+      "ground": "I beneficiari riceveranno a breve una comunicazione che perverrà con raccomandata a seguito della quale sarà possibile ritirare la Carta Solidale INPS presso gli uffici di Poste Italiane.\nIn caso di mancato ricevimento della comunicazione, dal 21/08/2023 sarà possibile recarsi presso gli Uffici del Servizio Politiche Sociali – in via La Carnale, 8 (martedì e giovedì dalle 9.00 alle 12.00 e dalle 16.00 alle 17.00) per il ritiro della suddetta comunicazione."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "A chi ci si può rivolgere per informazioni?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Per qualsiasi informazione, ci si può rivolgere inviando una e-mail, corredata da documento di riconoscimento, all'indirizzo di posta elettronica maria.melfi@comune.salerno.it .",
+      "ground": "Per qualsiasi informazione inviare una e-mail, corredata da documento di riconoscimento, al seguente indirizzo di posta elettronica maria.melfi@comune.salerno.it"
+    }
+  ],
+  "subcategory": "Salerno"
+}

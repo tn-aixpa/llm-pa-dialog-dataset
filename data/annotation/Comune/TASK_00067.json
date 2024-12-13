@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00067",
+  "doc_src": "comune.milano_aree-tematiche_D0089.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, potrebbe dirmi se ci sono biblioteche a Milano con collezioni particolari?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Sì, a Milano di particolare interesse sono la Biblioteca Nazionale Braidense e la Biblioteca Ambrosiana.",
+      "ground": "Di particolare interesse per la ricchezza delle collezioni sono la Biblioteca Nazionale Braidense con la Mediateca Santa Maria Teresa e la Biblioteca Ambrosiana."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Posso accedere a servizi online per consultare libri o cataloghi?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Certamente, molti servizi delle biblioteche di Milano sono accessibili online, tra cui la Biblioteca digitale del Centro stendhaliano e la consultazione online delle bioblioteche.",
+      "ground": "Biblioteca digitale del Centro stendhaliano\n\nModalità di accesso al servizio:\n\nOnline\n\n|||\n\nBiblioteche: consulenza online\n\nModalità di accesso al servizio:\n\nOnline"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Per l'abbonamento ai musei della Lombardia, posso acquistare i biglietti online?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Sì, è possibile acquistare i biglietti online.",
+      "ground": "Acquista i biglietti per i Musei civici\n\nModalità di accesso al servizio:\n\nOnline\nSportello"
+    }
+  ],
+  "subcategory": "Milano"
+}

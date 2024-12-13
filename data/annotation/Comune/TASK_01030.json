@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01030",
+  "doc_src": "comSalerno1079.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "PA Operator",
+      "message": "Quali sono gli orari dell'Ufficio Tributi per la verifica degli accertamenti TARI?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "L'Ufficio Tributi è aperto per la verifica degli accertamenti TARI il martedì e giovedì dalle ore 9 alle 12 e dalle 15:30 alle 16:30.",
+      "ground": "3. Recandosi presso il front office Ufficio Tributi in via Giacomo Costa n. 2, martedì e giovedì dalle ore 9 alle ore 12 e dalle ore 15:30 alle ore 16:30.\nGli uffici provvederanno in via prioritaria alla verifica dei reclami risolvendo l’ eventuale anomalia nel più breve tempo possibile ed ovviamente senza alcun ulteriore onere per il cittadino."
+    },
+    {
+      "id": "T03",
+      "speaker": "PA Operator",
+      "message": "E se si vuole inviare una comunicazione senza recarsi in un luogo fisico?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Si può inviare una comunicazione tramite email all'indirizzo: info.tari@comune.salerno.it, oppure via PEC all'indirizzo tari@pec.comune.salerno.it",
+      "ground": "1. Inviando una email semplice all’indirizzo: info.tari@comune.salerno.it\n2. Inviando una PEC all’indirizzo: tari@pec.comune.salerno.it"
+    },
+    {
+      "id": "T05",
+      "speaker": "PA Operator",
+      "message": "Quanti casi di calcolo erroneo della TARI sono previsti?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Non so darti un numero preciso ma sono generalmente pochi.",
+      "ground": "Il Settore Tributi del Comune di Salerno è già al lavoro per verificare questa anomalia che, è utile precisarlo, si riferisce ad un’esigua percentuale di casi."
+    }
+  ],
+  "subcategory": "Salerno"
+}

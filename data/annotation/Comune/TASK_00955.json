@@ -1,0 +1,34 @@
+{
+  "task_id": "TASK_00955",
+  "doc_src": "comune.milano_aree-tematiche_links_D0324.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Come si attivano i Lavori di pubblica utilità a Milano?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Per attivare i lavori di pubblica utilità, gli interessati devono contattare il Servizio Lavori di Pubblica Utilità, direttamente o tramite il proprio legale, per prendere un appuntamento e successivamente effettuare un colloquio con un operatore del Servizio.",
+      "ground": "Gli interessati contattano il Servizio, direttamente o tramite il proprio legale, per prendere un appuntamento\nEffettuano\ncolloquio\ncon un operatore del Servizio Lavori di Pubblica Utilità, con l'obiettivo di abbinare nel miglior modo possibile la postazione di lavoro con la persona nel rispetto delle esigenze e delle prerogative di entrambi."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Che tipo di lavori si fa?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "I richiedenti potranno essere impiegati, ad esempio, presso RSA (Residenze Sanitarie Assistite), centri diurni per disabili, biblioteche, cimiteri, Arena civica, Municipi, Musei botanici e nell'attuazione del Piano anticaldo.",
+      "ground": "I richiedenti potranno essere impiegati, a titolo di esempio, presso:\nRSA (Residenze Sanitarie Assistite);\ncentri diurni per disabili (CDD) a gestione diretta del Comune;\nbiblioteche;\ncimiteri;\nArena civica;\nMunicipi;\nMuseo botanico;\nattuazione del Piano anticaldo."
+    }
+  ],
+  "subcategory": "Milano"
+}

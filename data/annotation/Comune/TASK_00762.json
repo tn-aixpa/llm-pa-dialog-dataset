@@ -1,0 +1,40 @@
+{
+  "task_id": "TASK_00762",
+  "doc_src": "comune.salerno_D0026.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Sarà possibile parcheggiare lungo via Fra Generoso durante i lavori di manutenzione?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Non ho informazioni su questo, le posso comunque dire che durante i lavori ci sarà un senso unico alternato.",
+      "ground": "Per consentire lo svolgimento dei lavori sarà istituito un senso unico alternato."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Capito, grazie per l'informazione.",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "E' possibile inviare domande di partecipazione con la documentazione necessaria fino al 17 giugno 2024 ore 16. ",
+      "ground": "La domanda di partecipazione e la documentazione relativa a tale procedura dovrà essere caricata in piattaforma entro e non oltre le ore 16:00 del giorno 17/06/2024."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Capito, grazie per le informazioni.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

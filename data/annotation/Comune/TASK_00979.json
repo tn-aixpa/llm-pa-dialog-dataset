@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00979",
+  "doc_src": "comSalerno0725.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Chi organizza l'iniziativa \"Libere tutte! Contro ogni violenza\"?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "L'iniziativa \"Libere tutte! Contro ogni violenza\" è organizzata dalla Prefettura di Salerno e dal Comune di Salerno - Assessorato Politiche Sociali, in collaborazione con la Provincia di Salerno, l'Asl di Salerno e l'Ufficio Scolastico Regionale della Campania - Ambito di Salerno, e con la partecipazione di numerose realtà del terzo settore del territorio cittadino, tra cui Arci Salerno, Manden – diritti civili e legalità, associazioni culturali del mondo della danza e CAV e Case Rifugio dell’Ambito territoriale S5 Salerno e Pellezzano.",
+      "ground": "Sabato 25 novembre, in occasione della Giornata internazionale per l'eliminazione della violenza contro le donne, si presenterà a Salerno il programma di iniziative \"Libere tutte! Contro ogni violenza\", organizzato da Prefettura di Salerno e Comune di Salerno - Assessorato Politiche Sociali, in collaborazione con Provincia di Salerno, Asl di Salerno e Ufficio Scolastico Regionale della Campania - Ambito di Salerno, e con l’attiva partecipazione di numerose realtà del terzo settore del territorio cittadino tra cui Arci Salerno, Manden – diritti civili e legalità, associazioni culturali del mondo della danza e CAV e Case Rifugio dell’Ambito territoriale S5 Salerno e Pellezzano."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Ci saranno delle mostre?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Sì, ci sarà la mostra FERITÀ a cura di Valentina Gaudiosi, che sarà inaugurata durante l'incontro alle ore 10.00 in Prefettura.",
+      "ground": "L’incontro è previsto alle ore 10.00 in Prefettura con l’inaugurazione della mostra FERITÀ a cura di Valentina Gaudiosi e la proiezione del video STELLA NERA a cura di Valentina Gaudiosi e Angelo Cariello con musiche e parole di Francesco Di Bella."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Si farà qualcosa anche  l'indomani della giornata contro la violenza sulle donne?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Sì, domenica 26 novembre ci sarà un appuntamento in Corso Vittorio Emanuele, nei pressi dell'IC Vicinanza-Pirro, alle ore 11.00. Inizierà una carovana di sensibilizzazione contro la violenza di genere che si concluderà a piazza della Libertà con un Flash Mob intitolato \"Dillo con la danza: Libere tutte!\" con 150 ballerini.",
+      "ground": "Domenica 26 novembre, invece, l’appuntamento è in Corso Vittorio Emanuele, nei pressi dell’IC Vicinanza-Pirro, alle ore 11.00, dove avrà inizio una carovana di sensibilizzazione contro la violenza di genere che si concluderà a piazza della Libertà con un Flash Mob \"Dillo con la danza: Libere tutte! con 150 ballerini."
+    }
+  ],
+  "subcategory": "Salerno"
+}

@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01027",
+  "doc_src": "comSalerno1049.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "PA Operator",
+      "message": "Ci sono vincoli per potersi iscrivire all'albo delle persone idee a diventare presidente di seggio elettorale?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Sì, ci sono dei vincoli. In primis, è necessario possedere un titolo di studio non inferiore al diploma di istruzione secondaria di secondo grado. Inoltre, non possono essere nominati presidenti di seggio elettorale coloro che, alla data delle elezioni, abbiano superato il settantesimo anno di età, i dipendenti dei Ministeri dell'interno, delle poste e telecomunicazioni e dei trasporti, gli appartenenti a Forze armate in servizio, i medici provinciali, gli ufficiali sanitari, i medici condotti, i segretari comunali e i dipendenti dei Comuni addetti agli Uffici elettorali, nonché i candidati alle elezioni in corso.",
+      "ground": "Le iscrizioni nell'albo sono subordinate al possesso del titolo di studio non inferiore al diploma di istruzione secondaria di secondo grado.\n\n|||\n\nAi sensi dell'art. 38 D.P.R. n. 361/1957, sono esclusi dalle funzioni di presidente di seggio elettorale:\na) coloro che, alla data delle elezioni, abbiano superato il settantesimo anno di età;\nb) i dipendenti dei Ministeri dell'interno, delle poste e telecomunicazioni e dei trasporti;\nc) gli appartenenti a Forze armate in servizio;\nd) i medici provinciali, gli ufficiali sanitari ed i medici condotti;\ne) i segretari comunali ed i dipendenti dei Comuni, addetti o comandati a prestare servizio presso gli Uffici elettorali comunali;\nf) i candidati alle elezioni per le quali si svolge la votazione."
+    },
+    {
+      "id": "T03",
+      "speaker": "PA Operator",
+      "message": "Qual è il termine per presentare la domanda di iscrizione?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "La domanda di iscrizione deve essere presentata entro il mese di ottobre di ciascun anno. Questa è da consegnarsi a mano, per posta ordinaria o raccomandata in via Picarielli 76, oppure PEC a protocollo@pec.comune.salerno.it",
+      "ground": "La domanda di iscrizione deve essere presentata, entro il mese di ottobre di ciascun anno, compilando il modulo sottostante e allegando fotocopia di un documento di riconoscimento.\nLa domanda può essere consegnata a mano o a mezzo posta ordinaria o raccomandata all'ufficio elettorale, via Picarielli n. 76, oppure a mezzo posta elettronica certificata a\n[mailto:PROTOCOLLO@PEC.COMUNE.SALERNO.IT](protocollo@pec.comune.salerno.it)\n."
+    },
+    {
+      "id": "T05",
+      "speaker": "PA Operator",
+      "message": "Chi si può contattare per ulteriori informazioni?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "È possibile contattare il numero telefonico 089 661111 per ulteriori informazioni.",
+      "ground": "[tel:089 661111](089 661111)"
+    }
+  ],
+  "subcategory": "Salerno"
+}

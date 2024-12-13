@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01021",
+  "doc_src": "comSalerno0968.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "PA Operator",
+      "message": "Quando passerà il centro di raccolta mobile?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Il centro di raccolta mobile passerà nelle seguenti date e luoghi: \n- Piazza monsignor Bolognini - 22 Aprile\n- Largo Sant’Elmo piazza Sant’Agostino – 29 Aprile\n- Piazza Sant’Agostino – 6 Maggio\n- Via Vestuti (davanti Centro sociale) – 13 Maggio\n- Via Vinciprova (spazio antistante nuova chiesa) – 20 Maggio\n- Sant’Eustachio (parcheggio antistante edificio “casermone”) – 27 Maggio\n- Arbostella (spazio antistante parco giochi) – 3 Giugno\n- Via Giovanni Paolo II, angolo via Limongelli – 10 Giugno\n- Piazza Filangieri – 17 Giugno\n- Galiziano (spazio antistante bar omonimo) – 24 Giugno\n- Via Raffaele Mauri (davanti ex mercato rionale Mariconda) – 1 Luglio\n- Via Leucosia – 8 Luglio",
+      "ground": "CALENDARIO TAPPE CENTRO RACCOLTA MOBILE\n1) piazza monsignor Bolognini - 22/04/2023\n2) largo Sant’Elmo piazza Sant’Agostino – 29/04/2023\n3) piazza Sant’Agostino – 06/05/2023\n4) via Vestuti (davanti Centro sociale) – 13/05/2023\n5) via Vinciprova (spazio antistante nuova chiesa) – 20/05/2023\n6) Sant’Eustachio (parcheggio antistante edificio “casermone”) – 27/05/2023\n7) Arbostella (spazio antistante parco giochi) – 03/06/2023\n8) via Giovanni Paolo II, angolo via Limongelli – 10/06/2023\n9) piazza Filangieri – 17/06/2023\n10) Galiziano (spazio antistante bar omonimo) – 24/06/2023\n11) via Raffaele Mauri (davanti ex mercato rionale Mariconda) – 01/07/2023\n12) via Leucosia – 08/07/2023"
+    },
+    {
+      "id": "T03",
+      "speaker": "PA Operator",
+      "message": "Quali tipi di rifiuti possono essere conferiti?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "È possibile conferire piccoli apparecchi elettrici ed elettronici, tessili, pile esauste, farmaci scaduti e olio di frittura (in bottiglie di plastica con tappo ben avvitato).",
+      "ground": "Sarà possibile conferire piccoli apparecchi elettrici ed elettronici, tessili, pile esauste, farmaci scaduti, olio di frittura (in bottiglie di plastica con tappo ben avvitato)  ed effettuare prenotazioni per il ritiro gratuito di ingombranti."
+    },
+    {
+      "id": "T05",
+      "speaker": "PA Operator",
+      "message": "È necessario prenotare per utilizzare questo servizio?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "È necessario prenotare per il ritiro gratuito di ingombranti. Non mi è chiaro se questo sia il caso anche per altri tipi di rifiuti.",
+      "ground": "Sarà possibile conferire piccoli apparecchi elettrici ed elettronici, tessili, pile esauste, farmaci scaduti, olio di frittura (in bottiglie di plastica con tappo ben avvitato)  ed effettuare prenotazioni per il ritiro gratuito di ingombranti.\nAnche al Centro raccolta mobile, se muniti della card di Salerno Pulita, sarà possibile ricevere i sacchetti di carta per la raccolta della carta e le buste di plastica trasparenti di colore giallo per il conferimento del multimateriale (plastica, acciaio, alluminio, cartone da bevanda) e di colore grigio per il non differenziabile."
+    }
+  ],
+  "subcategory": "Salerno"
+}

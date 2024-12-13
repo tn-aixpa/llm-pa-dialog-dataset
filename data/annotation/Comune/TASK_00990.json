@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00990",
+  "doc_src": "comSalerno0749.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Qual è l'importo totale dell'investimento effettuato da Salerno Pulita per il rinnovo del parco automezzi?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Salerno Pulita ha effettuato un investimento totale di un milione e 800 mila euro, questa cifra include anche i costi di manutenzione dei primi 6 mesi.",
+      "ground": "Salerno Pulita, considerando anche i costi della manutenzione per i primi sei mesi, ha effettuato un investimento di un milione e 800 mila euro, che per il 45% sarà recuperato con i crediti di imposta Sud e 4.0 per l’innovazione tecnologica."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Quali sono i mezzi acquistati?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Sono state acquistate sette spazzatrici e una lavastrade.",
+      "ground": "Le sette spazzatrici e la lavastrade, infatti, saranno collegate costantemente con la sede di via Tiberio Claudio Felice, da cui saranno monitorati parametri operativi e varie funzioni anche ai fini della manutenzione."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Saranno gli unici mezzi addetti alla pulizia delle strade?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "No, questi mezzi saranno affiancati ad altri mezzi già in dotazione, come spazzatrici elettriche di piccole dimensioni e altre lavastrade.",
+      "ground": "Le sette nuove spazzatrici andranno ad affiancarsi alle altre elettriche di piccole dimensioni (di cui quattro da marciapiede scoperte e una stradale coperta), sempre di proprietà, utilizzate nei vicoli del centro storico, in piazza della Libertà e nei giardini del lungomare Trieste.\nLa nuova lavastrade, invece, andrà ad aggiungersi alle due già in dotazione e a quella elettrica di dimensioni più piccole utilizzata nel centro storico."
+    }
+  ],
+  "subcategory": "Salerno"
+}

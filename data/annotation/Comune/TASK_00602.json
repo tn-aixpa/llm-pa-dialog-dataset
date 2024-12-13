@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00602",
+  "doc_src": "comune.trento_aree-tematiche_D0326.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Che si intende con Trento Smart City?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Trento Smart City è un progetto che mira a utilizzare la tecnologia per migliorare i servizi offerti ai cittadini e alle imprese, nonché la qualità della vita in generale.",
+      "ground": "Una “Smart City” è una città che usa la tecnologia come mezzo per  migliorare i servizi che offre a cittadini ed imprese e la qualità della vita in generale."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Ma perché si usa il termine \"smart\"?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Il termine \"smart\" può essere interpretato in diversi modi. In realtà, non esiste una definizione universalmente accettata di \"smart city\", ma solitamente si intende una città che utilizza la tecnologia per il benessere della città e delle persone.",
+      "ground": "Perché \"Smart City\"\nUna delle domande che più spesso viene fatta è perché si debba usare un termine non italiano come “smart” associato a “città”, quando si potrebbe tranquillamente parlare di città “intelligente” o “furba”. C’è invece chi parlerebbe di città “digitale”, fantascientifica, da vivere e fruire solo con la tecnologia.\nAppare chiaro come il termine “smart” sia ormai abusato e citato il più delle volte a sproposito, ancor più se coniugato con la parola “città”. Il concetto è confuso e non ben delineato perché non esiste ancora una definizione olistica accettata universalmente dal mondo accademico, politico e industriale. Se è vero che in inglese l’aggettivo smart si traduce letteralmente in “intelligente”, il concetto si allarga nell’immaginario collettivo diventando “furbo”.\n\n|||\n\nRisulta quindi evidente come il termine “smart city” sia difficilmente traducibile con una sola parola, ma venga usato per sottintendere una serie di concetti: l’uso della tecnologia ma con obiettivi legati al benessere di città e persone, tanti ambiti di intervento ma un’unica strategia, la sostenibilità ambientale e la necessità di coinvolgere i cittadini."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Quindi, cos'è esattamente una \"Smart City\"?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Una \"Smart City\" è una città che usa la tecnologia non come fine, ma come mezzo per innovare e migliorare i servizi offerti ai cittadini e alle imprese, aumentando il benessere della città e la qualità della vita delle persone.",
+      "ground": "Cos’è quindi una “Smart City”\nCol termine “Smart city” si intende quindi una città che usa la tecnologia (intesa come informatica e rete di telecomunicazioni) non come un fine, ma come un mezzo per riuscire a innovare e migliorare i servizi che offre a cittadini ed imprese e la qualità della vita in generale."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "E il progetto \"Trento Smart City\" come si inserisce in tutto questo?",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "Il progetto \"Trento Smart City\" si propone di utilizzare la tecnologia in tutte le sue forme per migliorare i servizi già esistenti e fornire nuovi servizi essenziali a valore aggiunto, senza però stravolgere la storia e la dimensione di Trento.",
+      "ground": "“Trento Smart City” è il progetto che mira a realizzare concretamente tutto ciò, senza però stravolgere la storia e la dimensione di Trento, adattando semplicemente la città per venire incontro ai bisogni delle persone che la abitano e la vivono, in continuità con le sue origini, il suo passato e le sue peculiarità.\nL’obiettivo è utilizzare la tecnologia in tutte le sue forme (dai sensori e l’Internet of Things alle reti -  dall’informatica ai big data e all’intelligenza artificiale) ma renderla il più possibile “trasparente”, sfruttandola per migliorare i servizi che già si erogano o per fornire nuovi e semplici servizi essenziali a valore aggiunto."
+    }
+  ],
+  "subcategory": "Trento"
+}

@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01001",
+  "doc_src": "comSalerno0793.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "In quali sedi sono state rieperte le iscrizioni per gli asili nido comunali di Salerno?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Le iscrizioni per gli asili nido comunali di Salerno sono state riaperte per gli asili di via Iandolo e via Fusandola a Salerno e per via Fravita nella frazione di Capezzano – Pellezzano.",
+      "ground": "Il Comune di Salerno rende noto che\nsono riaperti i termini per le iscrizioni\n(giusta determina dirigenziale n.4722/2023) presso gli asili nido comunali di\nvia Iandolo\n- Salerno\nvia Fusandola\n- Salerno\nvia Fravita\n– frazione Capezzano – Pellezzano"
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Quali documenti sono necessari per presentare la domanda di iscrizione?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Per presentare la domanda di iscrizione è necessario allegare il modulo di domanda, l'ISEE, i documenti di identità di entrambi i genitori e il libretto vaccinazioni.",
+      "ground": "Si ricorda che, oltre al modulo di domanda, è necessario allegare:\n• ISEE\n• DOCUMENTI DI IDENTITA' DI ENTRAMBI I GENITORI\n• LIBRETTO VACCINAZIONI"
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Riesci a inviarmi il resto della modulistica per la domanda?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Mi spiace ma non ho accesso alla modulistica per la domanda di iscrizione all'asilo nido.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

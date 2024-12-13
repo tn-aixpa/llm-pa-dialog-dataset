@@ -1,0 +1,76 @@
+{
+  "task_id": "TASK_01124",
+  "doc_src": "mezzocorona__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Quali azioni concrete potrebbero essere inserite nel Piano Famiglia di Mezzocorona per favorire la promozione del benessere familiare?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Può pensare di organizzare eventi e iniziative speciali in occasione della \"festa della donna\" per promuovere la valorizzazione della figura femminile all'interno delle famiglie. In alternativa può realizzare e promuovere l'utilizzo di un'area sportiva dedicata al \"Pump track\" per favorire l'attività fisica e il divertimento all'aria aperta per le famiglie.",
+      "ground": "TITOLO: Incentivi tariffari nei confronti delle famiglie che conferiranno i rifiuti urbani presso il nuovo Centro raccolta materiali.\n\n|||\n\nTITOLO: “festa della donna” pubblicazione di cartelloni motivazionali\n\n|||\n\nTITOLO: Realizzazione area sportiva per “Pump track”"
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Cosa sarebbe un Pump Truck?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Il \"Pump track\" è un percorso costituito da dossi, salite, discese e curve che permettono di fare salti e acrobazie più o meno evolute.",
+      "ground": "DESCRIZIONE: Realizzazione\n\narea sportiva per “Pump track”: in un’area centrale alla borgata, vicina alle\n\nScuole Medie verrа realizzata un’area dedicata al “pump track”: un percorso\n\ncostituito da dossi, salite, discese e curve che permettono di fare salti e\n\nacrobazie più o meno evolute. Questa realizzazione è stata chiesta con una\n\napposita lettera controfirmata da numerosi giovani della borgata."
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Ah okay.",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "Tra i servizi che potrebbero essere proposti attraverso la biblioteca municipale ci sono laboratori per le scuole, letture animate a tema per le scuole elementari e la scuola materna, oltre a mostre in Biblioteca. Inoltre, si può pensare di condividere contenuti utili sui social media e fare corsi in presenza su tematiche richieste dagli utenti.\n",
+      "ground": "TITOLO: Servizi della Biblioteca alla Comunitа (per la Scuola)\n\nTASSONOMIA: Proposte culturali: museo, cinema, teatro, arte ecc.\n\nDESCRIZIONE: ·\n\nI\n\nlaboratori proposti alle scuole ad inizio anno scolastico possono essere ancora\n\nprenotati in presenza o in modalitа di svolgimento a distanza con la\n\npiattaforma meet e per il nuovo anno scolastico si organizzerа una nuova\n\nproposta.\n\nPer il carnevale 2022 si\n\nsono potute incontrare n. 9 classi delle elementari e n. 8 sezioni della scuola\n\nmaterna di Mezzocorona per letture animate a tema carnevale (“Ono-Mato-per: tre\n\namici in maschera”)\n\n|||\n\nTITOLO: Servizi della biblioteca alla Comunitа (per le famiglie - adulti)\n\nTASSONOMIA: Proposte culturali: museo, cinema, teatro, arte ecc.\n\nDESCRIZIONE: ·\n\nIl\n\nlavoro di biblioteca è fatto in buona parte di relazioni e l’altalenarsi delle\n\nvarie fasi di apertura dei servizi in modalitа differenziata e costrittiva ha\n\nreso difficile fino a inizio 2022 difficile promuovere il libro e la lettura in\n\nmodo ottimale.\n\n·\n\nNei mesi di emergenza si è dedicato e si\n\ncontinuerа a dedicare se servirа del tempo maggiore rispetto allo standard alla\n\ncreazione di post o alla condivisione di link utili sui social Facebook e\n\nInstagram.\n\n·\n\nSi continua la positiva esperienza delle\n\nmostre in Biblioteca (atrio) fino a quando non si riterrа opportuno tornare a\n\nproporle ad accesso libero nel Centro di documentazione di Mezzocorona\n\n(essendoci l’assistenza da parte dell’artista si crede di poterlo fare quando\n\nnon sarа più necessario il controllo del green pass nei locali della biblioteca\n\nda parte del personale).\n\n·\n\nSi\n\nauspica di tornare preso a proporre dei corsi in presenza riguardanti le\n\ntematiche più richieste dagli utenti (a marzo bricolage, ad aprile\n\ngenitorialitа ecc.).\n\n·\n\nPer l’UTED si sono proposte delle\n\npasseggiate toponomastiche a marzo di notevole successo, per conoscere gli\n\nintestatari delle vie del paese"
+    },
+    {
+      "id": "T9",
+      "speaker": "Citizen",
+      "message": "Mi sembra una buona idea.",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agent",
+      "message": "Le serve altro?",
+      "ground": ""
+    },
+    {
+      "id": "T11",
+      "speaker": "Citizen",
+      "message": "No, sono a posto così. Grazie mille.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

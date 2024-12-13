@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_00087",
+  "doc_src": "comune.milano_aree-tematiche_D0057.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sugli animali selvatici.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente. Cosa vuole sapere?",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Ci sono animali selvatici pericolosi a Milano?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "No, a Milano non ci sono animali selvatici pericolosi. Alcuni potrebbero sembrare pericolosi, ma se si agisce in maniera corretta non ci sono pericoli.",
+      "ground": "A Milano non ci sono animali selvatici pericolosi. Qualche animale potrebbe sembrare vagamente pericoloso, ma è sufficiente conoscere il suo comportamento per eliminare qualsiasi pericolosità."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Gli animali selvatici sono buoni animali da appartamento?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "No, gli animali selvatici non sono adatti a vivere nelle nostre case. Soffrono e sono difficili da gestire.",
+      "ground": "Gli animali selvatici non hanno mai subito questo processo e quindi non sono adatti per vivere nelle nostre case. Soffrono e, in molti casi, sono di difficile gestione."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Come si controlla l'espansione delle specie selvatiche invadenti?",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "Una recente legge chiede l'eradicazione delle specie più invasive, ma è un intervento che seppure necessario, risulta spesso difficile in pratica.",
+      "ground": "Una recente legge Comunitaria chiede l’eradicazione delle specie più invasive, un intervento però praticamente impossibile quando, come nelle specie trattate nel manuale, i soggetti sono ormai presenti in grandi numeri."
+    },
+    {
+      "id": "T09",
+      "speaker": "Cittadino",
+      "message": "Capito, grazie mille per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agente",
+      "message": "Di nulla, sono qui per aiutarti. Se hai altre domande, non esitare a chiedere. Buona giornata!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

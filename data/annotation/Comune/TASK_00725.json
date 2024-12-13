@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00725",
+  "doc_src": "comune.trento_aree-tematiche_D0565.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, sa darmi informazioni sugli ostelli per la gioventù?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, certo. Gli ostelli per la gioventù sono attrezzati per ospitare i giovani turisti per periodi limitati. ",
+      "ground": "Ospitalità per giovani turisti (Extra-alberghiero)\nGli ostelli per la gioventù sono esercizi ricettivi attrezzati per ospitare, per periodi limitati, i giovani turisti e i loro accompagnatori."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quali sono i riferimenti normativi?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "I riferimenti normativi sono i seguenti:\n- Legge provinciale 14/07/2000 n. 9\n- Disciplina dell'esercizio dell'attività di somministrazione di alimenti e bevande e dell'attività alberghiera, nonché modifica all'art. 74 della L.P. 29 Aprile 1983, n. 12 in materia di personale\n- Legge provinciale 15/05/2002 n. 7\n- Disciplina degli esercizi alberghieri ed extra-alberghieri e promozione della qualità della ricettività turistica\n- Regolamento di esecuzione della legge provinciale 15 maggio 2002\n, n. 7 DPP 25 settembre 2003 n. 28-149/Leg.",
+      "ground": "Riferimenti normativi\nLegge provinciale 14/07/2000 n. 9\n“\nDisciplina dell'esercizio dell'attività di somministrazione di alimenti e bevande e dell'attività alberghiera, nonché modifica all'art. 74 della L.P. 29 Aprile 1983, n. 12 in materia di personale\n”.\nLegge provinciale 15/05/2002 n. 7\n“\nDisciplina degli esercizi alberghieri ed extra-alberghieri e promozione della qualità della ricettività turistica\n”.\nRegolamento di esecuzione della legge provinciale 15 maggio 2002\n, n. 7 DPP 25 settembre 2003 n. 28-149/Leg."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Posso rimanere per lunghi periodi in un ostello per la gioventù?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "No, il regolamento prevede periodi di permanenza massima degli ospiti, non sono in grado di dirle quale sia questo periodo.",
+      "ground": "Il regolamento di esecuzione determina le modalità attraverso le quali gli ostelli assicurano ospitalità prioritariamente ai giovani, i requisiti strutturali e di servizio in linea con gli ostelli europei, nonché i periodi di permanenza massima degli ospiti."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "È stato un piacere aiutarla. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

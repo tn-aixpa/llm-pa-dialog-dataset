@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00162",
+  "doc_src": "comune.milano_aree-tematiche_D0188.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Salve, vorrei avere informazioni sui lavori del canale di Redefossi in viale Monte Nero.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno. I lavori di consolidamento del canale sotterraneo Redefossi in viale Monte Nero sono stati completati in data 8 gennaio 2021.",
+      "ground": "La prima parte dei lavori ha riguardato il tratto che scorre sotto viale Monte Nero, tra piazza Cinque Giornate e piazza Medaglie d’Oro, poi i viali Piave e Premuda.\nI lavori oggetto d’Appalto sono stati ultimati in data 08.01.2021, come da Verbale di Ultimazione dei Lavori sottoscritto in data 15.01.2021 dalla DL."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E i lavori in prossimità delle botole?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Le attività di asfaltatura sono state completate nel  marzo 2021. ",
+      "ground": "Del lungo intervento iniziato nell’estate 2019 restano da ultimare le attività di asfaltatura in prossimità delle botole realizzate in via Sassoferrato, viale Caldara 20 e viale Monte Nero 51 richieste dal Comune per la restituzione delle aree stradali."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È stato un piacere poterla aiutare. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

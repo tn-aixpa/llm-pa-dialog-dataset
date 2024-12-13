@@ -1,0 +1,34 @@
+{
+  "task_id": "TASK_00503",
+  "doc_src": "comune.trento_aree-tematiche_D0155.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Buongiorno, vorrei informazioni sui servizi all'infanzia offerti nel Trentino.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Può trovare più informazioni al sito /Aree-tematiche/Servizi-all-infanzia-e-istruzione",
+      "ground": "[/Aree-tematiche/Servizi-all-infanzia-e-istruzione](Servizi all'infanzia)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

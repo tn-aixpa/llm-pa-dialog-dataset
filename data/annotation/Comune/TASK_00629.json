@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00629",
+  "doc_src": "comune.trento_aree-tematiche_D0378.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sul CEDAC. Cosa significa esattamente e come funziona?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Il CEDAC, che sta per Cause Effect Diagram with Additional Cards, è uno strumento di coinvolgimento del personale operativo finalizzato a stimolare la formulazione di idee per risolvere un problema specifico. Si tratta di una particolare applicazione del diagramma causa-effetto, che viene visualizzato su un tabellone in ufficio per monitorare e risolvere il problema in modo collaborativo.",
+      "ground": "Il CEDAC (Cause Effect Diagram with Additional Cards),  che letteralmente significa \"Diagramma causa-efffetto con cartellini aggiunti\",  è uno strumento di coinvolgimento del personale operativo che si propone di stimolare e indirizzare in modo corretto la formulazione di idee atte a risolvere un determinato problema.\nIl CEDAC è una particolare applicazione del diagramma causa-effetto. Il diagramma è fisicamente rappresentato da un tabellone esposto nell'ufficio dove si genera il problema."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Questo strumento è accessibile a tutti i collaboratori coinvolti nel problema?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Esattamente, il tabellone del CEDAC è accessibile a tutti i collaboratori che possono inserire cartellini con ipotesi di soluzioni e interventi specifici in corrispondenza delle cause del problema. In questo modo si favorisce il coinvolgimento di tutto il personale interessato.",
+      "ground": "Questo tabellone monitora continuamente il problema ed è accessibile a tutti i collaboratori coinvolti, i quali, mediante cartellini autoadesivi, segnalano ipotesi di soluzioni ed interventi molto specifici e mirati collocandoli in corrispondenza della specifica causa sulla quale intendono impattare. Questi cartellini, di diverso colore, mettono in rilievo ostacoli, cause reali e conseguenti idee di miglioramento per superare il problema."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "E quali sono i passaggi da seguire?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Si inizia scrivendo l'effetto o \"spreco\" in un rettangolo a destra e si traccia una linea verso sinistra dove vengono inserite le cause del problema con relativi cartellini. Dopo un certo periodo di tempo si raccolgono e si analizzano i cartellini per individuare le soluzioni più efficaci, coinvolgendo tutto il gruppo nel processo decisionale.",
+      "ground": "Operativamente, si procede nel seguente modo: si scrive l'effetto (lo \"spreco\") in un rettangolo a destra, e si traccia una linea verso sinistra. Su questa linea tutto il personale interessato applicherà cartellini con le cause, ed eventuali cartellini di colore diverso con le soluzioni proposte. Dopo un certo tempo si raccolgono e si analizzano i cartellini, e si riesce così ad impostare la soluzione del problema come risultato del lavoro di tutto il gruppo, non delle idee del più autorevole."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

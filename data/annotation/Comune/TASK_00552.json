@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00552",
+  "doc_src": "comune.trento_aree-tematiche_D0240.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Salve, vorrei informazioni sul percorso del quartiere di Gardolo.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Il percorso partecipato è iniziato il 18 gennaio 2024 con un incontro pubblico a palazzo Geremia. In questo incontro l'urbanista Matteo Dondè ha discusso la sicurezza stradale e la rigenerazione urbana.",
+      "ground": "Il percorso partecipato è iniziato il\n18 gennaio 2024\ncon un incontro pubblico, tenutosi a palazzo Geremia, aperto a tutta la cittadinanza. L’Architetto urbanista Matteo Dondè ha affrontato i temi della sicurezza stradale e della rigenerazione urbana evidenziando come sia ormai necessario, seguendo l’esempio dei paesi nord europei, un cambiamento di visione dello spazio stradale."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "È possibile partecipare ancora agli incontri?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Non mi sono disponibili dettagli di incontri futuri.",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Posso comunque avere accesso ai materiali relativi agli incontri passati?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "I materiali relativi agli incontri e lo schema del cronoprogramma sono a disponibili sul sito, purtroppo non sono in grado di fornirle i link.",
+      "ground": "I materiali relativi agli incontri di cui sopra e lo schema del cronoprogramma del processo partecipato sono riportati di seguito."
+    }
+  ],
+  "subcategory": "Trento"
+}

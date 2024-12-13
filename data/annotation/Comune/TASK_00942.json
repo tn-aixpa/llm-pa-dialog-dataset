@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00942",
+  "doc_src": "comune.milano_aree-tematiche_links_D0223_1.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Cosa rappresenta il Piano per lo Sviluppo e la Coesione di Milano e quali sono le sue origini?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Il Piano per lo Sviluppo e la Coesione di Milano rappresenta lo strumento attuativo unitario del Fondo per lo Sviluppo e la Coesione (FSC) per la Città Metropolitana di Milano. Esso è stato approvato con Delibera CIPESS 50/2021 e recepito dall’Amministrazione con Determina del Direttore Generale 2877/2022. Le origini di questo piano risalgono al precedente Patto per lo Sviluppo della Città Metropolitana di Milano, noto come \"Patto per Milano\", sottoscritto il 13 settembre 2016 tra il Sindaco della Città di Milano e il Presidente del Consiglio dei Ministri per il finanziamento di 15 interventi.",
+      "ground": "Il Piano di Sviluppo e Coesione (PSC) è lo strumento attuativo del Fondo per lo Sviluppo e la Coesione (FSC).\n\n|||\n\nIl Piano per lo Sviluppo e la Coesione (PSC) di Milano\nIl Piano per lo Sviluppo e la Coesione della Città Metropolitana di Milano è stato approvato con Delibera CIPESS 50/2021 e recepita dall’Amministrazione con Determina del Direttore Generale 2877/2022.\nNel PSC Milano, quale strumento attuativo unitario del FSC così come descritto sopra, è confluito il precedente Patto per lo Sviluppo della Città Metropolitana di Milano (c.d. “Patto per Milano”), sottoscritto il 13 settembre 2016 tra il Sindaco della Città di Milano e il Presidente del Consiglio dei Ministri per il finanziamento di 15 interventi."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "E qual è lo scopo del FSC?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Lo scopo del Fondo per lo sviluppo e la coesione è quello di attuare politiche per lo sviluppo economico, sociale e territoriale e rimuovere gli squilibri economici e sociali.",
+      "ground": "Il Fondo per lo sviluppo e la coesione (FSC) è, congiuntamente ai Fondi strutturali europei, lo strumento finanziario principale attraverso cui vengono attuate le politiche per lo sviluppo economico, sociale e territoriale e la rimozione degli squilibri economici e sociali."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Chi è che decide come attuare il Piano?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Il Comitato di Sorveglianza (CdS) del Piano per lo Sviluppo e la Coesione di Milano decide come attuare il Piano.",
+      "ground": "Il Comitato di Sorveglianza (CdS) del Piano per lo Sviluppo e la Coesione di Milano è un organismo con compiti di indirizzo e controllo sul Programma, secondo quanto disposto dall’articolo 4 della Delibera CIPESS 2/2021."
+    },
+    {
+      "id": "T07",
+      "speaker": "Citizen",
+      "message": "Chi fa parte del Comitato di Sorveglianza?",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agent",
+      "message": "Il Comitato di Sorveglianza è presieduto dal Capo di Gabinetto del Sindaco e composto da rappresentanti del Dipartimento per le Politiche di Coesione, dell'Agenzia per la Coesione Territoriale, del Dipartimento per la programmazione e il coordinamento della politica economica, del Ministero dell'economia e delle finanze - Dipartimento della ragioneria generale dello Stato - IGRUE, del Dipartimento per gli affari regionali e le autonomie, del Ministero della Transizione Ecologica, del Ministero delle Infrastrutture e Mobilità Sostenibili e del Ministero dell'Istruzione.",
+      "ground": "È presieduto dal Capo di Gabinetto del Sindaco e composto da rappresentanti di:\nDipartimento per le Politiche di Coesione\nAgenzia per la Coesione Territoriale\nDipartimento per la programmazione e il coordinamento della politica economica\nMinistero dell’economia e delle finanze – Dipartimento della ragioneria generale dello Stato – IGRUE\nDipartimento per gli affari regionali e le autonomie\nMinistero della Transizione Ecologica\nMinistero delle Infrastrutture e Mobilità Sostenibili\nMinistero dell’Istruzione"
+    }
+  ],
+  "subcategory": "Milano"
+}

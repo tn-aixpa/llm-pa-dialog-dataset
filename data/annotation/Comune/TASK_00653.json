@@ -1,0 +1,34 @@
+{
+  "task_id": "TASK_00653",
+  "doc_src": "comune.trento_aree-tematiche_D0425.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, potrebbe darmi informazioni sull'apertura di un agritur?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Sì, può trovare info al link https://www.comune.trento.it/Aree-tematiche/Attivita-economiche/Strutture-ricettive/Agritur/Apertura-di-un-agritur .",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Attivita-economiche/Strutture-ricettive/Agritur/Apertura-di-un-agritur](Apertura di un agritur)\nInformazioni per presentare, tramite\nSuap\ntelematico, la\nScia\nper l'apertura di un agritur."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Capisco, e per l'apertura di un bar/ristorante?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Per un bar o un ristorante le consiglio la pagina https://www.comune.trento.it/Aree-tematiche/Attivita-economiche/Pubblici-esercizi/Bar-e-ristoranti/Apertura-di-un-bar-ristorante",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Attivita-economiche/Pubblici-esercizi/Bar-e-ristoranti/Apertura-di-un-bar-ristorante](Apertura di un bar/ristorante)\nInformazioni per presentare tramite\nSuap\ntelematico, la\nScia\nper l'apertura di un esercizio di somministrazione di alimenti e bevande aperto al pubblico."
+    }
+  ],
+  "subcategory": "Trento"
+}

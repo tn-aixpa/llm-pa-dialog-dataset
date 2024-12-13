@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00976",
+  "doc_src": "comSalerno0703.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Quali sono le aree in cui verranno installate le fototrappole a Salerno?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Le fototrappole (in totale 5) sono state installate in luoghi non meglio precisati. Questa posizione viene cambiata ogni due settimane circa.",
+      "ground": "Sono state noleggiate da Salerno Pulita e la ditta fornitrice dovrà curarne anche lo spostamento e l’attivazione ogni 15 giorni. In pratica ogni due settimane saranno attenzionati luoghi diversi e dunque si moltiplicherà l’attività di sorveglianza."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Chi sposterà le fototrappole?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "La ditta fornitrice, purtroppo non so quale sia di preciso. So dirle che Salerno Pulita è l'azienda che le sta noleggiando.",
+      "ground": "Sono state noleggiate da Salerno Pulita e la ditta fornitrice dovrà curarne anche lo spostamento e l’attivazione ogni 15 giorni."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Qual è lo scopo delle fototrappole?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Lo scopo delle fototrappole è di contrastare il fenomeno dell’abbandono dei rifiuti sul suolo pubblico e degli errati conferimenti. Esse si attivano automaticamente quando viene rilevato un abbandono di rifiuti ingombranti o quando qualcuno li conferisce in maniera sbagliata.",
+      "ground": "Per contrastare il fenomeno dell’abbandono dei rifiuti sul suolo pubblico e degli errati conferimenti, il Comune di Salerno farà ricorso anche alle fototrappole. Si tratta di fotocamere automatiche, il cui utilizzo ai fini della sorveglianza è stato autorizzato dagli Enti competenti, che si attivano quando viene rilevato un abbandono di ingombranti o un errato conferimento."
+    }
+  ],
+  "subcategory": "Salerno"
+}

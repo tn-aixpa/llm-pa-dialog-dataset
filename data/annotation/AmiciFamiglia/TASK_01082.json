@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01082",
+  "doc_src": "carzano__2023.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Puoi darmi idee con tassonomia \"Attivitа/progetti formativi specifici per bambini e ragazzi\"?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Può pensare attraverso al Piano Giovani di Zona di dare la possibilità alle e ai giovani di partecipare alle iniziative del Piano stesso migliorando la comunicazione",
+      "ground": "TITOLO: PIANO GIOVANI E COMUNICAZIONE\n\n|||\n\nDESCRIZIONE: Con delibera della Giunta comunale n. 16 del 01.03.2023, il Comune ha aderito al Piano Giovani di Zona per l’anno 2023, con la finalitа di dare la possibilitа ai/alle giovani residenti di partecipare alle iniziative previste dal Piano stesso."
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "E per orari concilianti per i propri utenti?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Può cercare di proporre orari di apertura al pubblico in modo da essere compatibile con le esigenze di chi lavora. Per esempio potrebbe tenere aperto dalle 14 alle 16 due giorni alla settimana",
+      "ground": "Il Comune intende mantenere il proprio orario di apertura al pubblico, prevedendo delle fasce orarie compatibili con le esigenze famigliari e lavorative. In particolare in Comune è aperto nei pomeriggi di martedм e giovedм dalle ore 14.00 alle ore 16.00."
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Mi manderebbe il testo completo dell'azione?",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "TITOLO: SERVIZI PER LA CONCILIAZIONE DEI TEMPI FAMIGLIA-LAVORO-TERRITORIO\n\nTASSONOMIA: Orari concilianti per i propri utenti\n\nDESCRIZIONE: Il Comune intende mantenere il proprio orario di apertura al pubblico, prevedendo delle fasce orarie compatibili con le esigenze famigliari e lavorative. In particolare in Comune è aperto nei pomeriggi di martedм e giovedм dalle ore 14.00 alle ore 16.00.",
+      "ground": "TITOLO: SERVIZI PER LA CONCILIAZIONE DEI TEMPI FAMIGLIA-LAVORO-TERRITORIO\n\nTASSONOMIA: Orari concilianti per i propri utenti\n\nDESCRIZIONE: Il Comune intende mantenere il proprio orario di apertura al pubblico, prevedendo delle fasce orarie compatibili con le esigenze famigliari e lavorative. In particolare in Comune è aperto nei pomeriggi di martedм e giovedм dalle ore 14.00 alle ore 16.00."
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

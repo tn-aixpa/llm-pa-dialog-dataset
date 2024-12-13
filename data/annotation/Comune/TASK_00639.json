@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00639",
+  "doc_src": "comune.trento_aree-tematiche_D0398.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei avere informazioni sul Concilio di Trento del XVI secolo.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "il Concilio di Trento, indetto dalla Chiesa di Roma del 1545 e durato quasi venti anni ha segnato profondamente la città.\n\nIl Concilio cominciò il 13 dicembre 1545, e dopo due interruzioni e altre vicende, fu concluso nel 4 dicembre 1542. Fu il papa dell'epoca Paolo III a scegliere la città, che la definì “sito comodo, libero e a tutte le Nazioni opportuno”",
+      "ground": "Nessun avvenimento storico ha segnato tanto profondamente l'identità civica di Trento quanto il XIX Concilio Ecumenico, indetto dalla Chiesa di Roma il 13 dicembre 1545 e conclusosi solennemente, dopo due interruzioni e alterne vicende, il 4 dicembre 1563. Trento era stata scelta come sede conciliare già nella bolla di indizione del 1542, quando papa Paolo III la definì\n“sito comodo, libero e a tutte le Nazioni opportuno”"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quindi il Concilio di Trento ha influenzato molto la vita civica ed ecclesiastica dell'Europa cattolica?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Esattamente, i decreti tridentini hanno esercitato un'influenza decisiva sulla vita religiosa, culturale e civile dell'Europa cattolica per almeno due secoli.",
+      "ground": "Per almeno due secoli i decreti tridentini esercitarono un'influenza decisiva non solo sulla vita religiosa, ma anche sulla cultura e su molti aspetti del vivere civile dell'Europa cattolica.\nDurante i lavori conciliari, diluiti nell'arco di diciotto anni, Trento ospitò 284 prelati e numerosi altri delegati provenienti da diverse nazioni, assumendo di fatto il ruolo di capitale del cattolicesimo e di crocevia della politica europea."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Quanti delegati hanno partecipato ai lavori conciliari a Trento?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Trento ha ospitato 284 prelati e numerosi altri delegati provenienti da diverse nazioni durante il Concilio, assumendo il ruolo di capitale del cattolicesimo e crocevia della politica europea.",
+      "ground": "Durante i lavori conciliari, diluiti nell'arco di diciotto anni, Trento ospitò 284 prelati e numerosi altri delegati provenienti da diverse nazioni, assumendo di fatto il ruolo di capitale del cattolicesimo e di crocevia della politica europea. Nel terzo periodo del Concilio, quello conclusivo, a Trento erano presenti ambasciatori di dodici Stati."
+    }
+  ],
+  "subcategory": "Trento"
+}

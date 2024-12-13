@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00805",
+  "doc_src": "comune.salerno_D0088.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, potrebbe darmi informazioni sulla Paper Week che si terrà a Salerno?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "La Paper Week a Salerno si svolgerà dall'8 al 14 aprile e prevede oltre 200 eventi su tutto il territorio nazionale per promuovere la conoscenza e l'importanza del riciclo della carta e del cartone.",
+      "ground": "Dall’8 al 14 aprile più di 200 eventi su tutto il territorio nazionale animeranno la grande campagna corale di formazione e informazione, attese oltre 50mila persone per scoprire tutto sugli imballaggi cellulosici e sul loro riciclo."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E ci saranno anche eventi a libero accesso?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, ci saranno più di 30 appuntamenti gratuiti per permettere a tutti di conoscere meglio il materiale cellulosico e approfondire le regole della raccolta differenziata e del riciclo.",
+      "ground": "è trasversale come il vasto mondo della carta e del cartone il programma delle svariate iniziative a Salerno e in giro per la Campania, Più di 30 appuntamenti gratuiti per conoscere e apprezzare meglio la versatilità del materiale cellulosico in tutte le sue declinazioni e gli infiniti legami con il vissuto e la routine di tutti, oltre che approfondire le regole e il funzionamento di un virtuoso ciclo del riciclo.\n\"Siamo lieti di ospitare la manifestazione nazionale “Paper week\"."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni!",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È stato un piacere, se ha bisogno di ulteriori dettagli non esiti a contattarci.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

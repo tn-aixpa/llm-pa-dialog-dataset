@@ -1,0 +1,40 @@
+{
+  "task_id": "TASK_00508",
+  "doc_src": "comune.trento_aree-tematiche_D0162.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sulla Cila.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "La Cila riguarda gli interventi non espressamente compresi tra quelli liberi, tra quelli soggetti a permesso di costruire e tra quelli soggetti a Scia. La presentazione della Cila può avvenire solo per via telematica da parte del progettista incaricato munito di delega utilizzando il servizio di invio della Comunicazione di inizio lavori asseverata sullo sportello online.",
+      "ground": "Sono soggetti a\nCila\ngli interventi non espressamente compresi tra quelli liberi, tra quelli soggetti a permesso di costruire e tra quelli soggetti a\nScia\nLa presentazione della Cila dal 1 agosto 2021 può avvenire\nsolo per via telematica\nda parte del progettista incaricato munito di delega usando il servizio di invio della\n[https://sportello.comune.trento.it/action:c_l378:comunicazione.inizio.lavori.asseverata](Comunicazione di inizio lavori asseverata)\nsullo sportello online."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quindi non posso presentare la Cila in forma cartacea?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Esattamente, la presentazione deve avvenire solo per via telematica.",
+      "ground": "La presentazione della Cila dal 1 agosto 2021 può avvenire\nsolo per via telematica\nda parte del progettista incaricato munito di delega usando il servizio di invio della\n[https://sportello.comune.trento.it/action:c_l378:comunicazione.inizio.lavori.asseverata](Comunicazione di inizio lavori asseverata)\nsullo sportello online."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00637",
+  "doc_src": "comune.trento_aree-tematiche_D0396.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sulla certificazione di agibilità.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Le informazioni e la modulistica necessaria sono reperibili nel catalogo dei servizi online del Comune di Trento al link https://www.comune.trento.it/Aree-tematiche/Attivita-edilizia/Agibilita/Segnalazione-certificata-di-agibilita-Scagi e al link https://servizi.comune.trento.it/Servizi/Dichiarazione-di-ultimazione-dei-lavori .",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Attivita-edilizia/Agibilita/Segnalazione-certificata-di-agibilita-Scagi](Segnalazione certificata di agibilità - Scagi)\nInformazioni e modulistica necessaria per presentare la segnalazione certificata di agibilità (Scagi) sono reperibili nel\n[https://servizi.comune.trento.it/Servizi/Dichiarazione-di-ultimazione-dei-lavori](catalogo dei servizi online)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E per il certificato di conformità?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Le informazioni e la modulistica necessaria sono disponibili al link /Aree-tematiche/Attivita-edilizia/Agibilita/Certificato-di-conformita-edifici-esistenti .",
+      "ground": "[/Aree-tematiche/Attivita-edilizia/Agibilita/Certificato-di-conformita-edifici-esistenti](\n\n)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per l'aiuto.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È stato un piacere, buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

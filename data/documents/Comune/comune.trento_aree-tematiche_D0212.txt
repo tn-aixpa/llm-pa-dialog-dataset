@@ -1,0 +1,45 @@
+Esempio di
+collegamento
+ai servizi WMS e WFS del Comune di Trento con il software Open Source
+QGIS
+Questa guida illustra la sequenza di passi per configurare una
+connessione al server WMS
+del Comune di Trento con il software Open Source
+QGIS
+, per poter visualizzare i layer messi a disposizione dell'amministrazione.
+Prerequisiti:
+Connessione diretta ad Internet
+QGIS installato sul PC
+Per avere maggiori informazioni su QGIS e come installarlo sul proprio PC fare riferimento direttamente al sito ufficiale:
+[http://www.qgis.org/](http://www.qgis.org/)
+[]()
+Aggiungi layer WMS
+Una volta aperto QGIS, per prima cosa è necessario aprire la finestra per gestire i layer WMS. Dalla barra dei menù selezionare
+Layer --> Aggiungi layer WMS/WMTS...
+[]()
+[]()
+Crea una nuova connessione (da fare solo la prima volta)
+All'interno della finestra "Aggiungi layer dal server" cliccare sul pulsante "Nuovo" per creare una nuova connessione ed inserire i valori
+Nome: WMS Comune di Trento
+URL: http://webapps.comune.trento.it/ogc
+come mostrato nell'immagine sottostante
+Cliccare su "OK" per confermare.
+[]()
+Connetti al server
+Sempre all'interno della finestra "Aggiungi layer dal server" selezionare la connessione appena creata (WMS Comune di Trento) cliccare sul pulsante "Connetti"
+[]()
+Aggiungi layer alla mappa
+Se la connessione con il server è andata a buon fine comparirà un elenco di layer disponibili (vedere l'immagine di esempio qui sotto).
+Selezionare una o più righe (layer che si vogliono caricare in mappa)
+Scegliere il
+Sistema di Riferimento
+cliccando sul pulsante "Cambia..." Le alternative sono
+ETRS89 / UTM zone 32N
+(x, y in metri) oppure
+WGS84
+(latitudine, longitudine in gradi)
+cliccare sul pulsante "Aggiungi"
+Infine cliccare su "Close" per tornare alla finestra principale di QGIS, all'interno della quale ora saranno caricati e visibili i layer precedentemente selezionati.
+NOTA
+: i layer WMS sono visibili in mappa solo a determinate scale; fare riferimento alla tabella di descrizione dei layer nella sezione "Servizi WMS e WFS" per verificarne la
+visibilità

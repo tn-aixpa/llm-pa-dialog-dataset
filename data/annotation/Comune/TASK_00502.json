@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00502",
+  "doc_src": "comune.trento_aree-tematiche_D0154.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "qual è il numero di emergenza che posso chiamare in caso di bisogno?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "In caso di emergenze puoi contattare il numero 112.",
+      "ground": "In caso di emergenze contattare il numero\n112"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Grazie. E chi è il responsabile della Protezione civile per il Comune di Trento?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Il responsabile della Protezione civile per il Comune di Trento è il dirigente del servizio Gestione strade e parchi. ",
+      "ground": "Il responsabile della Protezione civile per il Comune di Trento è il dirigente del servizio\n[/Comune/Organizzazione-comunale/Organigramma/Servizi/GESTIONE-STRADE-E-PARCHI](Gestione strade e parchi)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Capito, grazie mille per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È stato un piacere poterla aiutare. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

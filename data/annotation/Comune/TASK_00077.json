@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00077",
+  "doc_src": "comune.milano_aree-tematiche_D0005.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Salve, vorrei avere informazioni sui lavori per la costruzione della vasca di contenimento delle piene del Seveso.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, certo. La vasca dovrebbe essere stata attivata per la fine di novembre 2023 ma non so dirle se è è stata messa in funzione.",
+      "ground": "La vasca, con fine novembre 2023, è operativa e può essere utilizzata in caso di emergenza."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quando finiranno di piantare le piante nell'area della vasca?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Nelle prossime settimane dovrebbero finire le piantumazioni. Verranno inoltre fatte le ultime sistemazioni del verde e posate delle zattere per la nidificazione degli uccelli.",
+      "ground": "Nelle prossime settimane saranno completate le piantumazioni nell'area della vasca, le ultime sistemazioni a verde e delle panchine, oltre alla posa delle zattere per la nidificazione degli uccelli nell'invaso."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Come funziona il sistema di svuotamento e riempimento della vasca?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "In caso di allerta meteorologica, il laghetto viene svuotato, per poi venir riempito dalle acque eccedenti del Seveso. Lo svuotamento avviene in circa tre ore mentre il riempimento con acque eccedenti avviene fra le 3 e le 10 ore.",
+      "ground": "In caso di allerta meteorologica, secondo le procedure definite tra gli enti competenti, il laghetto viene svuotato in circa tre ore.\nSe vi è il rischio di una esondazione, il laghetto viene quindi riempito dalle acque eccedenti del Seveso mediante l'apertura delle paratie, in un tempo variabile tra 3 e 10 ore."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni dettagliate. Sembra un progetto molto interessante.",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "Sono lieto di aver potuto aiutare..",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_01051",
+  "doc_src": "arco__2019.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Sto scrivendo il piano per la famiglia del mio Comune. Cosa potrei dire relativo alle famiglie?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Può ricordare come le famiglie vivono i constanti cambiamenti della sua forma e del mondo del lavoro,  e che ambisce a migliori livelli di benessere nonché di autonomio. Da qui può agganciare il fatto che il suo piano intende affrontare queste faccende.",
+      "ground": "che vive quotidianamente i costanti cambiamenti che riguardano in primis le proprie forme, ma parallelamente anche il mondo del lavoro (con le sue varie tipologie di organizzazione, i suoi tempi e le sue dislocazioni territoriali);\n\nche, con consapevolezza e autonomia propria, richiede livelli sempre più alti di condizioni di benessere, qualitа della vita a favore del singolo individuo o della struttura familiare.\n\nIn questo mutevole scenario sociale, si innesca il Piano delle Politiche familiari del Comune di Arco per l'anno 2019, che richiama ad una responsabilitа:"
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Mi puoi fare qualche esempio di azione strettamente orientata alla famiglia?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Questi titoli di azioni potrebbero essere di suo interesse:\n- Famiglia Amica\n- Strumenti di management organizzativo family friendly\n- Progetto ''Famiglie in gioco crescono''\n- Progetto triennale distrettuale ''FamilyTime''\n- Servizi alle famiglie con bambini 0-3: asilo nido\n- Servizi alle famiglie con bambini 0-3: Tagesmutter",
+      "ground": "TITOLO: Famiglia Amica\n\n|||\n\nTITOLO: Strumenti di management organizzativo family friendly\n\n|||\n\nTITOLO: Progetto ''Famiglie in gioco crescono''\n\n|||\n\nTITOLO: Progetto triennale distrettuale ''FamilyTime''\n\n|||\n\nTITOLO: Servizi alle famiglie con bambini 0-3: asilo nido\n\n|||\n\nTITOLO: Servizi alle famiglie con bambini 0-3: Tagesmutter\n"
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Parlami di più di Famiglia Amica",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Il Comune di Arco nel piano del 2019 ha previsto la distribuzione di cartoline cartacee per raccogliere valutazioni sul gradimento e suggerimenti per le singole iniziative per i vari servizi comunali.",
+      "ground": "=== PIANO FAMIGLIA DI ARCO ANNO 2019 ===\n\n|||\n\nDESCRIZIONE: Predisposizione di ''cartoline'' cartacee per la raccolta di informazioni finalizzate alla valutazione del livello di gradimento e alla raccolta di suggerimenti sulle singole iniziative attivate dai vari servizi comunali (Festa delle famiglie, Festa dello sport, Premio Segantini, etc.)."
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "C'è qualche marchio rivolto alle famiglie?",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "Sì, sempre Arco ha intrapreso un percorso per ottenere il certificato \"family audit executive\" con azioni di sviluppo e miglioramenti per conciliare famiglia e lavoro",
+      "ground": "TITOLO: Strumenti di management organizzativo family friendly\n\nTASSONOMIA: Adesione ai marchi familiari\n\nDESCRIZIONE: Ultimazione, nel corso del 2019 del percorso triennale che porterа all'ottenimento, nel febbraio 2020 del certificato family audit executive, tramite l'attivazione di azioni volte allo sviluppo e miglioramento della politica aziendale comunale conciliazione tra famiglia e lavoro."
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

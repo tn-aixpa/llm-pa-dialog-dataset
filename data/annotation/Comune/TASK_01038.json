@@ -1,0 +1,34 @@
+{
+  "task_id": "TASK_01038",
+  "doc_src": "comSalerno1150.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "PA Operator",
+      "message": "Chi è responsabile dell'Ufficio Comunale di Censimento?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Il responsabile dell'Ufficio Comunale di Censimento (UCC) è il responsabile dell’Ufficio Statistica del Comune. Al momento la carica è coperta da Maria Felicia Casini.",
+      "ground": "2 ll responsabile dell’Ufficio Statistica del Comune assume il ruolo di Responsabile dell’Ufficio Comunale di Censimento (UCC).\n[/node/2309](Maria Felicia Casini\nP.O. Stato Civile \n\n\n\n\n  089661111 \n  protocollo@pec.comune.salerno.it)\nMaria Felicia Casini\nP.O. Stato Civile\n[tel:089661111](089661111)\n[mailto:protocollo@pec.comune.salerno.it](protocollo@pec.comune.salerno.it)\n[/node/4562](Massimo Galante\nFunzionario Amministrativo - Toponomastica)\nMassimo Galante\nFunzionario Amministrativo - Toponomastica\n[/node/4367](Luigia Macchiarulo\nFunzionario amministrativo - Responsabile elettorale e leva"
+    },
+    {
+      "id": "T03",
+      "speaker": "PA Operator",
+      "message": "Qual è la funzione di questo Ufficio?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "L'Ufficio è incaricato di assolvere alle funzioni e ai compiti necessari per lo svolgimento delle rilevazioni per il censimento.",
+      "ground": "1 L’Ufficio di Statistica del Comune è incaricato ad assolvere alle funzioni e ai compiti necessari per lo svolgimento delle rilevazioni in qualità di Ufficio Comunale di Censimento (UCC)."
+    }
+  ],
+  "subcategory": "Salerno"
+}

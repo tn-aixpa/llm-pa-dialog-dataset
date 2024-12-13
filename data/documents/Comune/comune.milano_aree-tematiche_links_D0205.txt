@@ -1,0 +1,11 @@
+Milano Partecipa
+Milano Partecipa è la piattaforma digitale per la partecipazione delle cittadine e dei i cittadini alla vita democratica del Comune di Milano.
+Tutte le persone residenti o City User, dai sedici anni in su, hanno diritto a partecipare nei modi stabiliti dallo Statuto e dal Regolamento della Partecipazione del Comune di Milano e dai Patti di Partecipazione dei singoli processi.
+I processi di partecipazione attivati sulla piattaforma Milano Partecipa comprendono sia gli istituti regolati dallo Statuto, come Referendum e Petizioni, sia le Consultazioni, il Bilancio Partecipativo, la Raccolta di osservazioni o di Proposte - che sono iniziative sperimentali di partecipazione civica, condotte nel tempo dall'Amministrazione comunale, anche grazie alla collaborazione con Università, associazioni e gruppi di cittadini attivi.
+Si fa riferimento in questi casi al Patto di Partecipazione, un documento amministrativo che definisce per ciascun processo le regole, le fasi e le modalità di partecipazione e stabilisce diritti e responsabilità delle persone partecipanti e dell'Amministrazione.
+Per partecipare ai processi attivi sulla piattaforma
+[https://partecipazione.comune.milano.it/](Milano Partecipa)
+è necessario accedere con la propria Identità Digitale SPID o con le credenziali valide per l’identificazione forte sul portale del Comune di Milano. L’identità delle persone partecipanti è tutelata da un nickname.
+Milano Partecipa è basata su software Open Source Decidim.
+Argomenti:
+[https://www.comune.milano.it/elenco-argomenti/dettaglio-argomenti?restrictCategoryId=36642&fromPage=elencoArgomenti](Partecipazione)

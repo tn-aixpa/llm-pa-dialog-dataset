@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01014",
+  "doc_src": "comSalerno0854.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Dove si trova la sede per la riscossione dei tributi?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "La sede per la riscossione dei tributi si trova in via Bonaventura Rescigno n. 2 H, Salerno.",
+      "ground": "Da lunedì 3 luglio 2023 è operativa la sede del concessionario della riscossione coattiva dei crediti comunali, RTI Municipia-Gamma Tributi, ubicata in via Bonaventura Rescigno n. 2 H, Salerno."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Qual è l'orario di apertura?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "La sede è attiva dal Lunedì al Venerdì dalle ore 09.00 alle ore 13.00 e dalle ore 14.00 alle ore 18.00.",
+      "ground": "La sede è attiva nei seguenti orari: dal Lunedì al Venerdì dalle ore 09.00 alle ore 13.00 e dalle ore 14.00 alle ore 18.00."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "E possibile comunicare tramite email?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Sì, è possibile comunicare tramite email. Gli indirizzi sono rtimunicipiagamma-salerno@eng.it per la posta ordinaria e rtimunicipiagamma-salerno@legalmail.it per la PEC.",
+      "ground": "• via PEC al seguente indirizzo di posta elettronica certificata: rtimunicipiagamma-salerno@legalmail.it\n• via e-mail ordinaria al seguente indirizzo di posta elettronica: rtimunicipiagamma-salerno@eng.it"
+    }
+  ],
+  "subcategory": "Salerno"
+}

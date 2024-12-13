@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_01162",
+  "doc_src": "scurelle_v2.1__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Scrivimi un template per un'azione relativa alla realizzazione di un campo da calcio comunale.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "TITOLO: Realizzazione di un campo da calcio comunale\nTASSONOMIA: Pianificazione urbanistica (strade, parchi, orti, campi sportivi ecc.)\nMACRO-AMBITO: Welfare territoriale e sostenibilitа\nOBIETTIVO: Creare una struttura sportiva adeguata per favorire l'attività fisica e il benessere dei cittadini, in particolare dei giovani.\nDESCRIZIONE: Il Comune di {{NomeComune}} intende realizzare per l'anno {{Anno}} un campo da calcio così da permeterre ai ragazzi di giocare partite e competere in tornei.",
+      "ground": "TITOLO: Campo da calcio e palestra comunale\nTASSONOMIA: Pianificazione urbanistica (strade, parchi, orti, campi sportivi ecc.)\nMACRO-AMBITO: Welfare territoriale e sostenibilitа\nDESCRIZIONE: Il Comune ha realizzato nel 2019 un campetto da calcetto presso il Centro Polifunzionale destinato ai ragazzi della fascia 8-15 anni. Nel 2021 l’intervento è stato completato con la realizzazione di una pavimentazione a formelle nell’area esterna e la posa di reti protettive sui lati.\nSempre nel corso dell’anno 2021 è stato effettuato il rifacimento della copertura della palestra comunale con un intervento di posa di pannelli isolanti e sostituzione della guaina protettiva.\nNel 2022 è prevista la realizzazione di una piccola struttura (gazebo) a servizio del campetto polifunzionale e presso la palestra sarа completata la copertura con la sostituzione di due lucernai."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Che agevolazioni posso dare alle famigli con neonati?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Puoi pensare di offrire un contributo per ogni figlio, spendibile presso le farmacie convenzionate per l'acquisto di prodotti per l'infanzia (farmaci esclusi), dare agevolazioni sulla tariffa rifiuti se la famiglia ha bambini fino ad età di 2 anni, offrire servizi di prima infanzia o sostegni psicologi alle famiglie.",
+      "ground": "Al fine di agevolare e sostenere economicamente le famiglie dei nuovi nati nell’anno, anche per il 2022 si conferma il contributo per ogni figlio, spendibile presso la farmacia comunale di Castelnuovo e la farmacia Borsato di Strigno, per l’acquisto, a scelta, di prodotti per l’infanzia (esclusi i farmaci). Dal terzo figlio in poi il contributo è incrementato.\nDelibera di Giunta n. 5 del 12.01.2022.\n\n|||\n\nIl Comune, con proprio regolamento approvato con deliberazione consigliare n. 13 del 29.02.2016 e modificato con deliberazione del Consiglio comunale n. 16 del 08.06.2017, concede alle famiglie residenti\nche non hanno diritto ai Buoni di Servizio, un contributo per abbattere la quota d’iscrizione dei figli che partecipano alle attivitа ludico- ricreative organizzate durante il periodo estivo. Il contributo è pari ad euro 50,00 per ciascun figlio per una settimana di frequenza a tempo pieno.\n\n|||\n\nVengono mantenute le agevolazioni sulla tariffa rifiuti per gli anziani, portatori di handicap e per i bambini fino ad etа di 2 anni, con il pagamento di litri 50 mensili.\n\n|||\n\nServizio prima infanzia\n\n|||\n\nSostegno psicologico alle famiglie"
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Dammi un'idea di come potrei scrivere un'azione di sostegno psicologico.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "TITOLO: Sostegno psicologico alle famiglie\nTASSONOMIA: Ambulatori e servizi sanitari\nMACRO-AMBITO: Welfare territoriale e sostenibilitа\nOBIETTIVO: Offrire supporto psicologico gratuito alle famiglie con bambini in età scolare e adolescenti attraverso professionisti qualificati.\nDESCRIZIONE: Il Comune mette a disposizione sportelli di ascolto e consulenza psicologica, pedagogica ed ostetrica, per offrire un servizio di supporto specializzato e gratuito. Questi sportelli sono pensati per integrarsi con i servizi già presenti sul territorio.",
+      "ground": "TITOLO: Sostegno psicologico alle famiglie\nTASSONOMIA: Ambulatori e servizi sanitari\nMACRO-AMBITO: Welfare territoriale e sostenibilitа\nDESCRIZIONE: Il Comune si pone come obiettivo di mettere a disposizione per le famiglie con bambini in etа scolare e adolescenti, un supporto specialistico gratuito con professionisti qualificati del settore.\nIl Comune si è attivato per far conoscere alle famiglie lo sportello ''Fuorionda'', attivato a Borgo Valsugana, sportello gratuito per famiglie ed operatori territoriali che offre servizio di ascolto e consulenza psicologica, pedagogica ed ostetrica che va ad integrarsi con quanto giа presente sul territorio. L’obiettivo è quello di proseguire nel diffondere in maniera capillare sul territorio la presenza di questo servizio."
+    },
+    {
+      "id": "T07",
+      "speaker": "Citizen",
+      "message": "Riscrivi l'azione, Specificando che questo servizio viene offerto dagli operatori del CSM locale e che si concentra sulla salute mentale dei genitori.",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agent",
+      "message": "TITOLO: Sostegno psicologico alle famiglie\nTASSONOMIA: Ambulatori e servizi sanitari\nMACRO-AMBITO: Welfare territoriale e sostenibilitа\nOBIETTIVO: Offrire supporto psicologico gratuito alle famiglie con bambini in età scolare e adolescenti attraverso professionisti qualificati.\nDESCRIZIONE: Il Comune mette a disposizione attraverso gli operatori locali del CSM sportelli di ascolto e consulenza psicologica, pedagogica ed ostetrica, per offrire un servizio di supporto specializzato e gratuito. Questi sportelli, che vogliono concentrarsi sulla salute mentale dei genitori, sono pensati per integrarsi con i servizi già presenti sul territorio.",
+      "ground": "TITOLO: Sostegno psicologico alle famiglie\nTASSONOMIA: Ambulatori e servizi sanitari\nMACRO-AMBITO: Welfare territoriale e sostenibilitа\nDESCRIZIONE: Il Comune si pone come obiettivo di mettere a disposizione per le famiglie con bambini in etа scolare e adolescenti, un supporto specialistico gratuito con professionisti qualificati del settore.\nIl Comune si è attivato per far conoscere alle famiglie lo sportello ''Fuorionda'', attivato a Borgo Valsugana, sportello gratuito per famiglie ed operatori territoriali che offre servizio di ascolto e consulenza psicologica, pedagogica ed ostetrica che va ad integrarsi con quanto giа presente sul territorio. L’obiettivo è quello di proseguire nel diffondere in maniera capillare sul territorio la presenza di questo servizio."
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

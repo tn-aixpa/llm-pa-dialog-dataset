@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00565",
+  "doc_src": "comune.trento_aree-tematiche_D0260.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, ci sono piani in atto per eliminare i topi in città.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, per la derattizzazione di aree pubbliche è in corso su strade, piazze, parchi e aree verdi.\nMaggiori dettagli al link https://www.comune.trento.it/Aree-tematiche/Ambiente-e-territorio/Animali-in-citta/e-gli-altri-animali/Derattizzazioni-di-aree-pubbliche .",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Ambiente-e-territorio/Animali-in-citta/e-gli-altri-animali/Derattizzazioni-di-aree-pubbliche](Derattizzazioni di aree pubbliche)\nPer derattizzazione di aree pubbliche si intende la lotta alla popolazione murina (ratti e topi) su strade, piazze, parchi e aree verdi."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E per la processionaria del pino, avete informazioni su come combatterla?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, può ottenere ulteriori dettagli al link https://www.comune.trento.it/Aree-tematiche/Ambiente-e-territorio/Animali-in-citta/e-gli-altri-animali/Processionaria-del-pino .",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Ambiente-e-territorio/Animali-in-citta/e-gli-altri-animali/Processionaria-del-pino](Processionaria del pino)\nInformazioni sull'ecologia della processionaria del pino e sulle modalità di lotta a questo insetto."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "No, grazie mille per le informazioni. Buona giornata!",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Altrettanto, arrivederci.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

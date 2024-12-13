@@ -1,0 +1,22 @@
+{
+  "task_id": "TASK_00550",
+  "doc_src": "comune.trento_aree-tematiche_D0236.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sulla Variante pattizia 2005 riguardante il Monte Bondone.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, la Variante pattizia 2005 si occupa di diverse iniziative private da realizzare nell'ambito territoriale del Monte Bondone. Posso aiutarti con ulteriori dettagli?",
+      "ground": "La Variante pattizia 2005 (seconda variante pattizia), approvata a seguito dell'approvazione del protocollo d'intesa per il Patto Territoriale del Monte Bondone, si occupa di altre 9 iniziative private da realizzare nell'ambito territoriale del Patto Territoriale del Monte Bondone, la cui realizzazione necessita di variante urbanistica al PRG sia cartografica che normativa e di 3 varianti esclusivamente normative. Si occupa inoltre della variante normativa necessarie a individuare l'area di studio del futuro Parco del Monte Bondone."
+    }
+  ],
+  "subcategory": "Trento"
+}

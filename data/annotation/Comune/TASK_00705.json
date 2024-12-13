@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00705",
+  "doc_src": "comune.trento_aree-tematiche_D0526.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Cosa non devo fare in caso di esondazione dell'Adige?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Ci sono varie indicazioni. Alcune indicazioni di massima sono avvicinarsi al fiume, sostare sui ponti, utilizzare l'auto all'interno dei settori di evacuazione e nella viabilità di accesso alla città se non strettamente necessario. I vigili del fuoco sono da chiamare solo per casi fi emergenza.",
+      "ground": "avvicinarmi al fiume e/o sostare sui ponti\nutilizzare l'auto all'interno dei settori di evacuazione e nella viabilità di accesso alla città se non strettamente necessario\nchiamare i vigili del fuoco per chiedere informazioni (solo in caso di emergenza chiamare il 112)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Posso utilizzare il telefono?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Quando l'evento sta per succedere e nel durante è scoraggiato l'uso del telefono se non strettamente necessario. chiamare il 112 solo per effettive emergenze.",
+      "ground": "Fase prossima all'evento (allarme = evacuazione/messa in sicurezza)\n\n|||\n\nDurante l'evento\n\n|||\n\nutilizzare il telefono (mobile e fisso) se non strettamente necessario\nchiamare il 112 se non per effettive emergenze"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Posso utilizzare l'auto?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "No, l'auto non è da usarsi nei settori di evacuazione e nella viabilità di accesso alla città.",
+      "ground": "utilizzare l'auto nei settori di evacuazione e nella viabilità di accesso alla città se non per evacuare con mezzo proprio\n"
+    }
+  ],
+  "subcategory": "Trento"
+}

@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00812",
+  "doc_src": "comune.salerno_D0096.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, potrebbe darmi informazioni sui contributi in ambito sociale della Cooperativa Sociale \"Fili d'erba\"?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, la Cooperativa Sociale \"Fili d'erba\" riceverà un importo di 3.000,00€, la responsabile sarà Carmela D'Elia.\n\nIl link del progetto è il seguente https://servizi.comune.salerno.it/web/servizi/storico-atti?p_p_id=detailscontroller_WAR_maggiolialbopretorioportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_detailscontroller_WAR_maggiolialbopretorioportlet_dataFinePubblicazioneAtto=28/12/2023&_detailscontroller_WAR_maggiolialbopretorioportlet_view=documentDetails&_detailscontroller_WAR_maggiolialbopretorioportlet_targetId=2&_detailscontroller_WAR_maggiolialbopretorioportlet_backURL=https%3A//servizi.comune.salerno.it/web/servizi/storico-atti%3Fp_p_id%3Ddetailscontroller_WAR_maggiolialbopretorioportlet%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_detailscontroller_WAR_maggiolialbopretorioportlet_isBackURL%3Dtrue%26_detailscontroller_WAR_maggiolialbopretorioportlet_targetId%3D2%26_detailscontroller_WAR_maggiolialbopretorioportlet_attoRegistro%3DENTRAMBI%26_detailscontroller_WAR_maggiolialbopretorioportlet_documentoId%3D112605%26_detailscontroller_WAR_maggiolialbopretorioportlet_profiloId%3D43%26p_r_p_564233524_menuItemId%3D43&_detailscontroller_WAR_maggiolialbopretorioportlet_dataInizioPubblicazioneAtto=13/12/2023&_detailscontroller_WAR_maggiolialbopretorioportlet_attoRegistro=ENTRAMBI&_detailscontroller_WAR_maggiolialbopretorioportlet_documentoId=112605&_detailscontroller_WAR_maggiolialbopretorioportlet_profiloId=43&p_r_p_564233524_menuItemId=43#_detailscontroller_WAR_maggiolialbopretorioportlet_allegatiPanel .",
+      "ground": "Cooperativa Sociale “Fili d'erba”  - 3803190655\n2024\n\n|||\n\n[https://servizi.comune.salerno.it/web/servizi/storico-atti?p_p_id=detailscontroller_WAR_maggiolialbopretorioportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_detailscontroller_WAR_maggiolialbopretorioportlet_dataFinePubblicazioneAtto=28/12/2023&_detailscontroller_WAR_maggiolialbopretorioportlet_view=documentDetails&_detailscontroller_WAR_maggiolialbopretorioportlet_targetId=2&_detailscontroller_WAR_maggiolialbopretorioportlet_backURL=https%3A//servizi.comune.salerno.it/web/servizi/storico-atti%3Fp_p_id%3Ddetailscontroller_WAR_maggiolialbopretorioportlet%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_detailscontroller_WAR_maggiolialbopretorioportlet_isBackURL%3Dtrue%26_detailscontroller_WAR_maggiolialbopretorioportlet_targetId%3D2%26_detailscontroller_WAR_maggiolialbopretorioportlet_attoRegistro%3DENTRAMBI%26_detailscontroller_WAR_maggiolialbopretorioportlet_documentoId%3D112605%26_detailscontroller_WAR_maggiolialbopretorioportlet_profiloId%3D43%26p_r_p_564233524_menuItemId%3D43&_detailscontroller_WAR_maggiolialbopretorioportlet_dataInizioPubblicazioneAtto=13/12/2023&_detailscontroller_WAR_maggiolialbopretorioportlet_attoRegistro=ENTRAMBI&_detailscontroller_WAR_maggiolialbopretorioportlet_documentoId=112605&_detailscontroller_WAR_maggiolialbopretorioportlet_profiloId=43&p_r_p_564233524_menuItemId=43#_detailscontroller_WAR_maggiolialbopretorioportlet_allegatiPanel](link Progetto)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Grazie per l'informazione.",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "C'è un importo attribuito a questa misura?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Sì, l'importo attribuito è di € 1.031.574.",
+      "ground": "Importo attribuito:\n€ 1.031.574"
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "E in che stato si trova attualmente la misura?",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "Al momento si trova in fase di avvio.",
+      "ground": "Stato\n: in avvio"
+    }
+  ],
+  "subcategory": "Salerno"
+}

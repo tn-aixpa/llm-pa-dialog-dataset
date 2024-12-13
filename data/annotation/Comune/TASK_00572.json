@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00572",
+  "doc_src": "comune.trento_aree-tematiche_D0273.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei avere informazioni sulle tariffe dei servizi funerari",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno. Le tariffe relative ai servizi funerari sono disponibili sul sito /Aree-tematiche/Tributi-canoni-e-tariffe-comunali/Tariffe/Le-altre-tariffe/Tariffe-servizi-funerari-e-Tempio-crematorio .",
+      "ground": "[/Aree-tematiche/Tributi-canoni-e-tariffe-comunali/Tariffe/Le-altre-tariffe/Tariffe-servizi-funerari-e-Tempio-crematorio](Deliberazioni di approvazione delle tariffe relative ai servizi funerari)\ne listino prezzi (vedi allegato)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È stato un piacere. ",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

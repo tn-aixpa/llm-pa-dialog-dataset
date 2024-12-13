@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00564",
+  "doc_src": "comune.trento_aree-tematiche_D0257.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni riguardo agli accordi urbanistici ai sensi dell'art. 25 della L.p. 4 agosto 2015, n. 15.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, certo. Gli accordi urbanistici previsti dall'articolo 25 della legge consentono ai Comuni e alle Comunità di concludere accordi con soggetti pubblici o privati per definire contenuti di rilevante interesse pubblico dei piani regolatori. ",
+      "ground": "L’articolo 25 della L.p. 4 agosto 2015, n. 15, prevede che i Comuni e le Comunità possano concludere accordi urbanistici con i soggetti pubblici o privati interessati, per definire contenuti di rilevante interesse pubblico del Piano Regolatore Generale (PRG) o del Piano Territoriale della Comunità (PTC). Gli accordi sono finalizzati, senza pregiudizio dei diritti dei terzi, alla determinazione di previsioni dello strumento urbanistico e ne costituiscono parte integrante e sostanziale."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quindi, questi accordi sono obbligatori?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "No, non sono obbligatori ma possono essere stipulati per definire previsioni dello strumento urbanistico. ",
+      "ground": "Gli accordi urbanistici rispondono a principi di proporzionalità, parità di trattamento, adeguata trasparenza delle condizioni e dei benefici pubblici e privati connessi, specifica motivazione in ordine all’interesse pubblico che li giustifica, nonché pubblicità. Gli accordi sono stipulati ed espressamente recepiti nello strumento di pianificazione secondo le procedure disciplinate dalla legge sopra richiamata."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "E come posso accedere a queste informazioni nel Comune di Trento?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Può trovare ulteriori dettagli al seguenti link https://www.comune.trento.it/Aree-tematiche/Ambiente-e-territorio/Urbanistica/Accordi-urbanistici/Accordi-Urbanistici .",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Ambiente-e-territorio/Urbanistica/Accordi-urbanistici/Accordi-Urbanistici](Accordi Urbanistici)"
+    }
+  ],
+  "subcategory": "Trento"
+}

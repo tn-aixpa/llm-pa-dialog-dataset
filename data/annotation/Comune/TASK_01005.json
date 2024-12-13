@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01005",
+  "doc_src": "comSalerno0816.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Quando sarà possibile iscrivere i propri figli alla mensa scolastica?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "L'iscrizione alla mensa scolastica sarà possibile dal 28 agosto attraverso il Portale https://www3.itcloudweb.com/salernoportalegen .",
+      "ground": "A partire lunedì 28 agosto, sarà possibile - attraverso il nuovo Portale Iscrizioni Online - effettuare per i propri figli l’iscrizione al Servizio di Refezione Scolastica per l’anno scolastico  2023/2024.\nL’accesso al portale dovrà essere effettuato accedendo al seguente link:\nhttps://www3.itcloudweb.com/salernoportalegen"
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Come si dovrà pagare il servizio?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Avere informazioni relativa al pagamenteo del servizio, è necessario consultare il link https://shorturl.at/BDEFS .",
+      "ground": "Le informazioni utili per l’iscrizione, l’effettuazione dei pagamenti, la prenotazione o la disdetta dei pasti,  la costante verifica di tutti gli aspetti relativi al servizio, l’identificazione e l’utilizzo dei canali di comunicazione con l’Ente, sono contenute nelle modalità di iscrizione e nel manuale di utilizzo, visionabile e scaricabile attraverso medesimo link alla sezione “News”, nonché sul sito istituzionale dell’Ente, al seguente link:\nhttps://shorturl.at/BDEFS"
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Ci sono alternative all'uso del portale per l'iscrizione alla mensa?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Sì, in via del tutto eccezionale, gli utenti possono effettuare l’iscrizione presso gli Uffici del Settore Istruzione e Formazione in Via Giacomo Costa n. 2, nei giorni di Martedì e Giovedì, previo appuntamento telefonico ai numeri 089 667313, 089 667316, 089 667322 o 089 665140.",
+      "ground": "In via del tutto eccezionale, gli utenti che necessitano di assistenza nella fase di avvio del nuovo programma, potranno effettuare l’iscrizione presso gli Uffici del Settore Istruzione e Formazione – Via Giacomo Costa n. 2 nei seguenti giorni ed orari: Martedì e Giovedì ore 9.00/12.00 – 15.30/16.30.\nA tal fine sarà necessario prenotarsi telefonando ai seguenti numeri: 089/667313 – 089/667316 - 089/667322 – 089/665140.\nGli utenti interessati dovranno presentare le istanze in tempo utile, onde consentire all’ufficio preposto di espletare  in tempo utile tutti gli adempimenti finalizzati all’attivazione del servizio."
+    }
+  ],
+  "subcategory": "Salerno"
+}

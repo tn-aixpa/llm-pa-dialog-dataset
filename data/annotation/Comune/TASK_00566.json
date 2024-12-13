@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00566",
+  "doc_src": "comune.trento_aree-tematiche_D0261.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sulla locazione di case o appartamenti per vacanze.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, certo. Le case e gli appartamenti per vacanze sono immobili gestiti in forma imprenditoriale, arredati e dotati di angolo cottura o servizio autonomo di cucina, dati in locazione ai turisti senza offerta di servizi centralizzati, nel corso di una o più stagioni.",
+      "ground": "Ricettività turistica (Extra-alberghiero)\nSono case e appartamenti per vacanze gli immobili gestiti esclusivamente in forma imprenditoriale, arredati e dotati di angolo cottura o servizio autonomo di cucina, dati in locazione ai turisti senza offerta di servizi centralizzati, nel corso di una o più stagioni."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Capito, grazie per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È un piacere, se ha altre domande non esiti a chiedere.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

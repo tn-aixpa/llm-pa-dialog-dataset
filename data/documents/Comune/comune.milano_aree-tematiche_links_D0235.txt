@@ -1,0 +1,63 @@
+Sistema di allerta della Protezione civile: cos'è, come funziona
+Il Sistema di allerta della Protezione civile di Milano è un servizio di informazione gratuito per avvisare la popolazione in caso di:
+allerta idro-meteo;
+rischio esondazione dei fiumi Lambro o Seveso.
+Consulta le tabelle del
+[https://repository.comune.milano.it/s/nGajt39oA6nw5aN](rischio idro-meteo)
+e degli
+[https://repository.comune.milano.it/s/bpi2FBmxTBbrars](avvisi previsti)
+.
+
+Le notifiche
+I diversi canali di comunicazione vengono attivati selettivamente in base al tipo e al livello di criticità. Per chi si registra compilando il modulo online, il sistema sceglie i destinatari anche alla luce degli indirizzi di interesse segnalati.
+Chiamate telefoniche preregistrate
+Il sistema contatta automaticamente tutti i numeri telefonici (fissi e cellulari) registrati al Sistema di allerta e i telefoni fissi reperibili negli elenchi pubblici che ricadono nelle aree esondabili, anche se non registrati al Sistema di allerta.
+Le chiamate partono in caso di:
+allerta codice arancione o rosso;
+raggiungimento della soglia di attenzione per Lambro e Seveso;
+raggiungimento della soglia di allarme per Lambro e Seveso;
+rientro in normalità per Lambro e Seveso.
+Sms
+Vengono inviati ai cittadini che si sono registrati al sistema e hanno indicato indirizzi ricadenti nelle aree esondabili del Comune di Milano. Gli sms sono inviati in caso di:
+allerta codice rosso;
+raggiungimento della soglia di allarme per Lambro e Seveso;
+rientro alla normalità per Lambro e Seveso dopo il raggiungimento della soglia di allarme.
+E-mail
+Vengono inviate a tutti gli iscritti al Sistema di allerta in caso di:
+allerta codice giallo, arancione o rosso;
+raggiungimento della soglia di attenzione per Lambro e Seveso;
+raggiungimento della soglia di allarme per Lambro e Seveso;
+rientro in normalità per Lambro e Seveso.
+App
+Ogni utente riceve in tempo reale tutte le informazioni sulle allerte di Protezione civile e può ascoltare i messaggi registrati.
+
+Come funziona
+Il sistema ricorre a molteplici mezzi di comunicazione per diramare capillarmente i messaggi di allerta e raggiungere un numero elevato di cittadini nel più breve tempo possibile. Poiché prevede l’attivazione contemporanea dei canali di comunicazione prescelti, è possibile ricevere più messaggi per un singolo evento.
+Di seguito tutti i dettagli.
+1. Per tutti i telefoni fissi presenti negli elenchi pubblici dei cittadini che risiedono nelle aree a rischio di esondazione di Lambro e Seveso è prevista
+l'attivazione automatica di chiamata senza bisogno di alcuna registrazione al Sistema di allerta
+. Chi risponde alla chiamata ascolta un messaggio vocale preregistrato che informa sulla situazione e fornisce indicazioni sul comportamento da tenere.
+2.
+Per tutti i telefoni mobili e per i telefoni fissi non ricadenti nelle aree a rischio o non inclusi negli elenchi
+è necessaria la registrazione al sistema di allerta
+attraverso un
+[https://allertaprotezionecivile.comune.milano.it/](modulo online)
+dove è possibile registrare più numeri, e-mail e indirizzi di interesse a Milano.
+3. App Protezione civile Sistema di allerta Milano
+Per gli smartphone è possibile scaricare l’app
+Sistema di allerta
+e ricevere notizie e aggiornamenti in tempo reale.
+Il download e tutti i servizi sono gratuiti.
+4. Internet e social
+Nelle situazioni critiche, informazioni e aggiornamenti vengono pubblicati anche sul sito istituzionale e sui canali social del Comune di Milano.
+
+Informazioni
+Per ulteriori informazioni invia una e-mail a:
+[mailto:Infoallerta.Protezionecivile@comune.milano.it](Infoallerta.Protezionecivile@comune.milano.it)
+Utilizza i servizi
+[https://www.comune.milano.it/servizi/sistema-di-allerta-della-protezione-civile](Sistema di allerta della Protezione civile: registrati)
+Modalità di accesso al servizio:
+Online
+[https://www.comune.milano.it/polizia-locale-e-sicurezza/sistema-di-allerta-della-protezione-civile-scarica-l-app](Sistema di allerta della Protezione civile: scarica l'app)
+Modalità di accesso al servizio:
+Online

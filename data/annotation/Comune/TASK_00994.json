@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00994",
+  "doc_src": "comSalerno0760.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Durante il primo novembre il trasporto pubblico seguirà l'orario festivo?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Mi spiace ma non ti so rispondere a questa domanda.",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Ci sono modi per andare in cimitero durante ognisanti?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Sì, sarà disponibile un servizio di navetta l'1 e 2 novembre in occasione di Ognissanti per raggiungere il cimitero urbano.",
+      "ground": "Il Comune di Salerno – Settore Mobilità ha predisposto un servizio di navette per il cimitero urbano a servizio della cittadinanza per i giorni 1 e 2 novembre, in occasione della festività Ognissanti e della Commemorazione dei Defunti."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Che tratte fa la navetta?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "La navetta ha due itinerari. \n\nItinerario 1: Andata “Arbostella-Mercatello-Stazione FS (angolo Via Barella) -P.zza XXIV Maggio-P.zza Casalbore-Via Dalmazia-Via Irno (bivio cimitero)-Fratte”; Ritorno: “Fratte - Via Calata San Vito-P.za San Francesco – P.za XXIV Maggio – P.za della Concordia - Lungomare – P.za Monsignor Grasso (Mercatello) – Arbostella capolinea”.\n\nItinerario 2: Circolare “Via Irno (distributore carburanti)-Brignano Cimitero (transito ai tre ingressi)- Via Irno (distributore carburanti)”.",
+      "ground": " itinerario 1: Andata “Arbostella-Mercatello-Stazione FS (angolo Via Barella) -P.zza XXIV Maggio-P.zza Casalbore-Via Dalmazia-Via Irno (bivio cimitero)-Fratte”; Ritorno: “Fratte - Via Calata San Vito-P.za San Francesco – P.za XXIV Maggio – P.za della Concordia - Lungomare – P.za Monsignor Grasso (Mercatello) – Arbostella capolinea” secondo i seguenti orari:\n\n|||\n\nitinerario 2 Circolare: “Via Irno (distributore carburanti)-Brignano Cimitero (transito ai tre ingressi)- Via Irno (distributore carburanti)” "
+    },
+    {
+      "id": "T07",
+      "speaker": "Citizen",
+      "message": "Dove si acquistano i biglietti?",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agent",
+      "message": "I biglietti si acquistano prima di salire a bordo presso gli esercizi commerciali PuntiLis e DropPoint,oppure in modalità digitale via SMS-Ticketing, App Quibus Campania, e App Unico Campania.",
+      "ground": "titolo di viaggio: da acquistare prima di salire a bordo presso le ordinarie rivendite e gli esercizi commerciali PuntiLis e DropPoint, in modalità digitale via SMS-Ticketing, App Quibus Campania, App Unico Campania."
+    }
+  ],
+  "subcategory": "Salerno"
+}

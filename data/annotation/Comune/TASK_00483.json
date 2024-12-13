@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00483",
+  "doc_src": "comune.trento_aree-tematiche_D0118.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Buongiorno, vorrei informazioni riguardo al parere preventivo per un intervento edilizio.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Buongiorno, posso aiutarla. Il parere preventivo consiste in una valutazione preliminare sulla fattibilità di un intervento edilizio, in base alla conformità ai regolamenti urbanistici vigenti.",
+      "ground": "Il parere preventivo consiste in un parere fornito preliminarmente riguardante la fattibilità o meno di un intervento edilizio. Tale parere riguarda la conformità, allo stato degli atti e dei progetti preliminari, ai vigenti strumenti di pianificazione urbanistica."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Può darmi più dettagli?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Può trovare più dettagli e la modulista necessaria al link https://www.comune.trento.it/Aree-tematiche/Attivita-edilizia/Interventi-edilizi/Parere-preventivo/Parere-preventivo ",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Attivita-edilizia/Interventi-edilizi/Parere-preventivo/Parere-preventivo](Parere preventivo)\nInformazioni e modulistica necessaria per presentare la domanda di parere preventivo"
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Grazie mille.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Di nulla.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

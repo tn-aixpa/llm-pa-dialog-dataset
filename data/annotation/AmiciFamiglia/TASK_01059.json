@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_01059",
+  "doc_src": "beinasco__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Vorrei intraprendere con il mio Piano un percorso per la certificazione amici della famiglia, come mi consigli di scrivere la mia premessa?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Potrebbe dire che il percorso di certificazione intende migliorare la qualità del territorio rendendolo più forte e attrattivo, garantire sviluppo e diffusione di politiche di benessere, offrire maggiori servizi e opportunità sviluppando un marketing amico delle famiglie e contrastare il calo demografico con politiche che promuovo la famiglia.",
+      "ground": "L’attuazione del percorso di certificazione è finalizzata a:\n\n    migliorare la qualitа del benessere territoriale e creare un territorio più forte e attrattivo;\n\n|||\n\n    consentire di sviluppare un marketing territoriale family oriented, ovvero, un territorio capace di offrire servizi ed opportunitа rispondenti alle aspettative della comunitа;\n\n    contrastare il calo demografico attraverso politiche che assicurino la piena promozione della famiglia e il sostegno nell’esercizio delle proprie funzioni educative e sociali.\n"
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Cosa potrei fare per promuovere tale marketing?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Può stimolare negozi privati e associazione alla colaborazione col suo comune offrendo sconti che sostengono le famiglie numerose. A sua volta, potrebbe dare dei contributi alle associazioni che sostengono le famiglie in difficoltà. Infine potrebbe erogare dei buoni spesa stagionali (es. periodo natalizio) per sostenere le famiglie in difficoltà e rilanciare gli esercizi commerciali del vicinato.",
+      "ground": "OBIETTIVO: Si intende stimolare i negozi privati e le associazioni del territorio a collaborare con il Comune predisponendo offerte e sconti volti a sostenere le famiglie numerose, creando momenti di incontro per spiegare loro le iniziative del progetto Family.\n\n|||\n\nOBIETTIVO: L’Amministrazione comunale intende sostenere, attraverso l’erogazione di un contributo, le\n\nassociazioni che forniscono aiuti economici alle famiglie in difficoltа nel pagamento delle\n\nbollette, affitto e spese condominiali"
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Vorrei anche promuovere iniziative di inclusione sociale.",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Potrebbe pensare a laboratori extrascolastici orientati ai bambini che usano tecniche di narrazione come storytelling e cinematografia per parlare di fenomeni come gli Hikikomori",
+      "ground": "DESCRIZIONE: Attivazione di laboratori scolastici Media Education, 6 laboratori extrascolastici di Storytelling e narrazione con linguaggio cinematografico; Formazione su ritiro sociale (es. Sindrome di Hikikomori) per operatori dei partner."
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "Hai anche qualche proposta per le neo famiglie?",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "Potrebbe pensare di attivare un progetto che dispone di servizi e opportunità alle donne incinta fin dai primi mesi della gravidanza, dando loro accesso a diverse figure professionali che uno spazio dove i neo genitori possono formarsi.",
+      "ground": "DESCRIZIONE: Il progetto prevede servizi, interventi e opportunitа per le famiglie che attendono l’arrivo di\n\nun figlio e ha l’obiettivo di seguire le donne fin dai primi mesi di gravidanza, offrendo un\n\nsupporto sia attraverso l’impiego di diverse figure professionali sia attraverso l’offerta di\n\nspazi di socialitа e formazione per i neo genitori (corsi e laboratori sui temi legati\n\nall’alimentazione, alla promozione del movimento, al benessere psico-sociale dei genitori e\n\ndei bambini…)"
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

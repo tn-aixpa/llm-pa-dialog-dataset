@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01159",
+  "doc_src": "telve_di_sopra_v2.1__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Che tipo di serate a tema potrei organizzare nel mio Comune?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Non so che serate a tema proporti, ma potresti pensare all'organizzazione di un evento.\n\nAlcune possibili temi potrebbero essere l'utilizzo di reti informatiche, ludopatia, violenza di genere e formazione sanitaria.",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Scrivimi un'azione sul contrasto alla ludopatia.",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "TITOLO: Evento formativo sulla ludopatia\n\nTASSONOMIA: Interventi per rafforzare la rete\n\nMACRO-AMBITO: Governance e azioni di rete\n\nOBIETTIVO: Rafforzare le competenze genitoriali sul tema della ludopatia\n\nDESCRIZIONE: Il Comune intende organizzare un momento formativo e informativo in collaborazione con la Comunità di Valle e gli altri Comuni Partner del Distretto per sensibilizzare e informare la popolazione riguardo alla ludopatia, promuovendo la consapevolezza sui rischi e le conseguenze del gioco d'azzardo.",
+      "ground": "TITOLO: Evento formativo e informativo sul tema della ludopatia e della violenza di genere\nTASSONOMIA: Interventi per rafforzare la rete\nMACRO-AMBITO: Governance e azioni di rete\nDESCRIZIONE: Il Comune intende rafforzare le competenze\ngenitoriali sul tema della ludopatia e della violenza di genere, due tematiche molto\ncomuni al giorno d’oggi, organizzando un momento formativo e informativo in\ncollaborazione con la Comunitа di Valle e gli altri Comuni Partner del\nDistretto ma anche organizzando insieme ai comuni limitrofi delle giornate\nludiche all’insegna della natura con laboratori per i più piccoli e un corso di\nautodifesa per la violenza di genere."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Scrivimi un'azione di gemellaggio dove il Comune di Tirana vuole mantenere il gemellaggio con Regensburg facilitando i ragazzi che vogliono fare un'esperienza come baby sitter all'estero.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "TITOLO: Proseguimento del gemellaggio Tirana - Regensburg\n\nTASSONOMIA: Proposte culturali: museo, cinema, teatro, arte ecc.\n\nMACRO-AMBITO: Comunitа educante\n\nDESCRIZIONE: Il Comune di Tirana è da anni gemellato con Regensburg. Con questo gemellaggio l'amministrazione vuole promuovere i ragazzi da e verso le due città che vogliono fare un'esperienza di baby sitter all'estero.",
+      "ground": "TITOLO: Proseguimento del gemellaggio Telve di Sopra - Corropoli\nTASSONOMIA: Proposte culturali: museo, cinema, teatro, arte ecc.\nMACRO-AMBITO: Comunitа educante\nDESCRIZIONE: Dal 1987 la comunitа di Telve\ndi Sopra è gemellata con quella di Corropoli in Abruzzo, dove i nostri antenati\nsono stati profughi durante la Grande Guerra. Nel corso dell’anno scolastico\n2019-2020 le scuole primarie dei due comuni, si sono messe in contatto per\ntrasmettere alle nuove generazioni lo spirito di solidarietа che c’è stato.\nPortarlo avanti come esempio nella societа contemporanea è trasmettere valori\nche sono attuali nei tempi attuali."
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

@@ -1,0 +1,85 @@
+Avviso di pagamento Tari
+Dove vengono inviati gli avvisi?
+Gli avvisi vengono inviati:
+all’indirizzo di residenza della persona titolare della posizione Tari
+all’indirizzo e-mail per chi ha scelto di ricevere la notifica in posta elettronica
+all’indirizzo PEC per tutti i titolari di partita IVA, i cittadini registrati nell'indice nazionale dei domicili digitali - INAD e per chi ha registrato il domicilio digitale nel Fascicolo del cittadino
+sull'app IO.
+Quando vengono inviati?
+L'invio avviene a scaglioni, in tempo utile per effettuare i pagamenti entro le scadenze che consentono di scegliere tra la rata unica e il frazionamento a rate
+gli avvisi di pagamento Tari 2023
+saranno disponibili nel Fascicolo del cittadino e inviati ai cittadini
+nel periodo da fine settembre a novembre 2023
+.
+Per effettuare qualsiasi versamento devi attendere di ricevere l'avviso di pagamento
+Per istruzioni su modalità e canali di pagamento visita
+[/web/guest/aree-tematiche/tributi/tari/scadenze-e-pagamento-tari](Scadenze e pagamento Tari)
+
+Come viene inviato l'avviso di pagamento?
+Puoi scegliere di ricevere l'avviso di pagamento via posta cartacea oppure elettronica. Le due opzioni sono alternative tra loro.
+1. Posta cartacea
+L'avviso di pagamento viene spedito attraverso la posta ordinaria all'indirizzo di residenza.
+2. Posta elettronica
+Se preferisci ricevere l'avviso via posta elettronica, accedi al
+[https://www.comune.milano.it/fascicolo-del-cittadino/notifiche](Fascicolo del cittadino)
+e attiva la notifica via e-mail degli avvisi di pagamento Tari.
+Per ricevere gli avvisi Tari in questa modalità già a partire dall'annualità 2023, attiva la notifica
+entro il 16 luglio 2023
+.
+
+Non hai ricevuto l'avviso? L’hai smarrito?
+Se non l’hai ricevuto può significare che:
+non hai dichiarato l’occupazione dell’immobile:
+- il calcolo della Tari risulta impossibile e l’avviso non può essere inviato
+hai in corso calcoli personalizzati
+perché hai modificato di recente la tua posizione Tari (in seguito a nuova occupazione, cessazione di occupazione, variazione di metratura o del numero di occupanti) oppure perché bisogna applicare rimborsi, compensazioni ecc.
+- l’avviso verrà spedito in tempi diversi rispetto all’invio ordinario
+- le scadenze saranno diverse e prevedranno un lasso di tempo sufficiente per effettuare i pagamenti
+hai ricevuto l'avviso via e-mail o pec:
+- se hai chiesto la notifica via mail tramite Fascicolo del cittadino
+- se hai attivo il domicilio digitale (vedi categorie a inizio pagina)
+In questi casi il cartaceo non viene spedito perchè sostituito dall'invio telematico.
+Se hai smarrito l’avviso o il messaggio di notifica via e-mail
+, puoi scaricarne una copia nel tuo
+[https://www.comune.milano.it/fascicolo-del-cittadino/documenti-tributari](Fascicolo del cittadino)
+, accessibile con utenza SPID oppure con Carta d’Identità Elettronica.
+
+Altri dati inclusi nell’avviso
+Oltre all’importo da pagare e alle date di scadenza, l’avviso contiene lo stato dei pagamenti aggiornato e il riepilogo dei conteggi: importi a debito o a credito, compensazioni, conguagli (esclusi eventuali ravvedimenti e accertamenti già in corso).
+Gli importi a debito esposti potrebbero riferirsi a:
+documenti di pagamento inviati e per i quali non risultano effettuati i pagamenti: per regolarizzare la situazione consulta la sezione
+Utilizza i servizi
+.
+documenti in elaborazione e non ancora emessi: per procedere al pagamento sarà necessario attendere l’invio dell’avviso, nel quale saranno indicate scadenze e modalità
+.
+
+Gli importi indicati nell'avviso non sono corretti
+Chi ha modificato di recente la propria posizione Tari (in seguito a nuova occupazione, cessazione di occupazione, variazione di metratura o del numero di occupanti) potrebbe avere la pratica in lavorazione e ricevere
+un conteggio basato sulla situazione precedente
+. In questi casi, i conteggi verranno aggiornati nelle annualità successive tenendo conto di compensazioni, conguagli ecc.
+Controlla sul
+[https://www.comune.milano.it/fascicolo-del-cittadino/immobili](Fascicolo del cittadino)
+che la tua posizione Tari risulti aggiornata
+e la data di decorrenza dell'aggiornamento. Se la tua posizione Tari è aggiornata ma riscontri comunque un errore negli importi da pagare, nella sezione Utilizza i servizi trovi il link per inviare la segnalazione ai nostri uffici.
+
+Rateazione di avvisi notificati
+E' possibile richiedere una rateazione dell'importo di avvisi notificati (con raccomandata, pec o domicilio digitale) seguendo le indicazioni della pagina
+[http://comune.milano.it/rateazione](comune.milano.it/rateazione)
+La concessione della rateazione è subordinata alla valutazione della morosità pregressa e della correttezza del contribuente in riferimento all’assolvimento degli obblighi relativi ad altri piani di rateazione già concessi. La concessione della rateazione comporterà, l’accorpamento d'ufficio di tutti i debiti pregressi ad eccezione di quelli già rateizzati e di quelli riferiti a procedure cautelari e/o esecutive in corso.
+Utilizza i servizi
+[https://www.comune.milano.it/servizi/tari-come-pagare](Come pagare la Tari)
+Modalità di accesso al servizio:
+Online
+Sportello
+[https://www.comune.milano.it/servizi/come-comunicare-pagamento-effettuato](Come comunicare che un pagamento richiesto dal Comune è stato effettuato)
+Modalità di accesso al servizio:
+Mail
+[https://www.comune.milano.it/servizi/come-segnalare-i-dati-errati](Come segnalare i dati errati in una richiesta di pagamento inviata dal Comune)
+Modalità di accesso al servizio:
+Online
+Sportello
+Posta
+[https://www.comune.milano.it/servizi/regolarizza-i-pagamenti-tari](Tari: regolarizza i pagamenti)
+Argomenti:
+[https://www.comune.milano.it/elenco-argomenti/dettaglio-argomenti?restrictCategoryId=36649&fromPage=elencoArgomenti](Imposte e tasse)
+[https://www.comune.milano.it/elenco-argomenti/dettaglio-argomenti?restrictCategoryId=36683&fromPage=elencoArgomenti](Pagamenti)

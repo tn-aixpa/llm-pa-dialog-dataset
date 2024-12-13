@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01018",
+  "doc_src": "comSalerno0948.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "PA Operator",
+      "message": "Mi confermi che le scuole sono chiuse durante il giro d'italia?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Sì, ti confermo che le scuole di ogni ordine e grado sono chiuse per la giornata di mercoledì 10 maggio durante il Giro d'Italia.",
+      "ground": "È stata disposta la chiusura delle scuole di ogni ordine e grado per la giornata di mercoledì 10 maggio."
+    },
+    {
+      "id": "T03",
+      "speaker": "PA Operator",
+      "message": "Ci sono limitazioni per il traffico?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Sì, per il 9, 10 e 11 maggio ci saranno restrizioni alla sosta e circolazione. Queste saranno indicate con segnali provvisori e volantini nelle singole zone interessate. Inoltre, ci saranno modifiche ai tragitti e ai capolinea delle autolinee di trasporto pubblico e privato.",
+      "ground": "In particolare nelle ore indicate dei giorni 9/10/11 maggio sarà consentita la sosta libera e gratuita in tutte le aree di parcheggio rimaste disponibili - ivi compresi il nuovo parcheggio di Piazza della Libertà ed i parcheggi della zona Arechi - in città.  Le limitazioni alla sosta e circolazione saranno rese note anche nelle singole zone interessate con idonei segnali provvisori e volantini.\nTali restrizioni e limitazioni comporteranno anche la modifica di tragitti e capolinea delle autolinee di trasporto pubblico e privato che saranno comunicati agli utenti dalle rispettive aziende.\nSi confida nella fattiva collaborazione di tutti per rispettare queste restrizioni necessarie per garantire lo svolgimento in sicurezza dell'evento."
+    },
+    {
+      "id": "T05",
+      "speaker": "PA Operator",
+      "message": "Quali saranno le strade soggette a queste limitazioni?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Non sono in grado di dirti tutte le strade che sono soggette a limitazioni del traffico. Sono comunque in grado di dire che il Giro d'Italia passerà attraverso le seguenti strade: la litoranea Sud, Arechi, Via Leucosia, Lungomare Marconi, Carnale e Piazza della Concordia.",
+      "ground": "I corridori saranno impegnati in uno spettacolare finale di tappa che costeggia il mare lungo la litoranea Sud, Arechi, Via Leucosia, Lungomare Marconi, Carnale, Piazza della Concordia."
+    }
+  ],
+  "subcategory": "Salerno"
+}

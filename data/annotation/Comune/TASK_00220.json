@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00220",
+  "doc_src": "comune.milano_aree-tematiche_links_D0248.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Buongiorno, vorrei informazioni riguardo alle opere di urbanizzazione.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Certamente, posso darle tutte le informazioni di cui ha bisogno. Cosa vorrebbe sapere?",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Volevo sapere se ci sono linee guida per la realizzazione delle opere.",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Sì, ci sono diverse linee guida su temi come la partecipazione, realizzazione delle opere di urbanizzazione e dei servizi pubblici e per le attrezzature di servizio",
+      "ground": "Linee guida per la partecipazione\n\n|||\n\nLinee guida per la sperimentazione di percorsi \n\n|||\n\nLinee guida opere di urbanizzazione e attrezzature di servizio\n\n|||\n\nLinee guida per la realizzazione delle opere di urbanizzazione e dei servizi pubblici e di interesse pubblico o generale nell’ambito dei procedimenti urbanistici ed edilizi"
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "E c'è anche una procedura operativa per la nomina del collaudatore?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Esatto, è prevista una procedura per la nomina del collaudatore, che viene applicata anche alle opere di importo inferiore ad un milione di euro.",
+      "ground": "” l’Amministrazione Comunale ha approvato la procedura per la nomina del collaudatore, da applicare anche alle opere e alle attrezzature di servizi di importo inferiore ad un milione di euro"
+    }
+  ],
+  "subcategory": "Milano"
+}

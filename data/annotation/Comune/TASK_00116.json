@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00116",
+  "doc_src": "comune.milano_aree-tematiche_D0136.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Salve, vorrei informazioni riguardo alle concessioni temporanee degli spazi in Darsena per eventi. Posso avere qualche dettaglio?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, le concessioni temporanee di spazi a terra ed in acqua sono rilasciate per lo svolgimento di manifestazioni/eventi d'interesse cittadino e non strettamente commerciali, con una durata massima di 10 giorni consecutivi non rinnovabili. È necessario presentare l'istanza e la documentazione richiesta almeno 40 giorni prima dell'inizio dell'occupazione. La manifestazione o evento temporaneo inoltre devono venir svolti fra le 7 e le 24 dello stesso giorno, eccezione fatta per prefestivi e capodanno.",
+      "ground": "durata non superiore a 10 giorni consecutivi non rinnovabili/prorogabili: solo con una interruzione temporale dell’occupazione di ulteriori 30 giorni consecutivi è ammissibile una nuova domanda di concessione a cura del medesimo soggetto;\n qualsiasi manifestazione/evento temporaneo non potrà iniziare prima delle ore 7:00 e protrarsi oltre le ore 24:00 del medesimo giorno, escluso prefestivi e Capodanno;\n l’istanza e la relativa documentazione necessaria dovrà pervenire non meno di 40 giorni prima della data fissata d’inizio occupazione e non prima di 120 giorni della stessa:"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Capito, e il canone è calcolato in base al Regolamento COSAP?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Esatto, il canone è calcolato utilizzando il coefficiente relativo alla classificazione viaria prevista per Piazza Duomo. Inoltre, se il canone risultasse inferiore ai minimi tabellari previsti, verrà applicata una maggiorazione fino al 30%.",
+      "ground": " canone: è calcolato mediante l’applicazione del canone previsto dal Regolamento COSAP, approvato con deliberazione del Consiglio comunale n. 11 del 21.02.2000 e s.m.i., utilizzando il coefficiente relativo alla classificazione viaria prevista per Piazza Duomo.\nQualora il canone, quantificato con le modalità indicate al comma precedente, risulti inferiore ad uno dei minimi tabellari previsti dalle tabelle B (area concessa) e C (opera o struttura) Allegato II del Regolamento Regionale 27.10.2015 n. 9, con la maggiorazione massima del 30% prevista dalla convenzione sottoscritta in data 27.05.2003 tra Regione Lombardia e il Comune di Milano, il canone unico dovuto viene ricondotto al valore più alto dei minimi tabellari stessi;"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni, mi potete indicare i contatti per ulteriori chiarimenti?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Certamente, per ulteriori informazioni puoi contattare l'Ufficio Darsena della Direzione Demanio e Patrimonio al numero 02-884.53076/53069 o tramite mail all'indirizzo DeP.DarsenaPassivi@comune.milano.it .",
+      "ground": "DIREZIONE DEMANIO E PATRIMONIO\nAREA PATRIMONIO STRUMENTALE, ARCHIVI E D.LGS 81/2008\nUNITA’ AFFITTI CANONI PASSIVI E DARSENA\nUFFICIO DARSENA\nMail: DeP.DarsenaPassivi@comune.milano.it\nTel. 02-884.53076/53069"
+    }
+  ],
+  "subcategory": "Milano"
+}

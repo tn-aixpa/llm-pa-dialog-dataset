@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00764",
+  "doc_src": "comune.salerno_D0028.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": " È ancora possibile partecipare alla co-progettazione per l'Hub della creatività e della comunicazione a Matierno?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno. Sì, la procedura è attiva fino alle ore 14:00 del 17/06/2024. Può trovare tutte le informazioni al seguente link https://albofornitori.comune.salerno.it/PortaleAppalti/it/ppgare_bandi_lista.wp .",
+      "ground": "[https://albofornitori.comune.salerno.it/PortaleAppalti/it/ppgare_bandi_lista.wp](https://albofornitori.comune.salerno.it/PortaleAppalti/it/ppgare_bandi_lista.wp)\nLa domanda di partecipazione e la documentazione relativa alla predetta procedura dovrà essere caricata in piattaforma entro e non oltre le ore 14:00 del giorno 17/06/2024."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E riguardo invece l'Hub nel quartiere Arbostella?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Anche in questo caso la procedura è ancora in corso. È possibile inviare la documentazione fino al 20/09/2024 ore 14:00.  sullo stesso Portale Appalti del Comune di Salerno. Il link per l'accesso è lo stesso: https://albofornitori.comune.salerno.it/PortaleAppalti/it/ppgare_bandi_lista.wp",
+      "ground": "[https://albofornitori.comune.salerno.it/PortaleAppalti/it/ppgare_bandi_lista.wp](https://albofornitori.comune.salerno.it/PortaleAppalti/it/ppgare_bandi_lista.wp)\nLa domanda di partecipazione e la documentazione relativa alla predetta procedura dovrà essere caricata in piattaforma entro e non oltre le ore 14:00 del giorno 20/06/2024."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Perfetto, grazie mille per l'aiuto!",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Di nulla, resto a disposizione per ulteriori informazioni. Buona giornata!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

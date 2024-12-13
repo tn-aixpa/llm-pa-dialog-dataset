@@ -1,0 +1,82 @@
+{
+  "task_id": "TASK_01105",
+  "doc_src": "fai_della_paganella__2023.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Che certificazioni a,bientali mi consiglia di conseguire per il Piano Famiglia?\n",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Potrebbe trovare di interesse le azioni con tassonomia \"Certificazioni ambientali\". Fai della Paganella nel 2023 ha scritto due azioni con questa tassonomia. I titoli sono: ACCORDO CSEN ITALIA e CERTIFICAZIONE EMAS",
+      "ground": "=== PIANO FAMIGLIA DI FAI DELLA PAGANELLA ANNO 2023 ===\n\n|||\n\nTITOLO: ACCORDO CSEN ITALIA\n\n|||\n\nTITOLO: CERTIFICAZIONE EMAS"
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Mi può dire di più sulla certificazione EMAS?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "EMAS (Eco-Management and Audit Scheme) è un sistema a cui possono aderire volontariamente imprese e organizzazioni che vogliono valutare e migliorare la propria efficienza ambientale. Il sistema è verificato annualmente da un ente indipendente.",
+      "ground": "l Sistema comunitario di Eco gestione e Audit (EMAS = Eco-Management and Audit Scheme) è un sistema a cui possono aderire volontariamente le imprese e le organizzazioni, sia pubbliche che private, aventi sede nel territorio della Comunitа Europea o al di fuori di esso, che desiderano impegnarsi nel valutare e migliorare la propria efficienza ambientale.\n\n|||\n\nL’intero sistema è verificato annualmente da un ente terzo indipendente, che deve attenersi alle prescrizioni dell’ISPRA, Istituto Superiore per la Protezione e la Ricerca Ambientale;"
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Bene grazie.",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Le può servire altro?",
+      "ground": ""
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "Per il servizio Tagesmutter, ha consigli?",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "Può effettuare sul Suo territorio una verifica della necessità del servizio.  In seguito può decidere se continuare a offrire un contributo per ogni famiglia che richiederà il servizio. Nel caso poi cominciassero a esserci tante nascite, potrebbe aprire un nuovo nido familiare.\n\nRicordo che c'è una tassonomia dedicata \"Servizio Tagesmutter\" per le azioni legate a questo tema.",
+      "ground": "A seguito della verifica fatta relativamente ai bisogni, per il 2023 si intende mantenere il monte ore mensile per il quale il comune interverrа con il contributo alla spesa per ogni famiglia, avente diritto, che usufruirа del servizio.\n\n|||\n\nL'amministrazione, valutata l'esigenza attuale, che vede un trend in crescita delle nascite degli ultimi anni, si sta attivando per l'apertura di un secondo nido famigliare che lavorerebbe in cooperazione con quello giа esistente."
+    },
+    {
+      "id": "T9",
+      "speaker": "Citizen",
+      "message": "Mi sembrano delle buone idee.",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agent",
+      "message": "Le serve altro?",
+      "ground": ""
+    },
+    {
+      "id": "T11",
+      "speaker": "Citizen",
+      "message": "No sono a posto così.",
+      "ground": ""
+    },
+    {
+      "id": "T12",
+      "speaker": "Agent",
+      "message": "Buona serata allora.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

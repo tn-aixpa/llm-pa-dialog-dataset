@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00683",
+  "doc_src": "comune.trento_aree-tematiche_D0492.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni su come accedere ai servizi comunali.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, puoi rivolgerti all'Urp, l'Ufficio relazioni con il pubblico, al link /Comune/Organizzazione-comunale/Organigramma/Articolazioni-interne/URP . È il punto di contatto tra l'Amministrazione comunale e i cittadini, dove puoi ottenere informazioni sui servizi e sugli uffici comunali e presentare segnalazioni, reclami e suggerimenti.",
+      "ground": "L'Urp nasce come punto di contatto tra l'Amministrazione comunale ed il cittadino al fine di dare attuazione ai principi di trasparenza, partecipazione, accesso agli atti. Fornisce informazioni sui servizi e sugli uffici comunali e raccoglie segnalazioni, reclami e suggerimenti dai cittadini."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E se volessi ricevere copie di delibere o regolamenti del Comune?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Puoi chiedere all'Urp. Loro sono in grado di fornirti copie di delibere, ordinanze, regolamenti e altri atti del Comune.",
+      "ground": "In particolare, l'Urp è a disposizione dei cittadini per:\nfacilitare l'accesso ai servizi ed agli uffici comunali\nfornire informazioni su provvedimenti e procedure\nconsegnare copie di delibere, ordinanze, regolamenti, atti e pubblicazioni del Comune"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Molte grazie per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "È un piacere, siamo qui per aiutare i cittadini. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

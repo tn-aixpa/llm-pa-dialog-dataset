@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00346",
+  "doc_src": "comune.milano_aree-tematiche_links_D0378.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, potrebbe darmi informazioni su X Contemporary?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, X Contemporary è un'associazione culturale che opera con finalità artistiche e sociali. Hanno realizzato uno spazio espositivo e di ricerca in Via Santa Teresa 20A e 22A.",
+      "ground": "X Contemporary è un’associazione culturale che opera con finalità artistiche e sociali.\nNegli spazi che il Comune le ha assegnato in Via Santa Teresa 20A e 22A l’associazione ha realizzato un luogo espositivo e di ricerca, uno spazio di aggregazione e condivisione, che vede il coinvolgimento di artisti, professionisti, volontari e degli abitanti stessi del quartiere."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Posso visitare questi spazi?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Non ho accesso a questa informazione, potresti trovare più dettagli su https://www.comune.milano.it/documents/20126/22574119/X+Contemporary.pdf/76d42770-65cd-633d-186e-851bb68d021a?t=1563882368098",
+      "ground": "[https://www.comune.milano.it/documents/20126/22574119/X+Contemporary.pdf/76d42770-65cd-633d-186e-851bb68d021a?t=1563882368098](clicca qui)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Capito, grazie comunque.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È stato un piacere aiutarla, se ha altre domande non esiti a chiedere. Buona giornata!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

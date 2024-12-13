@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00500",
+  "doc_src": "comune.trento_aree-tematiche_D0150.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sulle colonie feline.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno. Purtroppo non sono in grado di fornirle informazioni al riguardo.",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E in caso di morte di un animale domestico?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Al link https://www.comune.trento.it/Aree-tematiche/Ambiente-e-territorio/Animali-in-citta/Gli-animali-da-affezione/Gatti/Decesso-di-un-animale-da-affezione può trovare indicazioni sul cosa fare in caso di decesso di un animale da affezione.",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Ambiente-e-territorio/Animali-in-citta/Gli-animali-da-affezione/Gatti/Decesso-di-un-animale-da-affezione](Decesso di un animale da affezione)\nAlcune indicazioni su cosa fare in caso di decesso di animali da affezione e cioè cani, gatti, furetti, invertebrati (escluse le api ed i crostacei), pesci tropicali decorativi, anfibi e rettili, uccelli (esclusi i volatili previsti dalle Direttive 90/539/CEE e 92/65/CEE), roditori e conigli domestici."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie lo stesso per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È stato un piacere poterla aiutare, se ha bisogno di ulteriori informazioni non esiti a contattarci nuovamente. Buona giornata!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

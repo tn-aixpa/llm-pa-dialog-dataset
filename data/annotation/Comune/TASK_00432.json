@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00432",
+  "doc_src": "comune.trento_aree-tematiche_D0040.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Sa dirmi qualcosa riguardo gli interventi di Stardust per la mobilità elettrica.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Stardust intende installare una rete di sensori per raccogliere dati su ambiente, energia, mobilità, sicurezza e raccolta dei rifiuti. I dati verranno resi disponibili in tempo reale tramite una dashboard. Intende inoltre creare un portale dove i cittadini possano contribuire allo sviluppo smart della città.\nInfine, vuole installare dei punti informativi avanzati che permettono la visualizzazione dei dati raccolti nonché l'accesso ad altri servizi come la illuminazione pubblica intelligente.",
+      "ground": "Gli interventi previsti da Stardust nell'ambito della mobilità elettrica sono:\nInstallazione di una\nrete di sensori\nper raccogliere dati relativi ad ambiente, energia, mobilità, sicurezza e raccolta dei rifiuti. I dati saranno elaborati e resi disponibili in tempo reale all’amministrazione e ai cittadini tramite una\ndashboard\ne utilizzati per creare servizi online avanzati.\nRealizzazione di un\nportale di partecipazione\ndove i cittadini potranno contribuire attivamente all’evoluzione smart della città.\nInstallazione di alcuni\nsmart point\n: punti informativi avanzati che rendono fruibili i dati raccolti dai sensori e forniscono altri servizi come il sistema d’illuminazione pubblica intelligente."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

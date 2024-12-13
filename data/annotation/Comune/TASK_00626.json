@@ -1,0 +1,34 @@
+{
+  "task_id": "TASK_00626",
+  "doc_src": "comune.trento_aree-tematiche_D0371.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, potrebbe gentilmente fornirmi informazioni su quali interventi Stardust sta facendo nell'ambito della mobilità elettrica?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente. Gli interventi previsti da Stardust includono lo studio di fattibilità e il cofinanziamento di un centro per la logistica dell’ultimo miglio con veicoli elettrici, la promozione della mobilità elettrica attraverso lo sviluppo della rete di punti di ricarica e l'introduzione di veicoli elettrici nel parco auto comunale, lo studio di fattibilità per un sistema di stoccaggio a servizio della ricarica dei veicoli elettrici e l'implementazione di nuove regole per le licenze dei taxi per incentivare l'utilizzo di veicoli elettrici, plug-in o ibridi.",
+      "ground": "Gli interventi previsti da Stardust nell'ambito della mobilità elettrica sono:\nStudio di fattibilità e cofinanziamento di un\ncentro per la logistica dell’ultimo miglio con veicoli elettrici\n: un magazzino logistico situato fuori dal centro storico che raccoglie le merci dai corrieri “tradizionali” e gestisce le consegne in centro solo con veicoli elettrici.\nPromozione della mobilità elettrica grazie a un piano di sviluppo della rete di\npunti di ricarica\ne all'introduzione di\nveicoli elettrici\nnel parco auto comunale.\nStudio di fattibilità per un\nsistema di stoccaggio\na servizio della ricarica dei veicoli elettrici.\nNuove regole legate alle\nlicenze per i taxi\n(limiti di emissioni per incentivare l’utilizzo di veicoli elettrici, plug-in o ibridi)."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quindi non ci sono al momento incentivi economici per l'acquisto di veicoli elettrici?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Purtroppo al momento non sono previsti incentivi diretti per l'acquisto di veicoli elettrici.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

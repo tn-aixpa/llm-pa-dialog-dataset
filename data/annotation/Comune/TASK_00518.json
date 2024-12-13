@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00518",
+  "doc_src": "comune.trento_aree-tematiche_D0181.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, come posso ottenere un permesso per la vendita di funghi freschi?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, può trovare i dettagli per ottenere il permesso speciale alla vendita di funghi freschi spontanei al link https://www.comune.trento.it/Aree-tematiche/Attivita-economiche/Agricoltura-e-allevamento/Funghi/Autorizzazione-per-la-vendita-di-funghi-freschi-spontanei",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Attivita-economiche/Agricoltura-e-allevamento/Funghi/Autorizzazione-per-la-vendita-di-funghi-freschi-spontanei](Autorizzazione per la vendita di funghi freschi spontanei)\nInformazioni per presentare la domanda di autorizzazione per la vendita di funghi freschi spontanei."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Ha anche delle qualcosa sulla raccolta dei funghi?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Sì, per ottenere il permesso speciale alla raccolta le consiglio la pagina https://www.comune.trento.it/Aree-tematiche/Attivita-economiche/Agricoltura-e-allevamento/Funghi/Permesso-speciale-per-la-raccolta-di-funghi",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Attivita-economiche/Agricoltura-e-allevamento/Funghi/Autorizzazione-per-la-vendita-di-funghi-freschi-spontanei](Autorizzazione per la vendita di funghi freschi spontanei)\nInformazioni per presentare la domanda di autorizzazione per la vendita di funghi freschi spontanei.\nServizio di competenza:"
+    }
+  ],
+  "subcategory": "Trento"
+}

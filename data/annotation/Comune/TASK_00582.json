@@ -1,0 +1,40 @@
+{
+  "task_id": "TASK_00582",
+  "doc_src": "comune.trento_aree-tematiche_D0287.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Chi può accedere alla ZTL del centro storico?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Solo gli automezzi autorizzati possono accedere e circolare in quest'area. Le categorie autorizzate sono indicate nell'Ordinanza e le modalità di accesso sono contenute nel disciplinare di cui le riporto in seguito i link.\n\n- /Comune/Atti-e-albo-pretorio/Ordinanze/Ordinanze-dirigenziali/Ordinanza-del-Dirigente-32-del-2022\n- /Comune/Atti-e-albo-pretorio/Ordinanze/Ordinanze-dirigenziali/Ordinanza-del-Dirigente-1003-del-2022\n- /Comune/Atti-e-albo-pretorio/Ordinanze/Ordinanze-dirigenziali/Ordinanza-del-Dirigente-219-del-2023",
+      "ground": "Le categorie autorizzate ad accedere sono individuate nell'Ordinanza (vedi allegati) mentre le modalità di accesso sono contenute nel relativo disciplinare (vedi allegati).\n\n|||\n\n[/Comune/Atti-e-albo-pretorio/Ordinanze/Ordinanze-dirigenziali/Ordinanza-del-Dirigente-32-del-2022](n. 32/2022/27)\nsuccessivamente modificata ed integrata dalla\n[/Comune/Atti-e-albo-pretorio/Ordinanze/Ordinanze-dirigenziali/Ordinanza-del-Dirigente-1003-del-2022](n. 1003/2022/27)\n(disciplina per la distribuzione della posta), e con la\n[/Comune/Atti-e-albo-pretorio/Ordinanze/Ordinanze-dirigenziali/Ordinanza-del-Dirigente-219-del-2023](n. 219/2023/27)\n(estensione della Ztl a piazza della Mostra)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quindi non posso entrare nella ZTL con il mio automezzo non autorizzato?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Esatto.",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

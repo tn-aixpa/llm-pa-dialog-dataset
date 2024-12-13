@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_00344",
+  "doc_src": "comune.milano_aree-tematiche_links_D0374.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sulla Società Escursionisti Milanesi.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "La Società Escursionisti Milanesi (S.E.M.) è una sezione del Club Alpino Italiano che promuove la conoscenza e la frequentazione responsabile della montagna.",
+      "ground": "S.E.M. Società Escursionisti Milanesi è una sezione del C.A.I. Club Alpino Italiano e promuove la conoscenza e la frequentazione responsabile della montagna."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Dove si trova la sede?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "La sede si trova in Piazza Coriolano, 2 a Milano.",
+      "ground": "Piazza Coriolano, 2 - Milano"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Fanno anche arrampicata?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Sì, l'associazione organizza corsi di arrampicata.",
+      "ground": "Negli spazi che il Comune le ha assegnato in Via Cenisio 2 l’associazione ha la propria segreteria organizzativa, ha aperto una biblioteca sul tema della montagna e organizza corsi di arrampicata, eventi e momenti di convivialità."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Hanno anche una biblioteca a tema?",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "Sì, l'associazione ha aperto una biblioteca sul tema della montagna presso la propria sede in Via Cenisio 2.",
+      "ground": "Negli spazi che il Comune le ha assegnato in Via Cenisio 2 l’associazione ha la propria segreteria organizzativa, ha aperto una biblioteca sul tema della montagna e organizza corsi di arrampicata, eventi e momenti di convivialità."
+    },
+    {
+      "id": "T09",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agente",
+      "message": "È stato un piacere, se ha bisogno di ulteriori informazioni non esiti a contattarci.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

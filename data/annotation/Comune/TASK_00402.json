@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00402",
+  "doc_src": "comune.trento_aree-tematiche_D0005.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Che cosa sono gli sportelli di facilitazione digitale?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Gli sportelli di facilitazione digitale sono un supporto per utilizzare al meglio i servizi online. ",
+      "ground": "grazie ai volontari e alle volontarie di servizio civile digitale potrai avere supporto per utilizzare al meglio i servizi online."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Dove posso trovare il più vicino?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Puoi cercare lo sportello più vicino contattando i numeri 3357863040 o 3371261296 fra le 9 e le 12 dal lunedì al venerdì. ",
+      "ground": "Contatta i numeri\n3357863040\no\n3371261296\nin orario 9.00-12.00 dal lunedì al venerdì per richiedere un appuntamento negli sportelli ed orari indicati."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "E quali sono i servizi offerti?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Gli sportelli offrono supporto per accedere ai servizi online del Comune, per richiedere SPID, per utilizzare al meglio lo smartphone e la strumentazione elettronica e altro. ",
+      "ground": "Cerca lo sportello più vicino\nper avere il nostro supporto per accedere ai servizi online del Comune, per richiedere SPID, per utilizzare al meglio lo smartphone e la strumentazione elettronica, e per tanti altri servizi ancora!"
+    },
+    {
+      "id": "T07",
+      "speaker": "Citizen",
+      "message": "Grazie mille per le informazioni. ",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agent",
+      "message": "Prego, sono qui per aiutare. Buona giornata!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

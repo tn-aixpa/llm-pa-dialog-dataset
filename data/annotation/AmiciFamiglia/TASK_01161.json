@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01161",
+  "doc_src": "san_benedetto_val_di_sambro_v2.1__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Scrivimi una struttura tipo per un'azione relativa ai centri estivi.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "TITOLO: Centro estivo\n\nTASSONOMIA: Servizi doposcuola e servizi estivi\n\nMACRO-AMBITO: Welfare territoriale e sostenibilitа\n\nDESCRIZIONE: Nel mese di {{Mese}} sarà organizzata dal Comune un centro estivo per ragazzi dai {{EtaMinima}} ai {{EtaMassima}} anni gestito da educatori che intratterranno i ragazzi con {{ListaAttivita}} da mattina a sera.",
+      "ground": "TITOLO: Centro estivo\nTASSONOMIA: Servizi doposcuola e servizi estivi\nMACRO-AMBITO: Welfare territoriale e sostenibilitа\nDESCRIZIONE: Nel mese di luglio viene organizzata dal Comune una proposta educativa per bambini e ragazzi dai 5 ai 14 anni, gestita da educatori qualificati e con esperienza, attraverso varie attivitа (giochi, laboratori e passeggiate) che si svolgono da mattina a sera. L’obiettivo è quello di appoggiare le famiglie durante i periodi estivi nella gestione ed educazione dei figli, valorizzando le attivitа aventi come oggetto la condivisione di spazi, di tempi e il rapporto con gli altri. Le proposte metteranno in moto la fantasia puntando sul divertimento, sulla collaborazione e sull’imparare a stare insieme."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Adesso fammi un esempio di azione dove si vuole riqualificare un parco correntemente non più in uso.",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "TITOLO: Messa in sicurezza di Parco {{Nome}}\nTASSONOMIA: Sensibilizzazione su convivenza e rispetto reciproco (impegno civico, volontariato, sicurezza stradale, giornata dell’infanzia e dell’adolescenza, sicurezza delle famiglie)\nMACRO-AMBITO: Comunitа educante\nDESCRIZIONE: Il parco {{Nome}} è da lungo tempo caduto in disuso. E' interesse del Comune di {{NomeComune}} di riqualificare l'area così da dare opportunità di svago alle famiglie.",
+      "ground": "TITOLO: Messa in sicurezza Parco Lacustre\nTASSONOMIA: Sensibilizzazione su convivenza e rispetto reciproco (impegno civico, volontariato, sicurezza stradale, giornata dell’infanzia e dell’adolescenza, sicurezza delle famiglie)\nMACRO-AMBITO: Comunitа educante\nDESCRIZIONE: RIPRISTINO E MESSA IN SICUREZZA DEL PARCO LACUSTRE DI CASTEL DELL’ALPI"
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Il Parco è il \"Parco delle Rondini Autunnali\" e il Comune è quello di Calavizio. Aggiungi inoltre che al parco verranno sostituite le giostre e verranno messe delle strutture per l'esercizio all'aria aperta.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "TITOLO: Riqualificazione del Parco delle Rondini Autunnali a Calavizio\n\nTASSONOMIA: Sensibilizzazione su convivenza e rispetto reciproco (impegno civico, volontariato, sicurezza stradale, giornata dell’infanzia e dell’adolescenza, sicurezza delle famiglie)\n\nMACRO-AMBITO: Comunitа educante\n\nDESCRIZIONE: Il Comune di Calavizio ha avviato un progetto di riqualificazione del Parco delle Rondini Autunnali, che prevede la sostituzione delle giostre presenti con nuove strutture e l'installazione di spazi per l'esercizio all'aria aperta. Questa iniziativa mira a migliorare la fruibilità del parco, creando un ambiente più adatto al tempo libero e al benessere di famiglie e cittadini.",
+      "ground": "In generale, si precisa inoltre che:\n? per le famiglie aventi ISEE superiore a 30.000 Ђ il valore del contributo come sopra calcolato sarа ridotto della metа;\n? la domanda di sostegno alle famiglie numerose e di quelle con almeno due figli di cui almeno uno usufruisca dei servizi scolastici comunali puт essere presentata: 1) allegando l’ISEE 2) senza ISEE. In questo caso il contributo sarа ridotto al 50%.\n? per le famiglie aventi ISEE inferiore a 6.000 Ђ, sono previste ulteriori agevolazioni per chi usufruisce di servizi scolastici di refezione e trasporto."
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

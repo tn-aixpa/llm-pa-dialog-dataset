@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01132",
+  "doc_src": "pergine_valsugana__2023.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Come posso promuovere la natalità del mio Comune?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Può creare un progetto di sostegno all'utilizzo dei pannolini lavabili, dando un contributo per l'acquisto dei kit. Può affiancare questa azione a volontari che creano momenti di formazione e sensibilizzazione sui tipi di pannolini disponibili sul mercato.",
+      "ground": "Continua nel 2023 il progetto di sostegno all’utilizzo dei pannolini lavabili mediante l’assegnazione di un contributo massimo di Ђ 100,00 a bambino per l’acquisto del kit. Grazie alla collaborazione di una mamma volontaria nel corso degli ultimi anni sono stati realizzati momenti di sensibilizzazione e di formazione sul tema all'interno della comunitа, anche mettendo a disposizione delle mamme le diverse tipologie di pannolini disponibili sul mercato"
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "E che attività potrei prevedere per i ragazzi?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Potrebbe pensare di fare attività di lettura legate al fenomeno della dipendenza da sostanza. Può anche realizzare dei Giochi della gioventù come collaborazione fra gli istituti scolastici del territorio, così da promuovere le attività sportive. Può pensare infine di il supporto del Corpo di Polizia Locale per fare campagne di informazione e sensibilzzazione orientate al contrasto di comportamenti rischiosi come l'uso del telefono o il mancato uso delle cinture di sicurezza, oltre che del vivere civile.\n",
+      "ground": "Esso prevede la lettura del fenomeno legato alle dipendenze da sostanze e non, l’ideazione e la co-progettazione di opportunitа e iniziative territoriali, la formazione del personale educativo.\n\n|||\n\nNell’ambito della promozione delle attivitа sportive proseguirа nel 2023 la collaborazione con gli Istituti scolastici nella realizzazione dei Giochi della gioventù mediante trasferimenti nella misura massima di Ђ 3,00 per ogni studente iscritto nei plessi scolastici di Pergine Valsugana e comunque non oltre il budget complessivo di Ђ 3.000,00.\n\n|||\n\nIl Corpo Intercomunale di Polizia Locale, inoltre, sostiene la promozione di attivitа di prevenzione e campagne di informazione e sensibilizzazione rivolte a contrastare comportamenti rischiosi tipo l’uso del cellulare o la mancanza dell’impiego dei sistemi di ritenzione (cinture di sicurezza e seggiolini per bambini). Rimane inoltre attivo l’impegno presso le scuole al fine di educare le nuove generazioni sull’importanza del rispetto delle regole del vivere civile."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Grazie per gli spunti. Buona giornata.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Buona giornata a lei,",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

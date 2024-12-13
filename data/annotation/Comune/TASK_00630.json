@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00630",
+  "doc_src": "comune.trento_aree-tematiche_D0379.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei avere informazioni sulla vendita al dettaglio tramite radio.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "La vendita al dettaglio tramite sistemi di comunicazione come la radio è soggetta alla trasmissione della SCIA mediante SUAP telematico nel Comune in cui si intende esercitare l'attività. È importante sapere che è vietato inviare prodotti al consumatore senza una specifica richiesta.",
+      "ground": "La vendita al dettaglio per corrispondenza o tramite televisione o altri sistemi di comunicazione, nonché attraverso commercio elettronico è soggetta alla trasmissione della\nSCIA\nmediante\nSUAP\ntelematico, nel Comune in cui la persona fisica o la società intende esercitare l'attività. È vietato inviare prodotti al consumatore se non a seguito di specifica richiesta."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Capito, e per quanto riguarda le vendite tramite televisione?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Essendo il televisore un sistema di comunicazione, si applica quanto detto sopra.",
+      "ground": "La vendita al dettaglio per corrispondenza o tramite televisione o altri sistemi di comunicazione, nonché attraverso commercio elettronico è soggetta alla trasmissione della\nSCIA\nmediante\nSUAP\ntelematico, nel Comune in cui la persona fisica o la società intende esercitare l'attività."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Sono a disposizione per ulteriori chiarimenti, non esiti a contattarmi in caso di necessità. Buona giornata.",
+      "ground": ""
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

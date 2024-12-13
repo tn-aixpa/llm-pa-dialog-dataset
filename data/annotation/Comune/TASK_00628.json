@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00628",
+  "doc_src": "comune.trento_aree-tematiche_D0377.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sui servizi di bike sharing disponibili in città.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Per le informazioni sul bike-sharing le consiglio di vedere la pagina https://www.comune.trento.it/Aree-tematiche/Ambiente-e-territorio/Mobilita-e-traffico-urbano/Servizi/Bike-sharing-e.motion , può anche controllare la disponibilità in tempo reale delle bici senza obbligo di riconsegna alla stazione di prelievo al link http://www.bicincitta.com/frmLeStazioniComune.aspx?ID=187 .",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Ambiente-e-territorio/Mobilita-e-traffico-urbano/Servizi/Bike-sharing-e.motion](Bike sharing e.motion)\nTutte le istruzioni per accedere al servizio di bike sharing che consente il noleggio di biciclette pubbliche tradizionali ed elettriche, da utilizzare per gli spostamenti urbani senza obbligo di riconsegna nella stazione di prelievo\n[http://www.bicincitta.com/frmLeStazioniComune.aspx?ID=187](Vedi la disponibilità delle bici in tempo reale)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E per il parcheggio custodito per le biciclette, c'è qualcosa di simile?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Per il servizio di parcheggio custodito per biciclette le consiglio di consultare la pagina https://www.comune.trento.it/Aree-tematiche/Ambiente-e-territorio/Mobilita-e-traffico-urbano/Servizi/Parcheggi-protetti-per-biciclette .",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Ambiente-e-territorio/Mobilita-e-traffico-urbano/Servizi/Parcheggi-protetti-per-biciclette](Parcheggi protetti per biciclette)\nModalità di accesso al servizio di parcheggio custodito per biciclette"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "E per i monopattini elettrici?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Per i monopattini elettrici le consiglio la pagina https://www.comune.trento.it/Aree-tematiche/Ambiente-e-territorio/Mobilita-e-traffico-urbano/Servizi/Monopattini-elettrici-condivisi .",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Ambiente-e-territorio/Mobilita-e-traffico-urbano/Servizi/Monopattini-elettrici-condivisi](Monopattini elettrici condivisi)\nTutte le informazioni per accedere al servizio di mobilità in sharing a flusso libero con monopattini elettrici da utilizzare per gli spostamenti urbani."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "Prego. Se avesse bisogno di ulteriori informazioni, non esitare a contattarci. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

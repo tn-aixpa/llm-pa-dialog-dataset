@@ -1,0 +1,64 @@
+{
+  "task_id": "TASK_00363",
+  "doc_src": "comune.milano_aree-tematiche_links_D0395.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Salve, vorrei informazioni sull'avviso di accertamento Icp.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Gli avvisi di accertamento vengono inviati o per omesso versamento oppure per dichiarazione omessa o infedele.",
+      "ground": "Avviso di accertamento Icp\nGli avvisi di accertamento vengono inviati per due tipi di irregolarità:\nomesso versamento\nomessa o infedele dichiarazione."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Se ricevo un avviso per omesso pagamento, cosa devo aspettarmi?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "In caso di omesso versamento dell’imposta, oltre all'importo non versato vengono addebitati interessi, sanzioni e spese postali. La sanzione ammonta al 30% del tributo non versato.",
+      "ground": "Avviso per omesso pagamento\nViene inviato in caso di omesso versamento dell’imposta.\nOltre all’importo non versato vengono addebitati interessi, sanzioni e spese postali\nla sanzione ammonta al 30% del tributo non versato."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "E se ricevo un avviso per dichiarazione omessa o infedele?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "In caso di omessa o infedele dichiarazione, l'avviso viene inviato in caso di esposizione abusiva e mira al recupero dell’imposta non versata nel periodo di esposizione non autorizzato. Anche in questo caso vengono addebitati interessi, sanzioni e spese postali. La sanzione ammonta al 100% del tributo non saldato, ma viene ridotta in caso di adesione al pagamento.",
+      "ground": "Avviso per omessa o infedele dichiarazione\nViene inviato in caso di esposizione abusiva\ne mira al recupero dell’imposta non versata nel periodo di esposizione non autorizzato.\nOltre all’importo non versato vengono addebitati interessi, sanzioni e spese postali\nla sanzione ammonta al 100% del tributo non saldato (ridotta in caso di adesione al pagamento)."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni. Come posso prenotare un appuntamento per una consulenza?",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "Puoi prendere un appuntamento online al sito https://www.comune.milano.it/servizi/appuntamenti-in-comune oppure per gli avvisi di mancata o infedele dichiarazione inviare una mail a\nmailto:icp@comune.milano.it",
+      "ground": "[https://www.comune.milano.it/servizi/appuntamenti-in-comune](comune.milano.it/agendaonline)\nrichiede la registrazione al portale con Profilo Completo\n\n|||\n\n[mailto:icp@comune.milano.it](icp@comune.milano.it)\n(solo per avvisi per omessa o infedele dichiarazione)"
+    },
+    {
+      "id": "T09",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per l'aiuto.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

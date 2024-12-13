@@ -1,0 +1,40 @@
+{
+  "task_id": "TASK_00827",
+  "doc_src": "comune.salerno_D0119.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, potrebbe dirmi se ci sarà sospensione dell'acqua in Via Fondo Vignola il 29 luglio?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Sì, è prevista una sospensione dell'erogazione idrica in quella zona dalle ore 14.00 alle ore 20.00 per lavori di manutenzione straordinaria.",
+      "ground": "Al fine di eseguire intervento di manutenzione straordinaria in Via Fondo Vignola, si rende necessario sospendere l’erogazione idrica 29 luglio 2024 dalle ore 14.00 alle ore 20.00, alle seguenti strade e traverse limitrofe:"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "C'è qualcosa a cui bisogna stare attenti una volta che torna l'acqua?",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

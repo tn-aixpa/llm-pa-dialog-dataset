@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00858",
+  "doc_src": "comune.salerno_D0103.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sulla procedura di co-progettazione per la realizzazione di laboratori creativi nel quartiere Sichelgaita del Comune di Salerno.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, certo. La procedura è pubblicata al seguente link https://albofornitori.comune.salerno.it/PortaleAppalti/it/ppgare_bandi_lista.wp",
+      "ground": "La procedura sarà svolta telematicamente attraverso il Portale Appalti del Comune di Salerno accessibile al seguente link:\n[https://albofornitori.comune.salerno.it/PortaleAppalti/it/ppgare_bandi_lista.wp](https://albofornitori.comune.salerno.it/PortaleAppalti/it/ppgare_bandi_lista.wp)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E fino a quando posso presentare la domanda di partecipazione?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "La domanda di partecipazione e la documentazione dovranno essere caricate in piattaforma entro e non oltre le ore 14:00 del 29 maggio 2024.",
+      "ground": "La domanda di partecipazione e la documentazione relativa alla procedura dovranno essere caricate in piattaforma entro e non oltre le ore 14:00 del giorno 29/05/2024."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Capito, grazie mille per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È un piacere, buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

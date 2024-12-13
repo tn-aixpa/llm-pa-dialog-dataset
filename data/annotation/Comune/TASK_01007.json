@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_01007",
+  "doc_src": "comSalerno0827.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Quali sono i documenti necessari per presentare un'istanza di autorizzazione paesaggistica?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "I documenti necessari per presentare un'istanza di autorizzazione paesaggistica sono: \n1. Modello di richiesta;\n2. Documento di riconoscimento in corso di validità;\n3. Ricevuta pagamenti PagoPA e Dichiarazione sostitutiva per marca da bollo;\n4. Pagamento tramite PagoPA dei Diritti di Istruttoria e Segreteria di € 250.",
+      "ground": "Per ottenere l'autorizzazione occorrono:\nModello di richiesta debitamente compilato;\nDocumento di riconoscimento in corso di validità;\nRicevuta pagamenti PagoPA e Dichiarazione sostitutiva per marca da bollo;\nPagamento di Diritti di Istruttoria e Segreteria di € 250,00:\nE' possibile pagare\nsolo ed esclusivamente\ntramite il sistema\nPagoPA\nraggiungibile al seguente link\nhttps://servizi.comune.salerno.it/web/pagamenti\ne scegliere la sezione \"Urbanistica\"."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Come si fa il pagamento dei diritti di istruttoria?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Il pagamento dei diritti di istruttoria si effettua solo ed esclusivamente tramite il sistema PagoPA, raggiungibile al link https://servizi.comune.salerno.it/web/pagamenti. È possibile pagare online oppure stampare il bollettino per andare a pagare nei punti abilitati. Per ulteriori informazioni, si può visitare la pagina https://servizi.comune.salerno.it/web/pagamenti/info . Durante il pagamento, è necessario selezionare \"Diritti di Segreteria Urbanistica\" e \"Diritti di Istruttoria Urbanistica\".",
+      "ground": "E' possibile pagare\nsolo ed esclusivamente\ntramite il sistema\nPagoPA\nraggiungibile al seguente link\nhttps://servizi.comune.salerno.it/web/pagamenti\ne scegliere la sezione \"Urbanistica\".\nIl servizio offre la possibilità di pagare sia online che stampare il bollettino PagoPA per pagarlo nei punti abilitati. Per tutte le info visitare la pagina\nhttps://servizi.comune.salerno.it/web/pagamenti/info\nSuccessivamente, per effettuare i pagamenti, selezionare in base alla tipologia \"Diritti di Segreteria Urbanistica\" e \"Diritti di Istruttoria Urbanistica\":"
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "C'è solo un tipo di autorizzazione paesaggistica, vero?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "No, ci sono l'autorizzazione paesaggistica ordinaria e l'autorizzazione paesaggistica semplificata.",
+      "ground": "Autorizzazione paesaggistica ordinaria\n\n|||\n\nAutorizzazione paesaggistica semplificata"
+    },
+    {
+      "id": "T07",
+      "speaker": "Citizen",
+      "message": "Quali sono le differenze tra l'autorizzazione paesaggistica semplificata e quella ordinaria?",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agent",
+      "message": "Le differenze tra l'autorizzazione paesaggistica ordinaria e quella semplificata sono le seguenti:\n\n1. Documentazione: \n- L'autorizzazione ordinaria richiede una documentazione progettuale completa e una relazione paesaggistica. \n- L'autorizzazione semplificata richiede solo una relazione paesaggistica semplificata.\n\n2. Procedura di esame:\n- Nella procedura ordinaria, l'amministrazione ha 40 giorni per trasmettere la documentazione alla Soprintendenza e ricevere il parere vincolante entro 45 giorni.\n- Nella procedura semplificata, l'amministrazione comunica immediatamente il risultato dell'esame della richiesta e, se positiva, invia la documentazione alla Soprintendenza entro 30 giorni, ricevendo il parere entro 25 giorni.\n                            \n3. Tempistiche di comunicazione: \n- Nel caso dell'autorizzazione ordinaria, l'amministrazione ha 20 giorni dalla ricezione del parere per provvedere.\n- Per l'autorizzazione semplificata, l'amministrazione comunica l'esito della richiesta entro 5 giorni dal ricevimento del parere positivo.\n                            \nIn entrambi i casi, l'autorizzazione è immediatamente efficace e ha 'una validità di 5 anni, dopo la quale è necessario richiederne una nuova",
+      "ground": "Autorizzazione paesaggistica ordinaria\nIl richiedente presenta al soggetto competente al rilascio dell’autorizzazione apposita istanza, corredata dalla necessaria documentazione progettuale e dalla relazione paesaggistica. L’amministrazione competente esamina l’istanza, se necessario richiede integrazioni. L’amministrazione provvede entro 40 giorni alla trasmissione di tale documentazione alla Soprintendenza, accompagnandola con una relazione tecnica illustrativa e con una proposta di provvedimento, nonché dando comunicazione all’interessato dell’avvio del procedimento e dell'avvenuta trasmissione degli atti al Soprintendente. Il Soprintendente, ricevuta la documentazione, esprime sulla richiesta il proprio parere vincolante, comunicandolo all’amministrazione entro i 45 giorni successivi alla ricezione degli atti.\nIn caso di parere negativo, il Soprintendente comunica agli interessati il preavviso di provvedimento negativo, ai sensi delle vigenti disposizioni di legge in materia di procedimento amministrativo.\nEntro 20 giorni dalla ricezione del parere del Soprintendente, l’amministrazione competente provvede in conformità.\nL’autorizzazione paesaggistica è immediatamente efficace, e tale rimane per un periodo di 5 anni; trascorso questo termine è necessario ottenere una nuova autorizzazione.\nAutorizzazione paesaggistica semplificata\nIl richiedente presenta all’amministrazione competente al rilascio dell’autorizzazione l’apposita istanza, costituita dalla relazione paesaggistica semplificata. Se per l’intervento da autorizzare si fa riferimento allo sportello unico per le autorità produttive, si potrà presentare la domanda a quest’ultimo. L’amministrazione competente al rilascio dell’autorizzazione procede all’esame della richiesta e della relazione paesaggistica. Se la valutazione è negativa ne dà immediata comunicazione al richiedente. Se la valutazione è positiva, l’amministrazione procede entro 30 giorni all’invio della documentazione alla Soprintendenza. Il Soprintendente, una volta ricevuta la documentazione, si esprime in merito alla richiesta con parere vincolante, e lo comunica all’amministrazione entro i 25 giorni successivi alla ricezione degli atti. Se il parere è negativo, la Soprintendenza ne dà immediata comunicazione all’interessato.\nSe il parere è positivo, il Soprintendente ne dà notizia all’amministrazione, che comunica entro 5 giorni al soggetto interessato l’esito della richiesta.\nSe ne ha competenza, l’amministrazione rilascia contestualmente anche il titolo edilizio.\nL’autorizzazione è immediatamente efficace, e ha validità di 5 anni. Trascorso questo termine, è necessario ottenere una nuova autorizzazione."
+    }
+  ],
+  "subcategory": "Salerno"
+}

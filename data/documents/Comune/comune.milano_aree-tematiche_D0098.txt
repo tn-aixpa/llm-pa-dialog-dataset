@@ -1,0 +1,50 @@
+Catasto
+
+L'Unità Servizi Catastali tratta i Doc.Fa. che non vengono registrati automaticamente nel database dell'Agenzia delle Entrate, ma necessitano di istruttoria da parte del personale dell'Unità.
+Gli atti di aggiornamenti riguardano unità immobiliari che insistono sul territorio del Comune di Milano.
+
+Servizi catastali online dell’Agenzia delle Entrate
+
+Collegandosi al sito dell’Agenzia delle Entrate è possibile:
+
+conoscere i valori immobiliari degli edifici ubicati sull'intero territorio nazionale
+scaricare i software necessari all'aggiornamento delle banche dati
+ottenere i file delle mutue distanze, dei punti fiduciali e delle relative monografie
+effettuare visure catastali telematiche.
+
+Per effettuare una visura personale collegarsi alla pagina Consultazione rendite catastali
+Cittadini e professionisti possono chiedere la rettifica dei dati catastali gratuitamente attraverso il Contact Center dell'Agenzia delle Entrate.
+
+Richiesta visura/planimetria per gli immobili di cui il richiedente è titolare
+Accedendo con spid all'area riservata del portale di Agenzia delle Entrate, è possibile scaricare gratuitamente tutta la documentazione catastale (visure/ planimetrie/ estratti/ Ispezione ipotecaria) degli immobili presenti su tutto il territorio nazionale e di cui si è contitolare di diritto (proprietario/ comproprietario/ usufruttuario/ altro diritto).
+Nella sezione ENTRATEL/FISCONLINE, dal menù dei sevizi Fisconline, seleziona “Servizi Ipotecari e Catastali, Osservatorio Mercato Immobiliare” -> “Consultazione Personale”
+ 
+Richiesta visura per gli immobili di cui il richiedente non è titolare
+Accedendo al servizio Visura catastale telematica è possibile richiedere, a pagamento:
+
+visura per soggetto
+visure attuali o storiche di un immobile (catasto terreni o catasto fabbricati)
+visure di mappa (estratto di mappa)
+
+Il pagamento delle richieste viene effettuato con PagoPA
+
+Utilizza i servizi
+
+Attestazione di deposito di frazionamento
+
+Modalità di accesso al servizio:
+
+PEC
+Posta
+
+Argomenti:
+
+Casa
+
+Certificati e documenti
+
+Edilizia e territorio
+
+
+
+

@@ -1,0 +1,22 @@
+{
+  "task_id": "TASK_00410",
+  "doc_src": "comune.trento_aree-tematiche_D0015.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, potrebbe darmi informazioni su lavori, eventi o iniziative in corso sul tema dell'eliminazione delle barriere architettoniche?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, mi dispiace ma al momento non sono a conoscenza di lavori, eventi o iniziative in corso riguardanti quel tema. Posso però aiutarla a cercare ulteriori informazioni se desidera.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

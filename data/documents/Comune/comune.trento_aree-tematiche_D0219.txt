@@ -1,0 +1,51 @@
+Riferimenti normativi, finalità e modalità operative.
+Il Censimento permanente deve essere svolto obbligatoriamente in quanto previsto dal Regolamento (CE) 9 luglio 2008 n, 763/2008 del Parlamento e del Consiglio europeo, che ne ha disposto l'effettuazione da parte di tutti gli Stati membri e ne ha indicato le modalità di svolgimento.
+A livello nazionale il Censimento permanente della popolazione e delle abitazioni (assieme a quello economico delle imprese, istituzioni non-profit e delle istituzioni pubbliche, al 7° Censimento generale e il Censimento permanente dell'agricoltura) è stato indetto con l'art. 1 commi da 227 a 237 della L. 27 dicembre 2017, n. 205.
+La norma censuaria indica i principali profili ed effetti giuridici e demanda ai Piani Generali di Censimento e alle circolari la regolamentazione generale dell'impianto censuario.
+Le finalità del censimento sono:
+assolvere gli obblighi di rilevazione stabiliti dal Regolamento comunitario;
+produrre un quadro informativo statistico sulle principali caratteristiche strutturali della popolazione a livello nazionale, regionale e locale;
+determinare la popolazione legale del territorio;
+produrre informazioni sulla consistenza numerica delle abitazioni e sulle caratteristiche di quelle occupate.
+La strategia censuaria si avvale non solo dei dati rilevati sul campo, ma anche di dati contenuti nei registri statistici dell'Istat.
+A differenza del passato, i censimenti permanenti
+non coinvolgono tutto il territorio, tutti i cittadini e tutte le abitazioni, ma solo una parte di essi
+(campioni rappresentativi).
+La restituzione dei dati, sempre in formato aggregato, invece, rimane riferibile all'intero campo di osservazione. Questo è possibile grazie all'integrazione statistica tra le rilevazioni campionarie e i dati da altre fonti amministrative.
+In questo modo è possibile sia ridurre i costi delle operazioni sul campo sia il disturbo statistico presso le famiglie.
+Il censimento permanente si articola in
+due rilevazioni
+:
+la rilevazione
+[/Aree-tematiche/Statistiche-e-dati-elettorali/Statistiche/Censimento-permanente/Rilevazione-areale](areale)
+la rilevazione
+[/Aree-tematiche/Statistiche-e-dati-elettorali/Statistiche/Censimento-permanente/Rilevazione-da-lista](da lista)
+Per l'edizione del 2024, il Comune di Trento
+sarà coinvolto unicamente nella rilevazione da Lista
+.
+La data di riferimento delle rilevazioni del Censimento permanete è
+la prima domenica di ottobre
+di ciascun anno.
+Per il
+2024
+il compilatore deve riferirsi alla data del
+6 ottobre.
+Le
+unità di rilevazione
+, ovvero l'”oggetto” rispetto al quale vengono raccolte le informazioni, sono:
+le famiglie, definite come “insieme di persone legate da vincoli di matrimonio, parentela, affinità, adozione, tutela o da vincoli affettivi, coabitanti ed aventi dimora abituale nello stesso comune”;
+le abitazioni occupate e non occupate;
+gli altri tipi di alloggio occupati che siano utilizzati come dimora abituale da almeno una persona al momento del Censimento (capanne, roulotte, baracche o qualsiasi altro riparo utilizzato come alloggio al momento del Censimento, indipendentemente che siano progettati per servire da abitazione;
+le strutture residenziali collettive occupate: alloggi progettati per servire da abitazione per gruppi di persone o per varie famiglie e che sono utilizzati come dimora abituale di almeno una persona al momento del censimento;
+gli indirizzi.
+Come accedeva in passato, anche per il
+censimento permanente
+è previsto l'
+obbligo di risposta
+da parte delle famiglie (secondo quanto sancito dall'art. 7 del d.lgs 6 settembre 1989 n. 322), che prevede la compilazione e la trasmissione, completa e veritiera, dei questionari predisposti da ISTAT. L'obbligo di risposta non sussiste nel caso di quesiti sensibili eventualmente presenti (ad esempio sullo stato di salute). è prevista una sanzione in caso di rifiuto a rispondere o nel caso vengano fornite consapevolmente informazioni errate o incomplete.
+Per maggiori informazioni:
+- sito ISTAT nella sezione dedicata al
+[https://www.istat.it/it/censimenti-permanenti/popolazione-e-abitazioni](censimento permanente.)
+- Numero Verde Istat 800 188 802: attivo dal 2 ottobre 2023 al 22 dicembre, tutti i giorni dalle ore 9 alle 21
+- CCR -
+[/Aree-tematiche/Statistiche-e-dati-elettorali/Statistiche/Censimento-permanente/Ccr-Centro-comunale-di-rilevazione](Centro comunale di rilevazione)

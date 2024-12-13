@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00774",
+  "doc_src": "comune.salerno_D0039.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sull'elenco degli scrutatori nominati per le Elezioni Europee di giugno. ",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, certo. L'elenco degli scrutatori nominati dalla Commissione Elettorale Comunale è disponibile al link https://www.comune.salerno.it/sites/default/files/2024-05/Effettivi_per_pubblicazione.pdf . ",
+      "ground": "[https://www.comune.salerno.it/sites/default/files/2024-05/Effettivi_per_pubblicazione.pdf](Elenco Scrutatori Elezioni Europee 2024)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E se non si riesce a svolgere l'incarico per un grave impedimento, cosa devo fare? ",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "In caso di grave impedimento ad assolvere l'incarico, è necessario comunicarlo entro 48 ore dalla notifica compilando il seguente modulo e inviandolo all'ufficio elettorale https://www.comune.salerno.it/sites/default/files/2024-06/rinuncia%20scrutatore.pdf .",
+      "ground": "L'eventuale grave impedimento ad assolvere l'incarico di scrutatore dovrà essere essere comunicato, entro 48 ore dalla notifica, tramite compilazione del modulo sotto allegato da inviare all'ufficio elettorale, che provvederà alle sostituzioni nell'ordine di estrazione delle riserve.\n\n|||\n\n[https://www.comune.salerno.it/sites/default/files/2024-06/rinuncia%20scrutatore.pdf](rinuncia scrutatore.pdf)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni. ",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È stato un piacere aiutarla. Se ha bisogno di ulteriori informazioni, non esiti a contattare l'ufficio elettorale. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

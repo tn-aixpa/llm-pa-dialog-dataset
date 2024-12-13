@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00230",
+  "doc_src": "comune.milano_aree-tematiche_links_D0259.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sulla Scuola dell'Infanzia per il prossimo anno.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Mi dispiace, ma le iscrizioni sono terminate il 27 febbraio 2024.",
+      "ground": "Le iscrizioni di bambine e bambini alla Scuola dell'Infanzia per l'anno educativo 2024-2025 sono terminate alle 12:00 del 27 febbraio 2024."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E dove posso trovare informazioni sulle sedi delle scuole?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Puoi vedere le informazioni sulla mappa al link https://www.comune.milano.it/servizi/nidi-e-scuole-geoschool .",
+      "ground": "Le Sedi\nClicca sulla mappa per visualizzare nidi e scuole dell'Infanzia, suddivisi per Municipio.\n\n|||\n\n[https://www.comune.milano.it/servizi/nidi-e-scuole-geoschool](Geoschool: trova Nidi e Scuole dell'Infanzia)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

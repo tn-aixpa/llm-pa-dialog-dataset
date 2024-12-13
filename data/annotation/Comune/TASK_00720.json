@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00720",
+  "doc_src": "comune.trento_aree-tematiche_D0555.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Se un contadino deve muovere il suo bestiame al pascolo estivo deve fare domanda al Sindaco?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, chiunque intenda trasferire bestiame nei pascoli estivi deve farne domanda al Sindaco almeno 15 giorni prima della partenza, compilando il modulo n. 6 allegato al regolamento di polizia veterinaria.",
+      "ground": "Alpeggio - Transumanza\nChiunque intende trasferire bestiame nei pascoli estivi (alpeggio, transumanza) deve farne domanda al Sindaco, almeno 15 giorni prima della partenza, a mezzo del mod. n. 6 allegato al regolamento di polizia veterinaria, indicando altresì i pascoli di cui dispone per il periodo di alpeggio o transumanza."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "E se lo spostamento avviene all'interno dello stesso Comune?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "In tal caso è sufficiente che l'interessato dia preventiva comunicazione all'autorità comunale ai fini dell'adozione delle eventuali misure di polizia veterinaria.",
+      "ground": "Se lo spostamento avviene nell’ambito dello stesso Comune è sufficiente che l’interessato ne dia preventiva comunicazione all’autorità comunale ai fini dell’adozione delle eventuali misure di polizia veterinaria."
+    }
+  ],
+  "subcategory": "Trento"
+}

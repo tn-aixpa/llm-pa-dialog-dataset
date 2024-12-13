@@ -1,0 +1,34 @@
+{
+  "task_id": "TASK_00901",
+  "doc_src": "comune.salerno_D0272.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Può dirmi di più sull'Avviso pubblico per l'accesso ai contributi destinati agli inquilini morosi incolpevoli?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Sì, è possibile presentare domanda entro il 31 dicembre 2024 utilizzando l'allegato schema di domanda al link https://www.comune.salerno.it/sites/default/files/2024-02/ALLEGATO%20A%20-%20SCHEMA%20DI%20DOMANDA.pdf .",
+      "ground": "La domanda di partecipazione e i relativi allegati dovranno pervenire entro e non oltre il giorno 31 dicembre 2024 secondo le modalità descritte nel bando utilizzando l’allegato schema di domanda.\nPer eventuali informazioni e/o chiarimenti si invita a contattare l’Ufficio Casa del Settore Gestione e Manutenzione del Patrimonio Pubblico comunale Tel.\n\n|||\n\n[https://www.comune.salerno.it/sites/default/files/2024-02/ALLEGATO%20A%20-%20SCHEMA%20DI%20DOMANDA.pdf](ALLEGATO A - SCHEMA DI DOMANDA.pdf)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Grazie, però vorrei sapere quali sono i criteri e le indicazioni definite nell'avviso pubblico.",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "I criteri e le indicazioni sono specificati nell'avviso pubblico al seguente link https://www.comune.salerno.it/sites/default/files/2024-02/AVVISO%20PUBBLICO%20CONTRIBUTI%20MOROSITA%27%20INCOLPEVOLE%20ANNO%202024.pdf .",
+      "ground": "pdf)\n[https://www.comune.salerno.it/sites/default/files/2024-02/ALLEGATO%20A%20-%20SCHEMA%20DI%20DOMANDA.pdf](ALLEGATO A - SCHEMA DI DOMANDA.pdf)\n[https://www.comune.salerno.it/sites/default/files/2024-02/ALLEGATO%20B%20-%20INFORMATIVA%20PRIVACY.pdf](ALLEGATO B - INFORMATIVA PRIVACY.pdf)\n[/node/3538](Ufficio Casa)"
+    }
+  ],
+  "subcategory": "Salerno"
+}

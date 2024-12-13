@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00431",
+  "doc_src": "comune.trento_aree-tematiche_D0039.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Buongiorno, vorrei delle informazioni sul Segretariato sociale.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Buongiorno a lei. Può avere maggiori dettagli sul segretariato sociale ai seguenti link \n- https://www.comune.trento.it/Aree-tematiche/Politiche-sociali-e-abitative/Persone-con-disabilita/Servizi/Progetti/Segretariato-sociale\n- http://www.trentinosociale.it/index.php/Servizi-ai-cittadini/Guida-ai-servizi/per-destinatari/Anziani/Avere-informazioni-e-orientamento-per-l-accesso-ai-servizi/Segretariato-sociale .",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Politiche-sociali-e-abitative/Persone-con-disabilita/Servizi/Progetti/Segretariato-sociale](Segretariato sociale)\n\n|||\n\nTutte le informazioni sul sito Trentinosociale.it\n[http://www.trentinosociale.it/index.php/Servizi-ai-cittadini/Guida-ai-servizi/per-destinatari/Anziani/Avere-informazioni-e-orientamento-per-l-accesso-ai-servizi/Segretariato-sociale](http://www.trentinosociale.it/.../Segretariato-sociale)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00447",
+  "doc_src": "comune.trento_aree-tematiche_D0063.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, è possibile chiedere una voltura della concessione di occupazione suolo pubblico. È possibile?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, le consiglio di consultare il seguente link /content/download/564391/5436826/file/PUSG.pdf",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Ambiente-e-territorio/Mobilita-e-traffico-urbano/Occupazioni-e-concessioni/Voltura-della-concessione-di-occupazione-suolo-pubblico-transito-in-deroga-passo-carraio](Voltura della concessione di occupazione suolo pubblico, transito in deroga, passo carraio.)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E per quanto riguarda la messa in regola di un passo carraio?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Le consiglio di consultare il link https://www.comune.trento.it/Aree-tematiche/Ambiente-e-territorio/Mobilita-e-traffico-urbano/Occupazioni-e-concessioni/Passo-carraio-passo-carraio-provvisorio-per-cantiere .",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Ambiente-e-territorio/Mobilita-e-traffico-urbano/Occupazioni-e-concessioni/Passo-carraio-passo-carraio-provvisorio-per-cantiere](Passo carraio, passo carraio provvisorio per cantiere)\nApertura, regolarizzazione e ampliamento di passo carraio, apertura o proroga passo carraio provvisorio per cantiere"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

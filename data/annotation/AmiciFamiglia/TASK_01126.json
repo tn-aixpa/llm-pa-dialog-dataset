@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_01126",
+  "doc_src": "novaledo__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Quali azioni potrebbero essere incluse nel Piano in Materia di Politiche Familiari per favorire l'armonizzazione famigliare e il sostegno alla genitorialità?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Può pensare di scrivere un azione intesa a promuovere iniziative di carattere comunicativo, divulgativo e promozionale, mettendo a disposizione spazi e strutture così da facilitare l'aggregazione tra famiglie, laboratori ludico-creativi ed eventi. Il fine di questa azione è di creare reti fra famiglie e bambini, coinvolgendo associazioni e volontari.",
+      "ground": "In particolare, il comune, attraverso l’assessore alle politiche sociali, e all’assessore all’istruzione parteciperа attivamente a tutte le iniziative di carattere comunicativo, divulgativo e promozionale, metterа a disposizione eventuali spazi e strutture per momenti di aggregazione tra famiglie, laboratori ludico-creativi, eventi; promuoverа il benessere famigliare e sociale delle famiglie residenti e ospiti facilitando la creazione di reti solidali tra famiglie, bambini della stessa etа, coinvolgendo attivamente il mondo dell’associazionismo e del volontariato valorizzandone le specificitа, pubblicizzerа la diffusione, sul territorio comunale, delle iniziative e degli eventi previsti dal progetto.\n\nInoltre provvederа ad inviare dei questionari a tutte le famiglie interessate residenti e offrirа supporto in tutte le azioni di monitoraggio; promuoverа le iniziative formative sul proprio territorio di riferimento, mettendo a disposizione eventuali strutture per la realizzazione della formazione."
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Grazie per l'idea.",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Non c'è di che. Vuole chiedere altro?",
+      "ground": ""
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Sì, che iniziativa posso proporre per promuovere l'educazione ambientale?",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Una valida iniziativa è quella di istituire delle \"Giornate ecologiche\", dove cittadini e realtà locali si organizzano per raccogliere e smaltire i rifiuti in giro per la città. Può affiancare questa iniziativa con mostre educative e progetti di educazione ambientale nelle scuole. ",
+      "ground": "TITOLO: Educazione ambientale\n\nTASSONOMIA: Attivitа  di educazione ambientale (laboratori, giornate ecologiche, giornata del riuso,\n\n|||\n\nLa Giornata ecologica a Novaledo è andata in scena nel 2019 e ha riscosso un significativo successo, coinvolgendo numerose realtа e cittadini e centrando il suo obiettivo: l’impegno per una Novaledo più pulita. Mentre nel mattino i volontari, composti da genitori e figli hanno portato via una prima parte del materiale recuperato (l’operazione si è completata il lunedм con l’asporto dei rifiuti da parte della ditta autorizzata), il bilancio parziale è stato positivo. I rifiuti raccolti sono stati numerosi, ma al di lа del dato numerico, c’è stato il grande impegno di tutti. Nel 2020 a causa della pandemia la giornata ecologica è saltata, mentre si sta progettando per questo 2021 un progetto di educazione ambientale che coinvolgerа la scuola, e le famiglie con la giornata ecologica ma anche con mostre educative in collaborazione con la Provincia Autonoma di Trento."
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "Grazie per l'idea.",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "Non c'è di che, vuole chiedere altro?",
+      "ground": ""
+    },
+    {
+      "id": "T9",
+      "speaker": "Citizen",
+      "message": "No, sono a posto così, buona giornata.",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agent",
+      "message": "Buona giornata a lei.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

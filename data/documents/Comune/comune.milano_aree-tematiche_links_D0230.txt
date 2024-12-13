@@ -1,0 +1,30 @@
+Cos'è e come funziona l'Anagrafe Telecamere
+L’Anagrafe Telecamere offre la possibilità di inserire nella rete di videosorveglianza a disposizione delle Forze dell'Ordine le telecamere private installate conformemente alla normativa vigente in materia di privacy.
+L'adesione dei privati all'Anagrafe Telecamere
+- che avviene su base volontaria - rafforza la collaborazione tra società civile e Forze dell'Ordine e consente di ampliare la banca dati finalizzata allo svolgimento di indagini.
+Oltre alle Forze dell'Ordine, i soggetti coinvolti nell’attività di raccolta, consultazione e trattamento dei dati sono:
+i proprietari degli impianti (enti, aziende, professionisti, privati cittadini ecc.)
+i Referenti Tecnici degli impianti censiti, indicati dai proprietari.
+
+Chi sono i promotori del progetto?
+Il Progetto nasce dal tavolo di lavoro “Vittime Vulnerabili” composto da:
+Prefettura di Milano
+Procura della Repubblica presso il Tribunale di Milano
+Comune di Milano
+Questura di Milano
+Arma dei Carabinieri - Comando Provinciale di Milano
+Guardia di Finanza - Comando Provinciale di Milano.
+
+Privacy e sicurezza
+I dati censiti vengono raccolti e condivisi con le Forze dell’Ordine tramite il Comune di Milano.
+Di ogni telecamera inserita nel progetto, le Forze dell’Ordine hanno a disposizione le seguenti informazioni:
+posizione
+periodo di funzionamento nell’arco giornaliero
+durata e luogo di conservazione delle immagini riprese
+nome con cui la telecamera è registrata sul sistema di conservazione delle immagini
+nominativi e recapiti delle persone (Proprietario e/o Referente Tecnico) da contattare per acquisire/visionare le immagini.
+Il Sistema non contiene un archivio delle immagini acquisite dalle Forze dell’Ordine.
+Non è previsto il caricamento nel Sistema delle immagini acquisite nel corso di un’indagine.
+Il Sistema è stato realizzato adottando i massimi standard di sicurezza possibili in merito alla protezione ed alla riservatezza dei dati, secondo le vigenti normative in materia di privacy e data protection.
+Utilizza i servizi
+[https://www.comune.milano.it/servizi/aderisci-all-anagrafe-telecamere](Aderisci all'Anagrafe Telecamere)

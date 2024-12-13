@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00443",
+  "doc_src": "comune.trento_aree-tematiche_D0056.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, potrebbe darmi informazioni sulla Seconda variante 2013 Opere Pubbliche relativa alla zona servizi sull'immobile di via Belenzani?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, la variante è stata adattata dal Consiglio comunale nel 9 dicembre 2013, con adozione definitiva nel 26 febbraio 2014 e infine approvata dalla Giunta Provinciale nel 19 maggio 2014 e entrata in vigore nel 28 maggio 2014.",
+      "ground": "1. adottata dal Consiglio comunale con deliberazione n. 181 del 9 dicembre 2013 (prima adozione);\n2. adottata definitivamente dal Consiglio comunale con deliberazione n. 11 del 26 febbraio 2014 (adozione definitiva);\n3. approvata dalla Giunta Provinciale con deliberazione n. 750 del 19 maggio 2014, pubblicata sul Bollettino Ufficiale della regione n. 21 del 27 maggio 2014 e quindi entrata in vigore il giorno 28 maggio 2014."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E' possibile consultare l'elaborato tecnico che costituisce la variante?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "La variante è consultabile al link varianteinvigore.it",
+      "ground": "PRG - Seconda variante 2013 Opere Pubbliche – Stralcio zona servizi sull'immobile di via Belenzani attuale sede del Rettorato.\n[varianteinvigore.it]"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie per l'aiuto.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Prego. Se avrà bisogno di ulteriori informazioni, non esiti a contattarci di nuovo. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

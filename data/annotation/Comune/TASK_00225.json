@@ -1,0 +1,52 @@
+{
+  "task_id": "TASK_00225",
+  "doc_src": "comune.milano_aree-tematiche_links_D0253.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sugli Studi d'Area.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, gli Studi d'Area sono strumenti di indirizzo che propongono linee guida per la rigenerazione urbana di determinate aree della città.",
+      "ground": "Lo Studio d’area è uno strumento di indirizzo che si inserisce tra il Piano del Governo del Territorio e i singoli interventi, non detta regole ma propone delle linee guida.\nL’obiettivo è restituire le caratteristiche di un determinato quadrante urbano attraverso analisi quantitative e qualitative, e allo stesso tempo proporre una strategia in grado di orientare la rigenerazione urbana della città."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Gli Studi d'Area indicano quindi futuri progetti?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Non propriamente, gli Studi d'Area offrono solo un supporto indicativo per orientare le scelte dell'amministrazione.",
+      "ground": "Si precisa che gli Studi d’Area non sono strumenti o atti di pianificazione ai sensi della L.R.12/2005, ma studi meramente indicativi ai fini dell’orientamento e della coerenza delle scelte amministrative riguardanti lo sviluppo del territorio."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Quindi niente di quello che è scritto negli Studi d'Area dev'essere davvero fatto?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Esatto, i contenuti degli Studi d'Area non hanno carattere prescrittivo per ciò che riguarda le normative.",
+      "ground": "Si precisa pertanto che i contenuti degli stessi risultano, a livello urbanistico e normativo, privi di carattere prescrittivo o conformativo."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Grazie mille, ora ho capito.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

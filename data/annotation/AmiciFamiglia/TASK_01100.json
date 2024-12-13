@@ -1,0 +1,34 @@
+{
+  "task_id": "TASK_01100",
+  "doc_src": "comune_altopiano_della_vigolana__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Cosa mi consiglia di scrivere come azione con tassonomia \"Tirocini, promozione di percorsi lavorativi, Alternanza scuola lavoro\"?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Può scrivere un'azione in cui dice che l'Agenzia del Lavoro concede a Comuni e Consorzi dei contributi economici per gestire i lavori socialmente utili per le persone che hanno difficoltà a trovare un'occupazione, con priorità ai propri residenti, favorendone l'assuzione .",
+      "ground": "DESCRIZIONE: L’Agenzia del Lavoro concede a Comuni, Consorzi tra Comuni, Comunitа di Valle e A.P.S.P., dei contributi economici per attivare e gestire lavori socialmente utili per persone disoccupate che hanno difficoltа a trovare un’occupazione. Il Comune di Altopiano della Vigolana aderisce e supporta questa attivitа anche per gli anni 2022 2 3 24, favorendo l’assunzione di persone in difficoltа e dando precedenza ai propri residenti a seconda del bisogno.\n\n"
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "E qualcosa legata più all'aggregazione fra giovani?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Può pensare di mettere a disposizione nel suo comune varie sale, come una sala prova, una sala concerti e spazi per organizzare incontri. Può aprire questo spazio, dietro richiesta, ad associazioni e privati. \n\nPuò anche oensare di fornire finanziamenti ad spazi dedicati all'aggregazione.\n",
+      "ground": "DESCRIZIONE: Nel cuore di Vigolo Vattaro, uno spazio nato per dare spazio e voce ai giovani e diventare luogo di aggregazione per la comunitа Il centro giovani mette a disposizione una sala prove, una foresteria, una sala concerti con bar e cucina, sale e spazi per organizzare incontri, formazioni, eventi, mostre, spazi studio.\n\n|||\n\nIl Comune di Altopiano della Vigolana, in convenzione con la Comunitа Alta Valsugana e Bernstol finanzia il Centro di Aggregazione Giovanile che trova posto nell’edificio “Centro Giovani sito in Via F.Filzi 2."
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

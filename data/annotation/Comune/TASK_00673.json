@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00673",
+  "doc_src": "comune.trento_aree-tematiche_D0462.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Cosa significa il termine \"Cliente interno\"?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Il Cliente interno è quella persona o funzione interna dell'organizzazione che riceve un prodotto o servizio da un collega.",
+      "ground": "E' quella persona/funzione interna dell'organizzazione che riceve un prodotto/servizio da un collega."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "E la procedura, cos'è esattamente?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "La procedura è un documento scritto che illustra lo svolgimento del processo, riportando tutto ciò che è necessario per conseguire un obiettivo. Deve essere in grado di rispondere alle domande: perché, chi, cosa, come, quando, dove?",
+      "ground": "La procedura è un documento scritto che illustra lo svolgersi del processo, riportando tutto ciò che è necessario entri in gioco per conseguire un obiettivo. Essa deve rispondere a semplici domande: perché, chi, cosa, come, quando, dove?"
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "E la Qualità, che cos'è?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "La Qualità è l'espressione del grado in cui una serie di caratteristiche proprie di un prodotto o servizio soddisfa determinati requisiti.",
+      "ground": "Espressione del grado in cui una serie di caratteristiche proprie di un prodotto/servizio soddisfa determinati requisiti."
+    },
+    {
+      "id": "T07",
+      "speaker": "Citizen",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agent",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

@@ -1,0 +1,40 @@
+{
+  "task_id": "TASK_00754",
+  "doc_src": "comune.salerno_D0018.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sulla procedura per l'affidamento dello smaltimento rifiuti cimiteriali nel periodo 2024-2026.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Le domande di partecipazione per affidamento dei servizi di ritiro, trasporto e smaltimento dei rifiuti cimiteriali sono da presentarsi entro il 15 giugno 2024. Può ricevere più dettagli al seguente avviso pubblico https://www.comune.salerno.it/sites/default/files/2024-06/_Avviso_esplorativo%20rev.2-.pdf .",
+      "ground": "In allegato Avviso e modulistica per la manifestazione di interesse a partecipare alla procedura per l'affidamento del servizio di ritiro, trasporto e smaltimento rifiuti cimiteriali nel periodo 2024-2026.\nLe domande di partecipazione dovranno pervenire entro il 15 giugno 2024.\n[https://www.comune.salerno.it/sites/default/files/2024-06/_Avviso_esplorativo%20rev.2-.pdf](Avviso Pubblico)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Ho guardato i documenti, ma non ho trovato informazioni sulle modalità di presentazione della domanda. Posso presentarla online?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Mi dispiace, ma non sono in grado di fornirle informazioni al riguardo.",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Capito, grazie comunque.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

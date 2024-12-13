@@ -1,0 +1,40 @@
+{
+  "task_id": "TASK_00757",
+  "doc_src": "comune.salerno_D0021.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sui giorni e gli orari di apertura degli sportelli anagrafici per il rilascio delle tessere elettorali e carte d'identità in vista delle Elezioni Europee.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno. Gli sportelli anagrafici di Pastena-Madonna di Fatima e Palazzo di Città-via Roma osserveranno i seguenti orari di apertura straordinaria:\nsabato 1 giugno\n9,00 - 13,00\nchiuso\ndomenica 2 giugno\n9,00 - 13,00\nchiuso\nlunedì 3 giugno\n8,30 - 12,50\n15,00 - 17,00\nmartedì 4 giugno\n8,30 - 12,50\n15,00 - 17,00\nmercoledì 5 giugno\n8,30 - 12,50\n15,00 - 17,00\ngiovedì 6 giugno\n8,30 - 12,50\n15,00 - 17,00\nvenerdì 7 giugno\n9,00 - 18,00\nsabato 8 giugno\n9,00 - 23,00\ndomenica 9 giugno\n7,00 - 23,00\n\nL'ufficio elettorale di via Picarielli 76 seguirà gli stessi orari ma per il solo rilascio delle tessere.",
+      "ground": "In vista delle Elezioni Europee di sabato 8 e domenica 9 giugno 2024, gli sportelli anagrafici di\nPastena-Madonna di Fatima\ne Palazzo di Città-via Roma osserveranno i seguenti orari di apertura straordinaria al pubblico per il rilascio di tessere elettorali e carte d'identità:\nmattina\npomeriggio\nsabato 1 giugno\n9,00 - 13,00\nchiuso\ndomenica 2 giugno\n9,00 - 13,00\nchiuso\nlunedì 3 giugno\n8,30 - 12,50\n15,00 - 17,00\nmartedì 4 giugno\n8,30 - 12,50\n15,00 - 17,00\nmercoledì 5 giugno\n8,30 - 12,50\n15,00 - 17,00\ngiovedì 6 giugno\n8,30 - 12,50\n15,00 - 17,00\nvenerdì 7 giugno\n9,00 - 18,00\nsabato 8 giugno\n9,00 - 23,00\ndomenica 9 giugno\n7,00 - 23,00\nGli stessi orari saranno osservati anche dall'ufficio elettorale centrale di via Picarielli 76, esclusivamente per il rilascio di tessere elettorali."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Gli sportelli saranno aperti anche il sabato 1 giugno e la domenica 2 giugno?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "No, sabato 2 e domenica 3 gli sportelli saranno chiusi.",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Okay grazie. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

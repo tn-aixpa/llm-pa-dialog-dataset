@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_01149",
+  "doc_src": "romans_d'isonzo_v2.1__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Vorrei scrivere un'azione di supporto ai malati di Alzhaimer",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Hai un luogo tipo un centro diurno dove svolgere questa azione? Quale obiettivo vuoi realizzare di preciso?",
+      "ground": "TITOLO: Centro Diurno Francesco Candussi\nTASSONOMIA: Servizi integrativi: Spazio genitori/bambini, spazio gioco\nMACRO-AMBITO: Welfare territoriale e sostenibilitа\nDESCRIZIONE: Il Centro Diurno Francesco Candussi per pazienti affetti da demenza senile e malattia di Alzheimer è stato aperto dal 2011 al 2016, dando risposta ad un problema drammaticamente molto sentito dalle famiglie. Il servizio, attualmente assente nella Destra Isonzo, resta ad avviso dell’Amministrazione Comunale strategico in considerazione dell’incidenza costantemente in crescita di tali patologie sulla popolazione anziana e dell’impatto dirompente che queste hanno sulla qualitа della vita di tutto il nucleo familiare interessato."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Pensavamo di svolgere degli incontri al CSM del Comune in cui diamo supporto a tutte le famiglie che hanno fra i propri familiari anziani che soffrono di Alzheimer.",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "TITOLO: Incontri di supporto per famiglie con malati di Alzheimer\n\nTASSONOMIA: Servizi integrativi\n\nMACRO-AMBITO: Welfare territoriale e sostenibilitа\n\nOBIETTIVO: Fornire supporto e informazioni alle famiglie con membri anziani affetti da Alzheimer.\n\nDESCRIZIONE: Il Comune organizzerà  degli incontri di sostegno presso il CSM per informarle e supportarle nella gestione di anziani che soffrono di Alzheimer. L'obiettivo è di affrontare l'incidenza in crescita di patologie come l'Alzheimer e il loro impatto sulla qualità della vita familiare.",
+      "ground": "TITOLO: Centro Diurno Francesco Candussi\nTASSONOMIA: Servizi integrativi: Spazio genitori/bambini, spazio gioco\nMACRO-AMBITO: Welfare territoriale e sostenibilitа\nDESCRIZIONE: Il Centro Diurno Francesco Candussi per pazienti affetti da demenza senile e malattia di Alzheimer è stato aperto dal 2011 al 2016, dando risposta ad un problema drammaticamente molto sentito dalle famiglie. Il servizio, attualmente assente nella Destra Isonzo, resta ad avviso dell’Amministrazione Comunale strategico in considerazione dell’incidenza costantemente in crescita di tali patologie sulla popolazione anziana e dell’impatto dirompente che queste hanno sulla qualitа della vita di tutto il nucleo familiare interessato."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Come azione sulla fornitura di legna alle famiglie hai proposte?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Mi spiace ma non sono in grado di fornirti dei suggerimenti.",
+      "ground": ""
+    },
+    {
+      "id": "T07",
+      "speaker": "Citizen",
+      "message": "Allora vorrei sapere cosa mi proponi come azioni che posso scrivere orientate alle scuole.",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agent",
+      "message": "Puoi trovare in seguito una lista di possibili azioni che potresti scrivere:\n\nTITOLO: Servizio scuolabus gratuito per le gite scolastiche\n\nTASSONOMIA: Agevolazioni tariffarie e contributi per servizi educativi e di conciliazione\n\nOBIETTIVO: Facilitare la partecipazione delle scuole alle gite scolastiche senza oneri per le famiglie.\n\nDESCRIZIONE: Offrire un servizio di scuolabus gratuito per le gite scolastiche, garantendo che tutti gli alunni abbiano la possibilità di partecipare a esperienze educative fuori dall'aula.\n\n---\n\nTITOLO: Accessibilità economica all'istruzione\n\nTASSONOMIA: Agevolazioni tariffarie e contributi per servizi educativi e di conciliazione\n\nOBIETTIVO: Ridurre le barriere economiche per l'accesso all'istruzione.\n\nDESCRIZIONE: Implementare misure di supporto economico per le famiglie che affrontano difficoltà nel sostenere le spese scolastiche, inclusi materiali didattici e attività extrascolastiche.\n\n---\n\nTITOLO: Dopo scuola\n\nTASSONOMIA: Servizi doposcuola e servizi estivi\n\nOBIETTIVO: Offrire supporto educativo e ricreativo agli studenti dopo l'orario scolastico.\n\nDESCRIZIONE: Creare un programma di doposcuola che fornisca assistenza nei compiti e attività ricreative per gli studenti, favorendo la socializzazione e l'apprendimento.\n\n---\n\nTITOLO: Mensa scolastica\n\nTASSONOMIA: Servizi doposcuola e servizi estivi\n\nOBIETTIVO: Garantire un'alimentazione sana e bilanciata per gli studenti.\n\nDESCRIZIONE: Fornire un servizio mensa scolastica che offre pasti equilibrati e sani, promuovendo una corretta alimentazione tra gli studenti.\n\n---\n\nTITOLO: Centri Estivi\n\nTASSONOMIA: Servizi doposcuola e servizi estivi\n\nOBIETTIVO: Offrire opportunità di svago e apprendimento durante le vacanze estive.\n\nDESCRIZIONE: Organizzare centri estivi per i bambini, con attività ludiche e educative che incentivino la socializzazione e l'apprendimento durante il periodo estivo.",
+      "ground": "TITOLO: Servizio scuolabus gratuito per le gite scolastiche\n\n|||\n\nTITOLO: Accessibilitа economiche all'istruzione\n\n|||\n\nTITOLO: Dopo scuola\n\n|||\n\nTITOLO: Mensa scolastica\n\n|||\n\nTITOLO: Centri Estivi"
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

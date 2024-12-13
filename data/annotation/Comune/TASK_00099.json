@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00099",
+  "doc_src": "comune.milano_aree-tematiche_D0113.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Salve, vorrei informazioni sull'Osservatorio Edilizio Cittadino. Posso avere qualche dettaglio?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, l'Osservatorio Edilizio Cittadino è stato istituito per affiancare l'Amministrazione Comunale nelle attività legate al Regolamento Edilizio. Viene nominato dalla Giunta Comunale e tiene la carica per tre anni.",
+      "ground": "L'Osservatorio Edilizio Cittadino, istituito ai sensi dell'art. 4 del Regolamento Edilizio, ha il compito di affiancare l’Amministrazione Comunale nelle attività di aggiornamento e di interpretazione dello stesso regolamento, nonché di proporre soluzioni innovative, anche di ordine organizzativo e procedurale. \nNominato dalla Giunta Comunale per un periodo di tre anni, è composto da un Dirigente delle Unità Organizzative competenti in materia edilizia e urbanistica e da esperti nelle seguenti materie:"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Cosa fa l'Osservatorio?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "l'Osservatorio presenta rapporti annuali alla Giunta e ai Consigli di Zona, proponendo eventuali modifiche al Regolamento Edilizio. Inoltre, accoglie segnalazioni di problemi giuridici e tecnici da parte di vari enti e associazioni.",
+      "ground": "L'Osservatorio, entro il 30 giugno di ogni anno, presenta alla Giunta, ai Consigli di Zona ed all’Assessore competente un rapporto sui problemi emersi nell'applicazione del Regolamento Edilizio, presentando eventualmente proposte di modifica e integrazione."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Posso contattare l'Osservatorio per segnalare eventuali problemi legati all'edilizia e al territorio?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Certamente, puoi inviare le tue segnalazioni all'indirizzo email SUE.osservatorioedilizio@comune.milano.it. ",
+      "ground": "I dirigenti degli uffici urbanistici ed edilizi dell’Amministrazione Comunale, la Commissione per il Paesaggio, i Consigli di Zona, gli Ordini, i Collegi e le Associazioni di Categoria possono segnalare all'indirizzo email SUE.osservatorioedilizio@comune.milano.it i problemi giuridici, procedurali e tecnici di carattere generale inerenti l’applicazione del suddetto regolamento."
+    }
+  ],
+  "subcategory": "Milano"
+}

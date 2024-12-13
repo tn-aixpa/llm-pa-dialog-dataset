@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00297",
+  "doc_src": "comune.milano_aree-tematiche_links_D0329.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, saprebbe dirmi cos'è \"Giallo di Sera\"?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "\"Giallo di Sera\" è un'attività educativa e di socializzazione dei Centri Diurni per Disabili, mira all'autonomia personale e all'inclusione sociale.",
+      "ground": "Giallo di Sera\nè un’attività educativa di gruppo e di socializzazione dei Centri Diurni per Disabili e ha come obiettivo l’autonomia personale e l’inclusione sociale dei nostri e delle nostre ospiti."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Da quando esiste questo progetto?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Il giornalino è nato nel 1985 da un'idea di laboratorio di un educatore del Centro Diurno Disabili di via Cherasco. Dal 1986 si è poi esteso ad altri Centri Comunali e Convenzionati.",
+      "ground": "Il giornalino, nato nel 1985 da un'idea di laboratorio di un educatore del Centro Diurno Disabili di via Cherasco, allora Centro Territoriale Riabilitativo, ha esteso, a partire dal 1986, la propria redazione ad altri Centri Comunali e Convenzionati."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "E quante copie vengono stampate?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "La produzione iniziale prevedeva 4 numeri all'anno per circa 5000 copie, ma attualmente vengono stampati 3 numeri all'anno per circa 1500 copie.",
+      "ground": "La versione iniziale, fatta con il ciclostile direttamente dagli ospiti e dalle ospiti, ha previsto la produzione di 4 numeri all'anno per circa 5000 copie di cui circa 500 spedite in tutta Italia.\n\n|||\n\nIntorno al 2013 è stata introdotta la stampa a colori e i numeri del giornalino sono diventati 3 all’anno per circa 1500 copie di cui circa 200 spedite in tutta Italia."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni!",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "È stato un piacere, se hai bisogno di ulteriori dettagli non esiti a ricontattarci. Buona giornata!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01077",
+  "doc_src": "castel_ivano__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": " Che azioni mi proponi per la tassonomia \"Promozione e organizzazione di eventi ludici (festa delle famiglie, spettacoli ecc.)\" ?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Per la tassonomia da lei descritta le propongo i titoli di alcune azioni:\n- Cena Estiva sotto le stelle\n- Concerto della Banda e del Coro Parrochiale",
+      "ground": "TITOLO: CENA ESTIVA SOTTO LE STELLE\n\n|||\n\nTITOLO: CANCERTO DELLA BANDA E DEL CORO PARROCCHIALE"
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "E per la tassonomia \"Attivitа/progetti formativi specifici per bambini e ragazzi\" ?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Per la tassonomia da lei descritta le propongo i titoli di alcune azioni:\n- Attività culturali e ricreative per bambini\n- Collaborazione con la scuola\n- Caccia al tesoro\n- Mercatino delle \"tatare\"",
+      "ground": "TITOLO: MERCATINO DELLE ''TATARE''\n\n|||\n\nTITOLO: CACCIA AL TESORO\n\n|||\n\nTITOLO: COLLABORAZIONE CON LA SCUOLA\n\n|||\n\nTITOLO: ATTIVITA' CULTURALI E RICREATIVE PER BAMBINI"
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Cosa sarebbe l'ultima?",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "E' un mercatino dove bambini possono scambiarsi e vendersi giochi in una piazza della città.",
+      "ground": "DESCRIZIONE: Scambio e vendita di giochi da parte dei bambini, nella piazza della frazione di Strigno"
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

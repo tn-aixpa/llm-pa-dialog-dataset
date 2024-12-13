@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00301",
+  "doc_src": "comune.milano_aree-tematiche_links_D0333.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, sa dirmi se ci sono iniziative che si occupano di salute mentale?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, c'è un'iniziativa si chiama Milano4Mentalhealth. Si tratta di un progetto che aiuta i cittadini ad accedere a informazioni relative a progetti, attività di prevenzione e fenomeni sociali legati alla salute mentale.",
+      "ground": "Milano4Mentalhealth\nè l’iniziativa che aiuta i cittadini ad accedere a informazioni relative a progetti, attività di prevenzione, fenomeni sociali in atto e possibili azioni individuali da intraprendere legati al fondamentale tema della salute mentale, attraverso la sinergia e la valorizzazione delle realtà associative, istituzionali, sanitarie e imprenditoriali della città."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quali sono gli obiettivi dell'iniziativa?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "L'obiettivo principale è quello di porre la salute mentale al centro del dibattito sociale e politico, promuovendo azioni di prevenzione e sensibilizzazione, soprattutto tra le fasce più giovani della popolazione.",
+      "ground": "L’obiettivo è porre, insieme, la salute mentale al centro del dibattito sociale e politico.\nIl complesso periodo storico che stiamo vivendo, infatti, ha ancor di più sottolineato l’urgenza di mettere al centro la tutela della salute mentale, partendo dalla promozione di azioni di prevenzione dedicate alle fasce di popolazione più giovane."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "E come posso ottenere più informazioni?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Puoi consultare il sito dedicato a Milano4Mentalhealth al link https://www.milano4mentalhealth.it/ .",
+      "ground": "Scopri il calendario degli eventi gratuiti e aperti al pubblico, le informazioni e gli approfondimenti sul\n[https://www.milano4mentalhealth.it/](sito dedicato)"
+    }
+  ],
+  "subcategory": "Milano"
+}

@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00792",
+  "doc_src": "comune.salerno_D0065.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Vorrei sapere dove si può esprimere l'interessamento per la costituzione dell'elenco di strutture per l'infanzia. ",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Per tale manifestazione di interesse deve inviare la domanda entro il 29 aprile 2024. Può trovare più dettagli all'avviso presente al link https://www.comune.salerno.it/sites/default/files/2024-04/avviso%20strutture%20rc_signed.pdf",
+      "ground": "In allegato Avviso Pubblico e relativi allegati per manifestazione di interesse per la costituzione di un elenco delle strutture disponibili all'erogazione di servizi per l'infanzia.\nLe domande dovranno pervenire entro e non oltre il 29 aprile 2024.\n[https://www.comune.salerno.it/sites/default/files/2024-04/avviso%20strutture%20rc_signed.pdf](Avviso)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Capisco, grazie per l'informazione.",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

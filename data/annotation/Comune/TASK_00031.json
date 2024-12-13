@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_00031",
+  "doc_src": "comune.milano_aree-tematiche_D0047.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sul procedimento per il matrimonio.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Saluti, Mi dica.",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "È vero che devo richiedere la pubblicazione all'albo prima di poter celebrare il matrimonio?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, esatto. Il procedimento prevede la pubblicazione all'albo pretorio (diffuso online) per un periodo di otto giorni più tre per eventuali ricorsi.",
+      "ground": "La pubblicazione di matrimonio consiste nell'affissione all'albo pretorio online (di norma otto giorni + tre per eventuali ricorsi)."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "E quanto costa fare la pubblicazione?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Il costo base è di € 16,52, ma se gli sposi risiedono in due Comuni diversi diventa € 32,52. Se poi la cerimonia avviene in un altro Comune, si aggiungono € 16,00 ai costi.",
+      "ground": "Costo base: € 16,52\nse gli sposi risiedono in due Comuni diversi: € 32,52\nse la cerimonia civile si svolge in un altro Comune: al costo delle pubblicazioni aggiungere ulteriori € 16,00"
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Capito. E dopo la pubblicazione, come funziona la celebrazione?",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "Finita la pubblicazione (quindi alla fine degli otto più tre giorni), a partire dal quarto giorno e se la pubblicazione all'albo è andata a buon fine può continuare l'iter.\n- Se il matrimonio si svolge a Milano, verrà contattato per la prenotazione del rito;\n- Se si svolge in altro comune, verrà invece rilasciata una delega;\n- Per i matrimonio con rito religioso, verrà rilasciato il nullaosta che dovrà dare al parroco.\n\n\na partire dal quarto giorno successivo, in presenza del buon esito delle pubblicazioni, verrai contattato per la prenotazione del rito nelle sale del Comune di Milano se il matrimonio civile si svolge qui. Se si svolge in un altro Comune, ti verrà rilasciata una delega per la celebrazione.",
+      "ground": "A partire dal quarto giorno successivo al termine dell'esposizione all'albo pretorio (ossia gli otto giorni di pubblicazione + tre per eventuali ricorsi), in presenza del buon esito delle pubblicazioni:\n\nper i matrimoni civili da celebrare a Milano - si viene contattati per la prenotazione del rito nelle sale del Comune di Milano (vedi istruzioni per la celebrazione nella sezione Utilizza i servizi)\nper i matrimoni civili in altro Comune - viene rilasciata la delega per la celebrazione nell’altro Comune\nper i matrimoni con rito religioso - viene rilasciato il nullaosta da consegnare al parroco."
+    },
+    {
+      "id": "T09",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni, mi è stato di grande aiuto.",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agente",
+      "message": "Sono qui per rispondere a qualsiasi altra domanda tu abbia. Buona giornata!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

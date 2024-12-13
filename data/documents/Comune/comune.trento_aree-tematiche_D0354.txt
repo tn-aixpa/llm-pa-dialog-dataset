@@ -1,0 +1,25 @@
+Il progetto "Smart citiy Lab a Vela" vede il Comune di Trento e FBK collaborare assieme per testare soluzioni innovative di Smart City in un rione specifico di Trento, la Vela
+Le attività che si intendono realizzare nel contesto dello Smart City Lab a Vela sono molteplici. Le principali sono:
+installazione di strumentazione e infrastrutture ICT (es. sensori intelligenti, apparati di comunicazione innovativi - es. WiMax e rete LoRA);
+attività di analisi e monitoraggio dello stato del quartiere ("city sensing") e creazione di cruscotti informativi dedicati alla pubblica amministrazione e alla cittadinanza;
+realizzazione di soluzioni informatiche (es. app, portali, strumenti di collaborazione e partecipazione) per i cittadini;
+attività di coinvolgimento della comunità locale nei progetti di innovazione e sperimentazione.
+Tutte le attività di questo laboratorio, condivise con la Giunta e con la Circoscrizione "Centro storico - Piedicastello", sono inoltre strettamente connesse al
+[https://www.comune.trento.it/Progetti/Stardust](progetto europeo Stardust)
+del programma Horizon 2020 SCC (Smart City and Communities). Il laboratorio permette di sperimentare soluzioni smart in uno spazio reale e con la collaborazione e la partecipazione di veri cittadini, che saranno poi trasferite a tutta la città una volta verificata l'effettiva utilità delle stesse.
+[]()
+Attività in corso
+[]()
+Climb / Kids go green
+Attualmente a Vela è in corso l'iniziativa
+[https://kidsgogreen.eu](Climb / Kids go green)
+.
+Sviluppata all’interno del progetto
+[https://www.comune.trento.it/Aree-tematiche/Ambiente-e-territorio/Mobilita-e-traffico-urbano/Iniziative/Bambini-A-Piedi-Sicuri](Bambini a piedi sicuri)
+e realizzata dall’ufficio Politiche giovanili in collaborazione con la Fondazione Bruno Kessler e Kaleidoscopio, l'iniziativa permette ai bambini della scuola elementare di percorrere virtualmente dei tragitti a tappe nel mondo.
+I bambini sono dotati di dispositivi che sfruttano sensori di prossimità. I km fatti con mezzi sostenibili (a piedi, in bici, col pedibus smart o con lo scuolabus) permettono alla scuola di avanzare in un viaggio didattico-interattivo che, tappa dopo tappa, porta alla scoperta di città, paesi e ambienti, trasmettendo il valore dei km sostenibili fatti collettivamente.
+[]()
+Decenter
+Il
+[https://www.comune.trento.it/Aree-tematiche/Smart-city/Progetti-d-innovazione-in-corso/Decenter](progetto europeo Decenter)
+ha come obiettivo quello di aumentare la sicurezza degli attraversamenti pedonali e ridurre il rischio di incidenti. A Vela sono stati posizionati strumenti come telecamere e sensori capaci di monitorare i movimenti di pedoni, ciclisti e automobilisti in prossimità delle strisce pedonali situate all'ingresso del quartiere. Questi strumenti saranno in grado di generare un avviso attraverso dei segnali luminosi e acustici per aiutare i pedoni ad aumentare il livello di attenzione e completare l’attraversamento stradale in sicurezza.

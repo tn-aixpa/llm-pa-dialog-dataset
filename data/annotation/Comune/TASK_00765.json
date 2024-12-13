@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00765",
+  "doc_src": "comune.salerno_D0029.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Salve, qual è l'attuale graduatoria concorsuale?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "L'attuale graduatoria concorsuale permette di assumere 10 istruttori amministrativi con contratto di lavoro a tempo pieno e indeterminato.",
+      "ground": "L'Amministrazione Comunale di Salerno intende individuare Enti del medesimo comparto contrattuale con cui concludere un accordo, ai sensi e per gli effetti dell'art.9 della Legge n. 3/2003 e dell'art. 3, comma 61, della Legge n. 350/2003, per l'utilizzo di graduatorie concorsuali, in corso di validità, ai fini dell'assunzione con contratto di lavoro a tempo pieno ed indeterminato di 10 Istruttori Amministrativi (Area degli Istruttori - ex Cat. C), come da Determinazione n. 2230 del 22.05.2024."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Cosa c'è da fare se un'amministrazione ci intende partecipare?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Se l'amministrazione ha una graduatoria valida, può inviare una mail alla pec personale@pec.comune.salerno.it con la determinazione di approvazione, l'elenco contenente l'anagrafica e recapiti dei soggetti collocati più altri documenti nel caso siano presenti entro 15 giorni da questo avviso.",
+      "ground": "Le Amministrazioni in possesso di graduatorie valide, se interessate, entro 15 giorni da questo avviso, possono comunicare la propria disponibilità all'indirizzo PEC personale@pec.comune.salerno.it, unitamente alla determinazione di approvazione della graduatoria, corredata dall'elenco contenente i dati anagrafici e i recapiti dei soggetti utilmente collocati, con indicazione delle eventuali impugnazioni, ricorsi conclusi o pendenti ovvero la mancanza degli stessi per decorrenza dei termini, nonchè del nominativo da cui iniziare lo scorrimento."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Perfetto, grazie mille per l'aiuto!",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Di nulla, resto a disposizione per ulteriori informazioni. Buona giornata!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

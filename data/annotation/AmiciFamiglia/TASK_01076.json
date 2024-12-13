@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01076",
+  "doc_src": "carzano__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Il mio Comune ha delle iniziative ma abbiamo problemi di iscrizione, cosa possiamo fare per stimolare la gente a partecipare? ",
+      "ground": " "
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Potrebbe pensare di fornire un contributo alle quote di iscrizione per attività rivolte verso bambini e ragazzi, compatibilmente con le risorse disponibili in bilancio.",
+      "ground": "TITOLO: Contributo per abbattere la quota d’iscrizione alle attivitа ricreative ed educative estive dei bambini/ragazzi.\n\n|||\n\nIl Comune, ha approvato il nuovo “regolamento per la concessione di finanziamenti e benefici economici\n\nad enti pubblici, associazioni e soggetti privati” approvato con deliberazione consiliare n. 22 del 11.07.2013, il Capo II prevede, al fine di promuovere iniziative a sostegno delle famiglie residenti nel Comune che iscrivano i loro figli ad attivitа ricreative ed educative, la concessione, compatibilmente con\n\nle risorse disponibili in bilancio, ad associazioni, enti e soggetti erogatori del servizio, che propongano tariffe agevolate, un contributo settimanale massimo di euro 25,00.- per bambino iscritto."
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "No, non abbiamo abbastanza risorse.",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Mi dispiace per il suo Comune.\nLe può servire altro?",
+      "ground": ""
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "La mia comunità interagisce poco, che posso fare per stimolarla?",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Potrebbe mettere a disposizioni spazi correntemente non occupati a disposizione per momenti di aggregazione, socializzazione e svago, oppure creare momenti di ascolto e confronto critico.",
+      "ground": "La formazione continua è un presupposto fondamentale per poter assumere in prima persona la responsabilitа dell’impegno educativo. Per questo motivo il Comune intende sostenere la genitorialitа e promuovere momentidi ascolto, confronto critico, informazione rivolto a tutti gli adulti che, a vario titolo, rivestono ruoli educativi all’interno della Comunitа, a cominciare dai genitori.\n\n|||\n\nCome previsto dal Regolamento per l’uso di sale comunali ad Enti, Associazioni e privati per finalitа culturali, ricreative, sociali, educative e sportive, approvato con deliberazione del Consiglio comunale\n\nn. 13 del 30.04.2013; il Comune, qualora pervengano richieste, mette a disposizione i locali di proprietа comunale, non occupati per finalitа istituzionali, al fine di favorire momenti di aggregazione, socializzazione e svago per adulti."
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

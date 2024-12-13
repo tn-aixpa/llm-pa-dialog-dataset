@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_01112",
+  "doc_src": "lavis__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Come posso scrivere un'azione per rafforzare la rete?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Può parlare di come ha collaborato con cooperative locali per fare azioni di welfare generativo, e di come intende quest'anno proseguire con iniziativà e attività, sia per bambini che per adulti, all'interno dell'intero paese.",
+      "ground": "DESCRIZIONE: Nel 2022 a seguito del progetto predisposto dalla Comunitа di Valle Rotaliana Koenigsberg e dalla cooperativa Kaleidoscopio per l'attivazione nel quartiere Furli di azioni di welfare generativo, verranno organizzate numerose iniziative ed attivitа, per bambini e ragazzi ma anche per adulti, sia del quartiere che dell'intero paese."
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Bene, bene",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "C'è altro con cui posso aiutarla?",
+      "ground": ""
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Cosa posso fare per promuovere la natalità?",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Può decidere di predisporre un kit di benvenuto ai nuovi nati del territorio, dare dei contributi per l'acquisto di pannolini lavabili, oppure piantare un albero per ogni nuovo bambino nato.",
+      "ground": "DESCRIZIONE: L'Amministrazione comunale ha predisposto un Kit per dare il benvenuto a tutti i nuovi nati del territorio.\n\n|||\n\nTITOLO: Contributo per l'acquisto di pannolini lavabili\n\n|||\n\nDESCRIZIONE: Anche nell'anno 2022 per condividere e rispettare gli spazi verdi dei centri abitati, verrа organizzata un'iniziativa di sensibilizzazione durante la quale verrа piantato un albero che rappresenterа tutti i bambini nati ed adottati nell'anno precedente in riferimento alla normativa che prevede che per ogni nato nei comuni con più di 15.000 abitanti venga messo a dimora un'albero."
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "E se volessi organizzare eventi su un corretto stile di vita?",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "Può pensare di dedicare un giorno della settimana come giorno della salute, per esempio il giovedì. Durante queste giornate medici e farmacisti fanno informazione su tematiche di salute di bambini e adulti. Lo scopo sarebbe di prevenire il carico sanitario grazie a una corretta informazione.\n\n\nSe dovesse scrivere una azione sul tema, le consiglio la tassonomia \"Incontri formativi e informativi: Salute e stili di vita, Contrasto alle dipendenze\"",
+      "ground": "TITOLO: I giovedм della salute\n\nTASSONOMIA: Incontri formativi e informativi: Salute e stili di vita, Contrasto alle dipendenze\n\nOBIETTIVO: Prevenzione sanitaria attraverso una corretta informazione\n\nDESCRIZIONE: Come da da diversi anni, verranno riproposte le serate informative di prevenzione sanitaria, con medici e farmacisti nella giornata di giovedм, su tematiche della salute di adulti e bambini."
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

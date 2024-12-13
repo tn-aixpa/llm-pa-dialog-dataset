@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00776",
+  "doc_src": "comune.salerno_D0041.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, potrebbe dirmi se il concerto delle \"Sisters IN Soul\" sarà gratuito?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Le \"Sisters IN Soul\" sono fra le persone che canteranno durante il concerto \"Salerno Jazz & Pop Festival\", questo festival è ad ingresso gratuito.",
+      "ground": "Il Teatro Augusteo di Salerno si prepara ad accogliere la quattordicesima edizione del Salerno Jazz & Pop Festival, organizzato dal Conservatorio di Musica “Giuseppe Martucci”, che si terrà il 23 e il 24 maggio 2024. I concerti avranno inizio alle ore 21,00.\nGiovedì 23 maggio, il palco ospiterà il concerto delle “Sisters IN Soul”, con Alice Armstrong e la Daria Biancardi Band.\n\n|||\n\nL’ingresso è gratuito\n"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Capito, grazie. E per quanto riguarda l'esibizione dei Dirotta su Cuba, ci saranno posti a sedere garantiti?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Mi dispiace, ma non ho informazioni sui posti a sedere.",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È stato un piacere, resto a disposizione per eventuali ulteriori chiarimenti. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

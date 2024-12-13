@@ -1,0 +1,34 @@
+{
+  "task_id": "TASK_01152",
+  "doc_src": "ronchi_valsugana_v2.1__2023.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Proponimi un testo di azione in cui il Comune di Brindisi vuole estendere l'apertura dell'ufficio comunale fino alle 17, facendo orario continuato. Lo scopo è quello di venire in contro alle famiglie.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "TITOLO: Estensione dell'apertura degli uffici comunali\n\nTASSONOMIA: Orari concilianti per i propri utenti\n\nMACRO-AMBITO: Welfare territoriale e sostenibilitа\n\nOBIETTIVO: Venire incontro alle esigenze delle famiglie\n\nDESCRIZIONE: Il Comune di Brindisi intende estendere l'apertura degli uffici comunali fino alle 17:00, adottando un orario continuato. Questa iniziativa mira a garantire un servizio più accessibile per le famiglie, sopratutto quelle con entrambi i genitori lavoratori.",
+      "ground": "TITOLO: Apertura pomeridiana uffici comunali\nTASSONOMIA: Orari concilianti per i propri utenti\nMACRO-AMBITO: Welfare territoriale e sostenibilitа\nDESCRIZIONE: Il Comune è disponibile ad adattare il proprio orario di apertura al pubblico identificando delle fasce orarie compatibili con le esigenze famigliari e lavorative. Si garantirа un’apertura pomeridiana al pubblico il lunedм dalle 16:00 alle 18:00 abbinato al ricevimento dell’Amministrazione."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Bene, ora aiutami a completare questa bozza\n\nTitolo: Musei gratis alle famiglie\n\nDescrizione: le famiglie hanno accesso gratuito al museo Comunale, per i ragazzi da 13 anni in giù sarà possibile partecipare a dei laboratori che si tengono due volte al mese il giovedì alle 16 ",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "TITOLO: Musei gratis alle famiglie\n\nDESCRIZIONE: Le famiglie hanno accesso gratuito al museo Comunale. Per i ragazzi fino ai 13 anni di età sarà possibile partecipare a dei laboratori creativi che si tengono due volte al mese il giovedì alle 16:00. Questi laboratori offriranno un'opportunità per apprendere e sperimentare attività artistiche e culturali, contribuendo così a una maggiore integrazione delle famiglie nella vita culturale della comunità. L'iniziativa mira a stimolare l'interesse per l'arte e la storia.",
+      "ground": "TITOLO: Promozione corsi abilitа pratiche e artigianato\nTASSONOMIA: Laboratori creativi e educativi (Corsi abilitа, pratiche e artigianato, antichi mestieri ecc)\nMACRO-AMBITO: Comunitа educante\nDESCRIZIONE: L'Amministrazione intende sostenere la Pro Loco nell'organizzazione di un corso per insegnare soprattutto alle giovani generazione alcuni antichi mestieri, ad esempio lavoro a maglia, come occasione anche di scambio intergenerazionale.\n\n|||\n\nTITOLO: Promozione eventi culturali\nTASSONOMIA: Proposte culturali: museo, cinema, teatro, arte ecc.\nMACRO-AMBITO: Comunitа educante\nDESCRIZIONE: И intenzione dell’Amministrazione in accordo con gli altri Comuni della Valsugana e Tesino di aderire e organizzare iniziative culturali (ad esempio “Progetto Brenta”).\nAnche per il 2023 il Comune ha aderito insieme al Comune di Torcegno alla rassegna “Lagorai d’InCanto” avvicinando la cittadinanza a godere della buona musica immersi nella natura incontaminata dell’alta montagna. "
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

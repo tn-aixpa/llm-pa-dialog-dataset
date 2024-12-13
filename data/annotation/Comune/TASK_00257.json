@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_00257",
+  "doc_src": "comune.milano_aree-tematiche_links_D0288.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, come funziona la denuncia di morte?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, la denuncia di morte deve essere presentata entro 24 ore al Comune in cui è avvenuto il decesso. Se il decesso è avvenuto in ospetale, sarà necessario rivolgersi alla direzione sanitaria che fornirà la documentazione necessaria. Se invece la morte è avvenuta a casa, è da chiamare il medico curante che verificherà il decesso e compilerà lui la documentazione per la denuncia",
+      "ground": "Denuncia di morte: come funziona\nLa denuncia di morte deve essere presentata entro 24 ore al Comune in cui è avvenuto il decesso.\nPer decessi avvenuti in ospedale\nRivolgersi alla Direzione Sanitaria che fornirà la documentazione necessaria per effettuare la denuncia di morte.\nPer decessi avvenuti in abitazione\nChiamare il medico curante che constaterà il decesso e compilerà tutta la documentazione necessaria per effettuare la denuncia di morte e delle sue cause (scheda ISTAT)."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Dopo la denuncia di morte, cosa succede?",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "Se la morte è avvenuta in abitazione, il Comune invierà un medico necroscopo per l’accertamento del decesso. È importante mettere a disposizione tutta la documentazione sanitaria relativa al periodo precedente il decesso, oltre a un documento di identità e al codice fiscale della persona defunta.",
+      "ground": "Successivamente alla denuncia di morte, il Comune invierà al domicilio il medico necroscopo per l’accertamento del decesso. È opportuno mettere a disposizione dei medici tutta la documentazione sanitaria relativa al periodo precedente il decesso, oltre a un documento di identità e al codice fiscale della persona defunta."
+    },
+    {
+      "id": "T09",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni. Se avrò bisogno di ulteriori chiarimenti, chi posso contattare?",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agente",
+      "message": "Per ulteriori informazioni può contattare i numeri 02 884 62160 o 02 884 62167.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

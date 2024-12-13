@@ -1,0 +1,94 @@
+{
+  "task_id": "TASK_01060",
+  "doc_src": "arco__2023.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Cosa posso scrivere all'inizio del mio piano famiglia?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Può prendere spunto dal Piano Famiglia di Arco del 2023.\nIl Comune comincia dicendo quando ha ottenuto il marchio \"Family in Trentino\" 2007, per poi dire come questo ha permesso alle varie amministrazioni di avere un insieme integrato di interventi di benessere familiare grazie al coordinamento e reciproca contaminazioni di politiche sociali, culturali, educative e sportive fra le altre.",
+      "ground": "=== PIANO FAMIGLIA DI ARCO ANNO 2023 ===\n\nIl Comune di Arco, in data 19 ottobre 2007, ha ottenuto, primo Comune in Trentino, il marchio “Family in Trentino”, in ragione dell’attivitа ordinaria e straordinaria svolta dall’amministrazione comunale a sostegno delle politiche familiari.\n\nPer un Comune di quasi 18.000 abitanti l’ottenimento del marchio, ha permesso di orientare ed indirizzare l’agire delle varie amministrazioni che si sono susseguite in questi 15 anni, verso un insieme integrato di interventi a sostegno del benessere familiare, caratterizzato dal coordinamento e dalla reciproca contaminazione delle politiche:\n\nsociali,\n\nculturali,\n\ngiovanili,\n\neducative,\n\nambientali-urbanistiche,\n\nsportive e del tempo libero,\n\neconomico-finanziarie.\n\nproprie dell’ente pubblico comunale."
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Sembra un buon inizio.",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "C'è per caso altro con cui posso aiutarla?",
+      "ground": ""
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Qualcosa ci sarebbe. Ci sono azioni per migliorare la comunicazione?",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Potrebbe pensare di migliorare la comunicazione fra famiglie e comune attraverso la somministrazione di un questionario digitale quando le famiglie accedono al sistema dei servizi per la prima infanzia comunali.",
+      "ground": "DESCRIZIONE: Nell'ambito della progressiva digitalizzazione del sistema di accesso ai servizi prima infanzia comunali (adozione di una nuova piattaforma per la gestione delle graduatorie, per la fatturazione, etc) e di comunicazione con le famiglie beneficiarie, verrа somministrato un questionario di gradimento del servizio."
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "E per incontri formativi ci sono proposte?",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "Potrebbe organizzare incontri ed eventi sulla violenza di genere, attivare progetti di servizio civile rivolti ai giovani o promuovere la frequentazione della biblioteca.",
+      "ground": "DESCRIZIONE: Realizzazione, sul territorio dell'Alto Garda e Ledro, di eventi ed iniziative coordinate dal tavolo intercomunale sulla violenza di genere.\n\n|||\n\nTITOLO: GIOVANI PER L'AMBIENTE - PROGETTI DI SERVIZIO CIVILE\n\n|||\n\nOBIETTIVO: I progetti, della durata di 12 mesi, sono rivolti a giovani tra i 18 e i 28 anni permettendo loro di acquisire competenze, mettersi in gioco, conoscere la realtа della pubblica amministrazione, sperimentarsi in prima persona ed essere protagonisti di azioni concrete a tutela dell'ambiente e del territorio locale.\n\n|||\n\nOBIETTIVO: Promuovere la conoscenza e la frequentazione della biblioteca comunale, spazio prestigioso e accogliente per le famiglie di cittadini e ospiti turisti, attivando iniziative funzionali alle richieste di questa tipologia di utenza."
+    },
+    {
+      "id": "T9",
+      "speaker": "Citizen",
+      "message": "Puoi dirmi di più sul progetti di servizio civile?",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agent",
+      "message": "Certamente, in seguito il testo integrale dell'azione.\n\nTITOLO: GIOVANI PER L'AMBIENTE - PROGETTI DI SERVIZIO CIVILE\n\nTASSONOMIA: Certificazioni ambientali\n\nOBIETTIVO: I progetti, della durata di 12 mesi, sono rivolti a giovani tra i 18 e i 28 anni permettendo loro di acquisire competenze, mettersi in gioco, conoscere la realtа della pubblica amministrazione, sperimentarsi in prima persona ed essere protagonisti di azioni concrete a tutela dell'ambiente e del territorio locale.\n\nDESCRIZIONE: Proposta di attivazione di 2 progetti di servizio civile, per conoscere e tutelare l'ambiente ed il territorio locale:\n\n1) Emas: Arco tutela l'ambiente ed il suo futuro\n\nattivitа svolta in collaborazione con l'ufficio Ambiente comunale, incentrata sulla certificazione ambientale e le varie attivitа di sensibilizzazione inerenti la tutela dell'ambiente e del territorio;\n\n2) Sai cosa c'è sotto? L'acqua e i suoi percorsi urbani\n\nattivitа svolta in collaborazione con l'ufficio Servizi a rete comunale, incentrata sull'indagine e monitoraggio dell'acquedotto e la fognatura del territorio, con attivitа di sensibilizzazione sulla tutela della risorsa idric",
+      "ground": "TITOLO: GIOVANI PER L'AMBIENTE - PROGETTI DI SERVIZIO CIVILE\n\nTASSONOMIA: Certificazioni ambientali\n\nOBIETTIVO: I progetti, della durata di 12 mesi, sono rivolti a giovani tra i 18 e i 28 anni permettendo loro di acquisire competenze, mettersi in gioco, conoscere la realtа della pubblica amministrazione, sperimentarsi in prima persona ed essere protagonisti di azioni concrete a tutela dell'ambiente e del territorio locale.\n\nDESCRIZIONE: Proposta di attivazione di 2 progetti di servizio civile, per conoscere e tutelare l'ambiente ed il territorio locale:\n\n    Emas: Arco tutela l'ambiente ed il suo futuro\n\nattivitа svolta in collaborazione con l'ufficio Ambiente comunale, incentrata sulla certificazione ambientale e le varie attivitа di sensibilizzazione inerenti la tutela dell'ambiente e del territorio;\n\n    Sai cosa c'è sotto? L'acqua e i suoi percorsi urbani\n\nattivitа svolta in collaborazione con l'ufficio Servizi a rete comunale, incentrata sull'indagine e monitoraggio dell'acquedotto e la fognatura del territorio, con attivitа di sensibilizzazione sulla tutela della risorsa idrica."
+    },
+    {
+      "id": "T11",
+      "speaker": "Citizen",
+      "message": "Grazie mIlle.",
+      "ground": ""
+    },
+    {
+      "id": "T12",
+      "speaker": "Agent",
+      "message": "Di nulla. Le serve altro?",
+      "ground": ""
+    },
+    {
+      "id": "T13",
+      "speaker": "Citizen",
+      "message": "No, sono a posto.",
+      "ground": ""
+    },
+    {
+      "id": "T14",
+      "speaker": "Agent",
+      "message": "Le auguro una buona giornata allora.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

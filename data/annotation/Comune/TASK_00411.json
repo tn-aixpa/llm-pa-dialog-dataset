@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00411",
+  "doc_src": "comune.trento_aree-tematiche_D0016.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei usare il mio spazio come area di parcheggio coperta. È possibile?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, certamente. Per aprire un'attività di autorimessa in uno spazio al chiuso, il locale deve rispettare le norme dei Regolamenti edilizi. È anche necessario un certificato di prevenzioni incendi se lo spazio è superiore ai 300 mq.",
+      "ground": "Se viene svolta in luogo chiuso i locali devono rispettare le norme contenute nei Regolamenti edilizi sia in ordine alla struttura che alla destinazione d'uso e possedere un certificato di agibilità per tale uso. Se i locali superano i 300 mq è prescritto il certificato di prevenzione incendi."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quindi devo assicurarmi che l'area sia conforme alle normative edilizie e che possiedo tutti i certificati necessari?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Esatto.",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "E cosa dovrei fare invece se volessi chiudere l'attività?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Certamente, per la cessazione dell'attività di autorimessa è necessario presentare una comunicazione tramite il SUAP telematico. Puoi trovare più dettagli al link https://www.comune.trento.it/Aree-tematiche/Attivita-economiche/Trasporti/Rimessa-di-veicoli/Cessazione-attivita-di-autorimessa",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Attivita-economiche/Trasporti/Rimessa-di-veicoli/Cessazione-attivita-di-autorimessa](Cessazione attività di autorimessa)\nInformazioni per presentare, tramite\nSUAP\ntelematico, la comunicazione di cessazione attività relativa ad una rimessa di veicoli"
+    }
+  ],
+  "subcategory": "Trento"
+}

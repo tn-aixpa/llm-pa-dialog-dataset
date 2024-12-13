@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00866",
+  "doc_src": "comune.salerno_D0179.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "È stata firmata un'ordinanza riguardante la vendita di alcolici ai minori a Salerno?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Sì, l'ordinanza firmata lunedì 20 maggio. Questa impone agli esercizi commerciali di esibire avvisi e cartelli che vietano la somministrazione di alcolici ai minori.",
+      "ground": "È stata firmata lunedì 20 maggio dal Sindaco di Salerno Vincenzo Napoli l'ordinanza che impone ad ogni esercizio commerciale che vende alcolici di esibire all'ingresso avvisi e cartelli relativi al divieto di somministrazione di queste bevande ai minorenni."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E dove dovranno essere affissi questi avvisi e cartelli?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Dovranno essere affissi in tutti i luoghi in cui è possibile l'acquisto di bevande alcoliche, come distributori automatici, bar e supermercati.",
+      "ground": "Il divieto di vendita di bevande alcoliche ai minorenni sarà ricordato da appositi avvisi e cartelli che dovranno essere affissi in tutti i luoghi in cui ne è possibile l'acquisto, dai distributori automatici, ai bar, ai supermercati."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

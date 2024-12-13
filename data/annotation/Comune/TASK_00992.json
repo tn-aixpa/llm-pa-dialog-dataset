@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00992",
+  "doc_src": "comSalerno0752.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Mi spieghi il significato di morosità pregressa?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Una morosità pregressa è un debito economico passato e non ancora saldato.",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Ci sono erogazioni di contributi per sanare morosità pregresse?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Sì, ci sono erogazioni di contributi a sostegno delle morosità pregresse degli assegnatari ERP per il 2023. Per partecipare bisogna inviare domanda e allegati entro le 12 del 31 dicembre 2023.",
+      "ground": "Pubblicato l'Avviso pubblico per l'erogazione di contributi a valere sul fondo solidarietà Erp, contributo regionale a sostegno delle morosità pregresse degli assegnatari ERP 2023.\nLa domanda di partecipazione e i relativi allegati dovranno pervenire entro e non oltre le ore 12:00 del 31 dicembre 2023 secondo le modalità descritte nell’avviso utilizzando i moduli allegati."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Quali sarebbero gli allegati?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Gli allegati sono: \n1. Allegato A - Schema di domanda https://www.comune.salerno.it/sites/default/files/2023-11/Modello%20A%20_1.pdf ;\n2. Allegato B – Modello privacy https://www.comune.salerno.it/sites/default/files/2023-11/Modello%20B_1.pdf ;\n3. Allegato C - Modulo supplementare Isee Zero https://www.comune.salerno.it/sites/default/files/2023-11/Modello%20C_1.pdf .",
+      "ground": "[https://www.comune.salerno.it/sites/default/files/2023-11/Modello%20A%20_1.pdf](Allegato A - Schema di domanda)\n[https://www.comune.salerno.it/sites/default/files/2023-11/Modello%20B_1.pdf](Allegato B – Modello privacy)\n[https://www.comune.salerno.it/sites/default/files/2023-11/Modello%20C_1.pdf](Allegato C- Modulo supplementare Isee Zero)"
+    }
+  ],
+  "subcategory": "Salerno"
+}

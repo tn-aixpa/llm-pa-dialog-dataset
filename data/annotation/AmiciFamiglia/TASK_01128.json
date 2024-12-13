@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01128",
+  "doc_src": "nuoro__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Quali iniziative legate all'ambiente e all'educazione ambientale potrei scrivere nel io Piano Famiglia?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Nel tuo Piano Famiglia potresti inserire incontri, laboratori e attività ludiche di sensibilizzazione alla raccolta differenziata e al riciclo, coinvolgendo enti e associazioni locali.\n\nConsiglio di mettere queste attività sotto la tassonomia \"Attivitа  di educazione ambientale (laboratori, giornate ecologiche, giornata del riuso, raccolta differenziata)\"",
+      "ground": "TASSONOMIA: Attivitа  di educazione ambientale (laboratori, giornate ecologiche, giornata del riuso, raccolta differenziata)\n\n|||\n\nAttivitа di educazione ambientale, incontri, laboratori, giornate ecologiche, Ecolonie, destinate a famiglie e bambini con la collaborazione del CEAS (centro educazione ambientale Sardegna) inserito nella rete INFEA (informazione educazione ambientale) del Ministero dell'Ambiente. Attivitа ludica di sensibilizzazione alla raccolta differenziata e al riciclo con attivitа come le Ricicliadi, Casa dolce casa, e SostenibiliTour dedicate alle scuole primarie e secondarie di primo grado"
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Grazie per lo spunto.",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Non c'è di che. Vuole chiedere qualcos'altro?",
+      "ground": ""
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Sì, hai proposte di azioni dedicate interamente ad anziani?",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Mi dispiace ma non ho proposte di azioni verso gli anziani.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00171",
+  "doc_src": "comune.milano_aree-tematiche_D0198.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sulla partecipazione come abitante di Milano per votare le nuove opere pubbliche.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, quello a cui fa riferimento è il Bilancio Partecipativo. Il Bilancio Partecipativo è un processo che consente ai cittadini di proporre, votare e co-progettare opere pubbliche finanziate con il bilancio dell’Amministrazione.",
+      "ground": "Il Bilancio Partecipativo è un processo di partecipazione civica che consente ai cittadini di proporre, votare e co-progettare opere pubbliche finanziate con il bilancio dell’Amministrazione."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Posso partecipare anche se non sono residente a Milano?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Mi dispiace, ma non le so dare informazioni più accurate.",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Posso almeno seguire l'avanzamento dei lavori?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Certamente, sul sito www.bilanciopartecipativo.it è possibile seguire l’avanzamento dei lavori, scaricare i documenti e partecipare alle attività di monitoraggio.",
+      "ground": "Sul sito è possibile seguire l’avanzamento dei lavori, scaricare i documenti e partecipare alle attività di monitoraggio. \nVai al sito del Bilancio Partecipativo[www.bilanciopartecipativo.it]"
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni, proverò a dare un'occhiata al sito.",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "Resto a disposizione per ulteriori chiarimenti.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

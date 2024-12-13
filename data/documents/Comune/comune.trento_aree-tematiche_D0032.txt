@@ -1,0 +1,50 @@
+Il
+modal split
+è un
+indicatore
+(in percentuale)
+dei mezzi di trasporto utilizzati per effettuare degli spostamenti su un determinato territorio
+. Calcolare il
+modal split
+permette di capire come avvengono gli spostamenti in città e, quindi, di intervenire a livello decisionale per giungere ad un aumento delle quote “sostenibili”.
+I dati per il calcolo del
+modal split
+vengono generalmente ottenuti per mezzo di sondaggi. QROWD offre la possibilità di sostituire il metodo tradizionale adottato fino ad ora (interviste telefoniche e compilazione di questionari cartacei da parte dei cittadini), che si è dimostrato oneroso e poco accurato, permettendo di ricavare gli stessi dati
+più velocemente
+.
+Il processo adottato in QROWD è il seguente:
+I cittadini utilizzano l’app
+i-Log
+per tracciare i loro spostamenti quotidiani. L’app rileva informazioni dai sensori del telefono (citizen sensing) e provvede ad inviare delle brevi domande agli utenti per validare le informazioni raccolte
+I dati e le informazioni raccolte tramite i-Log vengono
+analizzati
+adottando, ove possibile, tecniche di
+machine learning
+, ovvero di apprendimento automatico di informazioni relative agli spostamenti (ad esempio, mezzo utilizzato per compiere un viaggio)
+I cittadini sono incentivati a partecipare dalla possibilità di vincere dei
+premi
+Il
+modal split
+viene calcolato
+aggregando i dati e le informazioni
+ricavate e viene
+visualizzato
+in forma grafica sulla
+dashboard
+[]()
+Nella figura: esempio di visualizzazione del modal split. I dati relativi ai mezzi di trasporto utilizzati quotidianamente dai cittadini per spostarsi in città vengono
+visualizzati in forma aggregata ed in percentuale.
+[]()
+(Questi dati non si riferiscono alla città di Trento)
+[]()
+Risultati
+Durante il progetto sono stati organizzati
+sette esperimenti
+che hanno coinvolto circa
+220 cittadini
+con l’obiettivo di migliorare il processo di analisi dei dati e l'usabilità dell’app i-Log, dando loro la possibilità di modificare i viaggi rilevati o aggiungerne di nuovi direttamente dall'app. In base al feedback raccolto dai partecipanti alla fine di ogni sessione, le istruzioni per partecipare all'esperimento sono state integrate da una guida passo passo per la configurazione del telefono e durante gli esperimenti è stata fornita un'assistenza personalizzata a chi avesse riscontrato difficoltà.
+L'esperimento finale ha coinvolto circa
+150 partecipanti
+che hanno effettuato e tracciato
+888 spostamenti
+. I relativi dati sono stati integrati, in forma aggregata, in una sezione della dashboard riservata al Comune. Infine, a ciascun partecipante è stato inviato un modal split personale relativo ai viaggi individuali effettuati nei giorni dell'esperimento e ai mezzi di trasporto utilizzati.

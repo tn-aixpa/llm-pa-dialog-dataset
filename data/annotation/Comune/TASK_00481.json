@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00481",
+  "doc_src": "comune.trento_aree-tematiche_D0115.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Ho sentito parlare di un progetto chiamato Bike to Work, sa dirmi di più?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Il progetto Bike to Work coinvolge 150 dipendenti comunali che riceveranno 0,25 euro per ogni chilometro. Verranno mappate le strate più critiche durante la sperimentazione che durerà sei mesi. Può trovare più informazioni al link https://www.comune.trento.it/Aree-tematiche/Ambiente-e-territorio/Mobilita-e-traffico-urbano/Iniziative/Bike-to-work-sperimentazione-per-incentivare-l-uso-della-bici",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Ambiente-e-territorio/Mobilita-e-traffico-urbano/Iniziative/Bike-to-work-sperimentazione-per-incentivare-l-uso-della-bici](Bike to work, sperimentazione per incentivare l’uso della bici)\nCoinvolti 150 dipendenti comunali che riceveranno 0,25 euro per ogni chilometro. Saranno mappate le strade più critiche. La sperimentazione durerà sei mesi."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni!",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È stato un piacere poterla aiutare. Se ha altre domande, non esitare a chiedere. Buona giornata!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

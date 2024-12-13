@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00789",
+  "doc_src": "comune.salerno_D0059.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sull'iscrizione agli Asili Nido per l'anno scolastico 2024/2025 a Salerno e Pellezzano.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, certamente. Le iscrizioni saranno aperte dal 2 maggio al 31 maggio 2024 per i bambini nati negli anni 2022, 2023 e 2024.",
+      "ground": "Si comunica che, dalle ore 11:00 del 02/05/2024 alle ore 12:00 del 31/05/2024, è possibile presentare la domanda di iscrizione agli Asili Nido per l'anno scolastico 2024/2025 per le bambine e i bambini residenti nell'Ambito S5 (Salerno e Pellezzano) nati negli anni 2022, 2023 e 2024."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Dove posso trovare la modulistica per l'iscrizione?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Tutta la modulistica è disponibile sul sito del Comune di Salerno al seguente link https://www.comune.salerno.it/amministrazione/settori/settore-politiche-sociali/direzione-asili-nido/iscrizione-agli-asili-nido-comunali",
+      "ground": "Qui tutta la modulistica:\n[https://www.comune.salerno.it/amministrazione/settori/settore-politiche-sociali/direzione-asili-nido/iscrizione-agli-asili-nido-comunali](https://www.comune.salerno.it/amministrazione/settori/settore-politiche-sociali/direzione-asili-nido/iscrizione-agli-asili-nido-comunali)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Sì, sabato 4 maggio presso la Chiesa di San Benedetto ci sarà la premiazione dei vincitori del concorso, che prevede sei premi speciali in borse di studio.",
+      "ground": "Sabato 4 maggio presso la Chiesa di San Benedetto, ci sarà la premiazione dei vincitori del concorso.\nI PREMI SPECIALI. Sei sono quest’anno premi speciali e consistono in borse di studio in denaro."
+    }
+  ],
+  "subcategory": "Salerno"
+}

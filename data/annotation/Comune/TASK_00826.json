@@ -1,0 +1,40 @@
+{
+  "task_id": "TASK_00826",
+  "doc_src": "comune.salerno_D0118.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, potrebbe darmi informazioni sui lavori di riqualificazione del Corso Vittorio Emanuele a Salerno?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente. I lavori sono ripartiti lunedì 4 marzo e il Comune di Salerno sta definendo il programma operativo del cantiere con la ditta appaltatrice per garantire lo svolgimento delle attività.",
+      "ground": "Sono ripartiti lunedì 4 marzo i lavori di riqualificazione urbanistica del Corso Vittorio Emanuele a Salerno. Il Comune di Salerno sta definendo con la ditta appaltatrice il programma operativo del cantiere per assicurare un ordinato e sicuro svolgimento di tutte le attività."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Sarà rimossa la copertura provvisoria dell'evento Luci d'Artista?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, la copertura verrà rimossa come prima fase dei lavori. ",
+      "ground": "Si procederà dapprima alla rimozione della copertura provvisoria collocata in occasione dell'evento Luci d'Artista."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Quale sarà il tratto interessato dai lavori?",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

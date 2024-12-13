@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_00294",
+  "doc_src": "comune.milano_aree-tematiche_links_D0326.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei delle informazioni sull'accoglienza di minori stranieri non accompagnati.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, sono qui per fornire informazioni. Cosa vorrebbe sapere esattamente?",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Viene offerta assistenza a casa per i minori stranieri non accompagnati?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, il Centro di accoglienza ha un'area residenziali dedicata alla prima accoglienza di 13 minori non accompagnati.",
+      "ground": "Il Centro si compone di:\nun’area residenziale prioritariamente dedicata alla pronta e prima accoglienza di 13 minori soli;"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Il Centro offre anche supporto alle procedure per la domanda di protezione internazionale?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Assolutamente sì, il Centro offre supporto alle procedure per la domanda di protezione internazionale, nonché per il rimpatrio assistito e il ricongiungimento familiare.",
+      "ground": "L’équipe multisciplinare del Centro offre i seguenti servizi:\n\n|||\n\nSupporto alle procedure per l’eventuale presentazione della domanda di protezione internazionale, rimpatrio assistito, ricongiungimento familiare;"
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Ci sono anche servizi di alfabetizzazione?",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "Sì, ci sono servizi di alfabetizzazione.",
+      "ground": "L’équipe multisciplinare del Centro offre i seguenti servizi:\n\n|||\n\nOrientamento ai percorsi di alfabetizzazione; alle risorse ed opportunità formative, ricreative, sportive e culturali della città e del quartiere;"
+    },
+    {
+      "id": "T09",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni. Come posso accedere ai servizi del Centro Msna?",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agente",
+      "message": "Può accedere ai servizi del Centro Msna tramite lo sportello dedicato o consultando il link https://www.comune.milano.it/servizi/minori-stranieri-non-accompagnati-msna .",
+      "ground": "Utilizza i servizi\n[https://www.comune.milano.it/servizi/minori-stranieri-non-accompagnati-msna](Minori stranieri non accompagnati - Msna)\nModalità di accesso al servizio:\nSportello"
+    }
+  ],
+  "subcategory": "Milano"
+}

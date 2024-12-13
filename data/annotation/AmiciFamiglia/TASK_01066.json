@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01066",
+  "doc_src": "bono__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Vorrei creare un servizio alle famiglie con giovani ragazzi.",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Può pensare di creare un centro estivo dove bambini e ragazzi possono svolgere attività ludico educative, oppure sostituire le attrezzature nei parchi giochi, ",
+      "ground": "TITOLO: Servizi famiglie con figli da 3 a 12 anni: Centro Estivo\n\n|||\n\nDESCRIZIONE: Il Comune di Bono riproporrа durante i mesi estivi di luglio e agosto il Centro Estivo. I bambini verranno affiancati da un equipe di educatori e durante la giornata svolgeranno diverse attivitа ludico educative, in prospettiva green. Sono infatti previsti laboratori improntati al riciclo, raccolta differenziata e al rispetto dell’ambiente\n\n|||\n\nDESCRIZIONE: Il Comune di Bono intende sostituire i giochi e le attrezzature presenti nell’attuale parco giochi comunale, acquisirne dei nuovi e predisporre un percorso fitness per rendere l’area fruibile anche agli adulti"
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Non credo di poter organizzare un centro estivo nel mio Comune...",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Mi dispiace. Vuole chiedere altro?",
+      "ground": ""
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Di eventi improntati alla famiglia hai suggerimemnti?",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Può organizzare manifestazioni rivolte a famiglie o bambini, cose come la casetta di Babbo Natale, giochi gonfiabili e la corsa dei cavallini di canna.",
+      "ground": "DESCRIZIONE: Per intensificare gli eventi di aggregazione familiare si provvederа ad organizzare manifestazioni rivolte alle famiglie oppure appositi appuntamenti rivolti ai bambini anche durante manifestazioni rivolte ad altre fasce di popolazione. Per esempio: casetta di Babbo Natale, giochi gonfiabili per la festa patronale, corsa dei cavallini di canna durante la manifestazione equestre “Palio de sas carrelas”"
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

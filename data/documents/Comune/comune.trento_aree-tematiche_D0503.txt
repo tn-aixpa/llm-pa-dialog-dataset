@@ -1,0 +1,72 @@
+Modalità di calcolo della tariffa sui rifiuti - Tari
+[]()
+Utenze domestiche
+La tariffa sui rifiuti è così composta:
+una
+quota fissa
+, per il calcolo della quale bisogna moltiplicare i metri quadrati dell'immobile (determinati sulla base della superficie calpestabile) per la tariffa corrispondente al numero degli occupanti dello stesso. Se l'intestatario dell'utenza è residente nell'immobile, quest'ultimo dato viene reperito negli archivi anagrafici del Comune e corrisponde al numero dei componenti il nucleo familiare. Se invece l'intestatario dell'utenza non risiede nell'immobile,il numero degli occupanti viene determinato in via presuntiva, in rapporto alla superficie dei locali, secondo la seguente tabella:
+da mq 0 a mq 45: 1 componente convenzionale
+da mq 46 a mq 60: 2 componenti convenzionali
+da mq 61 a mq 75: 3 componenti convenzionali
+da mq 76 e oltre: 4 componenti convenzionali
+una
+quota variabile altri servizi
+, determinata sulla base degli altri costi variabili, commisurati alla qualità del servizio reso alla singola utenza, nonché al numero dei servizi messi a disposizione della medesima
+una
+quota variabile misurata
+, rapportata alla quantità di rifiuto residuo prodotto e conferito
+[]()
+Questi i corrispettivi per l'utenza anno 2024
+[/Comune/Atti-e-albo-pretorio/Deliberazioni/Deliberazioni-di-Giunta/Delibera-111-del-2024-Giunta-Comunale](Deliberazione della Giunta comunale n. 111 del 30 aprile 2024)
+Quota fissa (tariffa x mq)
+Numero componenti
+Tariffa
+Componenti 1
+€ 0,7234
+Componenti 2
+€ 0,8499
+Componenti 3
+€ 0,9491
+Componenti 4
+€ 1,0306
+Componenti 5
+€ 1,1119
+Componenti 6 e oltre
+€ 1,1752
+Quota variabile altri servizi
+Numero componenti
+Tariffa
+Componenti 1
+€ 24,0460
+Componenti 2
+€ 43,2838
+Componenti 3
+€ 55,2792
+Componenti 4
+€ 72,1309
+Componenti 5
+€ 86,5563
+Componenti 6 e oltre
+€ 98,5780
+Quota variabile misurata
+Costo a volume €/litro
+€ 0,1231
+Costo a peso €/kg (*)
+€ 1,0024
+(*) solo per conferimenti nelle isole interrate
+Esempio di calcolo
+Famiglia di 4 persone residente in un appartamento di 80 mq, cui sono annesse come pertinenze un garage di 15 mq e una cantina di 6 mq:
+quota fissa appartamento: € 1,0306 x 80 mq = € 82,4480
+quota fissa garage: € 1,0306 x 15 mq = € 15,4590
+quota fissa cantina: € 1,0306 x 6 mq = € 6,1836
+quota variabile altri servizi: € 72,1309
+totale annuo: € 176,2215
+a tale importo si aggiunge la quota variabile misurata, legata alla volumetria del mastello/bidone assegnato, pari a:
+€ 3,6930 per ciascun mastello da 30 litri esposto
+€ 4,9240 per ciascun mastello da 40 litri esposto
+€ 14,7720 per ciascun bidone da 120 litri esposto
+Tutti gli importi vanno maggiorati dell'IVA nella misura di legge (10%)
+[]()
+Utenze non domestiche
+Anche per le utenze non domestiche la tariffa sui rifiuti si compone di una quota fissa e di una quota variabile, per il calcolo delle quali bisogna tener conto dei metri quadrati dell'immobile occupato e della tipologia di attività che viene svolta all'interno dello stesso. Per il dettaglio delle tariffe si rimanda all'allegato n. 6 della delibera di approvazione delle tariffe ([/Comune/Atti-e-albo-pretorio/Deliberazioni/Deliberazioni-di-Giunta/Delibera-111-del-2024-Giunta-Comunale](deliberazione della Giunta comunale n. 111 del 30 aprile 2024)
+).

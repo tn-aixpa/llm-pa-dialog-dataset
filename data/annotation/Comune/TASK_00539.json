@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00539",
+  "doc_src": "comune.trento_aree-tematiche_D0223.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Cosa sarebbe l'Open Geospatial Consortium?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "L'Open Geospatial Consortium (OGC) è un'organizzazione internazionale non-profit che sviluppa standard per servizi geospaziali. Gli Standard OGC definiscono interfacce e codifiche per la costruzione di prodotti e servizi.",
+      "ground": "L'\nOpen Geospatial Consortium\n(OGC) è un'organizzazione internazionale non-profit di standard a consenso volontario, leader nello sviluppo di standard per servizi geospaziali e basati sulla localizzazione geografica.\nGli\nStandard OGC\nsono dei documenti tecnici che definiscono interfacce e codifiche. Gli sviluppatori usano questi documenti per costruire interfacce aperte e codifiche all'interno dei loro prodotti o servizi."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E cosa farebbe il Web Map Service?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Lo standard Web Map Service (WMS) permette di richiedere tramite HTTP immagini JPEG o PNG di mappe definendo layer geografici e aree di interesse.",
+      "ground": "Una richiesta WMS definisce quali sono i layer geografici e l'area di interesse da processare. La risposta alla richiesta è una o più immagini di mappa (nel formato JPEG, PNG, ...) che può essere mostrata in un browser Internet."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "E quale sarebbe la differenza dal Web Feature Service?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Il Web Feature Service (WFS) a differenza del WMS, permette di richiedere direttamente oggetti geografici anziché immagini di mappe.",
+      "ground": "(WFS) fornisce, similmente al WMS, una semplice interfaccia HTTP per richiedere direttamente oggetti geografici (e non immagini di mappe) da uno o più server distribuiti in Internet."
+    }
+  ],
+  "subcategory": "Trento"
+}

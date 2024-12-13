@@ -1,0 +1,16 @@
+[](Descrizione)
+Descrizione
+La
+misura 1.2 Abilitazione e facilitazione migrazione al Cloud
+è finalizzata ad implementare un programma di supporto e incentivo per migrare sistemi, dati e applicazioni delle pubbliche amministrazioni locali verso servizi cloud qualificati.
+A tal fine viene favorita la migrazione di sistemi, dati e applicazioni digitali verso servizi cloud, in modo da migliorare la qualità dei servizi digitali per i cittadini e la loro sicurezza, dismettendo i data center meno efficienti e migliorando l’efficienza energetica delle infrastrutture della PA.
+Ambito:
+Digitalizzazione, innovazione e sicurezza nella PA
+CUP:
+I51C22001180006
+Struttura referente:
+Settore Servizi Informatici e Telematici
+Importo attribuito:
+€ 1.031.574
+Stato
+: in avvio

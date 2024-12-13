@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_01145",
+  "doc_src": "regalbuto__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Che tipo di laboratori posso proporre nel mio Comune?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Puoi proporre laboratori di riciclo creativo o laboratori teatrali.",
+      "ground": "TITOLO: Attivitа laboratoriali di riciclo creativo\n\n|||\n\nTITOLO: Laboratorio teatrale"
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Scrivimi un'azione sui laboratori teatrali. Vorrei orientarla verso i giovani che hanno difficoltà di espressione",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "TITOLO: Laboratorio teatrale per giovani\n\nTASSONOMIA: Proposte culturali: museo, cinema, teatro, arte ecc.\n\nOBIETTIVO: Fornire un supporto ai giovani che hanno difficoltà di espressione, aiutandoli a scoprire e sviluppare le proprie capacità comunicative attraverso il teatro.\n\nDESCRIZIONE: Al fine di far scoprire alle nuove generazioni la cultura e la bellezza del Teatro, s'intende organizzare un laboratorio teatrale specificamente orientato a ragazzi con difficoltà di espressione. Questo laboratorio promuoverà attività espressive e creative, sostenendo il processo di crescita personale dei partecipanti. Attraverso l'attività teatrale, i giovani potranno migliorare la conoscenza di sé e degli altri, utilizzando il linguaggio del corpo come strumento di comunicazione.",
+      "ground": "TITOLO: Laboratorio teatrale\n\nTASSONOMIA: Proposte culturali: museo, cinema, teatro, arte ecc.\n\nDESCRIZIONE: Al fine di far scoprire alle nuove generazioni la cultura e la bellezza del Teatro, s'intende organizzare un laboratorio teatrale per ragazzi. Promuovere attivitа espressive e creative, a bambini e ragazzi, puт essere di notevole sostegno al loro processo di crescita. Infatti, l'attivitа teatrale favorisce la conoscenza di sй e dell'altro attraverso il linguaggio del corpo. Il ''corpo'' puт essere considerato come il ''biglietto da visita'' con il quale ci presentiamo agli altri."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Volevo anche fare una giornata ecologica.\nQuesta è una bozza, mi aiuti a completarla?\n\nTitolo: Giornate del verde\n\nDescrizione: per l'anno 2024 il Comune  di Arezzo intende invitare le famiglie per la giornata della Terra a raccogliere la spazzatura per la città.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "TITOLO: Giornate del verde\n\nTASSONOMIA: Attivitа  di educazione ambientale (laboratori, giornate ecologiche, giornata del riuso, raccolta differenziata)\n\nOBIETTIVO: Organizzare una giornata per la pulizia della città assieme le famiglie.\n\nDESCRIZIONE: Per l'anno 2024, il Comune di Arezzo intende invitare le famiglie alla raccolta della spazzatura per la città durante la Giornata della Terra. Il tema della salvaguardia ambientale resta una peculiarità di questa Amministrazione, che incoraggia e sostiene con forza queste iniziative. Queste campagne di sensibilizzazione ambientale hanno lo scopo di liberare alcuni siti del nostro territorio dai rifiuti e dal degrado, promuovendo uno spirito civico e di appartenenza alla comunità. Il coinvolgimento dei ragazzi delle scuole sarà fondamentale per sensibilizzare le nuove generazioni sulla salvaguardia dell'ambiente.",
+      "ground": "TITOLO: Giornata ecologica\n\nTASSONOMIA: Attivitа  di educazione ambientale (laboratori, giornate ecologiche, giornata del riuso, raccolta differenziata)\n\nDESCRIZIONE: Il tema della salvaguardia ambientale resta una peculiaritа di questa Amministrazione che incoraggia e sostiene con forza queste iniziative. In particolare, queste campagne di sensibilizzazione ambientale, hanno lo scopo di liberare alcuni siti del nostro territorio dai rifiuti e dal degrado che nasce dal latente spirito civico e di appartenenza ad una comunitа che, al contrario, dovrebbe guidare ogni nostro gesto quotidiano. Il coinvolgimento dei ragazzi della scuola vuole continuare a sensibilizzare le nuove generazioni sulle tendenze riguardanti la salvaguardia e la prevenzione dell'ambiente, anche attraverso la corretta esecuzione della raccolta."
+    },
+    {
+      "id": "T07",
+      "speaker": "Citizen",
+      "message": "Aggiungici che l'evento sarà organizzato con l'associazione \"Uniti\"",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agent",
+      "message": "TITOLO: Giornate del verde\n\nTASSONOMIA: Attivitа  di educazione ambientale (laboratori, giornate ecologiche, giornata del riuso, raccolta differenziata)\n\nOBIETTIVO: Organizzare una giornata per la pulizia della città assieme le famiglie.\n\nDESCRIZIONE: Per l'anno 2024, il Comune di Arezzo, assieme all'Associazione \"Uniti\", intende invitare le famiglie alla raccolta della spazzatura per la città durante la Giornata della Terra. Il tema della salvaguardia ambientale resta una peculiarità di questa Amministrazione, che incoraggia e sostiene con forza queste iniziative. Queste campagne di sensibilizzazione ambientale hanno lo scopo di liberare alcuni siti del nostro territorio dai rifiuti e dal degrado, promuovendo uno spirito civico e di appartenenza alla comunità. Il coinvolgimento dei ragazzi delle scuole sarà fondamentale per sensibilizzare le nuove generazioni sulla salvaguardia dell'ambiente.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

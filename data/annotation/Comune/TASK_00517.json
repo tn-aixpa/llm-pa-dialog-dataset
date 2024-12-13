@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00517",
+  "doc_src": "comune.trento_aree-tematiche_D0178.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, sono una lavoratrice e avrei bisogno di tenere occupata mia figlia durante il giorno. Ci sono per caso asili nidi aperti d'estate?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, certo. Il Comune di Trento attiva annualmente il servizio estivo per i bambini iscritti ai nidi comunali.",
+      "ground": "Il Comune di Trento attiva annualmente il servizio estivo in base alle domande presentate dalle famiglie dei bambini e delle bambine iscritti ai nidi comunali per dare la possibilità di frequentare il nido anche nel mese di chiusura estiva delle strutture."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Mi sa dire dove?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Il servizio estivo viene offerto in una struttura idonea individuata annualmente, non sono in grado di dire quale questa sia. Può trovare più informazioni al link https://www.comune.trento.it/Aree-tematiche/Servizi-all-infanzia-e-istruzione/Servizi-prima-infanzia-0-3-anni/Servizio-di-nido-estivo/Servizio-di-nido-estivo",
+      "ground": "Il servizio viene offerto in una struttura idonea individuata annualmente fra quelle dei nidi d’infanzia comunali e con uno specifico progetto educativo che garantisce particolare attenzione alla composizione dei gruppi, ai delicati momenti delle routine ed alle attività educative, assicurando quindi un servizio di qualità.\n\n|||\n\n[https://www.comune.trento.it/Aree-tematiche/Servizi-all-infanzia-e-istruzione/Servizi-prima-infanzia-0-3-anni/Servizio-di-nido-estivo/Servizio-di-nido-estivo](Servizio di nido estivo)\nSede del servizio di nido estivo:\nnido d’infanzia \"Clarina\" in via Einaudi 24 e, in caso di esubero di domande, anche presso il nido Roncafort di via Caneppele 19."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Capito, grazie per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Di niente, sono a disposizione per ulteriori chiarimenti. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

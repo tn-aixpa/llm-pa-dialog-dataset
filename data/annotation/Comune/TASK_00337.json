@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00337",
+  "doc_src": "comune.milano_aree-tematiche_links_D0369.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Salve, vorrei informazioni su Ottotubi. Dove si trova l'officina?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "La ciclofficina di Ottotubi è collocata in Via Confalonieri 3.",
+      "ground": "Negli spazi che il Comune le ha assegnato in Via Confalonieri 3 l’associazione ha realizzato una ciclofficina, una biblioteca ciclotematica e organizza corsi, workshop, itinerari e laboratori pratici ed esperienziali in bicicletta."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Organizzano anche attività?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, l’associazione organizza corsi, workshop, itinerari e laboratori pratici ed esperienziali in bicicletta.",
+      "ground": "Negli spazi che il Comune le ha assegnato in Via Confalonieri 3 l’associazione ha realizzato una ciclofficina, una biblioteca ciclotematica e organizza corsi, workshop, itinerari e laboratori pratici ed esperienziali in bicicletta."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Posso trovare ulteriori informazioni sul progetto?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Può trovare ulteriori informazioni sul progetto visitando il link https://www.comune.milano.it/documents/20126/29507027/Ottotubi.pdf/68b6d007-0b0e-3717-e9d3-49198124bcec?t=1567406441098",
+      "ground": "[https://www.comune.milano.it/documents/20126/29507027/Ottotubi.pdf/68b6d007-0b0e-3717-e9d3-49198124bcec?t=1567406441098](clicca qui)"
+    }
+  ],
+  "subcategory": "Milano"
+}

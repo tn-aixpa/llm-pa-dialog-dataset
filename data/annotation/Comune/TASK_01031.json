@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01031",
+  "doc_src": "comSalerno1091.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "PA Operator",
+      "message": "Le aziende che fanno la raccolta delle pigne ricevono qualche tipo di remunerazione?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "No, la raccolta delle pigne avverrà a titolo gratuito.",
+      "ground": "Tale raccolta avverrà, nel rispetto della normativa vigente, a titolo gratuito, senza alcun aggravio di spesa per l’Amministrazione Municipale."
+    },
+    {
+      "id": "T03",
+      "speaker": "PA Operator",
+      "message": "In che periodo bisogna fare raccolta delle pigne?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "La raccolta delle pigne deve avvenire nel periodo che va dal 23 gennaio al 30 aprile.",
+      "ground": "L’Amministrazione Comunale – Settore Ambiente – U.O.C. Verde Pubblico, ricerca aziende interessate alla raccolta delle pigne (strobili) dalle alberature di Pino Domestico (Pinus Pinea) e Pino Marittimo (Pinus Pinaster) ubicate nei parchi, giardini, strade alberate e verde scolastico di competenza comunale, nel periodo che va dal 23/01/2023 al 30/04/2023."
+    },
+    {
+      "id": "T05",
+      "speaker": "PA Operator",
+      "message": "Cosa bisogna fare se si vuole fare la raccolta delle pigne?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Se si vuole fare la raccolta delle pigne, le ditte interessate devono compilare un modello e inviarlo entro le 12.00 13 Gennaio alla PEC protocollo@pec.comune.salerno.it . Le richieste pervenute saranno esaminate dall’Amministrazione Municipale, che si riserva la facoltà di redigere e pubblicare una programmazione degli interventi in base al numero di richieste ritenute idonee.",
+      "ground": "Le ditte interessate dovranno compilare l’allegato modello “Attestazione di disponibilità” (Mod. A) ed inviarlo entro le ore 12:00 del 13/01/2023 tramite PEC al seguente indirizzo: protocollo@pec.comune.salerno.it\nLe richieste pervenute saranno esaminate dall’Amministrazione Municipale che si riserva la facoltà di redigere e pubblicare apposita programmazione degli interventi in relazione al numero di richieste pervenute e ritenute idonee."
+    }
+  ],
+  "subcategory": "Salerno"
+}

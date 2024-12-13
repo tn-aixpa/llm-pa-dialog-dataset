@@ -1,0 +1,100 @@
+{
+  "task_id": "TASK_01091",
+  "doc_src": "cinte_tesino__2021.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": " Cosa mi consiglia di scrivere come azione avente la tassonomia \"Consegna spesa a domicilio/ Banco alimentare\"?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Può fare una consegna della spesa a domicilio stabilendo come obiettivo quello di voler evitare lo spostamento di persone in isolamento sanitario o che non possono muoversi per problemi di salute.\nNella descrizione può poi specificare che intende dare vantaggi alle persone anziane o in quarantena.",
+      "ground": "OBIETTIVO: Evitare lo spostamento delle persone che sono in isolamento sanitario o che non possono a causa di problemi di salute spostarsi dalla propria abitazione\n\nDESCRIZIONE: Servizio a vantaggio delle persone anziane o in quarantena sanitaria che prevede la consegna della spesa a domicilio"
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Sì, interessante.",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Le serve altro?",
+      "ground": ""
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Sì, vorrei poter aiutare i miei cittadini con le dichiarazioni fiscali.",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Come Comune, potrebbe mettere a disposizione a dei CAAF, dei locali per la raccolta dati per l'elaborazione delle dichiarazioni fiscali dei cittadini. Questo permetterebbe alla popolazione di usufruire del servizio senza doversi spostare fuori dal paese.",
+      "ground": "OBIETTIVO: Consentire alla popolazione di usufruire del servizio fiscale senza dover muoversi dal paese\n\nDESCRIZIONE: Messa a disposizione gratuita, da parte del Comune,\n\ndei locali, a dei CAAF, per la raccolta dati per elaborazione dichiarazioni\n\nfiscali dei cittadini."
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "Sembra una valida idea.",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "C'è altro che vorrebbe sapere?",
+      "ground": ""
+    },
+    {
+      "id": "T9",
+      "speaker": "Citizen",
+      "message": "Tu che azioni mi proporresti?",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agent",
+      "message": "Ritengo importante la possibilità di dare ai residenti di usare il Wifi gratuitamente e liberamente.",
+      "ground": ""
+    },
+    {
+      "id": "T11",
+      "speaker": "Citizen",
+      "message": "Sì, data la nostra popolazione questo possiamo sicuramente farlo.",
+      "ground": ""
+    },
+    {
+      "id": "T12",
+      "speaker": "Agent",
+      "message": "Vuole chiedere altro?",
+      "ground": ""
+    },
+    {
+      "id": "T13",
+      "speaker": "Citizen",
+      "message": "No, sono a posto. Grazie.",
+      "ground": ""
+    },
+    {
+      "id": "T14",
+      "speaker": "Agent",
+      "message": "A lei. Buona giornata.",
+      "ground": ""
+    },
+    {
+      "id": "T15",
+      "speaker": "Citizen",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

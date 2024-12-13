@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00376",
+  "doc_src": "comune.milano_aree-tematiche_links_D0410.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, dove posso avere delle informazioni riguardo alle agevolazioni per la Tari? ",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Nel caso sia interessato alle agovolazioni per la Tari per le utenze domestiche poò consultare il sito https://www.comune.milano.it/aree-tematiche/tributi/tari/agevolazioni-e-rimborsi/agevolazioni-tari-per-utenze-domestiche mentre per le utenze non domestiche https://www.comune.milano.it/aree-tematiche/tributi/tari/agevolazioni-e-rimborsi/agevolazioni-tari-per-utenze-non-domestiche",
+      "ground": "[https://www.comune.milano.it/aree-tematiche/tributi/tari/agevolazioni-e-rimborsi/agevolazioni-tari-per-utenze-domestiche](Agevolazioni ed esenzioni Tari per utenze domestiche)\n[https://www.comune.milano.it/aree-tematiche/tributi/tari/agevolazioni-e-rimborsi/agevolazioni-tari-per-utenze-non-domestiche](Agevolazioni Tari per utenze non domestiche)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Grazie, ma è possibile accedere a tali informazioni anche tramite telefono?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "È possibile accedere alle informazioni tramite telefono ma non ho possibilità di fornirle il numero. Può vedere se al sito https://www.comune.milano.it/servizi/consulenza-tributaria-prenota-appuntamento riesce a trovare qualche informazione in più.",
+      "ground": "[https://www.comune.milano.it/servizi/consulenza-tributaria-prenota-appuntamento](Info Tributi - assistenza e appuntamenti)\nModalità di accesso al servizio:\nOnline\nTelefono"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie per l'informazione. ",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È stato un piacere poterla aiutare. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00936",
+  "doc_src": "comune.milano_aree-tematiche_links_D0223.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Chi sono i membri del Comitato di Sorveglianza del Piano per lo Sviluppo e Coesione di Milano?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Il Comitato di Sorveglianza (PSC) è presieduto dal Capo di Gabinetto del Sindaco e include rappresentanti di diversi Dipartimenti e Ministeri.",
+      "ground": "È presieduto dal Capo di Gabinetto del Sindaco e composto da rappresentanti di:\nDipartimento per le Politiche di Coesione\nAgenzia per la Coesione Territoriale\nDipartimento per la programmazione e il coordinamento della politica economica\nMinistero dell’economia e delle finanze – Dipartimento della ragioneria generale dello Stato – IGRUE\nDipartimento per gli affari regionali e le autonomie\nMinistero della Transizione Ecologica\nMinistero delle Infrastrutture e Mobilità Sostenibili\nMinistero dell’Istruzione"
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Il Ministero dell'agricoltura è fra questi?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "No, il Ministero dell'agricoltura non fa parte del Comitato di Sorveglianza del Comitato di Sorveglianza.",
+      "ground": "della ragioneria generale dello Stato – IGRUE\nDipartimento per gli affari regionali e le autonomie\nMinistero della Transizione Ecologica\nMinistero delle Infrastrutture e Mobilità Sostenibili\nMinistero dell’Istruzione\nLe attività e le decisioni del\n\n|||\n\nper le Politiche di Coesione\nAgenzia per la Coesione Territoriale\nDipartimento per la programmazione e il coordinamento della politica economica\nMinistero dell’economia e delle finanze – Dipartimento della ragioneria generale dello Stato – IGRUE\nDipartimento per gli\n\n|||\n\nLa dotazione originaria del Patto per Milano, pari a 110 milioni di euro a valere sul FSC, (Delibera CIPE 56/2016), è stata confermata per il Piano per lo Sviluppo e la Coesione. Di questi 110 milioni di euro,"
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Qual è lo scopo del piano?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Il Piano di Sviluppo e Coesione ha lo scopo di garantire un coordinamento unitario tra le Amministrazioni titolari dei Piani operativi, oltre che un'accelerazione della spesa per gli interventi previsti.",
+      "ground": "Il Piano di Sviluppo e Coesione nasce dunque allo scopo di garantire un coordinamento unitario in capo a ciascuna Amministrazione titolare dei Piani operativi, nonché una accelerazione della spesa degli interventi.\ndi Milano"
+    }
+  ],
+  "subcategory": "Milano"
+}

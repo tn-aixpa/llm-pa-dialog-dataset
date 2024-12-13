@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00767",
+  "doc_src": "comune.salerno_D0031.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, potrebbe darmi informazioni sull'evento \"Campione di Legalità\" organizzato dal Comune di Salerno?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente. L'evento si terrà giovedì 23 maggio dalle ore 15 al Palatumieri e al campo Volpe. Si tratta della seconda edizione di un'iniziativa che promuove lo sport come veicolo di inclusione e aggregazione.",
+      "ground": "Lo sport come veicolo di inclusione, aggregazione e partecipazione. Il Comune di Salerno, in qualità di Capofila dell'Ambito Territoriale S05 Salerno – Pellezzano, ha organizzato, giovedì 23 maggio, dalle ore 15, al Palatumieri e al campo Volpe, la seconda edizione dell'evento “Campione di Legalità”, con il coordinamento dell'assessorato alle Po­li­ti­che So­cia­li, in collaborazione con la Commissione Sport e con il gruppo Salerno per i Giovani."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Sarà aperto a tutti?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Purtroppo no, l'evento è rivolto ai centri polifunzionali minori, giovani e disabili del territorio. Oltre 300 ragazzi parteciperanno a varie discipline sportive grazie alla collaborazione con associazioni locali.",
+      "ground": "“L’iniziativa – spiega l’assessore alle politiche sociali Paola de Roberto – è rivolta ai centri polifunzionali minori, giovani e disabili del territorio. Oltre 300 ragazzi si cimenteranno in varie discipline - dal calcio alla scherma, dal basket al sitting volley all'atletica - grazie alla collaborazione con associazioni del territorio."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "C'è un costo per partecipare?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Mi spiace ma non ho dati a disposizione al riguardo.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00084",
+  "doc_src": "comune.milano_aree-tematiche_D0040.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei delle informazioni sulla carta di identità elettronica. Posso rinnovarla in caso di cambio di indirizzo?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, non è necessario rinnovare la carta di identità elettronica se cambia  indirizzo o residenza.",
+      "ground": "Non è necessario rinnovare la carta d’identità in occasione di cambi di indirizzo e di residenza."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Capito, grazie. Quanto tempo ci vuole per ricevere la carta dopo averla richiesta?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "La consegna avviene entro 6 giorni lavorativi dalla richiesta. Puoi richiederne la spedizione presso il tuo domicilio oppure indicare un altro indirizzo. In caso di spedizione, l'invio avviene tramite raccomandata.",
+      "ground": "La consegna avviene entro 6 giorni lavorativi dalla richiesta. È possibile richiederne la spedizione presso il proprio domicilio oppure indicare un altro domicilio."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Perfetto, grazie mille.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È un piacere, se hai altre domande non esitare a chiedere. Buona giornata!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

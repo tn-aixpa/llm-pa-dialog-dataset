@@ -1,0 +1,40 @@
+{
+  "task_id": "TASK_00879",
+  "doc_src": "comune.salerno_D0197.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Mi potrebbe dare l'avviso pubblico per la definizione di professionisti per accogliere persone con disturbi dello spettro autistico?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Sì, l'avviso è al seguente link https://www.comune.salerno.it/sites/default/files/2024-04/AVVISO%20professionisti%20e%20operatori%20AUTISMO_revP%20%283%29.doc",
+      "ground": "[https://www.comune.salerno.it/sites/default/files/2024-04/AVVISO%20professionisti%20e%20operatori%20AUTISMO_revP%20%283%29.doc](Avviso Pubblico)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "È possibile presentare la domanda online?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Non sono in grado di rispondere a questa domanda.",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "C'è una scadenza per la presentazione della domanda?",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

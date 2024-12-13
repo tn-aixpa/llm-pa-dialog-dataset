@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00998",
+  "doc_src": "comSalerno0784.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Chi saranno gli ospiti del meeting \"Europa + Vicina\"?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Gli ospiti del meeting \"Europa + Vicina\" saranno: Maria Cristina Pisani (Presidente Consiglio Nazionale Giovani), Federica Celestini Campanari (Commissario Straordinario Agenzia Italiana Gioventù), Michele Sciscioli (Capo Dipartimento Politiche Giovanili e Servizio Civile Universale), Antonio Iannone (Senatore della Repubblica), e Pina Picierno (Vice Presidente Parlamento Europeo). Inoltre, ci saranno anche giovani del terzo settore, amministratori e stakeholders provenienti da tutta Italia.",
+      "ground": "Moderato da Maria Carla Ciancio, direttrice del giornale online PoliticheGiovanili.com, Francesco Piemonte, Presidente Moby Dick ETS, ha presentato il programma del meeting, che vedrà ospiti, tra gli altri, Maria Cristina Pisani, Presidente Consiglio Nazionale Giovani, Federica Celestini Campanari, Commissario Straordinario Agenzia Italiana Gioventù, Michele Sciscioli, Capo Dipartimento Politiche Giovanili e Servizio Civile Universale, Antonio Iannone, Senatore della Repubblica, Pina Picierno, Vice Presidente Parlamento Europeo.\nTra i 110 partecipanti ci saranno giovani del terzo settore, amministratori, stakeholders provenienti da tutta Italia che si confronteranno con le istituzioni presenti."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Da chi sarà presentato il meeting?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Il meeting sarà presentato da Maria Carla Ciancio (direttrice del giornale online PoliticheGiovanili.com) e Francesco Piemonte (Presidente di Moby Dick ETS).",
+      "ground": "Moderato da Maria Carla Ciancio, direttrice del giornale online PoliticheGiovanili.com, Francesco Piemonte, Presidente Moby Dick ETS, ha presentato il programma del meeting, che vedrà ospiti, tra gli altri, Maria Cristina Pisani, Presidente Consiglio Nazionale Giovani, Federica Celestini Campanari, Commissario Straordinario Agenzia Italiana Gioventù, Michele Sciscioli, Capo Dipartimento Politiche Giovanili e Servizio Civile Universale, Antonio Iannone, Senatore della Repubblica, Pina Picierno, Vice Presidente Parlamento Europeo."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Dove si svolgerà di preciso l'evento?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "L'evento si svolgerà tra Salerno e Capaccio Paestum.",
+      "ground": "Si terrà dal 29/09 al 1/10 tra Salerno e Capaccio Paestum il VI Meeting Nazionale dei Giovani organizzato da Moby Dick ETS, dal titolo: “Europa + Vicina”."
+    }
+  ],
+  "subcategory": "Salerno"
+}

@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00636",
+  "doc_src": "comune.trento_aree-tematiche_D0394.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sull'autorizzazione tipo A per esercitare il commercio su aree pubbliche mediante concessione di posteggio.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "L'autorizzazione di tipo A è necessaria per poter esercitare il commercio su aree pubbliche tramite concessione di posteggio nei mercati del territorio comunale. La concessione ha una durata decennale e può essere rinnovata. Le concessioni rilasciate in sostituzione di altre hanno la stessa durata residua. È possibile ottenere questa autorizzazione sia come persona fisica che come società regolarmente costituita. Viene rilasciata anche in occasione di fiere.",
+      "ground": "L’autorizzazione di tipo A serve per esercitare il commercio su aree pubbliche mediante concessione di\nposteggio\nnei mercati del territorio comunale. La concessione del posteggio ha durata decennale e può essere rinnovata. Le concessioni rilasciate in subingresso o in sostituzione di quelle rinunciate o revocate hanno durata pari al periodo residuo delle concessioni originarie. L'autorizzazione può essere rilasciata a persone fisiche o a società regolarmente costituite. Viene rilasciata anche in occasione di mercati saltuari (fiere)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Capito, e quali sono i riferimenti normativi su questa questione?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "I riferimenti normativi principali sono il Regolamento comunale per il commercio su area pubblica e la Legge provinciale 08/05/2000 n. 4 che disciplina l'attività commerciale in provincia di Trento. Inoltre, la Legge provinciale 30/07/2010 n. 17 riguarda la disciplina dell'attività commerciale e il relativo Regolamento di esecuzione concernente l'esercizio del commercio al dettaglio e all'ingrosso. Spero di esserle stato d'aiuto.",
+      "ground": "[/Comune/Atti-e-albo-pretorio/Regolamenti/In-vigore/Regolamento-del-commercio-su-area-pubblica](Regolamento comunale per il commercio su area pubblica)\nRegolamento comunale per il commercio su area pubblica\nLegge provinciale 08/05/2000 n. 4\n“\nDisciplina dell'attività commerciale in provincia di Trento\n”\n[http://www.consiglio.provincia.tn.it/documenti_pdf/clex_21793.pdf](Legge provinciale 30/07/2010 n. 17 “Disciplina dell'attività commerciale”)\nLegge provinciale 30/07/2010 n. 17\nDisciplina dell'attività commerciale\n[https://www.consiglio.provincia.tn.it/leggi-e-archivi/codice-provinciale/Pages/legge.aspx?uid=24507](Regolamento di esecuzione concernente l'esercizio del commercio al dettaglio e all'ingrosso (legge provinciale 30 luglio 2010 n. 17))"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni. Buona giornata!",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È stato un piacere poterla assistere, buona giornata anche a lei.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

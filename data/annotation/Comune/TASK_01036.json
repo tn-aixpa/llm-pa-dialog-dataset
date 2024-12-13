@@ -1,0 +1,28 @@
+{
+  "task_id": "TASK_01036",
+  "doc_src": "comSalerno1140.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "PA Operator",
+      "message": "Ci sono progetti che vogliono favorire l'integrazione delle persone con disabilità nel mercato del lavoro?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Sì, c'è un progetto chiamato “Percorsi di autonomia per persone con disabilità” che è stato indetto con la determina n. 5004 del 27/10/2022. Questo progetto prevede la presa in carico di 12 beneficiari e si concentra sull'autonomia abitativa e sulla formazione professionale e lavorativa, favorendo così l'integrazione delle persone con disabilità nel mercato del lavoro.",
+      "ground": "Pubblicata la determina n. 5004 del 27/10/2022  con la quale e' indetta una procedura finalizzata all’individuazione dei beneficiari del progetto “Percorsi di autonomia per persone con disabilità” , dell’investimento 1.2 (percorsi di autonomia per persone disabili) del PNRR Missione 5, Componente 2, Sottocomponente 1.\n\n|||\n\nIl progetto prevede la presa in carico di n. 12 beneficiari che saranno inseriti all’interno di un percorso  finalizzato all’autonomia abitativa e alla formazione professionale e lavorativa."
+    },
+    {
+      "id": "T03",
+      "speaker": "PA Operator",
+      "message": "Come si può partecipare a questo progetto?",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

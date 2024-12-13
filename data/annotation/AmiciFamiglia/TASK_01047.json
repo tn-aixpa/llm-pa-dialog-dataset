@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_01047",
+  "doc_src": "aldeno__2023.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Vorrei nel piano parlare di associazioni e di come queste favoriscano le famiglie, come potrei fare?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Può dire come il suo Comune sia ricco di associazioni, culturali e ricreative, che intendono incentivare e promuovere momenti di aggregazione sociale grazie a eventi e manifestazioni. Grazie a queste iniziative, l'intero nucleo familiare può partecipare e prendere parte alla comunitò",
+      "ground": "Il Comune di Aldeno si presenta come una realtа ricca di associazioni, societа sportive, culturali e ricreative che, a vario titolo, si occupano di promuovere e sostenere iniziative volte a creare momenti di aggregazione sociale attraverso l'organizzazione di eventi e manifestazioni, ai quali la famiglia puт partecipare nella totalitа del nucleo e riscoprire cosм il piacere di essere famiglia all'interno della comunitа."
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Cosa potrebbe fare il mio Comune per sostenere le associazioni?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Potrebbe dare uno spazio in forma gratuita a quelle associazioni che non hanno ancora una sede.",
+      "ground": "DESCRIZIONE: Il Comune prevede di concludere l'assegnazione di spazi dedicati e gratuiti alle associazioni che non dispongono ancora di una sede adeguata.\n\n"
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Sembra un buon piano.",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "C'è altro che posso fare per lei?",
+      "ground": ""
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "Vorrei proporre azioni che sensibilizzino verso tematiche sociali.",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "Potrebbe organizzare serate a tema della ludopatia o della violenza di genere.",
+      "ground": "DESCRIZIONE: Nella consapevolezza dell'importanza della conoscenza e della prevenzione, l'Amministrazione intende organizzare una serata di informazione sul tema della ludopatia, collegata a tematiche inerenti l'abuso delle moderne tecnologie.\n\n|||\n\nDESCRIZIONE: Il Comune, in occasione della Giornata per l'eliminazione della violenza contro le donne, intende sensibilizzare la popolazione con serate a tema."
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00407",
+  "doc_src": "comune.trento_aree-tematiche_D0011.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Scusi, potrebbe dirmi se ci sono marmotte alle Tre Cime del Bondone?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Sì, è possibile trovare marmotte sulle Tre Cime.",
+      "ground": "Occupa una valletta (Val del Merlo) di origine glaciale che dalla piana delle Viote raggiunge le Tre Cime del Monte Bondone nell'ambito della Foresta demaniale del Monte Bondone. \n\n|||\n\nTra gli animali si possono osservare le marmotte (Marmota marmota) in popolazioni stabili dopo la loro reintroduzione e tra gli ungulati si osservano il cervo (Cervus elaphus), in modo sporadico, il capriolo (Capreolus capreolus) e, alle quote maggiori, alcuni nuclei di camoscio (Rupicapra rupicapra). "
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Cervi o caprioli?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Sia cervi che caprioli abitano le Tre Cime. I primi in maniera più sporadica.",
+      "ground": "Tra gli animali si possono osservare le marmotte (Marmota marmota) in popolazioni stabili dopo la loro reintroduzione e tra gli ungulati si osservano il cervo (Cervus elaphus), in modo sporadico, il capriolo (Capreolus capreolus) e, alle quote maggiori, alcuni nuclei di camoscio (Rupicapra rupicapra)."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Grazie per le informazioni!",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Sono qui per aiutare, se hai bisogno di altre informazioni non esitare a chiedere. Buona giornata!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

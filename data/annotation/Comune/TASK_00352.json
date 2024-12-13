@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00352",
+  "doc_src": "comune.milano_aree-tematiche_links_D0384.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei avere informazioni sul Censimento Permanente della Popolazione. Chi ci può partecipare?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno. Il Censimento coinvolge un campione rappresentativo di famiglie estratte da ISTAT, non è possibile partecipare se non si è stati selezionati. Sappia inoltre che è obbligo di legge per le famiglie scelte parteciparci.",
+      "ground": "Ogni anno, tra ottobre e dicembre si svolge il Censimento Permanente della Popolazione e delle Abitazioni che coinvolge un campione rappresentativo di famiglie estratte da ISTAT.\nIl Censimento, che dal 2018 non è più decennale ma annuale, consente di conoscere le caratteristiche strutturali e socioeconomiche della popolazione che dimora abitualmente in Italia a livello nazionale, regionale e locale, nonché di confrontarle con quelle del passato e degli altri Paesi."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E se non partecipo, ci sono delle conseguenze?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Dato che è un obbligo di legge, è naturale che ci siano delle conseguenze. Non ho capacità di dire quali queste siano.",
+      "ground": "Rispondere al Censimento è un obbligo di legge per le famiglie selezionate, ma anche un'opportunità di partecipazione alla vita sociale."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Rimango a disposizione per ulteriori chiarimenti. Buona giornata!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

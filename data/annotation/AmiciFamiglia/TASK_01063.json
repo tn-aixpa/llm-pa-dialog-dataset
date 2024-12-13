@@ -1,0 +1,34 @@
+{
+  "task_id": "TASK_01063",
+  "doc_src": "bleggio_superiore__2023.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Vorrei un'azione che parli di un omaggio per i nuovi nati.",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "In seguito le riporto il testo che Bleggio Superiore ha scritto per il piano dell'anno 2023.\n\nTITOLO: Omaggio di benvenuto per i nuovi nati\n\nTASSONOMIA: Promozione della natalitа (Bonus bebè, kit nuovi nati ecc.)\n\nOBIETTIVO: Aiuto economico alle famiglie e sostegno alla natalitа.\n\nDESCRIZIONE: Viene consegnato a tutti i bambini nati nel corso dell'anno un piccolo segno di benvenuto da parte dell'Amministrazione Comunale, in particolare un manufatto realizzato dai frequentanti il centro diurno per disabili situato sul territorio comunale. Viene inoltre consegnata una lettera informativa sui servizi che il Comune offre alle famiglie assieme ad un buono di 100 Ђ. E' previsto un ulteriore contributo di 100 Ђ alle famiglie interessate all'acquisto di di pannolini lavabili.\n\n",
+      "ground": "=== PIANO FAMIGLIA DI BLEGGIO SUPERIORE ANNO 2023 ===\n\n|||\n\nTITOLO: Omaggio di benvenuto per i nuovi nati\n\nTASSONOMIA: Promozione della natalitа (Bonus bebè, kit nuovi nati ecc.)\n\nOBIETTIVO: Aiuto economico alle famiglie e sostegno alla natalitа.\n\nDESCRIZIONE: Viene consegnato a tutti i bambini nati nel corso dell'anno un piccolo segno di benvenuto da parte dell'Amministrazione Comunale, in particolare un manufatto realizzato dai frequentanti il centro diurno per disabili situato sul territorio comunale. Viene inoltre consegnata una lettera informativa sui servizi che il Comune offre alle famiglie assieme ad un buono di 100 Ђ. E' previsto un ulteriore contributo di 100 Ђ alle famiglie interessate all'acquisto di di pannolini lavabili."
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "C'è anche qualcosa per il primo soccorso?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Sempre Bleggio Superiore nello stesso anno ha scritto la seguente azione:\n\nTITOLO: Corso BLSD (Basic Life Support Defibrillation)\n\nTASSONOMIA: Laboratori creativi e educativi (Corsi abilitа, pratiche e artigianato, antichi mestieri ecc)\n\nOBIETTIVO: Sensibilizzare e formare le associazioni sportive all'utilizzo del defibrillatore semi-automatico.\n\nDESCRIZIONE: L'Amministrazione organizza retraining del corso Corso BLSD (Basic Life Support Defibrillation), corso per l'utilizzo del defibrillatore semi-automatico, per tutte le associazioni sportive del territorio delle Giudicarie Esteriori.",
+      "ground": "TITOLO: Corso BLSD (Basic Life Support Defibrillation)\n\nTASSONOMIA: Laboratori creativi e educativi (Corsi abilitа, pratiche e artigianato, antichi mestieri ecc)\n\nOBIETTIVO: Sensibilizzare e formare le associazioni sportive all'utilizzo del defibrillatore semi-automatico.\n\nDESCRIZIONE: L'Amministrazione organizza retraining del corso Corso BLSD (Basic Life Support Defibrillation), corso per l'utilizzo del defibrillatore semi-automatico, per tutte le associazioni sportive del territorio delle Giudicarie Esteriori."
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

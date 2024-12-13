@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00302",
+  "doc_src": "comune.milano_aree-tematiche_links_D0334.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Buongiorno, vorrei avere informazioni sul progetto R-HOME",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Buongiorno, certo. Il progetto R-HOME ha l'obiettivo di lottare contro le discriminazioni verso i Rom, focalizzandosi sull'accesso alla casa e sull'inclusione sociale.",
+      "ground": "L’obiettivo del progetto R-HOME è contribuire alla lotta contro le discriminazioni verso i Rom concentrandosi su due aspetti:\nridurre le discriminazioni rispetto all’accesso alla casa, attraverso una miglior comprensione delle problematiche abitative e fornire  ai Rom gli strumenti e le conoscenze per far valere i propri diritti\nsupportare l’inclusione sociale dei Rom attraverso un percorso di empowerment, promuovendo la loro partecipazione attiva e favorendo lo sviluppo di un attivismo dei Rom e per i Rom."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "È vero che le comunità Rom hanno difficoltà a sviluppare percorsi di partecipazione?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Sì, purtroppo le comunità Rom incontrano difficoltà nel diventare parte attiva della vita sociale e politica.",
+      "ground": "Nonostante l’importanza di un loro coinvolgimento, le comunità Rom hanno difficoltà a sviluppare percorsi di partecipazione attiva."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

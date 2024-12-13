@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_01127",
+  "doc_src": "novella__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Che tipo di contributi potrei concedere?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Potresti concedere contributi per le famiglie numerose per il pagamento della quota di iscrizione al circolo di cultura cinematografica.",
+      "ground": "di interesse culturale\n\nesistenti è intenzionato a concedere dei contributi per le famiglie numerose\n\nper il pagamento della quota di iscrizione al circolo di cultura\n\ncinematografica Percorsi. Considerato che il cinema e la televisione possono\n\nsvolgere un ruolo formativo"
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Altre idee?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Potrebbe concedere un contributo per l'acquisto di pannollini ecologici per i bambini residenti nel paese del suo Comune.",
+      "ground": "Contributo per l’acquisto di pannolini ecologici\n\nIl Comune sostiene le spese\n\nfino ad un importo massimo di euro 150,00 a bambino per l’acquisto di pannolini\n\necologici (lavabili e riutilizzabili) ai residenti nel paese previa\n\npresentazione di apposita richiesta e di regolare documentazione fiscale di\n\nacquisto."
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Hai anche suggerimenti per azioni orientate verso gli anziani?",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Mi dispiace ma non so darle dei suggerimenti di azioni rivolte agli anziani.",
+      "ground": ""
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "Oh, peccato.",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "Vuole sapere qualcos altro?",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

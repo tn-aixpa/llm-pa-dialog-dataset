@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00429",
+  "doc_src": "comune.trento_aree-tematiche_D0037.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Ci sono informazioni sulle varianti al Piano regolatore generale con procedura semplificata?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, può trovare le varianti al Piano regolatore generale con procedura semplificata al link https://www.comune.trento.it/Aree-tematiche/Ambiente-e-territorio/Urbanistica/Procedure/Varianti-al-Piano-regolatore-generale-Prg-con-procedura-semplificata",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Ambiente-e-territorio/Urbanistica/Procedure/Varianti-al-Piano-regolatore-generale-Prg-con-procedura-semplificata](Varianti al Piano regolatore generale (Prg) con procedura semplificata)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

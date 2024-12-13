@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00724",
+  "doc_src": "comune.trento_aree-tematiche_D0564.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni su come partecipare al Piano di politica culturale \"Trento 2034\".",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Per la partecipazione al Piano \"Trento 2034\" deve obbligatoriamente registrarsi online.  \nPuò trovare più informazioni al link https://www.comune.trento.it/Aree-tematiche/Cultura-e-turismo/Avvisi-e-news/Piano-di-politica-culturale-Trento-2034-.-Da-lunedi-al-via-il-percorso-partecipato .",
+      "ground": "Prenotazione online obbligatoria.\n\n|||\n\n[https://www.comune.trento.it/Aree-tematiche/Cultura-e-turismo/Avvisi-e-news/Piano-di-politica-culturale-Trento-2034-.-Da-lunedi-al-via-il-percorso-partecipato]"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Capisco, e per l'utilizzo della Sala Thun nel primo semestre del 2025?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Per l'utilizzo della Sala Thun le consiglio di visitare la pagina https://www.comune.trento.it/Aree-tematiche/Cultura-e-turismo/Avvisi-e-news/Raccolta-domande-per-utilizzo-Sala-Thun-primo-semestre-2025 . In ogni caso, le richieste di utilizzo dello spazio per il primo semestre 2025 sono attualmente chiuse",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Cultura-e-turismo/Avvisi-e-news/Raccolta-domande-per-utilizzo-Sala-Thun-primo-semestre-2025](Raccolta domande per utilizzo Sala Thun - primo semestre 2025)\n\n|||\n\nhttps://www.comune.trento.it/Aree-tematiche/Cultura-e-turismo/Avvisi-e-news/Raccolta-domande-per-utilizzo-Sala-Thun-primo-semestre-2025"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie comunque per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Assolutamente sì, il Comune di Trento attua il piano attraverso i provvedimenti per ridurre gli inquinanti atmosferici, soprattutto durante il periodo invernale. Puoi trovare ulteriori informazioni e dettagli sui provvedimenti adottati sul sito ufficiale del Comune.",
+      "ground": "Ogni anno il Comune di Trento dà attuazione al Piano di Tutela della Qualità dell'Aria adottato dalla Giunta provinciale, attraverso l'adozione di una serie di\nprovvedimenti strutturali\nper il contenimento degli inquinanti atmosferici durante in periodo invernale che hanno come obiettivo principale la riduzione delle emissioni di polveri fini e di ossidi di azoto."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Perfetto, grazie mille per l'aiuto.",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "È stato un piacere, resto a disposizione per ulteriori chiarimenti o domande.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

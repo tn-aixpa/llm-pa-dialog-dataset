@@ -1,0 +1,34 @@
+{
+  "task_id": "TASK_01090",
+  "doc_src": "cavalese__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Che tipo di agevolazioni mi consigli di offrire per le famiglie numerose?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Un esempio lo offre il Comune di Cavalese, dove nelle famiglie con tre o più figli, viene data una tantum di 5mila euro perogni bambino che nasce nel loro Comune. A questo importo posso aggiungersi contributi anche di altri operatori.",
+      "ground": "Il Comune di Cavalese\n\nintende proseguire nel sostenere la natalitа delle proprie famiglie. Nel\n\nrispetto dei criteri individuati successivamente dagli uffici competenti, per i\n\nbambini delle famiglie numerose, quelle con tre e più figli, che nasceranno a\n\nCavalese, è intenzione del Comune proseguire nell’erogazione di un assegno una\n\ntantum di importo pari a Ђ 500,00. Al contributo del Comune potrebbero\n\naggiungersi ulteriori contributi erogati da parte di altri operatori, economici\n\ne non, che hanno aderito al distretto."
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Ho sentito che a Cavalese hanno fatto anche la festa dei maggiorenni, sa dirmi di più?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Sì, so darle più informazioni. L'Amministrazione Comunale intende incontrare neomaggiorenni per confrontarsi con loro e trattare temi come cittadinanza attiva, volontario, rispetto ambientale, lavoro, cultura e sport. Sarà inoltre consegnato loro un libro dedicato alla Costituzione Italiana",
+      "ground": "L’amministrazione\n\ncomunale organizzerа un incontro con i maggiorenni dell’anno 2020 e del 2021,\n\nper un momento di confronto tra istituzione e giovani cittadine e cittadini. In\n\ntale occasione si tratteranno vari temi, tra i quali l’importanza della\n\ncittadinanza attiva, del volontariato, del rispetto ambientale, del lavoro, della\n\ncultura e dello sport. Sarа consegnato un libro alle/ai giovani dedicato alla\n\nnostra Costituzione. "
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

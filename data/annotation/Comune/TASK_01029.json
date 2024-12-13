@@ -1,0 +1,34 @@
+{
+  "task_id": "TASK_01029",
+  "doc_src": "comSalerno1075.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "PA Operator",
+      "message": "Dove è possibile consultare la documentazione relativa al PUMS?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "La documentazione relativa al PUMS è disponibile online sulla pagina web  https://www.comune.salerno.it/documenti/pums-piano-urbano-della-mobilita-sostenibile sezione Documenti Correlati, voce PUMS - Elaborati Progettuali. Inoltre, è possibile consultare la documentazione presso l'Ufficio del RUP (geol. Ida Parisi) sito in via Guerino Grimaldi, 7 - Salerno, nei giorni di martedì e giovedì, dalle ore 10.00 alle ore 13.00.",
+      "ground": "La documentazione è disponibile on line sulla pagina web dell'Autorità Procedente -\nSettore Mobilità Urbana Trasporti e Manutenzioni\nal link:\n[https://www.comune.salerno.it/documenti/pums-piano-urbano-della-mobilita-sostenibile](PUMS - Piano Urbano della Mobilità Sostenibile)\n, nella sezione\nDocumenti Correlati\n, alla voce\nPUMS - Elaborati Progettuali\n.\nLa documentazione è altresì disponibile, dalle ore 10.00 alle ore 13.00, nei giorni di martedì e giovedì, presso l'Ufficio del RUP (geol.\nIda Parisi\n) sito in via Guerino Grimaldi, 7 - Salerno."
+    },
+    {
+      "id": "T03",
+      "speaker": "PA Operator",
+      "message": "Si può dare un feedback sul piano?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Sì, chiunque può dare un feedback sul piano. È possibile dare il proprio feedback entro 45 giorni dalla pubblicazione dell'avviso all'indirizzo PEC: protocollo@pec.comune.salerno.it, con il codice \"CUP: PUMSSA01\" nell'oggetto.",
+      "ground": "Chiunque può prenderne visione e far pervenire,\nentro giorni 45\ndalla pubblicazione del presente avviso, le proprie osservazioni, anche fornendo nuovi e ulteriori elementi conoscitivi e valutativi.\nLe osservazioni dovranno essere inviate sia all’Autorità Procedente sia all’Autorità Competente in materia di VAS, di seguito riportate:\nAutorità Procedente: Direttore del Settore Mobilità Urbana Trasporti e Manutenzioni- via Guerino Grimaldi, 7 - Salerno, ing.\nLuigi Mastrandrea\n;\nAutorità Competente: Direttore del Settore Ambiente - via Settimio Mobilio, 52 - Salerno - arch.\nDavide Pelosio\n,\ncon l’indicazione nell’oggetto, del seguente codice\nCUP: PUMSSA01,\nall'indirizzo\npec:\nmailto:protocollo@pec.comune.salerno.it\nprotocollo@pec.comune.salerno.it\n."
+    }
+  ],
+  "subcategory": "Salerno"
+}

@@ -1,0 +1,82 @@
+{
+  "task_id": "TASK_00057",
+  "doc_src": "comune.milano_aree-tematiche_D0079.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei avere informazioni sul Piano Casa a Milano.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Mi dica tutto. ",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "La delibera comunale del 2009 include le zone industriali?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "No, la delibera comunale n. 44/2009 non ha incluso le zone industriali.",
+      "ground": "la deliberazione comunale n. 44/2009 non ha incluso le zone industriali;\nla nuova legge regionale ha previsto la possibilità di ampliare gli ambiti di applicazione;"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "E la nuova legge regionale?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Sì, la nuova legge regionale ha previsto la possibilità di ampliare gli ambiti di applicazione, ma non so dirle cosa è stato deciso per quanto riguarda le zone industriali. In ogni caso, il Comune di Milano non si è avvalso di questa possibilità.",
+      "ground": "la nuova legge regionale ha previsto la possibilità di ampliare gli ambiti di applicazione;\nil Comune di Milano non si è avvalso della possibilità di ampliare gli ambiti di applicazione;"
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T09",
+      "speaker": "Cittadino",
+      "message": "E quindi?",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agente",
+      "message": "Ai sensi della Legge Regionale 4/2012, gli interventi del Piano Casa rimangono applicabili solo per ambiti non destinati a zone industriali o residenziali con vincolo tipologico. ",
+      "ground": "gli interventi ai sensi della Legge Regionale 4/2012 rimangono applicabili esclusivamente per gli ambiti non destinati a \"zone industriali\" a \"zone residenziali con vincolo tipologico\" (RX) così come individuate, alla data della Delibera di Consiglio Comunale n. 44 del 14 ottobre 2009, del Piano Regolatore Generale approvato nel 1980 e successive varianti.\n\nNormativa"
+    },
+    {
+      "id": "T11",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T12",
+      "speaker": "Agente",
+      "message": "Se ha altre domande, sono a sua disposizione.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

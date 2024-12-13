@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00096",
+  "doc_src": "comune.milano_aree-tematiche_D0106.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni riguardo agli aggiornamenti dei Diritti di segreteria del Comune di Milano.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, puoi consultare gli aggiornamenti dei diritti di segreteria al link www.dirittisegreteria.it",
+      "ground": "Si informa che, a partire dal 1 ottobre 2023, entra in vigore l’aggiornamento degli importi dei Diritti di segreteria stabilito con Delibera di Giunta Comunale n. 1084 del 03/08/2023.\nConsulta Pagamento dei diritti di segreteria[www.dirittisegreteria.it]"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E per quanto riguarda i servizi dell'Ufficio Condono, sono ancora sospesi?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "No, correntemente i servizi dell'Ufficio Condono sono offerti. Ci sono state pause in passato per lavori di ripristino della rete informatica ma adesso è tutto nella norma.",
+      "ground": "Si avvisano gli utenti che i servizi relativi all'ufficio condono, nello specifico il rilascio dei permessi e autorizzazioni a sanatoria, le visure atti nonché l'attività interna di consultazione per il completamento dei provvedimenti, hanno subito interruzioni dal 24/07/2023 al 27/07/2023 per lavori di ripristino della rete informatica con conseguente rallentamento delle attività dell'ufficio. Si assicura il recupero delle prestazioni sospese per garantire riscontro ai cittadini."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "E per il pagamento degli oneri di costruzione e monetizzazioni tramite bonifico bancario, ci sono delle novità?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Sì, a partire dal 19/6/2023, il pagamento di tali oneri dovrà avvenire esclusivamente tramite bonifico bancario a favore della Tesoreria del Comune di Milano. all'IBAN  IT15 V030 6901 7831 0000 0300 001  con causale: \"riferimenti del fascicolo edilizio\".",
+      "ground": "Si informa che, a partire dal 19/6/2023, il pagamento di oneri di costruzione e monetizzazioni relativi alle SCIA art.23 DPR380/20201 dovrà avvenire esclusivamente tramite bonifico bancario a favore di: Tesoreria del Comune di Milano - Banca Intesa Sanpaolo Spa - Iban: IT15 V030 6901 7831 0000 0300 001 - Causale: riferimenti del fascicolo edilizio."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni, ho capito tutto. ",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "È stato un piacere poterla aiutare, resto a disposizione per ulteriori chiarimenti. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

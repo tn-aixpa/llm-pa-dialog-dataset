@@ -1,0 +1,76 @@
+Tasi: info su calcolo e pagamenti
+
+Calcolo
+Le aliquote per gli anni 2016, 2017, 2018 e 2019 sono confermate, rispettivamente, con le deliberazioni del Consiglio comunale n. 12 del 3 marzo 2016, n. 3 del 26 gennaio 2017, n. 11 del 12 febbraio 2018 e n. 7 del 14 marzo 2019.
+La
+base imponibile
+si ottiene applicando alla rendita, iscritta in catasto al 1° gennaio dell’anno di imposizione, la rivalutazione del 5% e moltiplicandola per il coefficiente assegnato al gruppo o alla categoria catastale di appartenenza.
+L’imposta si ottiene applicando alla base imponibile l’aliquota prevista per ciascun tipo di immobile.
+Abitazione principale e pertinenze
+categorie catastali A1, A8, A9 e C2, C6 e C7
+coefficiente 160
+aliquota 0,8 per mille
+Fabbricati
+gruppo catastale A - con esclusione della categoria catastale A10
+coefficiente 160
+categoria catastale A10
+coefficiente 80
+gruppo catastale B
+coefficiente 140
+categoria C1 (negozi)
+coefficiente 55
+categorie catastali C2, C6 e C7
+coefficiente 160
+categorie catastali C3, C4 e C5
+coefficiente 140
+gruppo catastale D (capannoni, alberghi, cinema, ecc.) – con esclusione della categoria catastale D5
+coefficiente 65
+categoria catastale D5 (istituti di credito, cambio, assicurazione)
+coefficiente 80
+Per i fabbricati appartenenti al gruppo catastale D ma sforniti di rendita catastale, interamente posseduti da imprese e distintamente contabilizzati, si utilizzano i costi contabili come base imponibile.
+Aree fabbricabili
+La base imponibile è data dal valore venale in comune commercio al 1° gennaio dell'anno di imposta.
+Aliquote
+immobili soggetti sia a Tasi sia a Imu
+0,8 per mille
+fabbricati rurali ad uso strumentale
+1,0 per mille
+fabbricati costruiti e destinati dall'impresa costruttrice alla vendita (i cosiddetti beni merce)
+2,5 per mille.
+
+Come pagare
+L’imposta si paga utilizzando il modello F24.
+L'utilizzo del modello F24 è gratuito e consente di usufruire dei crediti erariali in compensazione dei debiti Tasi.
+Accedendo al
+calcolo Imu e Tasi
+è possibile, anche dall’estero, non solo effettuare il calcolo del dovuto ma anche procedere al pagamento dell’F24 precompilato tramite carta di credito e altri strumenti interbancari messi a disposizione.
+In alternativa il modello F24 compilato può essere pagato presso:
+banche
+uffici postali
+intermediari Entratel abilitati (Caf, Commercialisti, ecc.).
+Come compilare il modello F24
+I codici da indicare nel modello sono i seguenti:
+Comune di Milano: F205
+fabbricati rurali a uso strumentale: 3959
+aree fabbricabili: 3960
+altri fabbricati: 3961
+Il versamento del tributo deve essere effettuato con arrotondamento all'euro
+per difetto se la frazione è inferiore a 50 centesimi
+per eccesso se la frazione è pari o superiore a 50 centesimi.
+Nei casi che ancora la prevedono,
+l’imposta non è comunque dovuta se l’importo complessivo per l’anno - e non per le singole rate di acconto e di saldo - è uguale o inferiore a € 12,00
+. In questo caso non occorre effettuare il versamento.
+
+Versamento dall'estero
+Anche per i versamenti dall'estero è possibile utilizzare il motore di calcolo Tasi, procedendo con il pagamento del modello precompilato mediante carta di credito.
+Se non è possibile utilizzare il modello F24 per effettuare i versamenti Tasi dall’estero, effettuare un bonifico bancario nelle seguenti modalità:
+per i codici 3959, 3960, 3961
+effettuare un bonifico bancario a favore di:
+Intesa Sanpaolo
+codice BIC BCITITMM
+codice IBAN IT34 D030 6901 7830 0913 4207 823
+indicando come causale del versamento:
+cognome - nome - codice fiscale del contribuente - sigla “TASI" e i relativi codici tributo indicati nelle risoluzioni dell’Agenzia delle entrate n.46/E del 24 aprile 2014
+annualità di riferimento
+indicazione “Acconto" o “Saldo" nel caso di pagamento in due rate.
+Utilizza i servizi

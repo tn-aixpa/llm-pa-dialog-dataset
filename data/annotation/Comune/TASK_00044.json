@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00044",
+  "doc_src": "comune.milano_aree-tematiche_D0036.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Salve, vorrei informazioni sulle mappe ambientali del Comune di Milano. Sono disponibili online?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, sì le mappe ambientali sono consultabili online. Posso aiutarla?",
+      "ground": "Nell’ambito della ricognizione dei dati riferiti e riferibili all’ambiente sono state costruite delle mappe ambientali che di seguito possono essere consultabili:"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Vorrei sapere se c'è una mappa delle attività inquinanti.",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Può trovare la mappa al seguente link [[LINK Mappa delle attività produttive insalubri del Comune di Milano]]",
+      "ground": "[[LINK Mappa delle attività produttive insalubri del Comune di Milano]]"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "E la mappa sulla diffusione dell'ambrosia?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "La mappa è disponibile al seguente link [[Link Mappa sulla proliferazione dell’ambrosia artemisiifolia]]. Posso essere d'aiuto in altro modo?",
+      "ground": "[[Link Mappa sulla proliferazione dell’ambrosia artemisiifolia]]"
+    }
+  ],
+  "subcategory": "Milano"
+}

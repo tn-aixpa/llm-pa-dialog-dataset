@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00389",
+  "doc_src": "comune.milano_aree-tematiche_links_D0423.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Ho visto volantini che parlavano di lotte contro malattie delle piante. Sono presenti patologie in zona?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, certo. Le malattie delle piante sono un problema serio, soprattutto in ambito urbano. Attualmente, le patologie presenti sono diverse e includono il cancro colorato del platano e il cerambicide dalle lunghe antenne. ",
+      "ground": "In ambito urbano la lotta antiparassitaria obbligatoria per le piante ornamentali si riferisce a:\npatologie presenti\ncancro colorato del platano (agente patogeno: Ceratocystis fimbriata)\ncerambicide dalle lunghe antenne (agente patogeno: Anoplophora chinensis)\npatologie non segnalate\nprocessionaria del pino (agente patogeno: Thaumetopoea pityocampa)\ncolpo di fuoco batterico (agente patogeno: Erwinia amylovora)\nvaiolatura delle drupacee (agente patogeno: Plum pox virus)\ncocciniglia di S. Josè (agente patogeno: Comstockaspis perniciosa Comst.)\ncinipide del castagno (agente patogeno: Dryocosmus Kuriphilus)."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E per la processionaria ci sono controlli in atto?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sono solo in grado di dirle che il contrasto verso questo insetto è fatto secondo quanto previsto dal Decreto Ministeriale del 17 aprile 1998 n.356 , visibile al link https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=1998-06-01&atto.codiceRedazionale=098A4562",
+      "ground": "La lotta obbligatoria contro la processionaria del pino deve essere effettuata in applicazione di quanto previsto dal\n[https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=1998-06-01&atto.codiceRedazionale=098A4562 ](Decreto Ministeriale del 17 aprile 1998, n. 356)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "E per il virus Sharka, ci sono misure specifiche da adottare?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Sfortunatamente, è una malattia incurabile, l'unico mezzo di contrasto è l'eliminazione delle piante malate così da evitare che altre piante vengano infestate.",
+      "ground": "Come tutte le virosi è una malattia incurabile, l’unico mezzo di lotta consiste nell’eliminazione delle piante malate affinché non diventino un potenziale inoculo di infezione per le altre piante."
+    }
+  ],
+  "subcategory": "Milano"
+}

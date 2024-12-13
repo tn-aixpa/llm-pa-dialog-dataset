@@ -1,0 +1,34 @@
+{
+  "task_id": "TASK_00797",
+  "doc_src": "comune.salerno_D0073.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, mi scusi, potrebbe dirmi dove si trova il largo intitolato a Orazio Boccia?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, il largo si trova all'incrocio tra le strade via Tiberio Claudio Felice e via Roberto Wenner.",
+      "ground": "Il largo si trova all’intersezione delle strade via Tiberio Claudio Felice e via Roberto Wenner."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Grazie mille. Mi scusi, c'è stato qualche evento di inaugurazione recentemente?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, venerdì 12 aprile si svolgerà la cerimonia in loco dove  Boccia verrà ricordato.",
+      "ground": "Venerdì 12 aprile si svolgerà in loco una cerimonia nel corso della quale si ricorderà la figura del benemerito imprenditore."
+    }
+  ],
+  "subcategory": "Salerno"
+}

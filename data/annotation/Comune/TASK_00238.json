@@ -1,0 +1,52 @@
+{
+  "task_id": "TASK_00238",
+  "doc_src": "comune.milano_aree-tematiche_links_D0267.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Buongiorno, vorrei avere informazioni riguardo al programma Erasmus+ per l'infanzia.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Buongiorno, certo. Il Comune di Milano - Area Servizi all'Infanzia ha ottenuto l'accreditamento al programma Erasmus+ per l'azione KA1-Mobilità individuale per studenti e personale scolastico. È quindi possibile partecipare a periodi formativi in uno dei paesi membri dell'Unione Europea.",
+      "ground": "Il Comune di Milano  - Area Servizi all'Infanzia ha ottenuto l'accreditamento al programma\nErasmus+\nper\nl'azione \"\nKA1-Mobilità individuale per studenti e personale scolastico\n”, nel periodo 2021-2027.\nL’Azione Chiave 1 (KA1) offre la possibilità a studenti, docenti e persone dello staff scolastico di trascorrere periodi formativi in uno dei paesi membri dell’Unione Europea, con l’obiettivo di favorire la crescita delle reciproche competenze e migliorare l’offerta formativa delle scuole.\nIn coerenza con quanto previsto dal programma, l'Area Servizi all’Infanzia intende realizzare progetti formativi rivolti al personale educativo dell'Area, per creare occasioni di confronto e di scambio di buone prassi con soggetti, enti e istituzioni che operano nel campo dell'educazione e della cura della prima infanzia nell’ambito dei paesi dell’Unione Europea aderenti a Erasmus+."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "E quali sono i requisiti necessari per poter partecipare a questi periodi formativi?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "I requisiti variano a seconda del tipo di progetto formativo. È importante essere parte del personale educativo dell'Area Servizi all'Infanzia e avere interesse a confrontarsi e scambiare buone prassi con soggetti, enti e istituzioni operanti nel campo dell'educazione e della cura della prima infanzia.",
+      "ground": "L’Azione Chiave 1 (KA1) offre la possibilità a studenti, docenti e persone dello staff scolastico di trascorrere periodi formativi in uno dei paesi membri dell’Unione Europea, con l’obiettivo di favorire la crescita delle reciproche competenze e migliorare l’offerta formativa delle scuole."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Quindi, se non faccio parte del personale educativo dell'Area Servizi all'Infanzia non posso partecipare a questi progetti?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Non a questi progetti nello specifico, tuttavia, ci sono altre opportunità offerte dal programma Erasmus+ a cui potresti essere idoneo.",
+      "ground": ""
+    },
+    {
+      "id": "T07",
+      "speaker": "Citizen",
+      "message": "Grazie mille per le informazioni. Farò ulteriori ricerche e valuterò le opportunità disponibili.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00641",
+  "doc_src": "comune.trento_aree-tematiche_D0400.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Salve, vorrei ampliare la grandezza del mio negozio, a chi posso rivolgermi?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, nel caso in cui la sua attività commerciale sia di grandi dimensioni, le consiglio di consultare la pagina https://www.comune.trento.it/Aree-tematiche/Attivita-economiche/Commercio-su-area-privata/Grandi-strutture-di-vendita/Ampliamento-di-superficie-di-grandi-strutture-di-vendita .",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Attivita-economiche/Commercio-su-area-privata/Grandi-strutture-di-vendita/Ampliamento-di-superficie-di-grandi-strutture-di-vendita](Ampliamento di superficie di grandi strutture di vendita)\nInformazioni per presentare, tramite\nSuap\ntelematico, la\nScia\nrelativa all'\nampliamento di grandi strutture di vendita"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Cosa intendi per grandi dimensioni?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Per grandi dimensioni intendo che l'esercizio di vendita abbia una superficie pari o superiore a 1500 mq.",
+      "ground": "Per \"grandi strutture di vendita\" si intendono gli esercizi di vendita al dettaglio aventi superficie di vendita superiore a\n1500 mq."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

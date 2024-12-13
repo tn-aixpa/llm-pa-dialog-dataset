@@ -1,0 +1,40 @@
+{
+  "task_id": "TASK_00739",
+  "doc_src": "comune.trento_aree-tematiche_D0605.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei avere informazioni sull'annuario della città di Trento, è possibile consultarlo?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, certo. L'annuario è una raccolta di dati vari sulla città di Trento, che permette di identificare gli aspetti principali della realtà cittadina. Tuttavia, i dati riportati sono dell'anno precedente a quello di pubblicazione.",
+      "ground": "L’annuario, raccolta di dati di varia natura riguardanti la città di Trento, costituisce un’importante occasione non solo per identificare e “fotografare” i principali aspetti della realtà cittadina ma anche per cogliere ed interpretare le tendenze, le trasformazioni e le dinamiche evolutive del suo territorio.\nLa pubblicazione riporta i dati dell’anno precedente a quello di pubblicazione:"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quindi non posso avere informazioni aggiornate sulla popolazione?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Purtroppo no, l'aggiornamento dei dati sulla popolazione viene pubblicato nel mese di marzo e si trova nella sezione dedicata alle statistiche sul sito Trento Statistica nella pagina /Aree-tematiche/Statistiche-e-dati-elettorali/Statistiche/Pubblicazioni/Popolazione-al-31-dicembre .",
+      "ground": "Un aggiornamento dei principali dati relativi alla popolazione – pubblicati nel mese di marzo - si trova nella sezione dedicata a\n[/Aree-tematiche/Statistiche-e-dati-elettorali/Statistiche/Pubblicazioni/Popolazione-al-31-dicembre](Trento Statistica)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Capisco, grazie per le informazioni.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

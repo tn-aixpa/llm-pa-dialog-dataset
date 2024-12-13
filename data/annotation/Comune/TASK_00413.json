@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00413",
+  "doc_src": "comune.trento_aree-tematiche_D0018.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Buongiorno, vorrei sapere di più sulla pista da sci sul Bondone.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Sul Bondone c'è una Ski area con 70 ettari di superficie sciabile con tanto di sistema di innevamento programmato così da regalare una piacevole vacanza. Sono offerti anche servizi di scuola per principianti , tracciati tecnici per chi vuole praticare lo stile della serpentina e la \"Gran Pista\". \nPer più dettagli le consiglio il link http://www.skirama.it/skiarea/monte-bondone/",
+      "ground": "Una Ski Area con 70 ettari di superficie sciabile, 20 chilometri di piste molto ampie ed un sistema di innevamento programmato integrale sono quello che serve per regalarvi il piacere di una vacanza sulla neve: campi scuola per i principianti, tracciati tecnici per gli amanti dello stile e della serpentina, la “Gran Pista” per chi non vuol perdersi nemmeno un centimetro di montagna. il tutto godendo dell'incantevole panorama delle Dolomiti di Brenta.\n[http://www.skirama.it/skiarea/monte-bondone/](Ski area Monte Bondone)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Capisco, e per lo snowboard? Ci sono percorsi attrezzati?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Sì, ci sono dei passaggi attrezzatu per chi vuole praticare snowboard, comodamente raggiungibili con mezzi pubblici e skibus",
+      "ground": "Snowboard\nLo snowpark del Monte Bondone con il suo superpipe e i suoi passaggi “attrezzati” è pronto a sfidare la fantasia, l'abilità e il coraggio degli snowboarder a pochissimi chilometri da Trento. Il parco dei divertimenti degli appassionati della tavola da neve è comodamente raggiungibile con i mezzi pubblici e lo skibus."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "E per lo sci di fondo?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Per lo sci di fondo ci sono 35 chilometri di piste con sistema di innevamento programmato. Ci sono inoltre servizi di scuola, noleggio, spogliatoi.",
+      "ground": "Sci di fondo\nNon ha importanza se si corre o se ci si muove lentamente sugli sci. Il fondo è un piacere unico. Il Centro Fondo Viote offre 35 chilometri di piste per tecnica libera e classica tracciate lungo la soleggiata conca delle Viote a 1.565 metri. Dotato anche di un impianto per l`innevamento programmato, il Centro offre possibilità di parcheggio, scuola di sci fondo, noleggio, spogliatoi con bagni e docce, locale sciolinatura ed è punto di partenza per le escursioni con le racchette da neve o gli sci d`alpinismo."
+    },
+    {
+      "id": "T07",
+      "speaker": "Citizen",
+      "message": "Grazie per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agent",
+      "message": "È un piacere, se ha bisogno di ulteriori informazioni non esiti a contattare via email all'indirizzo ufficiorapportiutenti@asis.trento.it. Buona giornata!",
+      "ground": "email:\n[/”mailto:ufficiorapportiutenti@asis.trento.it”](ufficiorapportiutenti@asis.trento.it)"
+    }
+  ],
+  "subcategory": "Trento"
+}

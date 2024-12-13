@@ -1,0 +1,76 @@
+{
+  "task_id": "TASK_01045",
+  "doc_src": "ala__2023.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Buongiorno, cosa mi consigli di scrivere per aprire la premessa del piano comunale?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Suggerisco di parlare di come le politiche familiari forniscano un insieme di interventi atti a sostenere genitorialità, conciliare i tempi famiglia/lavoro e l'assolvimento delle responsabilità.",
+      "ground": "Le politiche familiari strutturali costituiscono un insieme di interventi e servizi che mirano a favorire l'assolvimento delle responsabilitа familiari, a sostenere la genitorialitа e la nascita, a sostenere la conciliazione dei tempi famiglia/lavoro, a rafforzare i legami familiari e i legami tra le famiglie, a creare reti di solidarietа locali."
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Qualcos altro?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Puoi dire Come il tuo intende portare in atto le politiche per la famiglia. Per esempio il comune di Ala per il piano 2023 dice di voler rendere il proprio territorio attrattivo e accogliente per le famiglie, evidenziando poi come l'Amministrazione comunale supporti questo percorso per rendere le famiglie attive. ",
+      "ground": "=== PIANO FAMIGLIA DI ALA ANNO 2023 ===\n\n|||\n\nI Comune di Ala intende fare proprie le indicazioni normative sopraesposte, in modo da rendere sempre più ii proprio territorio accogliente ed attrattivo per le famiglie e per tutti i soggetti che interagiscono con esse, capace di offrire servizi ed opportunitа rispondenti ai bisogni ed alle aspettative delle famiglie residenti e non solo.\n\n|||\n\nL'Amministrazione comunale intende sostenere le politiche per ii benessere familiare e porre al centre delle proprie politiche la famiglia per perseguirne la piena promozione e, attraverso ii coinvolgimento delle risorse attivabili su tutto ii territorio provinciale, superare la vecchia logica assistenzialistica, per intraprendere un nuovo corso di politiche nei diversi settori di intervento (casa, servizi ed assistenza alla persona, servizio di supporto scolastico, politiche tariffarie ecc. ), in cui la famiglia diventa di diritto soggetto attivo e propositivo, attraverso un percorso orientate verso:"
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Ci sono delle convenzioni previste?\n",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Sì, il comune di Ala prevede convenzioni per le seguenti azioni:\n-  Alloggi comunali\n-  Convenzione con l'Associazione Vellutai\n-  Convenzione con la Scuola Musicale dei Quattro Vicariati soc.coop.\n-  Convenzione con la Banda sociale\n- Piano Giovani di zona A.M.B.R.A.",
+      "ground": "TITOLO: Alloggi comunali\n\n|||\n\nDESCRIZIONE: Il Comune di Ala con apposita convenzione stipulata sulla base della L.P. 15/2005 ha affidato ad ITEA SpA la gestione di undici alloggi di cui è proprietario.\n\n|||\n\nTITOLO: Convenzione con l'Associazione Vellutai\n\n|||\n\nTITOLO: Convenzione con la Scuola Musicale dei Quattro Vicariati soc.coop.\n\n|||\n\nTITOLO: Convenzione con la Banda sociale\n\n|||\n\nTITOLO: Piano Giovani di zona A.M.B.R.A.\n\n|||\n\nI Comuni aderenti al Piano Giovani A.M.B.R.A., con l'apposita Convenzione n. 49 stipulata in data 20 dicembre 2022, hanno confermato il Comune di Ala quale ente capofila del Piano per il periodo 2023 - 2026."
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "Mi diresti di più sulla convenzione con l'associazione vellutai?",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "Questo è il testo dell'azione\n\nTITOLO: Convenzione con l'Associazione Vellutai\n\nTASSONOMIA: Sostegno economico alle associazioni del territorio / Concessione spazi\n\nDESCRIZIONE: Il comune propone le visite animate in costume d'epoca nei Palazzi del centro storico, nelle corti interne e giardini e tra le vie cittadine con la collaborazione con l'Associazione culturale Vellutai Cittа di Ala.\n\nDal 2021 sono stati coinvolti anche i ''vellutini'' bambini e ragazzi di Ala che affiancheranno i Vellutai come ciceroni della cittа.\n\nNei prossimi mesi si intende formalizzare apposita convenzione pluriennale con l'Associazione in parola per la collaborazione nell'organizzazione degli eventi e per la messa a disposizione della sede associativa.",
+      "ground": "TITOLO: Convenzione con l'Associazione Vellutai\n\nTASSONOMIA: Sostegno economico alle associazioni del territorio / Concessione spazi\n\nDESCRIZIONE: Il comune propone le visite animate in costume d'epoca nei Palazzi del centro storico, nelle corti interne e giardini e tra le vie cittadine con la collaborazione con l'Associazione culturale Vellutai Cittа di Ala.\n\nDal 2021 sono stati coinvolti anche i ''vellutini'' bambini e ragazzi di Ala che affiancheranno i Vellutai come ciceroni della cittа.\n\nNei prossimi mesi si intende formalizzare apposita convenzione pluriennale con l'Associazione in parola per la collaborazione nell'organizzazione degli eventi e per la messa a disposizione della sede associativa."
+    },
+    {
+      "id": "T9",
+      "speaker": "Citizen",
+      "message": "Grazie mille, sembra molto interessante, vedrò se c'è qualcosa di simile che posso aggiungere alle nostre azioni.",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agent",
+      "message": "Mi fa piacere. C'è altro con cui posso assisterla?",
+      "ground": ""
+    },
+    {
+      "id": "T11",
+      "speaker": "Citizen",
+      "message": "No è tutto, grazie per tutto.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

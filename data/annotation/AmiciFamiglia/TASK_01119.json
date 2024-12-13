@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01119",
+  "doc_src": "levico_terme__2023.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Vorrei promuovere la mobilità sostenibile in città.",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Un modo per ottenere la mobilità sostenibile in città potrebbe essere quello di mettere a disposizione dei contributi una tantum alle famiglie per l'acquisto di biciclette a pedalata assistita.\n\nIn alternativa potrebbe dare una tariffa agevolata per le famiglie aventi figli sotto una certa età per l'uso dei mezzi pubblici",
+      "ground": "Il\n\ncomune di Levico Terme attraverso un proprio regolamento, al fine di\n\nincentivare la mobilitа sostenibile da parte delle famiglie, concede\n\ncontributi una tantum, per l’acquisto di biciclette a pedalata\n\nassistita.\n\n|||\n\nIl\n\ncomune di Levico Terme nello stabilire le tariffe per l’utilizzo\n\ndel servizio di trasporto turistico con per la localitа\n\nVetriolo-Panarotta, prevede una tariffa agevolata per famiglie con\n\nfigli minori di 10 anni, allo scopo di alleggerire i costi a carico\n\ndelle famiglie.\n\n"
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Niente idee per le auto elettriche?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "No, mi dispiace ma non sono in grado di fornire suggerimenti relative alle auto elettriche.",
+      "ground": ""
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Hai qualche idea almeno per le proposte culturali che potrei offrire?",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Sì, potrebbe programmare delle giornata di lettura per ragazzi sul tema della comunicazione e dei rapporti interpersonali in biblioteca nonché fare una più generale promozione alla lettura verso tutti gli studenti, dall'Asilo Nido alle superiori",
+      "ground": "Mensilmente\n\nla biblioteca comunale di Levico Terme organizza degli incontri di\n\nlettura ad alta voce per i ragazzi dell'Appm di Levico Terme sul tema\n\ndella comunicazione e dei rapporti interpersonali. Gli incontri si\n\nsvolgono in biblioteca comunale oppure nella sede del centro\n\n|||\n\nDa\n\nparecchi anni la Biblioteca di Levico Terme ha un particolare occhio\n\ndi riguardo per la formazione e la promozione alla lettura degli\n\nalunni appartenenti a tutti i vari gradi di istruzione presenti sul\n\nterritorio. Per tale motivo, anche per il 2023 continueranno le\n\nnumerose attivitа rivolte ai bambini dell’Asilo Nido, della Scuola\n\ndell’Infanzia, agli alunni della Scuola Elementare ed infine agli\n\nstudenti delle Scuole Medie e Superiori."
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

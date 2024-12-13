@@ -1,0 +1,94 @@
+{
+  "task_id": "TASK_00147",
+  "doc_src": "comune.milano_aree-tematiche_D0171.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei delle informazioni riguardo alla realizzazione di un passo carrabile per la mia proprietà privata.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Cosa vuole sapere?",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Devo pagare un canone per modificare il piano stradale?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, poiché il passo carrabile all'esterno della proprietà è considerata occupazione della proprietà privata. Questa modifica è soggetta al pagamento del canone COSAP.",
+      "ground": "Passi carrabili\n\nLa modifica del piano stradale per facilitare l'accesso dei veicoli alla proprietà privata è un’occupazione di suolo pubblico soggetta al pagamento del canone COSAP."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Ho sentito che c'è un termine preciso per riferirsi a chi possiede la proprietà accessibile attraverso il passo carrabile, mi saprebbe dire il termine?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Il termine è \"Soggetto obbligato\", ovvero colui che è titolare del provvedimento di concessione all'occupazione di spazio pubblico.",
+      "ground": "Il soggetto obbligato è generalmente il titolare del provvedimento di concessione all'occupazione di spazio pubblico, ovvero il proprietario delle aree private cui si accede tramite il passo carrabile oppure chi ha titolo al suo utilizzo."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Quali sono i costi per ottenere l'autorizzazione?",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "Le spese sono due marche da bollo da 16€, una per la richiesta e l'altra per il ritiro della concessione, a cui si aggiungono le spese istruttorie per l'autorizzazione alla posa del passo carrabile nonché la voltura delle autorizzazioni già rilasciate (50€), il canone COSAP se dovuto e un deposito cauzionale.",
+      "ground": "marca da bollo da € 16,00* per la richiesta;\nmarca da bollo da € 16,00* per il ritiro della concessione;\nspese istruttorie per l'autorizzazione alla posa di nuovi passi carrabili (temporanei o permanenti) nonché per la voltura delle autorizzazioni già rilasciate: € 50,00\ncanone COSAP, se dovuto\ndeposito cauzionale (se dovuto) a garanzia dell'integrità del suolo pubblico o dei costi sostenuti dall'Amministrazione per la realizzazione dei nuovi passi carrabili."
+    },
+    {
+      "id": "T09",
+      "speaker": "Cittadino",
+      "message": "E se volessi installare delle segnaletiche aggiuntive?",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agente",
+      "message": "È possibile chiedere l'autorizzazione per la tracciatura della segnaletica orizzontale o per un specchio parabolico.",
+      "ground": "Per aumentare la fruibilità e sicurezza dei passi carrabili è possibile chiedere l’autorizzazione per:\n\ntracciatura della segnaletica orizzontale per evidenziare il passo carrabile\nspecchio parabolico."
+    },
+    {
+      "id": "T11",
+      "speaker": "Cittadino",
+      "message": "Dove posso acquistare il cartello per il passo carrabile?",
+      "ground": ""
+    },
+    {
+      "id": "T12",
+      "speaker": "Agente",
+      "message": "Il cartello può essere acquistato nei negozi specializzati, ma solo dopo aver ottenuto il numero di autorizzazione.",
+      "ground": "Acquisto ed esposizione del cartello\n\nIl cartello di passo carrabile può essere acquistato nei negozi specializzati (tipografie, stamperie, ecc.) solo dopo aver ottenuto il numero di autorizzazione che dovrà essere riportato sopra."
+    },
+    {
+      "id": "T13",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T14",
+      "speaker": "Agente",
+      "message": "È stato un piacere aiutarla, se ha bisogno di ulteriori informazioni non esiti a contattarci nuovamente. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

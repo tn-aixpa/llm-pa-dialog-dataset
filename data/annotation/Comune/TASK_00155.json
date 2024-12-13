@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00155",
+  "doc_src": "comune.milano_aree-tematiche_D0181.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Salve, mi scusi, potrebbe darmi informazioni sulle aree di sosta per bus turistici?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente. All'interno dell'Area C e in prossimità dei luoghi di maggiore interesse turistico ci sono delle aree con stalli a rotazione veloce. I regolamenti impongono la fermata solo per il tempo di salita/discesa dei passeggeri.",
+      "ground": "Sul territorio di Milano sono disponibili diverse aree per la sosta e la fermata dei bus turistici.\n\nAll'interno di Area C e in prossimità dei luoghi di maggiore interesse turistico sono state individuate alcune aree con stalli a rotazione veloce, con una regolamentazione che impone la fermata solo per il tempo di salita/discesa dei passeggeri."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Ci sono anche aree di sosta al di fuori della Cerchia dei Bastioni?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, in questo caso le aree sono più ampie e la sosta è per ora. L'elenco delle aree di sosta è disponibile al sito www.areesosta.it/file.pdf . ",
+      "ground": "Al di furori della Cerchia dei Bastioni le località individuate sono più ampie e la sosta è regolamentata ad ore.\nL'elenco delle aree di sosta è disponibile nella sezione Allegati.\n\n|||\n\nLocalizzazione aree di sosta per bus turistici (pdf - 36.629 KB)[www.areesosta.it/file.pdf]"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Prego, se ha bisogno di ulteriori chiarimenti non esiti a contattarmi. Buona giornata!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

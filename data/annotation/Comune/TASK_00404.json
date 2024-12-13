@@ -1,0 +1,40 @@
+{
+  "task_id": "TASK_00404",
+  "doc_src": "comune.trento_aree-tematiche_D0007.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sulla Trentino Guest Card. Posso riceverla anche se prenoto in una struttura diversa da quelle indicate?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Mi dispiace, ma la Trentino Guest Card è disponibile solo per le prenotazioni effettuate in una delle strutture ricettive della città di Trento, del Monte Bondone o della Valle dei Laghi.",
+      "ground": "Per ricevere la Trentino Guest Card è semplicissimo: basta prenotare in una delle molte strutture ricettive della città di Trento, del Monte Bondone o della Valle dei Laghi per ricevere gratuitamente una card valida per tutta la durata del soggiorno."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Capito, la Trentino Guest Card è disponibile anche su carta?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, puoi richiedere la stampa al momento del check-in nella struttura che la ospita.",
+      "ground": "Se invece non si dispone di uno smartphone, si può richiedere la stampa cartacea della card al check-in."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

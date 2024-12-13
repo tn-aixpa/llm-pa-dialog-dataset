@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00379",
+  "doc_src": "comune.milano_aree-tematiche_links_D0413.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sulla dichiarazione Tari per le utenze non domestiche.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno. Il calcolo della Tari dipende dalla situazione immobiliare e ogni cambiamento incide sulla tariffa. È necessario presentare una dichiarazione in caso di nuova occupazione, cessazione di occupazione o variazione degli elementi imponibili.",
+      "ground": "Ogni cambiamento della situazione incide sulla tariffa Tari e richiede la presentazione della dichiarazione di nuova occupazione, di cessazione di occupazione o di variazione degli elementi imponibili (metratura, destinazione d’uso)."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Ammetto che non ci sto capendo niente, come posso ricevere assistenza?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Può compilare il form al sito https://servizicrm.comune.milano.it/tari/utenzenondomestiche corrispondente alla sua tipologia d'utenza per richiedere informazioni o verifiche sulla sua posizione Tari.",
+      "ground": "Compila il form corrispondente alla tua tipologia d'utenza e potrai chiedere informazioni o verifiche sulla tua posizione Tari.\n[https://servizicrm.comune.milano.it/tari/utenzenondomestiche](SCRIVI)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni. A proposito, dove posso trovare ulteriori informazioni sui rifiuti e sui comunicati stampa dell'Arera?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Sui comunicati stampa dell'Arera può consultare il link https://www.arera.it mentre per informazioni sui rifiuti il link è https://www.comune.milano.it/aree-tematiche/ambiente/rifiuti",
+      "ground": "[https://www.comune.milano.it/aree-tematiche/ambiente/rifiuti](Informazioni sui rifiuti)\n\n|||\n\n[https://www.arera.it](Comunicati stampa Arera - Autorità di regolazione per energia, reti e ambienti)"
+    }
+  ],
+  "subcategory": "Milano"
+}

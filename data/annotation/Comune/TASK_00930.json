@@ -1,0 +1,34 @@
+{
+  "task_id": "TASK_00930",
+  "doc_src": "comune.milano_aree-tematiche_links_D0216.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Quali sono i requisiti specifici per poter votare all'estero per gli italiani residenti all'estero?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Per votare all'estero, è necessario essere maggiorenni ed essere iscritti alle liste elettorali dell'ultimo Comune di residenza.",
+      "ground": "Per l'esercizio di voto occorre essere:\nmaggiorenni\niscritti alle liste elettorali dell'ultimo Comune di residenza\nprima dell'espatrio\n."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "E quali sono le modalità di voto in questo caso?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Si può o votare per corrispondenza o tornare nell'ultimo Comune di residenza prima dell'espatrio.\nIl voto per corrispondenza, non è possibile nei Paesi che non riescono a garantire la regolarità del voto, in questi casi il cittadino ha diritto a un rimborso fino al 75% delle spese di viaggio.",
+      "ground": "È possibile scegliere se:\nvotare all'estero per corrispondenza;\ntornare a votare in Italia nell'ultimo Comune di residenza prima dell'espatrio.\nCaso in cui non è possibile votare per corrispondenza:\nil voto per corrispondenza non è possibile nei Paesi con i quali non si è giunti a intese che garantiscano la regolarità del voto;\nin questo caso l’elettrice/elettore ha diritto al rimborso del 75% delle spese di viaggio sostenute per il rientro in Italia. Per ottenere il rimborso presentare domanda al proprio Ufficio Consolare, corredata del certificato elettorale e del biglietto di viaggio."
+    }
+  ],
+  "subcategory": "Milano"
+}

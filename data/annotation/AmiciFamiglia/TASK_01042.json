@@ -1,0 +1,94 @@
+{
+  "task_id": "TASK_01042",
+  "doc_src": "Plan_57572_2.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Cosa mi consigli di mettere come premessa al piano del mio Comune?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "È interessante l'esempio del Comune di Segonzano, che si propone di mettere al centro e promuovere le politiche per il benessere familiare. Il Comune si propone di superare la vecchia logica assistenzialistica e rendere le famiglie attive e propositive per lo sviluppo.\n\nFacendo ciò il Comune si intende qualificare come territorio accoglienze e attrativo per le famiglia.",
+      "ground": "Il Comune di SEGONZANO intende sostenere le politiche per il benessere famigliare e porre al centro delle proprie politiche la famiglia, per perseguirne la piena promozione.\n\nCon tale ottica e attraverso il coinvolgimento di tutte le risorse attivabili sul territorio Provinciale, il Comune di SEGONZANO intende superare la vecchia logica assistenzialistica per intraprendere un nuovo corso di politiche nei diversi settori di intervento in cui la famiglia diventa soggetto attivo e propositivo e motivo di sviluppo.\n\nIl territorio del Comune di SEGONZANO si vuole qualificare sempre più come territorio accogliente e attrattivo per le famiglie e per i soggetti che interagiscono con esse, capace di offrire servizi ed opportunitа che rispondano alle aspettative delle famiglie, operando in una logica di Distretto Famiglia e Comune amico della Famiglia, all'interno del quale attori diversi per ambiti di attivitа perseguono l'obiettivo comune di accrescere sul territorio il benessere famigliare."
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Parole molto belle.",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "C'è altro che vuole sapere?",
+      "ground": ""
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Che sostegno intendono dare alle famiglie con neonati?",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "A Segonzano, intendono dare sostegno alla natalità, conciliare la alternanza famiglia e lavoro tramite colonie estive e dare contributi per l'acquisto di pannolini lavabili.",
+      "ground": "TITOLO: SOSTEGNO ALLA NATALITA'\n\n|||\n\nTITOLO: COLONIE ESTIVE\n\nOBIETTIVO: Conciliazione alternanza famiglia lavoro.\n\n|||\n\nTITOLO: CONTRIBUTO COMUNALE PER L'ACQUISTO DI PANNOLINI LAVABILI\n\nOBIETTIVO: Sostenere le politiche sulla natalitа e rispetto ambientale."
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "Mi diresti di più su quello che vogliono fare per sostenere la natalità?",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "L'amministrazione intende dare un contributo per l'acquisto di pannolini lavabili così da aiutare economicamente le famiglie e ridurre i rifiuti",
+      "ground": "DESCRIZIONE: L’amministrazione istituirа un contributo per l'acquisto di pannolini lavabili con lo scopo di aiutare economicamente le famiglie che intendono fare questa scelta che va a favorire anche il risparmio di produzione di rifiuti."
+    },
+    {
+      "id": "T9",
+      "speaker": "Citizen",
+      "message": "Per le associazioni invece intendono fare qualcosa?",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agent",
+      "message": "Intendono fornire supporto economico, concedere spazi per l'aggregazione sociale, dare riduzioni ed esenzioni alla TA.RI. nonché dargli spazio nel notiziario comunale.",
+      "ground": "TITOLO: SOSTEGNO ECONOMICO ALLE ASSOCIAZIONI\n\n|||\n\nTITOLO: CONCESSIONE SALE, LOCALI, IMPIANTI E ATTREZZATURE\n\nOBIETTIVO: Favorire l'aggregazione sociale nella considerazione che il volontariato rappresenta anche un ''sistema'' di coesione sociale e di buone pratiche relazionali\n\n|||\n\nTITOLO: CONCESSIONE SALE, LOCALI, IMPIANTI E ATTREZZATURE\n\nOBIETTIVO: Favorire l'aggregazione sociale nella considerazione che il volontariato rappresenta anche un ''sistema'' di coesione sociale e di buone pratiche relazionali\n\n|||\n\nTITOLO: NOTIZIARIO COMUNALE\n\n|||\n\nparte riservata a divulgare atti, per provvedimenti e attivitа dell'Amministrazione comunale, del Consiglio comunale, delle Commissioni comunali, di Enti o Associazioni o istituti scolastici;"
+    },
+    {
+      "id": "T11",
+      "speaker": "Citizen",
+      "message": "Mi daresti il testo completo per le esenzioni sulla TARI?",
+      "ground": ""
+    },
+    {
+      "id": "T12",
+      "speaker": "Agent",
+      "message": "Art. 20, commi 1 - 2 e 3, del Regolamento per la disciplina della TA.RI. (Tassa per la gestione dei rifiuti) approvato con deliberazione del Consiglio comunale n. 8 del 31 marzo 2021.\n\n    Ai sensi dell'art. 1, comma 660, della L. 14/2013, la tariffa è ridotta del 100% nelle seguenti ipotesi\n    ) per le scuole materne provinciali, scuole elementari primarie e scuole secondarie di primo grado pubbliche di cui alla L.P. 8/1997; b) per i locali e le aree utilizzati dal Comune per fini istituzionali; c) per i locali e le aree utilizzate dalle organizzazioni di volontariato costituite esclusivamente per fini di solidarietа sociale e dalle associazioni che perseguono finalitа di rilievo sociale, storico, culturale, sportivo o simili, purchй, in ogni caso, dal relativo statuto risulti l'assenza dello scopo di lucro. In tale categoria agevolata si intendono ricompresi anche gli oratori e gli altri spazi di natura religiosa e non, nei quali l'accesso sia libero, dedicato all'educazione ed al gioco e che non siano adibiti a scopo abitativo o produttivo di servizi e/o attivitа economiche. 2. Per le attivitа economiche che subiscono un rilevante danno economico in quanto situate in zone precluse dal traffico per lo svolgimento di opere pubbliche che si protraggono per oltre sei mesi, la misura della riduzione è stabilita dalla Giunta comunale, cui è demandata pure l'individuazione della attivitа economiche rientranti nell'ambito agevolato. 3. Il Comune, oltre a provvedere al pagamento della tariffa per le proprie utenze comunali, si sostituisce al pagamento delle riduzioni di cui al comma 1, lettere a), b) c) e comma 2 del presente articolo.",
+      "ground": "Art. 20, commi 1 - 2 e 3, del Regolamento per la disciplina della TA.RI. (Tassa per la gestione dei rifiuti) approvato con deliberazione del Consiglio comunale n. 8 del 31 marzo 2021.\n\n    Ai sensi dell'art. 1, comma 660, della L. 14/2013, la tariffa è ridotta del 100% nelle seguenti ipotesi\n    ) per le scuole materne provinciali, scuole elementari primarie e scuole secondarie di primo grado pubbliche di cui alla L.P. 8/1997; b) per i locali e le aree utilizzati dal Comune per fini istituzionali; c) per i locali e le aree utilizzate dalle organizzazioni di volontariato costituite esclusivamente per fini di solidarietа sociale e dalle associazioni che perseguono finalitа di rilievo sociale, storico, culturale, sportivo o simili, purchй, in ogni caso, dal relativo statuto risulti l'assenza dello scopo di lucro. In tale categoria agevolata si intendono ricompresi anche gli oratori e gli altri spazi di natura religiosa e non, nei quali l'accesso sia libero, dedicato all'educazione ed al gioco e che non siano adibiti a scopo abitativo o produttivo di servizi e/o attivitа economiche. 2. Per le attivitа economiche che subiscono un rilevante danno economico in quanto situate in zone precluse dal traffico per lo svolgimento di opere pubbliche che si protraggono per oltre sei mesi, la misura della riduzione è stabilita dalla Giunta comunale, cui è demandata pure l'individuazione della attivitа economiche rientranti nell'ambito agevolato. 3. Il Comune, oltre a provvedere al pagamento della tariffa per le proprie utenze comunali, si sostituisce al pagamento delle riduzioni di cui al comma 1, lettere a), b) c) e comma 2 del presente articolo."
+    },
+    {
+      "id": "T13",
+      "speaker": "Citizen",
+      "message": "Grazie di tutto, apprezzo molto.",
+      "ground": ""
+    },
+    {
+      "id": "T14",
+      "speaker": "Agent",
+      "message": "Grazie a lei, buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

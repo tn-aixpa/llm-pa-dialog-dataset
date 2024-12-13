@@ -1,0 +1,34 @@
+{
+  "task_id": "TASK_01157",
+  "doc_src": "sanzeno_v2.1__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Volevo scrivere un'azione relativa ai parchi e alla manutenzione, aggiungi il contenuto dove manca.\n\n\"Manutenzione parchi\"\n\nper l'anno 2026 il Comune di Gellina intende ammodernare i giochi in disuso nei parchi del territorio Comunale.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Certamente, ecco come potrebbe essere un completamento.\n\nTITOLO: Manutenzione parchi\n\nTASSONOMIA: Pianificazione urbanistica (strade, parchi, orti, campi sportivi ecc.)\n\nMACRO-AMBITO: Welfare territoriale e sostenibilitа\n\nOBIETTIVO: Rinnovare e garantire la sicurezza dei parchi giochi nel territorio Comunale di Gellina.\n\nDESCRIZIONE: Per l'anno 2026, il Comune di Gellina intende ammodernare i le strutture cadute in disuso nei parchi del territorio Comunale. Questa iniziativa mira a migliorare le attuali strutture, similmente a quanto già realizzato in passato, dove i parchi giochi rinnovati sono a disposizione di bambini e famiglie, contribuendo al benessere e al welfare territoriale.",
+      "ground": "TITOLO: Parchi e strutture\nTASSONOMIA: Pianificazione urbanistica (strade, parchi, orti, campi sportivi ecc.)\nMACRO-AMBITO: Welfare territoriale e sostenibilitа\nDESCRIZIONE: Sul territorio ci sono parchi giochi appena rinnovati,\nuno per ogni frazione, a gratuita disposizione di bambini e famiglie, un campetto\nda calcio con reti a copertura e illuminazione serale di recente realizzazione,\na gratuita disposizione dei ragazzi, una casetta in localitа “Croce”, dotata\nanche di cucina attrezzata, per feste e ritrovi, a gratuita disposizione per le\nassociazioni di Sanzeno; l'edificio ''ex scuole elementari'' a\ndisposizione gratuita per il gruppo anziani (per le attivitа didattiche e\nmanuali organizzate dalla comunitа di valle a favore degli anziani).\nIl Comune di impegna a mantenere nel tempo le stesse modalitа di messa\ndisposizione delle strutture comunali come sopra descritte e a garantire sempre\ni necessari investimenti affinchй tutte le strutture siano sempre decorose e in\nsicurezza.\nAnche per il 2022 particolare attenzione sarа dedicata al Centro Multimediale,\nstruttura che racconta il territorio della Val di Non proprio a bambini e\nragazzi, per il linguaggio scelto e le attivitа che si possono svolgere,\ngarantendone la massima apertura, compatibilmente con le risorse a disposizione\ndel comune e promuovendone la conoscenza"
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Grazie, ora una per le piste ciclabili\n\n\"piste ciclabili e colonnine elettriche\"\n\nIl Comune di Gellina intende estendere la rete di piste ciclabili e di potenziarla aggiungendo stazioni di manutenzione e colonnine elettriche per E-bike",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "TITOLO: Piste ciclabili e colonnine elettriche\n\nTASSONOMIA: Pianificazione urbanistica (strade, parchi, orti, campi sportivi ecc.)\n\nMACRO-AMBITO: Welfare territoriale e sostenibilitа\n\nOBIETTIVO: Estendere e potenziare la rete di piste ciclabili nel Comune di Gellina.\n\nDESCRIZIONE: Il Comune di Gellina intende estendere la rete di piste ciclabili e potenziarla aggiungendo stazioni di manutenzione e colonnine elettriche per E-bike. Questa iniziativa mira a promuovere la mobilità sostenibile e a facilitare l'uso delle biciclette, contribuendo al benessere ambientale e alla valorizzazione del territorio.",
+      "ground": "TASSONOMIA: Pianificazione urbanistica (strade, parchi, orti, campi sportivi ecc.)\nMACRO-AMBITO: Welfare territoriale e sostenibilitа\n\n|||\n\nDESCRIZIONE: E’ in corsi di realizzazione una pista ciclopedonale nell’ambito dell’Accordo di Programma per lo sviluppo e la riqualificazione a fini ambientali e turistici del bacino idroelettrico di Santa Giustina, nel tratto “Pont della poina – Basilica SS. Martiri” di Sanzeno"
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

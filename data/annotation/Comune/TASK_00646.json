@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00646",
+  "doc_src": "comune.trento_aree-tematiche_D0409.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Cosa mi sa dire per l'esposizione internazionale di articoli da cimitero?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Per ulteriori informazioni sull'esposizione le consiglio di consultare il link http://www.funerali.org/portale/ .",
+      "ground": "Esposizione internazionale di articoli funerari e cimiteriali\n[http://www.funerali.org/portale/](http://www.funerali.org/portale/)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie per l'aiuto.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Prego, se avesse bisogno di ulteriori informazioni non esiti a contattarci. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

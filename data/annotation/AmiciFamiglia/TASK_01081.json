@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_01081",
+  "doc_src": "castello-molina_di_fiemme__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Che azioni posso scrivere recanti la tassonomia \"Adesione ai marchi familiari\"?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Può scrivere un'azione il cui obiettivo è far conoscere alla popolazione l'esistenza del distretto famiglia e di cosa si occupa, per esempio mostrando il marchio \"Family in Trentino\" e la certificazione di consegna del marchio, o aggiungendo i relativi materiali negli espositori del municipio. Altra possibilità quella di rimarcare l'adesione al Network nazionale Comuni amici della famiglia e dei vantaggi che questa adesione comporta ",
+      "ground": "TITOLO: Distretto Famiglia\n\nTASSONOMIA: Adesione ai marchi familiari\n\nOBIETTIVO: Far conoscere alla popolazione l'esistenza del Distretto e le sue attivitа\n\nDESCRIZIONE: Il Comune:\n\npone in luoghi ben visibili la vetrofania del marchio “Family in Trentino”, la certificazione di avvenuta consegna del marchio e la lettera di impegno;\n\nprovvede ad informare al meglio la popolazione sugli eventi, convegni ed attivitа dei Distretti, pubblicizzando le iniziative tramite l’esposizione dei materiali Family forniti dalla Provincia;\n\naggiorna i materiali negli appositi espositori presso il Municipio e nella sede frazionale di Molina di Fiemme;\n\npubblica sul sito istituzionale del Comune e trasmette tramite newsletter agli utenti che hanno aderito a questo servizio tutte le informazioni di cui sopra.\n\n|||\n\nTITOLO: Network Nazionale comuni amici della famiglia\n\nTASSONOMIA: Adesione ai marchi familiari\n\nOBIETTIVO: Mantenere l'adesione al Network nazionale comuni amici della famiglia\n\nDESCRIZIONE: Il Comune di Castello-Molina di Fiemme ha aderito al “Network nazionale – Comuni amici della famiglia”, promosso dalla Provincia autonoma di Trento, dal Comune di Alghero e dall’Associazione nazionale famiglie numerose, che costituisce la rete dei Comuni che a livello nazionale intendono promuovere politiche per il benessere familiare. Aderire al network significa entrare a far parte di un processo culturale di avvicinamento, sensibilizzazione e di orientamento dell’attivitа delle istituzioni comunali ai bisogni e al benessere delle famiglie.\n\nLa rete è un moltiplicatore di risorse e di scambi di informazioni esperienze e idee. Consente di conoscere e sperimentare nuove politiche, nuovi modelli organizzativi e di welfare."
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Okay, capisco.",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Le serve altro?",
+      "ground": ""
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Ha consigli anche per ciò che reca la tassonomia \"Promozione della natalità\"?",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Sì, può pensare di consegnare al momento della registrazione del neonato una guida ai servizi che spiega cosa il Comune offre ai neonati e genitori. Sempre durante la registrazione, può consegnare un kit di pannolini ecologici e accessori collegati",
+      "ground": "DESCRIZIONE: Al momento della registrazione del proprio figlio all’Anagrafe comunale, viene consegnata la guida ai servizi ed alle opportunitа che la Val di Fiemme offre per i nuovi nati/e e le loro famiglie. La guida viene periodicamente aggiornata, in collaborazione con la Comunitа territoriale, l’associazione GEBI e le Amministrazioni comunali di Fiemme.\n\n|||\n\nDESCRIZIONE: Va inoltre ricordato che, alle famiglie di tutti i nuovi nati che ne fanno richiesta, il Comune - giа da diversi anni - aderendo al “Progetto Famiglia” promosso dalla Societа Fiemme Servizi Spa e dai Comuni di Fiemme, fornisce un utile regalo: al momento della registrazione del proprio figlio presso l’Ufficio Anagrafe, viene consegnato un buono per il ritiro di un kit di pannolini ecologici e relativi accessori."
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "Sembrano delle buone idee.",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "Ci sono altre richieste che vuole fare?",
+      "ground": ""
+    },
+    {
+      "id": "T9",
+      "speaker": "Citizen",
+      "message": "No, sono a posto. Saluti.",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agent",
+      "message": "Saluti a lei.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

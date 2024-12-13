@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01071",
+  "doc_src": "borgo_chiese__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Bungiorno, vorrei scrivere un azione nel mio piano che si pone di sensibilizzare i giovani verso la segnalatica stradale.",
+      "ground": " segnaletica\nvalorizzare monumenti\nintervento 19 borgo chiese"
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Buongiorno, può pensare di collaborare con la polizia così da far conoscere ai bambini la segnaletica. Tale azione rientrerebbe nella tassonomia \"Attività/progetti formativi specifici per bambini e ragazzi\"",
+      "ground": "DESCRIZIONE: Giornata rivolta a bambini con la collaborazione della polizia locale per far conoscere le regole e la segnaletica stradale"
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Che altre azioni mi proponi della stessa tassonomia?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Di seguito le presento una lista di titoli di azioni aventi la tassonomia \"Attivitа/progetti formativi specifici per bambini e ragazzi\":\n\n- Tessera biblioteca\n- Pomeriggi di intrattenimento per bambini\n- Impara l'arte\n- Valorizzazione monumenti storici\n- Strada amica\n- Proposte d'autore\n- Attivitа integrative scolastiche",
+      "ground": "TITOLO: Strada amica\n\n|||\n\nTITOLO: Attivitа integrative scolastiche\n\n|||\n\nTITOLO: Proposte d'autore\n\n|||\n\nTITOLO: Valorizzazione monumenti storici\n\n|||\n\nTITOLO: Impara l'arte\n\n|||\n\nTITOLO: Pomeriggi di intrattenimento per bambini\n\n|||\n\nTITOLO: Tessera biblioteca"
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Può dirmi di più sulla valorizzazione dei monumenti storici?",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Certamente, l'idea è di organizzare uscite con i bambini della scuola primaria nel centro abitato di Condino.",
+      "ground": "Nel centro abitato e fuori, Condino offre la possibilitа di scoprire dei gioielli artistici (Palazzo alla Torre, Palazzo Belli, San Lorenzo, San Rocco e Sebastiano, rudere il Bersaglio, Via Sassolo).\n\nAnche questo progetto trova coinvolti i bambini della scuola primaria con delle uscite e la giornata dell’accoglienza annuale."
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

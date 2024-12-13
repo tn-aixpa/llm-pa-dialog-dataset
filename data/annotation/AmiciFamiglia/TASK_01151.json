@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01151",
+  "doc_src": "rovetta_v2.1__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Che azioni mi proponi orientate alle neo mamme?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Ti propongo in seguito una lista di azioni orientate alle neo-mamme proveniente dal piano di Rovetta del 2022\n\nTITOLO: Spazio neomamma\n\nTASSONOMIA: Servizi integrativi: Spazio genitori/bambini, spazio gioco\n\nMACRO-AMBITO: Welfare territoriale e sostenibilità\n\nDESCRIZIONE: Definizione del progetto “spazio neomamma” presso la biblioteca di {{nome comune}} per tutti i residenti dei comuni limitrofi dove le neomamme avranno la possibilità di conoscersi e incontrare professionisti per confrontarsi sui diversi temi relativi alla neo-genitorialità (psicologi infantili, ostetriche, educatrici…).\n\n---\n\nTITOLO: Progetto ''Benvenuti bimbi''\n\nTASSONOMIA: Promozione della natalità (Bonus bebè, kit nuovi nati ecc.)\n\nMACRO-AMBITO: Misure economiche\n\nDESCRIZIONE: Verrà definita una nuova edizione del progetto “Benvenuti Bimbi” che prevede occasioni di incontro in cui vengono invitate tutte le famiglie che hanno avuto un figlio durante l’arco dell’anno. In queste occasioni si presenteranno le attività del territorio che offrono servizi per la prima infanzia.\n\nTITOLO: ''Pacchetto di benvenuto'' ai nuovi nati\n\nTASSONOMIA: Promozione della natalità (Bonus bebè, kit nuovi nati ecc.)\n\nMACRO-AMBITO: Misure economiche\n\nDESCRIZIONE: A partire dai nuovi nati dal {{data}} verrà consegnato direttamente a casa delle famiglie un “pacchetto di benvenuto” con all’interno una serie di omaggi in accordo con le attività commerciali e associative del territorio.",
+      "ground": "TITOLO: Parcheggi rosa e parcheggi family\nTASSONOMIA: Sostegno alla mobilitа\nMACRO-AMBITO: Welfare territoriale e sostenibilitа\nDESCRIZIONE: Implementare e identificare sul territorio nuove aree per i “parcheggi rosa” ossia aree parcheggio nelle quali riservare alcuni posti auto a donne in gravidanza e/o per i “parcheggi family” ossia aree parcheggio con posti più larghi per facilitare la salita e la discesa dall’auto dei bambini.\n\n|||\n\nTITOLO: Spazio neomamma\nTASSONOMIA: Servizi integrativi: Spazio genitori/bambini, spazio gioco\nMACRO-AMBITO: Welfare territoriale e sostenibilitа\nDESCRIZIONE: Definizione del progetto “spazio neomamma” presso la biblioteca di Cerete per tutti i residenti dei comuni del Distretto dove le neomamme avranno la possibilitа di conoscersi e incontrare professionisti per confrontarsi sui diversi temi relativi alla neo-genitorialitа (psicologi infantili, ostetriche, educatrici…).\n\n|||\n\nTITOLO: Progetto ''Benvenuti bimbi''\nTASSONOMIA: Promozione della natalitа (Bonus bebè, kit nuovi nati ecc.)\nMACRO-AMBITO: Misure economiche\nDESCRIZIONE: Verrа definita una nuova edizione del progetto “Benvenuti Bimbi” che prevede occasioni di incontro in cui vengono invitate tutte le famiglie che hanno avuto un figlio durante l’arco dell’anno. In queste occasioni si presenteranno le attivitа del territorio che offrono servizi per la prima infanzia.\n\n|||\n\nTITOLO: ''Pacchetto di benvenuto'' ai nuovi nati\nTASSONOMIA: Promozione della natalitа (Bonus bebè, kit nuovi nati ecc.)\nMACRO-AMBITO: Misure economiche\nDESCRIZIONE: A partire dai nuovi nati dal 01/01/2021 verrа consegnato direttamente a casa delle famiglie un “pacchetto di benvenuto” con all’interno una serie di omaggi in accordo con le attivitа commerciali e associative del territorio."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Cosa sarebbe quel \"{{nome comune}}\"?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Quella è una variabile, sta a indicare che in quello spazio può venire scritta qualsiasi cosa.",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Dell'azione \"Spazio neomamma\" scrivi che è proposta dal comune di Forni Avoltri, e che vuole riunire accogliere anche le famiglie di Forni di Sopra e Forni di Sotto, specifica poi che gli esperti vengono da Tolmezzo, che ha uno dei migliori reparti di neo natalità",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "TITOLO: Spazio neomamma\n\nTASSONOMIA: Servizi integrativi: Spazio genitori/bambini, spazio gioco\n\nMACRO-AMBITO: Welfare territoriale e sostenibilità\n\nDESCRIZIONE: Il progetto “spazio neomamma” è proposto dal Comune di Forni Avoltri e ha come obiettivo quello di riunire e accogliere anche le famiglie di Forni di Sopra e Forni di Sotto. Le neomamme avranno la possibilità di conoscersi e incontrare professionisti provenienti da Tolmezzo, noto per avere uno dei migliori reparti di neo natalità, per confrontarsi sui diversi temi relativi alla neo-genitorialità (psicologi infantili, ostetriche, educatrici…).",
+      "ground": "In data 13.05.2016 la Provincia Autonoma di Trento ha sottoscritto un accordo volontario con l’Associazione Italiana Famiglie Numerose con sede a Brescia, Quartiere La Famiglia, Via ventunesima 1 presente anche sul territorio bergamasco come sede provinciale in Comune di Clusone.\nConsapevoli del fatto che la famiglia che vive con coscienza la propria dimensione, diventa protagonista del contesto sociale in cui vive, in quanto puт esercitare le proprie fondamentali funzioni, creando in forma diretta benessere familiare ed in forma indiretta, coesione e capitale sociale.\nCon l’adesione al progetto “Marchio Family Friendly” si vuole rafforzare il rapporto tra politiche familiari e politiche di sviluppo economico, evidenziando che le politiche familiari non sono politiche improduttive, ma sono investimenti sociali strategici che sostengono lo sviluppo del sistema economico locale, creando una rete di servizi tra le diverse realtа presenti sul territorio."
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

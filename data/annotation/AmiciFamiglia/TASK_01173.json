@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_01173",
+  "doc_src": "vallarsa_v2.1__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Cosa posso fare per migliorare la comunicazione nel comune?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Puoi pensare alla creazione di un canale di comunicazione istituzionale per tenere i cittadini aggiornati su notizie eventi e iniziative del Comune. Potrebbe anche essere utile la creazione di un periodico da inviare ai cittadini.",
+      "ground": "Il canale di comunicazione istituzionale VallarsaInforma è un servizio di informazione e comunicazione anonimo e gratuito, attraverso il quale l’Amministrazione comunale informa i suoi cittadini su eventuali emergenze, notizie utili, eventi e iniziative che si svolgono nel nostro Comune. Viene utilizzato anche per informare e promuovere alcuni progetti destinati alle nostre famiglie.\nVallarsa Notizie è il periodico che istiamo inviando a tutti i nostri cittadini, 3 volte all'anno, per informare e comunicare sulle tante iniziative del territorio."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Che tipo di azione posso scrivere per facilitare i ragazzi ad andare a scuola?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Potresti pensare di organizzare un servizio di aiuto compiti, in modo da supportarli nell'apprendimento. Altra possibilità è quella di offrire ai ragazzi che si devono ancora iscrivere un servizio di orientamento.",
+      "ground": "SENTIRSI PRONTI: ORIENTAMENTO SCOLASTICO\n\n|||\n\nSERVIZIO AIUTO COMPITI"
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Mi faresti un esempio di azione sul servizio aiuto compiti?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "TITOLO: Servizio Aiuto Compiti\n\nTASSONOMIA: Attivitа/progetti formativi specifici per bambini e ragazzi\n\nMACRO-AMBITO: Comunitа educante\n\nOBIETTIVO: Dare supporto alle famiglie.\n\nDESCRIZIONE: Il Comune intende istituire un servizio di aiuto compiti individuando uno spazio in prossimità delle scuole. Questa attività è aperta per tutti i bambini e ragazzi dai 6 ai 15 anni. L'attività sarà svolta dai volontari che supporteranno i bambini nei loro compiti.",
+      "ground": "TITOLO: SERVIZIO AIUTO COMPITI\nTASSONOMIA: Attivitа/progetti formativi specifici per bambini e ragazzi\nMACRO-AMBITO: Comunitа educante\nOBIETTIVO: Ulteriore aiuto alle famiglie.\nDESCRIZIONE: Il servizio di aiuto compiti, da molti anni attivo in Vallarsa, presenta alcune carenze organizzative che è nostra intenzione migliorare: è nostro obiettivo quello di individuare uno spazio dedicato a quest'attivitа, possibilmente adiacente alla scuola elementare, aperto a tutti i bambini e ragazzi dai 6 ai 15 anni ad orari settimanali e/o giornalieri prestabiliti. Grazie all'aiuto di volontari, l'attivitа svolta sarа quella del supporto ai bambini nel fare i loro compiti."
+    },
+    {
+      "id": "T07",
+      "speaker": "Citizen",
+      "message": "Stavo pensando anche la creazione di un evento dedicato alle moto a livello comunale.",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agent",
+      "message": "In che giorni pensavi di organizzarlo? Hai idea di quali associazioni sarebbero disposte a co-organizzarlo?",
+      "ground": "Nelle giornate 19, 20, 21 e 22 maggio 2022, il Comune di Vallarsa patrocinerа il VALLARSA BIKE FESTIVAL, evento organizzato da A.s.D Piccole Dolomiti e-bike, che prevede una serie di iniziative dedicate alle famiglie ma anche ai turisti e agli sportivi che ci verranno a trovare.\nL'evento prevede escursioni in bici, tracciato dedicato ai bambini, stand gastronomici, attivitа per famiglie e musica dal vivo."
+    },
+    {
+      "id": "T09",
+      "speaker": "Citizen",
+      "message": "Pensavo dal 3 al 5 Giugno, l'associazione \"In Sella\" ci aiuterà. L'evento è pensato per le famiglie poiché ci sarà un'esibizione di moto d'epoca e ci saranno giochi anche per i più piccoli.",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agent",
+      "message": "Ti propongo in seguito il testo che potresti scrivere come azione per un festival dedicato alle moto\n\nTITOLO: Motorbike Festival\n\nTASSONOMIA: Promozione e organizzazione di eventi sportivi (giornata dello sport, escursioni, ecc)\n\nMACRO-AMBITO: Comunitа educante\n\nOBIETTIVO: Creare momenti di aggregazione sociale, unendo sport e divertimento a misura di famiglie\n\nDESCRIZIONE: Nelle giornate dal 3 al 5 giugno, il Comune organizzerà assieme all'associazione \"In Sella\" con diverse iniziative orientate alle famiglie. Fra queste iniziative, ci sarà una esibizione di moto d'epoca e verranno svolte delle attività per intrattenere anche i più piccoli.",
+      "ground": "TITOLO: VALLARSA BIKE FESTIVAL\nTASSONOMIA: Promozione e organizzazione di eventi sportivi (giornata dello sport, escursioni, ecc)\nMACRO-AMBITO: Comunitа educante\nOBIETTIVO: Creare momenti di aggregazione sociale, unendo sport e divertimento a misura di famiglie\nDESCRIZIONE: Nelle giornate 19, 20, 21 e 22 maggio 2022, il Comune di Vallarsa patrocinerа il VALLARSA BIKE FESTIVAL, evento organizzato da A.s.D Piccole Dolomiti e-bike, che prevede una serie di iniziative dedicate alle famiglie ma anche ai turisti e agli sportivi che ci verranno a trovare.\nL'evento prevede escursioni in bici, tracciato dedicato ai bambini, stand gastronomici, attivitа per famiglie e musica dal vivo."
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

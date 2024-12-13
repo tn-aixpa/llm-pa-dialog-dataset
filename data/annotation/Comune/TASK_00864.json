@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00864",
+  "doc_src": "comune.salerno_D0176.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Scusi, potrebbe darmi informazioni riguardo alle recenti sanzioni date per l'abbandono di rifiuti a Salerno?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Nel periodo febbraio-maggio 2024 sono state riscontrate e sanzionate diverse violazioni in materia di irregolare conferimento di rifiuti, sia di natura amministrativa che penale. Le sanzioni amministrative elevate sono state 11 e sono state deferite all’Autorità Giudiziaria per violazione al Testo Unico sull’Ambiente.",
+      "ground": "Nell'ambito delle attività di contrasto al fenomeno dell’abbandono di rifiuti, svolte da personale appartenente al Nucleo Ambiente e Decoro Urbano del Comando Polizia Municipale di Salerno mediante l’ausilio delle c.d. fototrappole installate in diverse zone della città, nel periodo febbraio-maggio 2024 sono state riscontrate e sanzionate una serie di violazioni, sia di natura amministrativa che penale, in materia di irregolare conferimento di rifiuti.\nIn particolare le sanzioni amministrative elevate a seguito della presa visione delle immagini di videosorveglianza, in violazione all’Ordinanza Sindacale Prot. 141636/22, sono state 11. Oltre ad utenti domestici, sono state contravvenzionate anche alcune società operanti in città."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "E le attività commerciali coinvolte?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Alcune società operanti in città sono state contravvenzionate per irregolarità e sono state controllate per verificare la loro posizione e regolarità ai fini Ta.ri. 15 di queste attività non erano in regola con la Ta.ri e non erano censite all’Ufficio Tributi, verranno sanzionate e dovranno pagare tasse evase, interessi e sanzioni.",
+      "ground": "Da tali indagini è emerso che alcune di queste, che in maniera anche recidiva abbandondonavano rifiuti in maniera incontrollata attraverso gli stessi titolari e /o loro dipendenti, non erano in regola con la Ta.ri o addirittura non censiti, quindi sconosciuti all’Ufficio Tributi.\nPertanto, personale del Nucleo Anti-evasione Tributaria ha proceduto al controllo di 35 attività: tra queste ben 15 sono risultate del tutto sconosciute all’Ufficio Tributi del Comune in quanto non avevano mai presentato denuncia Ta.ri.\n\n|||\n\ner gli evasori assoggettati a tassazione a seguito dei controlli della P.M. e segnalati al Settore Tributi, si procederà mediante avviso di accertamento gravato, oltre che della tassa evasa, di interessi e sanzioni, qualora i medesimi evasori non opteranno per il procedimento auto dichiarativo del ravvedimento operoso."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Grazie per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Se ha bisogno di ulteriori informazioni non esiti a ricontattarci. Buona giornata.",
+      "ground": ""
+    },
+    {
+      "id": "T07",
+      "speaker": "Citizen",
+      "message": "Grazie mille per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agent",
+      "message": "Di nulla. Buona giornata a lei.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

@@ -1,0 +1,82 @@
+{
+  "task_id": "TASK_00735",
+  "doc_src": "comune.trento_aree-tematiche_D0594.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei delle informazioni su come risparmiare energia in casa.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, posso darle alcuni consigli utili. ",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "È vero che spegnendo completamente gli elettrodomestici posso risparmiare energia?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Assolutamente sì, spegnendo completamente gli elettrodomestici invece di lasciarli in stand by si può risparmiare oltre 50 euro all'anno. Questo equivale in genere all'8% dei consumi di energia elettrica",
+      "ground": "Non lasciare gli apparecchi elettrici in stand by\nSpegnendo completamente gli elettrodomestici, puoi risparmiare ogni anno oltre 50 euro, pari all’8% dei tuoi consumi di energia elettrica."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "E se uso lampadine a basso consumo?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Le lampadine a basso consumo sono una buona scelta, consumano fino all'80% di energia in meno rispetto alle lampadine a incandescenza.",
+      "ground": "Rispetto ad una comune lampadina a incandescenza, una lampadina a basso consumo (CFL, fluorescente compatta) consuma fino all’80% di energia elettrica in meno."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Ha consigli anche per lo scaldabagno?",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "Lo scaldabagno a gas ha un costo energetico molto inferiore rispetto a quello elettrico.",
+      "ground": "Sostituisci lo scaldabagno elettrico con uno a gas\nIl costo energetico di uno scaldabagno elettrico rispetto ad uno a gas, a parità di acqua calda prodotta, è pari al 250%."
+    },
+    {
+      "id": "T09",
+      "speaker": "Cittadino",
+      "message": "E se installo valvole termostatiche sui termosifoni?",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agente",
+      "message": "Le valvole termostatiche sono ottime per regolare la temperatura di ogni ambiente in modo efficiente, consentendo un risparmio energetico del 10-20%.",
+      "ground": "L’installazione di valvole termostatiche sui radiatori consente con una interessante riduzione del fabbisogno di energia termica del 10-20%."
+    },
+    {
+      "id": "T11",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T12",
+      "speaker": "Agente",
+      "message": "È stato un piacere poterla aiutare, se ha bisogno di ulteriori informazioni non esiti a contattarci. Buona giornata!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

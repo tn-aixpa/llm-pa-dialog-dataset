@@ -1,0 +1,34 @@
+{
+  "task_id": "TASK_00682",
+  "doc_src": "comune.trento_aree-tematiche_D0490.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, sa dove posso trovare informazioni sull'Ecosistema urbano a Trento?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Al seguente link può trovare la classifica delle città italiane nella ricerca \"Ecosistema urbano\" fatta da Legambiente in collaborazione con Il Sole 24 ore\nhttps://www.legambiente.it/comunicati-stampa/ecosistema-urbano-trentesima-edizione-il-punto-sulle-performance-ambientali-delle-citta-italiane-e-la-classifica-2023/?_gl=1*ausaox*_up*MQ..*_ga*MTcxODg0OTQ1Ni4xNjk4MDY1NjA3*_ga_LX7CNT6SDN*MTY5ODA2NTYwNC4xLjAuMTY5ODA2NTY0NC4wLjAuMA.. .\n\nAl momento questa classifica pone Trento come prima città in Italia.\n",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Ambiente-e-territorio/Aria/Avvisi/Ecosistema-urbano-Trento-e-di-nuovo-la-citta-piu-sostenibile-d-Italia](“Ecosistema urbano”, Trento è di nuovo la città più sostenibile d’Italia)\nLa trentesima edizione della ricerca \"Ecosistema urbano\" di\n[https://www.legambiente.it/comunicati-stampa/ecosistema-urbano-trentesima-edizione-il-punto-sulle-performance-ambientali-delle-citta-italiane-e-la-classifica-2023/?_gl=1*ausaox*_up*MQ..*_ga*MTcxODg0OTQ1Ni4xNjk4MDY1NjA3*_ga_LX7CNT6SDN*MTY5ODA2NTYwNC4xLjAuMTY5ODA2NTY0NC4wLjAuMA..](Legambiente)\nLegambiente\nin collaborazione con\n[https://lab24.ilsole24ore.com/ecosistema-urbano/](Il Sole 24 ore)\nIl Sole 24 ore\nconsegna al capoluogo il primo posto."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

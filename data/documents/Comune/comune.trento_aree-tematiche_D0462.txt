@@ -1,0 +1,27 @@
+Significato dei principali termini usati in questa sezione
+Cliente
+: è la persona o l'organizzazione che riceve l'output del processo.
+Cliente interno
+: E' quella persona/funzione interna dell'organizzazione che riceve un prodotto/servizio da un collega.
+Efficienza
+: E' la misura dell'utilizzo delle risorse, nella valutazione del rapporto tra risultati e risorse utilizzate.
+Efficacia
+: E' il rispetto delle specifiche dell'output, nel posto, nel tempo e al prezzo concordato.
+Missione
+: Rappresenta il "cosa facciamo e per chi" di un'azienda. Esprime l'unicità dell'azienda, ne comprende i valori, definisce il settore di business e i benefici del destinatario.
+PDCA
+: Plan + Do + Check + Act. Approccio per lavorare in qualità. Richiede che in tutte le circostanze non ci si impegni subito nell'azione, ma che si proceda nel: pianificare in funzione degli obiettivi: PLAN;
+agire secondo quanto pianificato: DO;
+verificare che gli obiettivi siano stati raggiunti così come pianificato: CHECK;
+proseguire nel modo pianificato, se la valutazione è positiva: ACT;
+reagire con una nuova pianificazione se la valutazione è negativa: ACT.
+Procedura
+: La procedura è un documento scritto che illustra lo svolgersi del processo, riportando tutto ciò che è necessario entri in gioco per conseguire un obiettivo. Essa deve rispondere a semplici domande: perché, chi, cosa, come, quando, dove?
+Processo
+: L'insieme delle attività attraverso cui determinati input, provenienti da aree diverse, vengono trasformati in output con creazione di valore aggiunto. Il "valore" di un processo è una componente di fondamentale importanza. In quest'ottica, una definizione più completa di "processo" è "un insieme di attività che richiede uno o più input e crea un output che rappresenti un valore per il cliente".
+Qualità
+: Espressione del grado in cui una serie di caratteristiche proprie di un prodotto/servizio soddisfa determinati requisiti.
+Responsabile di processo
+: Colui che gestisce il processo in armonia con la missione dell'azienda. Può essere una persona o un gruppo. È la figura responsabile della conduzione del processo e sarà uno dei manager coinvolti in esso.
+Visione
+: Termine che indica la direzione e il percorso intrapresi dall'organizzazione, individuando una serie di mete da raggiungere, in un definito arco di tempo.

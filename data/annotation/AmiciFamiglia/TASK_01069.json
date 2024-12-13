@@ -1,0 +1,40 @@
+{
+  "task_id": "TASK_01069",
+  "doc_src": "bruino__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Buongiorno, con il mio Comune vorrei sviluppare un piano che si pone di superare l'assistenzialismo. puoi darmi un incipit?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Buongiorno, il Piano Famiglia di Bruino nell'anno 2022 scrive che per sostenere le politiche di benessere di comunità e famiglie, è necessaria la promozione anche attraverso le reti locali e le risorse nel territorio comunale. Con questa attivazione si supera l'assistenzialismo e si favoriscono approcci trasversali e interdisciplinari legati allo sviluppo di comunità che pongono la famiglia come soggetto attivo e propositivo.",
+      "ground": "=== PIANO FAMIGLIA DI BRUINO ANNO 2022 ===\n\n|||\n\nIl Comune di Bruino, unitamente al Consorzio Intercomunale di Servizi (CIdiS) e ai Comuni consorziati, ha avviato un processo volto a sostenere ulteriormente le politiche per il benessere della comunitа e delle famiglie, per perseguirne la piena promozione, anche attraverso il coinvolgimento delle reti locali e delle risorse attivabili sul territorio comunale. La realizzazione di tale processo presuppone il superamento di logiche assistenzialistiche, in favore di approcci orientati allo sviluppo di comunitа, trasversali e interdisciplinari (servizi sociali, altri servizi, tempo libero, cultura, ambiente, sport, casa, lavoro, trasporti, etc.), che considerano centrale la promozione sociale ed in cui la famiglia diventa soggetto attivo e propositivo."
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "E come mi consigli di citare l'adesione al \"Network Amici della Famiglia\"?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Può dire come l'adesione a questo network ha permesso nel suo territorio una serie di processi orientati alla realizzazione di politiche di benessere per comunità e famiglie, per poi parlare la realtà lato comunitario del suo Comune, come la presenza di associazini e gruppi.",
+      "ground": "A fronte di quanto sopra richiamato, il Comune di Bruino con la Deliberazione di Giunta Comunale n. 11 del 11/03/2021, cui si rimanda, ha aderito al “Network Nazionale Comuni Amici della Famiglia” avviando cosм nel proprio territorio detto processo orientato alla realizzazione di politiche per il benessere della comunitа e delle famiglie. Il Comune di Bruino ha una realtа ricca di associazioni, gruppi informali, societа sportive etc. che a vario titolo si occupano di promuovere iniziative per giovani e famiglie. И, dunque, importante saper cogliere tali opportunitа, metterle in rete e creare sinergie che possano portare beneficio alle singole famiglie e all’intera comunitа."
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00996",
+  "doc_src": "comSalerno0778.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Qual è l'obiettivo principale del progetto \"Il decoro Premia\"?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Il progetto ha molteplici obiettivi:\n1) migliorare il decoro della città riducendo l'abbandono di bottiglie di vetro;\n2) Potenziare il riciclo del vetro abbandonato per le strade;\n3) Sensibilizzare i giovani al rispetto dell'ambiente;\n4) Migliorare la sicurezza dei luoghi pubblici, riducendo quindi possibili danni causati da rifiuti.",
+      "ground": "Con il diffondersi di negozi con distributori automatici di bevande e di quelli di cibo d’asporto, è esplosa tra le nuove generazioni la moda serale nei fine settimana di riunirsi in gruppi per bere e consumare cibo in luoghi di incontro all’aperto, in particolare giardini del lungomare, spiagge, piazze del centro storico, strade. Il mattino successivo gli operatori addetti allo spazzamento si ritrovano a fare i conti con contenitori e avanzi di cibo e soprattutto con bottiglie di vetro sparsi un po' ovunque, finanche su gradini di chiese e monumenti. Materiali che non è possibile differenziare al momento dello spazzamento e che, gioco forza, finiscono nel non differenziabile.\n\n|||\n\nQuattro gli obiettivi che si intendono perseguire con le stazioni di raccolta:\n• contribuire al decoro della città, riducendo sensibilmente il fenomeno dell’abbandono incontrollato di bottiglie di vetro in luoghi pubblici;\n• intercettare quantità significative di vetro da avviare al riciclo;\n• sensibilizzare le giovani generazioni al rispetto dell’ambiente;\n• contribuire alla sicurezza dei luoghi pubblici ritrovo dei giovani, evitando che con le bottiglie, specie con quelle rotte, ci si possa far male."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Come verrà incentivato il conferimento delle bottiglie di vetro?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Il conferimento delle bottiglie di vetro sarà promosso attraverso un sistema a incentivi. Questo prevede la consegna di buoni sconto da utilizzare per acquistare prodotti e servizi presso le attività commerciali che hanno aderito all'iniziativa.",
+      "ground": "Per incentivare il conferimento delle bottiglie sarà utilizzato un sistema premiale, basato sulla consegna di buoni sconto da utilizzare per acquistare prodotti e servizi presso le attività commerciali che hanno aderito all’iniziativa."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "E in quali zone saranno piazzate le stazioni di raccolta?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Le stazioni di raccolta saranno piazzate a Santa Teresa e in largo Sant’Elmo (Torrione). Queste saranno aperte dal 5 Aprile al 29 Settembre con orario dalle 20.30 fino all'1.30.",
+      "ground": "Dal 5 aprile 2024 al 29 settembre 2024, le stazioni di raccolta saranno due, perché a quella di Santa Teresa se ne aggiungerà un’altra in largo Sant’Elmo (Torrione) e l’orario di entrambe sarà allungato, con inizio alle 20:30 e chiusura all’ 1:30."
+    }
+  ],
+  "subcategory": "Salerno"
+}

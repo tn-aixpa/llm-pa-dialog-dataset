@@ -1,0 +1,99 @@
+Aree fabbricabili
+Cosa sono
+Per area fabbricabile si intende l’area utilizzabile a scopo edificatorio in base agli strumenti urbanistici generali o attuativi in vigore.
+
+La tabella aree fabbricabili
+La tabella dei valori delle aree fabbricabili 2009 è valida anche per gli anni 2010 e 2011
+.
+Quando usare la tabella
+La tabella aree fabbricabili deve essere utilizzata esclusivamente per interventi edilizi semplici, soggetti a permesso di costruire semplice o SuperDia compatibile con le prescrizioni del Piano Regolatore.
+Casi in cui non usare la tabella
+Non è da utilizzare per le aree interessate da:
+P.R.U.
+Piani di Lottizzazione
+Programmi integrati di Intervento
+Interventi di ristrutturazione e risanamento conservativo
+Piani soggetti a convenzionamento
+casi analoghi che consentano di realizzare volumetrie superiori a 3 mc/mq.
+
+Come usare la tabella
+Individuare il valore dell’area fabbricabile
+Tenendo ferme le limitazioni del potere di accertamento da parte del Comune se l’imposta è versata sulla base di un valore non inferiore a quello predeterminato, è necessario individuare:
+la zona BIM (da 1 a 70)
+la superficie fondiaria del lotto oggetto dell’intervento, da rilievo fatto da professionista, dal dispositivo edilizio o dalle risultanze catastali (consistenze dei mappali catastali interessati).
+Come trovare i dati
+Una volta aperta la tabella Aree Fabbricabili 2009 (valida anche per gli anni 2010 e 2011), occorre individuare:
+la zona omogenea (esempio B1 o B3) e la zona funzionale (esempio: R, R/I, I/R, TA, R/TA ecc.) dal certificato di destinazione urbanistica o dal dispositivo edilizio
+il valore a mq. di superficie fondiaria a seconda dello stato giuridico dell’area (strumento edilizio operativo, strumento attuativo operativo o semplice stato di inserimento dell’area nel Piano Regolatore). Si ricorda che, ai sensi dell’art. 11 quaterdecies, c. 16, D.L. 203/05, convertito dalla L. 248/05, un'area è da considerare comunque fabbricabile se è utilizzabile a scopo edificatorio in base allo strumento urbanistico generale, indipendentemente dall'adozione di strumenti attuativi del medesimo. Nei casi di aree inserite nel semplice PRG si applicherà l’attualizzazione a 5 anni
+Calcolo
+moltiplicare la superficie fondiaria per il valore trovato (in relazione alla destinazione di Piano Regolatore, allo stato giuridico, alla durata dei lavori edilizi)
+al valore così ottenuto applicare l’aliquota Ici relativa all’anno 2011 (5 per mille).
+Esempio
+Destinazione 70% residenziale, 30% Uffici
+Proprietà dal 1/4/2008
+2 anni previsti di intervento: euro/mq 2.571,31;
+Valore Area: 2.571,31 x 2.450= 6.299.709,50 euro
+6.299.709,50 euro x 5/000= 31.498,54 euro ICI
+31.498,54 euro/12* 9= 23.623,91 euro anno 2011, pagabili in acconto (3 mesi) e saldo (6 mesi).
+Nota bene:
+nel caso in cui ci fosse un adeguamento di destinazione d'uso in zone funzionali miste con corresponsione dello standard aggiuntivo bisognerà utilizzare il valore tabellare relativo alla reale situazione edilizia realizzata (es.  per la realizzazione di struttura completamente residenziale in zona funzionale I/R si dovrà considerare il valore tabellare R).
+Ricorda
+Per gli ampliamenti di fabbricati esistenti, la base imponibile è definita dal valore dell'area relativo alla volumetria effettivamente realizzabile sul sedime edificatorio (anche se si tratta di ampliamenti parziali non saturanti l'intera capacità) con effetto dal rilascio del dispositivo edilizio o di convenzione, fino al completamento delle opere
+per le ristrutturazioni o i risanamenti conservativi la base imponibile è definita dal valore dell'area relativo alla volumetria effettivamente esistente sul sedime di ristrutturazione o oggetto di risanamento conservativo, anche se eccedente l'indice volumetrico attualmente previsto dal vigente PRG, con effetto dal rilascio del dispositivo edilizio o di convenzione, fino al completamento delle opere.
+
+Informazioni
+Ufficio Aree Fabbricabili del Servizio Ici
+tel. 02 884.54018 / 54001 / 54115
+orario: mercoledì, dalle 14:00 alle 16:30
+
+[/documents/20126/716964/Tabella_areeFabbricabili_09.pdf/f6c014c9-9ff6-e8ba-2437-d372d140d894?t=1562151249839](Tabella aree fabbricabili 2009 (valida anche per 2010 e 2011) (pdf - 71.561 KB)
+)
+Tabella aree fabbricabili 2009 (valida anche per 2010 e 2011)
+(pdf
+- 71.561 KB)
+[/documents/20126/716964/Tabella_areeFabbricabili_08.pdf/78c1615d-9b01-7386-d936-7a55b3bc4ce3?t=1562151249839](Tabella aree fabbricabili 2008 (pdf - 38.527 KB)
+)
+Tabella aree fabbricabili 2008
+(pdf
+- 38.527 KB)
+[/documents/20126/716964/Tabella_areeFabbricabili_07.pdf/9b441da7-9051-ef63-a122-2675d7bbaf55?t=1562151249839](Tabella aree fabbricabili 2007 (pdf - 38.144 KB)
+)
+Tabella aree fabbricabili 2007
+(pdf
+- 38.144 KB)
+[/documents/20126/716964/tabella+aree+2006.pdf/5eb7c37c-5b4b-f84d-6ad7-7b91e3a804ef?t=1562151249839](Tabella aree fabbricabili 2006 (pdf - 201.918 KB)
+)
+Tabella aree fabbricabili 2006
+(pdf
+- 201.918 KB)
+[/documents/20126/716964/tabella+aree+2005.pdf/fd209a7d-a34a-f2f7-9de0-b81fd59be7cc?t=1562151249839](Tabella aree fabbricabili 2005 (pdf - 32.78 KB)
+)
+Tabella aree fabbricabili 2005
+(pdf
+- 32.78 KB)
+[/documents/20126/716964/tabella+aree+2004.pdf/de673957-846f-496c-9d0d-8d744adc6169?t=1562151249839](Tabella aree fabbricabili 2004 (pdf - 193.392 KB)
+)
+Tabella aree fabbricabili 2004
+(pdf
+- 193.392 KB)
+[/documents/20126/716964/Carta_del_contribuente.pdf/5cb6f451-f6c6-da8e-ccc4-7dc919b38261?t=1562151249839](Carta del Contribuente (pdf - 177.947 KB)
+)
+Carta del Contribuente
+(pdf
+- 177.947 KB)
+
+Legge Regionale 12/05, art. 51
+D.Lgs. 504/92, art. 5, c. 5
+D.Lgs. 446/97, art. 59, c. 1, lett. G
+D.L. 203/05, art. 11 quaterdecies, c. 16, convertito dalla L. 248/05
+[/web/guest/comune/statuto-regolamenti-patrocini/regolamenti/gi/ici-imposta-comunale-sugli-immobili](Regolamento Comunale Ici)
+, art. 2, commi 1, 2, 2bis e 3
+[/documents/20126/716964/Delibera+aliquote+ICI+2011.pdf/f2c2e14b-52f7-9cd1-7e4d-cdb27e04ed19?t=1562151249839](Delibera aliquote Ici 2011)
+[/documents/20126/716964/Delibera+aliquote+ICI+2010.pdf/b1351e6f-5e58-6adc-ae2c-3941e05cd74b?t=1562151249839](Delibera aliquote Ici 2010)
+[/documents/20126/716964/delibera+aree+2009.pdf/40185f60-a26d-a226-44bb-a89cf8d5be12?t=1562151249839](Delibera aree fabbricabili 2009)
+[/documents/20126/716964/Delibera+aliquote+ICI+2008.pdf/086420c7-a549-9323-3554-cabdc791aa6e?t=1562151249839](Delibera aree fabbricabili 2008)
+[/documents/20126/716964/delibera+aree+2007.pdf/56e74e03-a558-e30b-8799-c3f2da9d69c5?t=1562151249839](Delibera aree fabbricabili 2007)
+[/documents/20126/716964/Delibera+aree+fabbricabili+anno+2006.pdf/b7684fec-1ab8-0cb3-5b01-9dae9408cbd2?t=1562151249839](Delibera aree fabbricabili 2006)
+[/documents/20126/716964/Delibera+aree+fabbricabili+anno+2005.pdf/8ca03044-2ca7-5b01-0df5-940da972afc2?t=1562151249839](Delibera aree fabbricabili 2005)
+[/documents/20126/716964/Delibera+aree+fabbricabili+anno+2004.pdf/d3de35bb-e39c-66d7-6991-bc0ea3300c20?t=1562151249839](Delibera aree fabbricabili 2004)
+[/aree-tematiche/tributi/ici/ici1](Per saperne di più su "Ici")

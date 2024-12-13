@@ -1,0 +1,26 @@
+Web
+GIS
+delle cartografie del
+Ppcc
+di Trento
+[http://webapps.comune.trento.it/cartografia/gis/ppcc/ppcc_ig0_cartografia_di_base](Cartografia di base)
+[http://webapps.comune.trento.it/cartografia/gis/ppcc/ppcc_ig1_reticolo_idrografico](Carta di individuazione del reticolo idrografico)
+[http://webapps.comune.trento.it/gis/archivioweb/ppcc/carta_geologica.pdf](Carta geologica del comune di Trento (PDF))
+[http://webapps.comune.trento.it/cartografia/gis/ppcc/ppcc_ig3_uso_del_suolo](Carta del valore d’uso del suolo - PGUAP)
+[http://webapps.comune.trento.it/cartografia/gis/ppcc/ppcc_ig4_pericolosita_idrogeologica](Carta della pericolosità)
+Altra carte della pericolosità in formato Pdf (Legge provinciale n. 9 del 2011)
+[/Aree-tematiche/Protezione-civile/Piano-di-protezione-civile/Cartografie-del-Ppcc/Carta-pericolosita-sostanze-pericolose](Carta pericolosità sostanze pericolose)
+[/Aree-tematiche/Protezione-civile/Piano-di-protezione-civile/Cartografie-del-Ppcc/Carta-pericolosita-ordigni-bellici-inesplosi](Carta pericolosità ordigni bellici inesplosi)
+[/Aree-tematiche/Protezione-civile/Piano-di-protezione-civile/Cartografie-del-Ppcc/Carta-pericolosita-ostacoli-alla-navigazione-aerea](Carta pericolosità ostacoli alla navigazione aerea)
+[http://webapps.comune.trento.it/cartografia/gis/ppcc/ppcc_ig5_rischio_idrogeologico](Carta del rischio idrogeologico - PGUAP)
+[http://webapps.comune.trento.it/cartografia/gis/ppcc/ppcc_ig6_vie_di_comunicazione](Vie di comunicazione)
+[http://webapps.comune.trento.it/cartografia/gis/ppcc/ppcc_ig9_servizi_primari_strategici](Servizi primari strategici)
+(dati parziali: sono esclusi quelli ad utilizzo esclusivo dell'amministrazione)
+[http://www.meteotrentino.it/dati-meteo/info-dati.aspx?id=3](Dati meteo-climatici)
+[http://webapps.comune.trento.it/cartografia/gis/ppcc/ppcc_ig11_luoghi_sensibili](Cartografia aree sensibili)
+[http://webapps.comune.trento.it/cartografia/gis/ppcc/ppcc_ig12_indicazioni_aree_strategiche](Cartografie aree strategiche)
+[http://webapps.comune.trento.it/cartografia/gis/ppcc/ppcc_ig13_dissesti_idrogeologici](Carta dei dissesti idrogeologici)
+Nota
+Le carte di sintesi geologica e quelle relative alla definizione dei rischi
+Pguap
+non hanno più valore normativo nel territorio del Comune di Trento

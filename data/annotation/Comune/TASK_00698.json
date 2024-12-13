@@ -1,0 +1,40 @@
+{
+  "task_id": "TASK_00698",
+  "doc_src": "comune.trento_aree-tematiche_D0516.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei delle informazioni riguardo all'ospitalità temporanea senza fini di lucro nelle case per ferie. Possono essere ospitate persone che non sono dipendenti di amministrazioni o aziende pubbliche?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, nelle case per ferie possono essere ospitate esclusivamente le categorie di persone indicate nella SCIA, che risultano dipendenti di amministrazioni o aziende pubbliche o private, ovvero soci di enti, associazioni o altre organizzazioni operanti per il conseguimento di finalità sociali, culturali, assistenziali, religiose o sportive. ",
+      "ground": "Nelle case per ferie possono essere ospitate esclusivamente le categorie di persone indicate nella\nSCIA\ndi cui all'articolo 38 e che risultano dipendenti di amministrazioni o aziende pubbliche o private ovvero soci di enti, associazioni o altre organizzazioni operanti per il conseguimento di finalità sociali, culturali, assistenziali, religiose o sportive."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E quali sono i riferimenti normativi che regolano le case per ferie?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "I riferimenti normativi principali sono la Legge provinciale 14/07/2000 n. 9 che disciplina l'esercizio dell'attività di somministrazione di alimenti e bevande e dell'attività alberghiera, e la Legge provinciale 15/05/2002 n. 7 che disciplina gli esercizi alberghieri ed extra-alberghieri e promuove la qualità della ricettività turistica. Inoltre, c'è il Regolamento di esecuzione della legge provinciale 15 maggio 2002, n. 7. ",
+      "ground": "Legge provinciale 14/07/2000 n. 9\n“\nDisciplina dell'esercizio dell'attività di somministrazione di alimenti e bevande e dell'attività alberghiera, nonché modifica all'art. 74 della L.P. 29 Aprile 1983, n. 12 in materia di personale\n”.\nLegge provinciale 15/05/2002 n. 7\n“\nDisciplina degli esercizi alberghieri ed extra-alberghieri e promozione della qualità della ricettività turistica\n”.\nRegolamento di esecuzione della legge provinciale 15 maggio 2002\n, n. 7 DPP 25 settembre 2003 n. 28-149/Leg."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

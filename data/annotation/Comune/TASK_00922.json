@@ -1,0 +1,22 @@
+{
+  "task_id": "TASK_00922",
+  "doc_src": "comune.trento_aree-tematiche_D0027.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "In che modo il Comune di Trento supporta le famiglie?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Lo fa in diversi modi, come offrire tariffe ad hoc per le famiglie sui trasporti pubblici, buoni vacanze o fondi di credito per i neonati.\nPuò trovare ulteriori dettagli al sito  www.trentinofamiglia.it .",
+      "ground": "Oltre al processo di Audit F.& L., la Provincia ha posto in essere tutta una serie di iniziative atte a sostenere e promuovere sul territorio il benessere familiare ed i progetti di vita familiare (es. tariffe famiglie sui trasporti pubblici, buoni vacanze per le famiglie, borse di studio e prestiti d’onore per gli studenti, buoni di servizio per ridurre i costi dei servizi di educazione e cura per i figli, fondi di credito per i nuovi nati ecc.). Per maggiori informazioni consultare il sito\n[http://www.trentinofamiglia.it/](www.trentinofamiglia.it)"
+    }
+  ],
+  "subcategory": "Trento"
+}

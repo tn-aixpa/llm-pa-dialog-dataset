@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00917",
+  "doc_src": "comune.trento_aree-tematiche_D0005.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Quali sono i servizi offerti dagli sportelli di facilitazione digitale?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Sono diversi, in generale tutti orientati per l'uso dei servizi online del Comune. Alcuni di questi esempi sono richiesta di SPID e assistenza all'uso di smartphone.",
+      "ground": "['grazie ai volontari e alle volontarie di servizio civile digitale potrai avere supporto per utilizzare al meglio i servizi online.', 'per avere il nostro supporto per accedere ai servizi online del Comune, per richiedere SPID, per utilizzare al meglio lo smartphone e la strumentazione elettronica, e per tanti altri servizi ancora!']"
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Quali sono gli orari di apertura degli sportelli di facilitazione digitale?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Gli sportelli di facilitazione digitale sono aperti dalle 9.00 alle 12.00 dal lunedì al venerdì.",
+      "ground": "in orario 9.00-12.00 dal lunedì al venerdì per richiedere un appuntamento negli sportelli ed orari indicati."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Come si può raggiungere lo sportello?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "È possibile contattare lo sportello telefonicamente ai seguenti numeri: 3357863040 e 3371261296.",
+      "ground": "Contatta i numeri\n3357863040\no\n3371261296"
+    }
+  ],
+  "subcategory": "Trento"
+}

@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00790",
+  "doc_src": "comune.salerno_D0063.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei avere informazioni sulla scadenza per il pagamento della Tari 2024.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, le scadenze per il pagamento della Tari 2024 sono state fissate con Deliberazione di Giunta Comunale n. 127 del 17/04/2024. L'importo dovuto è pagabile in un'unica soluzione entro il 30 giugno 2024 tramite il modello di versamento F24 allegato all'avviso di pagamento.",
+      "ground": "Si informano i gentili contribuenti che, con Deliberazione di Giunta Comunale n. 127 del 17/04/2024, sono state fissate le scadenze per il pagamento della Tari 2024.\nL’importo dovuto è pagabile, mediante il modello di versamento F24 allegato all’avviso di pagamento, in un’unica soluzione da effettuarsi entro il 30 giugno 2024."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E se si volesse pagare in tre rate?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Se desidera pagare in tre rate, le scadenze sono le seguenti:\n1° rata entro il 30 giugno 2024\n2° rata entro il 31 luglio 2024\n3° rata entro il 31 ottobre 2024",
+      "ground": "In alternativa il pagamento potrà essere effettuato in tre rate, sempre tramite i mod. f24 allegati all’avviso di pagamento, rispettando le seguenti scadenze:\n1° rata entro il 30 giugno 2024\n2° rata entro il 31 luglio 2024\n3° rata entro il 31 ottobre 2024"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Cosa si deve fare se qualcuno non riceve l'avviso di pagamento?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Se non riceverà l'avviso entro il 25 giugno 2024, potrà recarsi presso gli uffici di Sistemi Salerno – Servizi Utility S.R.L. o inviare una e-mail a tributi@grupposistemisalerno.it.",
+      "ground": "Laddove non dovesse ricevere l’avviso di pagamento entro il 25 giugno 2024, il contribuente potrà recarsi presso gli uffici di Sistemi Salerno – Servizi Utility S.R.L. (ex Sinergia) ubicati in Via Stefano Passaro n.1 oppure, in alternativa, potrà inviare una e-mail all'indirizzo\ntributi@grupposistemisalerno.it."
+    }
+  ],
+  "subcategory": "Salerno"
+}

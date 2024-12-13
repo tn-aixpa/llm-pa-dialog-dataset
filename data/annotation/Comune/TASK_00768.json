@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00768",
+  "doc_src": "comune.salerno_D0032.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sull'Elenco di operatori economici del Comune di Salerno.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, nel caso di operatori economici da invitare a procedura di affidamento, dovrebbe poter veder un elenco al link https://albofornitori.comune.salerno.it/PortaleAppalti/it/ppgare_avvisi_lista.wp?actionPath=/ExtStr2/do/FrontEnd/Avvisi/view.action¤tFrame=7&codice=E00018&_csrf=IPBUQ8YCL7BVSFLE7O16KM5C06EX2UTS .",
+      "ground": "A decorrere dalla data di pubblicazione del presente Avviso sul sito istituzionale del Comune di Salerno, al fine di ottenere l'accesso all'area riservata e chiedere l'iscrizione in una o più sezioni, gli operatori economici interessati potranno iscriversi all'elenco\n[https://albofornitori.comune.salerno.it/PortaleAppalti/it/ppgare_avvisi_lista.wp?actionPath=/ExtStr2/do/FrontEnd/Avvisi/view.action"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Posso iscrivermi all'elenco se sono un'azienda privata?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Mi dispiace, ma l'Elenco di operatori economici è riservato agli operatori economici interessati alle procedure di affidamento del Comune di Salerno. Le aziende private potrebbero non rientrare nei requisiti richiesti per l'iscrizione.",
+      "ground": "A decorrere dalla data di pubblicazione del presente Avviso sul sito istituzionale del Comune di Salerno, al fine di ottenere l'accesso all'area riservata e chiedere l'iscrizione in una o più sezioni, gli operatori economici interessati potranno iscriversi all'elenco\n[https://albofornitori.comune.salerno.it/PortaleAppalti/it/ppgare_avvisi_lista.wp?actionPath=/ExtStr2/do/FrontEnd/Avvisi/view.action"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Capito, grazie comunque per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È stato un piacere poter aiutare. Se ha bisogno di ulteriori informazioni, non esiti a contattarci nuovamente. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

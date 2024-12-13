@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_01048",
+  "doc_src": "alghero__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Pensavo di fare una family card nel mio Comune, ha suggerimenti?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Nel piano di Alghero dell'Anno 2022,  è stata avviata una sperimentazioni di una Family Card usufruibile da App, in modo da dare fantaggi e costruire un network di attività. Il progetto è considerato apripista e un giorno potrebbe avere portata regionale.",
+      "ground": "DESCRIZIONE: L’Ufficio Politiche Familiari intende avviare la sperimentazione per l’introduzione di una Family Card dematerializzata tramite una APP dedicata per offrire vantaggi alle famiglie di Alghero grazie anche alla costituzione di un Network di attivitа e organizzazioni convenzionate. Tale progetto potrа essere apripista per il progetto più ampio a carattere regionale che è inserito nel piano esecutivo in materia di politiche familiari tra la Provincia Autonoma di Trento e la Regione Sardegna."
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "C'è anche qualche idea dedicata agli animali domestici?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Sì, il Comune di Alghero ha pensato di dare una certificazione a quelle attività che sono accoglienti e attente verso gli animali domestici",
+      "ground": "DESCRIZIONE: L’amministrazione ha avviato un percorso culturale e di attenzione verso il tema del rispetto e accoglienza degli amici a 4 zampe.\n\nSulla falsa riga del percorso di certificazione “Alghero Family” si è creato un processo parallelo con un marchio di attenzione per le attivitа che saranno accoglienti e attenti verso gli animali domestici."
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Che bella idea le certificazioni!",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Mi fa piacere che sia entusiasta. C'è altro che posso fare per lei?",
+      "ground": ""
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "Per la promozione di musei ha delle idee?",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "Può proporre alle famiglie un biglietto unico che permette l'accesso a tutti i siti (archeologici e museali) dove solo gli adulti pagano la quota intera e i bambini pagano invece una quota ridotta.",
+      "ground": ""
+    },
+    {
+      "id": "T9",
+      "speaker": "Citizen",
+      "message": "Mi daresti il testo originale dell'azione?",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agent",
+      "message": "TITOLO: Servizi culturali e museali Family\n\nTASSONOMIA: Agevolazioni tariffarie e contributi attivitа ricreative/culturali/aggregative/formative\n\nDESCRIZIONE: Anche nel 2021 verrа riproposto il biglietto unico Family che permetterа l'ingresso delle Famiglie in tutti i siti archeologici e museali del territorio (12 siti) con il pagamento dei soli adulti e l'ingresso gratuito dei figli fino all'etа dei 14 anni con un risparmio di oltre il 70% rispetto alla tariffazione ordinaria.\n\nSi intende inoltre proporre alla Fondazione Alghero e al Parco di Porto Conte il percorso di certificazione ''Alghero Family'' dei siti archeologici e museali tramite l'adozione di appositi disciplinari.\n\nSi intende inoltre coinvolgere in questo percorso di adesione al marchio ''Alghero Family'' le Biblioteche della cittа elaborando un apposito disciplinare.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

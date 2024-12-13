@@ -1,0 +1,52 @@
+{
+  "task_id": "TASK_01095",
+  "doc_src": "cles__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Cosa posso fare per educare la mia cittadinanza all'ambiente?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Può fare un'azione nel suo Piano Famiglia orientata a sensibilizzare sul tema ambientale i giovani e la collettività in generale, insegnando uno sviluppo eco-sostenibile. Più all'atto pratico, può mettere a disposizione orti comunali e sensibilizzare i cittadini contro l'abbandono dei rifiuti e il decoro urbano.",
+      "ground": "OBIETTIVO: Sensibilizzare la tematica ambientale ai giovani e alla collettivitа in generale. Promuovere conoscenze relative ai sistemi ambientali e ai problemi ambientali; far comprendere ai giovani l'importanza di azioni responsabili e consapevoli che rispettino i vincoli e sappiano cogliere opportunitа per lo sviluppo eco-sostenibile.\n\n|||\n\nMessa a disposizione di orti comunali\n\nProgetto I care per sensibilizzare i cittadini contro l'abbandono dei rifiuti\n\ne il decoro urbano(coinvolgimento scuola Istituto Comprensivo Cles. )"
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "E per favorire invece la sicurezza?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Può pensare di promuovere conoscenza e utilizzo dei vari servizi di protezione e sicurezza offerti nel territorio. Una possibilità è di fare vari incontri per parlare della sicurezza a 360°.",
+      "ground": "OBIETTIVO: Promuovere la conoscenza e l'utilizzo dei vari servizi di protezione e sicurezza che vengono offerti sul territorio;\n\nPromozione e attuazione di un sistema unitario e integrato dalla sicurezza per il benessere della comunitа.\n\nDESCRIZIONE: Previsione di 4 incontri per parlare di sicurezza a 360 gradi coinvolgendo la collettivitа."
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Okay, capito.",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Le serve altro?",
+      "ground": ""
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "No a posto così.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

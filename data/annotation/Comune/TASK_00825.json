@@ -1,0 +1,40 @@
+{
+  "task_id": "TASK_00825",
+  "doc_src": "comune.salerno_D0117.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "E' vero che adesso le mense di Salerno saranno totalmente senza plastica?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì. A partire dal 1 marzo, le mense scolastiche saranno senza plastiche e 100% sostenibili.",
+      "ground": "Rivoluzione mense scolastiche: non solo plastic free ma anche 100% sostenibili. Da venerdì 1 marzo sarà la Vivenda Spa in Ati con Solidarietà e Lavoro a erogare il servizio per conto del Comune."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Ci sono altri cambiamenti?",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

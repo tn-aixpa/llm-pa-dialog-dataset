@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00213",
+  "doc_src": "comune.milano_aree-tematiche_links_D0241.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Sono appena stato a Parigi e lì mi dicevano che c'è un gemellaggio con Milano, mi conferma?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Da quel che mi risulta non ci sono gemellaggi fra Milano e Parigi",
+      "ground": "[https://www.comune.milano.it/aree-tematiche/relazioni-internazionali/city-to-city-cooperation/gemellaggi/toronto](Toronto)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E con Tokyo?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "No, non ci sono nemmeno gemellaggi fra Milano e Tokyo.",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Oh, allora i miei amici non ne sanno abbastanza. Grazie.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È stato un piacere, se ha altre domande non esiti a chiedere.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

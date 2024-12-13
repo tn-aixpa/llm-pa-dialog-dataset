@@ -1,0 +1,22 @@
+{
+  "task_id": "TASK_00214",
+  "doc_src": "comune.milano_aree-tematiche_links_D0242.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Scusi, sa dirmi se il Comune di Milano partecipa alla rete C40?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Sì, il Comune di Milano fa parte della C40 dal 2009.",
+      "ground": "Milano si è unita a C40 nel settembre del 2009, con l’obiettivo di accrescere la consapevolezza della Città e rafforzare la propria azione climatica, in linea con gli impegni stabiliti nell’“Accordo di Parigi”, nella “Strategia a lungo termine per il 2050 della Commissione Europea”, nel “Patto Verde Europeo” e nel cosiddetto pacchetto \"Pronti per il 55%\", nonché con le indicazioni del \"Rapporto Speciale sul Riscaldamento Globale di 1."
+    }
+  ],
+  "subcategory": "Milano"
+}

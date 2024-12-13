@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00670",
+  "doc_src": "comune.trento_aree-tematiche_D0453.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sul servizio di nido estivo presso il nido d'infanzia \"Clarina\".",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Il nido d'infanzia \"Clarina\" si trova in via Einaudi 24, in caso di esubero delle domande, il servizio si svolgerà anche al nido Roncafort di via Caneppele 19.\nIl servizio si svolge dal 5 al 28 agosto 2024.\nPuò trovare maggiori informazioni al link https://www.comune.trento.it/Aree-tematiche/Servizi-all-infanzia-e-istruzione/Servizi-prima-infanzia-0-3-anni/Servizio-di-nido-estivo/Servizio-di-nido-estivo .",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Servizi-all-infanzia-e-istruzione/Servizi-prima-infanzia-0-3-anni/Servizio-di-nido-estivo/Servizio-di-nido-estivo](Servizio di nido estivo)\nSede del servizio di nido estivo:\nnido d’infanzia \"Clarina\" in via Einaudi 24 e, in caso di esubero di domande, anche presso il nido Roncafort di via Caneppele 19.\nPeriodo di svolgimento:\ndal 5 al 28 agosto 2024"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E per quanto riguarda il contributo per il servizio Tagesmutter?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Può trovare maggiori informazioni al link https://www.comune.trento.it/Aree-tematiche/Servizi-all-infanzia-e-istruzione/Servizi-prima-infanzia-0-3-anni/Servizio-Tagesmutter/Contributo-per-nido-familiare-servizio-Tagesmutter .",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Servizi-all-infanzia-e-istruzione/Servizi-prima-infanzia-0-3-anni/Servizio-Tagesmutter/Contributo-per-nido-familiare-servizio-Tagesmutter](Contributo per nido familiare - servizio Tagesmutter)\nTutte le informazioni e i moduli per usufruire del contributo comunale a sostegno di questo servizio complementare al nido d'infanzia"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È stato un piacere aiutarla.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

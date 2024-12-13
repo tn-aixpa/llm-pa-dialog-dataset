@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00326",
+  "doc_src": "comune.milano_aree-tematiche_links_D0358.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, cosa fa l'Ufficio Arte?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "L'ufficio \"Arte negli Spazi Pubblici\" si occupa di censire e valorizzare le opere, nonché di emanare bandi per nuove produzione al fine di realizzare nuove opere di arte pubblica.",
+      "ground": "L'Ufficio \"Arte negli Spazi Pubblici\" del Comune di Milano si occupa del\ncensimento\ne della\nvalorizzazione\ndi questo patrimonio di opere,\nemana bandi\nper nuove produzioni, affianca\nartisti\ne proponenti\nal fine di realizzare nuove opere di arte pubblica."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E' possibile proporre un progetto per nuove produzioni artistiche?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, per farlo puoi o partecipare a uno dei bandi o consultare la risorsa https://www.comune.milano.it/servizi/arte-negli-spazi-pubblici-a-milano-proponi-progetto",
+      "ground": "L'Ufficio \"Arte negli Spazi Pubblici\" del Comune di Milano si occupa del\ncensimento\ne della\nvalorizzazione\ndi questo patrimonio di opere,\nemana bandi\nper nuove produzioni, affianca\nartisti\ne proponenti\nal fine di realizzare nuove opere di arte pubblica.\n\n|||\n\n[https://www.comune.milano.it/servizi/arte-negli-spazi-pubblici-a-milano-proponi-progetto](Arte negli spazi pubblici: proponi un progetto)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni, potrei avere l'indirizzo email per contattare l'Ufficio?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Mi dispiace ma benché sia possibile avere accesso al servizio tramite email, nessuno è stato fornito.",
+      "ground": "Modalità di accesso al servizio:\nMail"
+    }
+  ],
+  "subcategory": "Milano"
+}

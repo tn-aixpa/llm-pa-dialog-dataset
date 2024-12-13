@@ -1,0 +1,40 @@
+{
+  "task_id": "TASK_00370",
+  "doc_src": "comune.milano_aree-tematiche_links_D0402.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei avere informazioni sull'Ici.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "L'Ici è stata soppressa a partire dal 1° Gennaio 2012 e sostituita dall'Imposta Municipale Propria (IMU). ",
+      "ground": "Ici\nL'Ici era l’Imposta Comunale sugli Immobili, soppressa a decorrere dal 1/1/2012 e sostituita dall'Imposta Municipale Propria (IMU)."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quindi non devo più pagare l'Ici?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Esatto.",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

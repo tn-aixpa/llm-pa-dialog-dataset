@@ -1,0 +1,64 @@
+{
+  "task_id": "TASK_00364",
+  "doc_src": "comune.milano_aree-tematiche_links_D0396.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Salve, ho ricevuto un avviso di accertamento per Tari e Imu e vorrei chiedere delle informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, posso aiutarla. Quali informazioni desidera?",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Vorrei sapere cosa devo fare se non ho pagato l'importo richiesto.",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Se non ha ancora pagato l'importo indicato nell'avviso di accertamento, può procedere al pagamento entro 60 giorni dalla notifica o chiedere una rateazione della somma dovuta.",
+      "ground": "Se non hai pagato l’importo che ti viene richiesto o se non l’hai pagato per intero\nprocedi al pagamento entro 60 giorni dalla notifica dell’avviso di accertamento\noppure\nchiedi la rateazione della somma dovuta."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "E se ho pagato oltre la scadenza indicata?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "In caso di pagamento oltre la scadenza senza aver acceduto al ravvedimento, dovrà pagare la differenza tra l'importo indicato nell'avviso di accertamento e quello già versato, ossia le maggiorazioni dovute a sanzioni, spese di notifica e interessi.",
+      "ground": "Se hai pagato oltre la data di scadenza senza accedere al ravvedimento\ndovrai pagare la differenza tra l'importo indicato nell'avviso di accertamento e quello già versato, ossia la maggiorazione dovuta a sanzioni, spese di notifica e interessi in proporzione ai giorni di ritardo."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Capito, e se ho pagato l'importo completo rispettando le scadenze?",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "In caso di pagamento completo entro i termini, è importante comunicare l'avvenuto pagamento ai nostri uffici.",
+      "ground": "Se hai pagato l’importo per intero rispettando le scadenze\ncomunica ai nostri uffici l’avvenuto pagamento."
+    },
+    {
+      "id": "T09",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

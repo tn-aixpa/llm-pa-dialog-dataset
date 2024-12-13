@@ -1,0 +1,5 @@
+Consulta online la cartografia dei cimiteri messa a disposizione dal Comune di Trento
+Questo servizio consente la consultazione dei 22 cimiteri del Comune amministrativo di Trento. L'approccio alla cartografia avviene secondo i classici modelli di tipo geometrico tramite navigazione sulla mappa ed alfanumerico con ricerche per nominativo dei defunti.
+Per informazioni sull'utilizzo del servizio consultare il documento guida allegato a questa pagina.
+[]()
+[https://gis.comune.trento.it/it/map/cimiteri/](Apri cartografia dei cimiteri)

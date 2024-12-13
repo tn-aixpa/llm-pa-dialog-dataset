@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00049",
+  "doc_src": "comune.milano_aree-tematiche_D0071.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Cosa sono i Comitati Inquilini?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "I Comitati Inquilini sono associazioni formate dai residenti dei complessi di edilizia residenziale pubblica di proprietà del Comune di Milano.",
+      "ground": "Comitati Inquilini\n\nI Comitati Inquilini sono associazioni di fatto, senza fini di lucro, formate spontaneamente dai residenti dei complessi di edilizia residenziale pubblica di proprietà del Comune di Milano."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Tale comitato può richiedere uno spazio?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, tutti i Comitati Inquilini formalmente costituiti possono presentare richiesta di uno spazio gratuito alla Direzione Casa che verifica la disponibilità di spazi idonei.",
+      "ground": "Chi può chiedere uno spazio?\n\nTutti i Comitati di inquilini formalmente costituiti possono presentare richiesta di uno spazio gratuito alla Direzione Casa che verifica, con l’azienda MM Spa, la disponibilità di spazi idonei."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Il comodato d'uso dello spazio quanto dura?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Il comodato d'uso ha una durata di tre anni rinnovabili. Il rinnovo può avvenire se la sperimentazione è andata a buon fine e c'è una richiesta formale da parte del Comitato concessionario.",
+      "ground": "La durata del comodato d’uso gratuito è di tre anni, rinnovabile, salvo la presenza di eventuali motivi di revoca. Il comodato d’uso gratuito può essere rinnovato alle medesime condizioni dopo la verifica del buon esito della fase di sperimentazione e a fronte di una richiesta formale da parte del Comitato concessionario."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Grazie, le informazioni sono state chiare. Buona giornata.",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "Grazie a lei, buona giornata anche a lei.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

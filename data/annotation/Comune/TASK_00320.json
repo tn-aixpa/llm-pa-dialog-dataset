@@ -1,0 +1,40 @@
+{
+  "task_id": "TASK_00320",
+  "doc_src": "comune.milano_aree-tematiche_links_D0352.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Che cosa fa Milano per contrastare la povertà?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Il Comune di Milano mette in atto diverse azioni di supporto per il contrasto alla povertà:\n- Assegni di inclusione;\n- Misure di sostegno al reddito;\n- Assegni di maternità;\n- Titoli sociali/voucher per il rimborso spese del cittadino.",
+      "ground": "Il Comune di Milano realizza azioni di contrasto alla povertà e di presa in carico dei cittadini sia attraverso interventi di sostegno al reddito, sia attraverso l’erogazione dei titoli sociali (contributi erogati a rimborso delle prestazioni richieste dai cittadini in condizioni di necessità).\nQueste alcune delle azioni di supporto:\nassegno di Inclusione\nmisure di sostegno al reddito comunali collegate a percorsi di inclusione e riattivazione sociale\nassegno di maternità\ndiverse tipologie di titoli sociali/voucher erogati a rimborso delle spese sostenute dal cittadino\nÈ possibile verificare i requisiti d"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Posso verificare i requisiti di accesso a queste misure online?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Non sono a conoscenza di dove trovare i requisiti di accesso, ma ouoi richiedere informazioni al link https://servizicrm.comune.milano.it/SostegnoalReddito/Richiestecomplesse .",
+      "ground": "È possibile inviare documentazione e richiedere informazioni per il sostegno al reddito e i titoli sociali cliccando sul tasto \"Scrivi\".\n[https://servizicrm.comune.milano.it/SostegnoalReddito/Richiestecomplesse](SCRIVI)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni, mi informerò meglio online.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

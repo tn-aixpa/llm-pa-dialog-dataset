@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00559",
+  "doc_src": "comune.trento_aree-tematiche_D0251.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei delle informazioni sulle cartografie del PPCC di Trento.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, la cartografia di base del PPCC di Trento è disponibile al link http://webapps.comune.trento.it/cartografia/gis/ppcc/ppcc_ig0_cartografia_di_base",
+      "ground": "GIS\ndelle cartografie del\nPpcc\ndi Trento\n[http://webapps.comune.trento.it/cartografia/gis/ppcc/ppcc_ig0_cartografia_di_base](Cartografia di base)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E dove posso trovare la Carta del valore d'uso del suolo?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Puoi trovarla al seguente link http://webapps.comune.trento.it/cartografia/gis/ppcc/ppcc_ig3_uso_del_suolo .",
+      "ground": "[http://webapps.comune.trento.it/cartografia/gis/ppcc/ppcc_ig3_uso_del_suolo](Carta del valore d’uso del suolo - PGUAP)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Prego, sono qui per aiutarti. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

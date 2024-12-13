@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00832",
+  "doc_src": "comune.salerno_D0126.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, al momento è permesso lavare i vetri delle auto per strada a Salerno?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, l'Ordinanza del Sindaco vieta espressamente l'esercizio dell'attività di \"lavavetri\" per garantire la sicurezza della città e il decoro urbano.",
+      "ground": "In particolare è espressamente vietato:\n• l’esercizio dell’attività di cd. “lavavetri”"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Capito, e si può chiedere l'elemosina per strada?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "L'Ordinanza del Sindaco ha recentemente vietato anche l'elemosina.",
+      "ground": "In particolare è espressamente vietato:\n\n|||\n\n• l’attività di accattonaggio"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

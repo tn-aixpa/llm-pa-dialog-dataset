@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00640",
+  "doc_src": "comune.trento_aree-tematiche_D0399.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni su come richiedere il rilascio di un Certificato di destinazione urbanistica.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, per richiedere un Certificato di destinazione urbanistica le consiglio di accedere al link  https://servizi.comune.trento.it/Servizi/Richiesta-Cdu-Certificato-di-destinazione-urbanistica .",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Ambiente-e-territorio/Urbanistica/Documentazione-di-interesse-urbanistico/Certificati-di-destinazione-urbanistica/Rilascio-certificati-di-destinazione-urbanistica](Rilascio certificati di destinazione urbanistica)\nAccedi al\nCatalogo servizi\ndel Comune di Trento per avere tutte le informazioni su come richiedere il rilascio di un Cdu -\n[https://servizi.comune.trento.it/Servizi/Richiesta-Cdu-Certificato-di-destinazione-urbanistica](Certificato di destinazione urbanistica)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E' possibile ottenere il certificato direttamente online?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Mi dispiace, ma non sono in grado di fornirle questa informazione.",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Capisco, e quali documenti devo presentare per la richiesta del Cdu?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Non sono a conoscenza di questa informazione, ma potrebbe trovare più dettagli al link https://servizi.comune.trento.it/Servizi/Richiesta-Cdu-Certificato-di-destinazione-urbanistica .",
+      "ground": "Accedi al\nCatalogo servizi\ndel Comune di Trento per avere tutte le informazioni su come richiedere il rilascio di un Cdu -\n[https://servizi.comune.trento.it/Servizi/Richiesta-Cdu-Certificato-di-destinazione-urbanistica](Certificato di destinazione urbanistica)\n."
+    }
+  ],
+  "subcategory": "Trento"
+}

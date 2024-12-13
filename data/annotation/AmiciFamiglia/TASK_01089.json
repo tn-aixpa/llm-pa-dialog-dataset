@@ -1,0 +1,82 @@
+{
+  "task_id": "TASK_01089",
+  "doc_src": "castelnuovo__2023.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Buongiorno, che azioni mi consiglia per il contrasto alle dipendenze?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Potrebbe promuovere iniziative di sensibilizzazione verso la ludopatia, cosicché la cittadinanza possa percepire il gioco d'azzardo come patologia i si riesca efficacemente a contrastarne la diffusione",
+      "ground": "TASSONOMIA: Azioni di contrasto alle dipendenze\n\nOBIETTIVO: Contrastare diffusione gioco d'azzardo\n\nDESCRIZIONE: Il Comune si impegna a far sм che il fenomeno del gioco d’azzardo patologico non venga minimizzato, per questo si collaborerа con la Comunitа Valsugana e Tesino per sensibilizzare i cittadini sulla tematica."
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Bene bene, e qualcosa sull'uso di droghe fra i giovani?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Mi dispiace ma non sono in grado di proporle niente al riguardo.",
+      "ground": ""
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Capisco...",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Posso aiutarla con altro?",
+      "ground": ""
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "Sì, come posso promuovere la cittadinanza attiva?",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "Come Comune, può riunire i giovani del territorio organizzando incontri di socializzazione, nonché avvicinare i ragazzi alla vita politica, possibilmnte attraverso il Consiglio Comunale dei ragazzi.",
+      "ground": "DESCRIZIONE: Il Comune intende riunire i giovani del nostro territorio attraverso l’organizzazione di incontri di socializzazione. Intende poi proseguire con il percorso iniziato del Consiglio Comunale dei ragazzi, con la finalitа di avvicinare le nuove generazioni alla vita politica."
+    },
+    {
+      "id": "T9",
+      "speaker": "Citizen",
+      "message": "Sembra una bella idea.",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agent",
+      "message": "Le serve altro?",
+      "ground": ""
+    },
+    {
+      "id": "T11",
+      "speaker": "Citizen",
+      "message": "No, sono a posto così. Saluti.",
+      "ground": ""
+    },
+    {
+      "id": "T12",
+      "speaker": "Agent",
+      "message": "A presto.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

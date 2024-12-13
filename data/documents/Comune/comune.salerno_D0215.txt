@@ -1,0 +1,48 @@
+[](Descrizione)
+Descrizione
+Con Deliberazione di Giunta regionale n. 28 del 25/01/2024 (pubblicata in BURC dell’11.03.2024) è stato approvato il documento “Procedura per il rafforzamento del sistema di erogazione delle cure domiciliari, in applicazione delle attività previste dal Piano Nazionale di Ripresa e Resilienza recepite dal D.M. 77/2022”, ALLEGATO A, che definisce le procedure per rafforzare il sistema di erogazione delle cure domiciliari, indicando l’iter amministrativo per qualificare gli erogatori privati che hanno manifestato interesse a partecipare all’erogazione di prestazioni di assistenza domiciliare integrata ammessi alla procedura con i decreti direttoriali nn.
+554 del 22/08/2023, 743 del 10/11/2023 e 765 del 15/11/2023.
+Il predetto Documento alla Delibera 28/2024 ha previsto che “Decorsi 10 gg. e non oltre 45 gg. dalla pubblicazione della presente Deliberazione, il legale rappresentante delle organizzazioni ammesse ai sensi dei suindicati decreti direttoriali, presenta la SCIA all’Ente Comunale dove l’organizzazione ha la sede nonché in ogni Comune dove intende collocare l’eventuale ulteriore sede operativa, notiziando anche la/le Azienda/e sanitaria/e locale/i competente/i per territorio.
+La SCIA contiene la dichiarazione del possesso di tutti i requisiti strutturali, tecnologici, ed organizzativi minimi per l’erogazione delle cure domiciliari previsti nella normativa regionale e nazionale”.
+A seguito dell'entrata in vigore del
+la
+Deliberazione di Giunta regionale n. 28 del 25/01/2024,  è stata approvata con Decreto di Giunta Regionale n. 257 del 20.03.2024, la modulistica, che si compone di n. 6 moduli, per la presentazione della Segnalazione Certificata di Inizio Attività (SCIA) per l’erogazione delle cure domiciliari.
+La presente procedura è rivolta alle organizzazioni ammesse ai sensi del Decreto Dirigenziale n. 554 del 22/08/2023, così come modificato e integrato con i Decreti Dirigenziali n. 743 del 10/11/2023 e n. 765 del 15/11/2023.
+In relazione al titolo per poter erogare prestazioni di Cure domiciliari, trattandosi di organizzazioni/strutture già operanti nel settore per attività sanitaria di FKT ex art. 44 Legge 833/78, per riabilitazione ex art. 26 Legge 833/78 e per attività rientranti nella macroarea Sociosanitaria o con esperienza in erogazione di servizi domiciliari già ammessi di cui ai sopracitati decreti direttoriali, trova applicazione l’istituto della SCIA di cui all’art. 19 della Legge 241/90 e smi, avviando così un processo di semplificazione amministrativa in materia
+.
+L’attività oggetto della Segnalazione potrà iniziare dalla data di comunicazione di avvenuta protocollazione dell’istanza, da parte del SUAP all’indirizzo PEC del mittente, che sarà inviata a seguito della verifica della completezza formale della segnalazione e dei relativi allegati.
+La segnalazione è corredata dalle dichiarazioni sostitutive di certificazioni e dell’atto di notorietà per quanto riguarda tutti gli stati, le qualità personali e i fatti previsti negli articoli 46 e 47 del testo unico di cui al D.P.R. 28 dicembre 2000, n. 445, nonché dalle attestazioni e asseverazioni dei requisiti necessari per lo svolgimento dell’attività.
+Ai sensi dell’art. 5 del DPR n. 160/2010, le SCIA o Comunicazioni dovranno essere presentate al SUAP
+esclusivamente in modalità telematica
+, all’indirizzo di posta elettronica certificata
+protocollosuap@pec.comune.salerno.it
+, pena la irricevibilità delle stesse.si procederà nel modo di seguito riportato:
+protocollazione e assegnazione numero di pratica;
+invio all'ASL di competenza;
+verifica della completezza formale dell’istanza;
+in caso di riscontro positivo, la SCIA, considerata ricevibile, viene ammessa a procedimento;
+in caso di riscontrata non completezza della SCIA, seguirà comunicazione di irricevibilità della stessa.
+La modulistica è scaricabile in fondo a questa pagina tra i "Documenti correlati".
+Nell’invio della documentazione con modalità telematica il titolare dell’istanza, munito di firma digitale e di PEC-Posta Elettronica Certificata, compila in ogni sua parte la modulistica, la salva in formato PDF/A, con l’apposizione dei formati di firma digitale legalmente riconosciuti CAdES (estensione pdf.p7m) o PAdES (pdf-embedded) e la inoltra alla PEC dello Sportello Unico, unitamente agli allegati previsti;
+Ove il titolare dell’istanza non sia munito di firma digitale né di PEC, lo stesso potrà compilare la documentazione in modalità cartacea in tutte le sue parti, sottoscrivendo la documentazione in calce ed allegando fotocopia del documento d’identità. In tale ipotesi all’istanza dovrà essere allegata una specifica procura avente ad oggetto “Incarico per la sottoscrizione digitale e presentazione telematica delle pratiche SUAP” secondo il modello scaricabile. La suddetta documentazione potrà essere consegnata al professionista incaricato della redazione dei documenti (in possesso di certificato di firma digitale e di posta elettronica certificata) per la successiva acquisizione elettronica (scansione) ed il successivo inoltro allo Sportello Unico per le Attività Produttive.
+Per ogni documento da inoltrare a mezzo PEC dovrà essere creato un file in formato “.pdf”. Il nome del file da inoltrare dovrà essere composto dal codice fiscale di chi firma digitalmente il file seguito dalla descrizione del tipo file suddivisi da trattino o sottotratto, senza lasciare alcuno spazio vuoto nel nome del file. Ad esempio, CodiceFiscale_istanza____.pdf.p7m
+Le dimensione complessiva  dei file da allegare alla PEC non deve superare i 30MB; nel caso che superi tale dimensione occorre inviare gli allegati in più PEC indicando nell'Oggetto la numerazione progressiva.
+La documentazione acquisita con le modalità su indicate saranno trasmesse, telematicamente, dal SUAP a tutti gli uffici ed Enti coinvolti nel procedimento (in attuazione del disposto art. 7 del DPR 160/2010) al fine di consentire, agli stessi, di esprimere i parere/nulla osta/autorizzazioni di competenza.
+Ad attestazione di aver correttamente inoltrato la SCIA, occorre conservare la ricevuta di avvenuta “CONSEGNA” della PEC e il numero di protocollo, che sarà inviato dalla Segreteria, in risposta alla Vostra PEC, se la SCIA risulta ricevibile. La SCIA protocollata è immediatamente efficace, salvo che entro 60 giorni l’Ufficio verifica la correttezza della documentazione inoltrata per le SCIA sorteggiate dal sistema. Nel caso vengano riscontrate irregolarità o carenze, nei casi che le problematiche siano risolvibili, verrà inviata una richiesta di Conformazione della documentazione inviata, altrimenti in caso di palese carenza dei requisiti di legge la SCIA verrà dichiarata IRRICEVIBILE.
+Organizzazioni ammesse ai sensi del Decreto Dirigenziale n. 554 del 22/08/2023, così come modificato e integrato con i Decreti Dirigenziali n. 743 del 10/11/2023 e n. 765 del 15/11/2023, regolarmente iscritte alla Camera di Commercio.
+Può presentare la SCIA per l’erogazione delle cure domiciliari il legale rappresentante delle organizzazioni ammesse ai sensi dei suindicati decreti direttoriali nn. 554 del 22/08/2023, 743 del 10/11/2023 e 765 del 15/11/2023.
+La SCIA, dovrà essere inoltrata esclusivamente in formato digitale alla PEC del Settore. Il modello di SCIA dovrà essere debitamente compilato in ogni sua parte ed allo stesso dovrà essere allegata la documentazione prevista nel modello, il documento di identità del richiedente e con allegati l’attestazione del versamento diritti di segreteria ed istruttoria e quant’altro necessario al buon fine del procedimento
+Per effettuare la comunicazione è necessario il pagamento dei seguenti diritti (SCIA ATTIVITA’ SANITARIE):
+diritti di segreteria: 30.00 € (trenta/00)
+diritti di istruttoria: 50.00 € (cinquanta/00)
+Si avvisa che, ai sensi della Del. G.C. n. 91/2018, l’inadempienza del versamento comporterà l’avviso di mancata attivazione dell’iter procedurale e, pertanto, la pratica sarà dichiarata IRRICEVIBILE. Detta Delibera ha precisato che i diritti versati non sono rimborsabili, neanche in caso di esito negativo o di rinuncia.
+Occorre pagare i Diritti di Istruttoria e di Segreteria, tramite la piattaforma PagoPA dalle pagine sotto riportate:
+[https://servizi.comune.salerno.it/web/pagamenti/suap-commercio](PRATICHE AMMINISTRATIVE SUAP: Pagamenti diritti di Istruttoria, Segreteria - SUAP Commercio)
+PRATICHE AMMINISTRATIVE SUAP
+: Pagamenti diritti di Istruttoria, Segreteria - SUAP Commercio
+.
+Visitando poi le voci Diritti di Segreteria o Diritti di Istruttoria e selezionando dal menù a tendina l'apposito oggetto del pagamento - SCIA sanitarie (Veterinaria, Ostetricia, Fisioterapia, ecc...).
+Si avvisa che per ogni pratica occorre generare singolarmente l'avviso di pagamento sia dei Diritti di Istruttoria che dei Diritti di Segreteria. Si può pagare direttamente dal sito, registrandosi  tramite le credenziali SPID, oppure stampare gli avvisi di pagamento (tasto STAMPA E PAGA) e pagarli in una delle modalità previste dal sistema PagoPA (on line, alla posta, in banca o al tabacchi, etc....).
+L'ufficio, entro 60 giorni dalla presentazione della SCIA, verifica la documentazione inoltrata relativamente alle SCIA.
+Attivo
+Settore Sportello Unico Attività Produttive e Mercati

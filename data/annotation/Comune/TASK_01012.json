@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01012",
+  "doc_src": "comSalerno0848.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Quali sono le linee guida per proteggersi dal caldo?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Le linee guida per proteggersi dal caldo sono le seguenti:\n\n1) Arieggiare l’abitazione o il luogo di lavoro nelle ore fresche e tenere finestre chiuse e persiane abbassate nelle ore più calde.\n2) Se si utilizza l’aria condizionata, impostare la temperatura tra i 24 e i 26 gradi.\n3) Se si utilizza un ventilatore, evitare che il flusso dell’aria sia orientato direttamente sulle persone.\n4) Fare bagni o docce con acqua tiepida e, all’occorrenza, bagnarsi viso e braccia con acqua fresca o apporre un panno bagnato sulla nuca.\n5) Bere molto, evitando bibite gassate o alcolici, e alimentarsi in maniera corretta con cibi leggeri e poco conditi.\n6) Evitare di uscire di casa nelle ore più calde, in particolare fra le 11.00 e le 18.00, e vestirsi con capi leggeri di fibre naturali e di colore chiaro.\n7) Evitare di esporsi al sole e, fuori casa, proteggersi testa, pelle e occhi.\n8) Evitare di praticare attività fisica intensa o lavori pesanti all’aperto nelle ore più calde della giornata.\n9) Conservare correttamente i farmaci e consultare il proprio medico per consigli o per adeguare la terapia in caso di problemi di salute.\n10) In caso di mal di testa, debolezza, calo di pressione o sensazione di svenimento, bagnarsi subito la testa con acqua fresca e chiamare aiuto.",
+      "ground": "1) Arieggiare l’abitazione o il luogo di lavoro nelle ore fresche e tenere finestre chiuse e persiane abbassate nelle ore più calde\n2) Se si utilizza l’aria condizionata, programmarla ad una temperatura tra i 24 e i 26 gradi.\n3) Se si utilizza un ventilatore, evitare che il flusso dell’aria sia orientato direttamente sulle persone\n4) Fare bagni o docce con acqua tiepida. All’occorrenza bagnarsi viso e braccia con acqua fresca o apporre un panno bagnato sulla nuca\n5) Bere molto evitando bibite gassate o alcolici e alimentarsi in maniera corretta con cibi leggeri e poco conditi\n6) Evitare di uscire di casa nelle ore più calde (evitate assolutamente la fascia oraria fra le 11.00 e le 18.00), vestirsi con capi leggeri preferibilmente di fibre naturali e di colore chiaro.\n7) Evitare di esporsi al sole e, fuori casa, proteggersi il capo, la pelle e gli occhi.\n8) Evitare di praticare all’aperto attività fisica intensa o lavori pesanti nelle ore più calde della giornata\n9) Conservare correttamente i farmaci e consultare il proprio medico per consigli o per adeguare la terapia in caso di problemi cardiovascolari, ipertensivi, neurologici, respiratori, di diabete etc\n10) È consigliato bagnarsi subito la testa con acqua fresca e chiamare aiuto, in caso di mal di testa, debolezza, calo di pressione o sensazione di svenimento."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Chi si dovrebbe chiamare?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "In caso di situazioni di disagio, si può chiamare il numero verde dedicato 800233330, attivo tutti i giorni 24 ore su 24. Per altre necessità, è disponibile il numero della Direzione Politiche Sociali 089 666112 dal lunedì al venerdì dalle 9 alle 14 e il martedì e giovedì dalle 15 alle 17. Per assistenza sanitaria, si può contattare la guardia medica di via Vernieri al numero 089 5647306 o di via Raffaele Guariglia al numero 089 339574. Ricordo che si può contattare anche il 112 e il 118",
+      "ground": "I singoli cittadini possono segnalare eventuali situazioni di disagio al numero verde dedicato 800233330 attivo tutti i giorni 24h/24h.\nPer ogni altra necessità è altresì attivo il numero della Direzione Politiche Sociali 089 666112 dal lunedì al venerdì dalle 9 alle 14 e il martedì e giovedì dalle 15 alle 17.\n\n|||\n\n⁃ numero unico 112\n⁃ pronto intervento 118\n⁃ guardia medica - continuità assistenziale di via Vernieri 089 5647306 o di via Raffaele Guariglia 089 339574"
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Che cosa fa la guardia medica?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "La guardia medica è un servizio continuità medica di base, usufruibile quando il medico di base non è disponibile e in casi di emergenza.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

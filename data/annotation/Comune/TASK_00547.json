@@ -1,0 +1,22 @@
+{
+  "task_id": "TASK_00547",
+  "doc_src": "comune.trento_aree-tematiche_D0233.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "E' in grado di darmi dettagli su come ottenere certificazioni di matrimoni civili da computer?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Le consiglio di consultare la seguente risorsa per dettagli: https://www.comune.trento.it/Aree-tematiche/Servizi-demografici/Stato-civile/Matrimoni-unioni-civili-separazioni-e-divorzi/Certificazioni-di-stato-civile-rilasciate-tramite-terminale",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Servizi-demografici/Stato-civile/Matrimoni-unioni-civili-separazioni-e-divorzi/Certificazioni-di-stato-civile-rilasciate-tramite-terminale](Certificazioni di stato civile rilasciate tramite terminale)\nSono rilasciabili tramite terminale esclusivamente i certificati e gli estratti per riassunto di nascita, di matrimonio e di morte."
+    }
+  ],
+  "subcategory": "Trento"
+}

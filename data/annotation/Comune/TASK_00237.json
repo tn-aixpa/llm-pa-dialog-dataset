@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00237",
+  "doc_src": "comune.milano_aree-tematiche_links_D0266.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sui percorsi per l'orientamento, potete aiutarmi?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, posso aiutarla. I Percorsi per le Competenze Trasversali e l’Orientamento (PCTO, ex Alternanza Scuola-Lavoro) sono percorsi per le competenze trasversali e l'orientamento rivolti agli studenti dell'ultimo triennio delle scuole superiori, come licei, istituti tecnici e professionali.",
+      "ground": "I PCTO - Percorsi per le Competenze Trasversali e l’Orientamento (ex Alternanza Scuola-Lavoro) sono attività rivolte a studentesse e studenti che frequentano l'ultimo triennio delle scuole secondarie di secondo grado (licei, istituti tecnici, istituti professionali)."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Posso richiedere l'attivazione di un PCTO che coinvolga il Comune?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Le attività che coinvolgono il Comune per l'attivazione di un PCTO necessitano di una richiesta da parte della scuola. È anche possibile coinvolgere il Comune in attività di PCTO con le scuole che svolgono autonomamente l'attività, per esempio, dando una struttura oppure facendo patrocinio di un'iniziativa.",
+      "ground": "Le scuole possono richiedere al Comune di Milano l'attivazione di un PCTO, scegliendo una delle due modalità sopra indicate, oppure richiedere il coinvolgimento del Comune in attività di PCTO che le scuole svolgono autonomamente (ad esempio: mettendo a disposizione una struttura, oppure patrocinando un’iniziativa)."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni, non ho altre domande al momento.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È stato un piacere aiutarla. Se ha bisogno di ulteriori chiarimenti o informazioni, non esiti a contattarci nuovamente. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

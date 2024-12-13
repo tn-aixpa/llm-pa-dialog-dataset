@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00938",
+  "doc_src": "comune.milano_aree-tematiche_links_D0241.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Quanti gemellaggi ha la città di Milano?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "La città di Milano ha attualmente quattordici gemellaggi con altre città, l'ultimo dei quali è stato firmato con Daegu, in Corea del Sud.",
+      "ground": "Da allora sono stati firmati altri quattordici Accordi, di cui il più recente con la città Sud coreana di Daegu."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Cosa ci guadagna Milano facendo tanti gemellamenti?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Così da permettere meglio di definire i rapporti di amicizia e scambi tra città di nazioni diverse legate da affinità significative. Il gemellaggio serve a favorire attività congiunte, sviluppare relazioni politiche, economiche e culturali, incoraggiare la cooperazione tra le città, rafforzare i legami tra i popoli, promuovere l'integrazione locale e facilitare lo scambio di esperienze e strategie per migliorare la qualità della vita dei cittadini.",
+      "ground": "Con l’istituto del Gemellaggio sono ancor più incoraggiati la cooperazione tra le città, il rafforzamento dei legami tra i popoli, il mantenimento dei rapporti con le comunità italiane all’estero e straniere a Milano, la promozione dell’integrazione locale e la facilitazione dello scambio di esperienze e di strategie volte alla soluzione di problemi di carattere sociale, economico e ambientale, nell’intento di migliorare la qualità della vita e il benessere dei rispettivi cittadini."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Riusciresti a darmi la lista completa delle città gemellate con Milano?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Milano è gemellata con le seguenti città: Betlemme, Birmingham, Chicago, Cracovia, Daegu, Dakar, Francoforte, Lione, Melbourne, Osaka, San Paolo, San Pietroburgo, Shanghai, Tel Aviv e Toronto.",
+      "ground": "https://www.comune.milano.it/aree-tematiche/relazioni-internazionali/city-to-city-cooperation/gemellaggi/betlemme\nhttps://www.comune.milano.it/aree-tematiche/relazioni-internazionali/city-to-city-cooperation/gemellaggi/betlemme\nhttps://www.comune.milano.it/aree-tematiche/relazioni-internazionali/city-to-city-cooperation/gemellaggi/birmingham\nhttps://www.comune.milano.it/aree-tematiche/relazioni-internazionali/city-to-city-cooperation/gemellaggi/birmingham\nhttps://www.comune.milano.it/aree-tematiche/relazioni-internazionali/city-to-city-cooperation/gemellaggi/chicago\nhttps://www.comune.milano.it/aree-tematiche/relazioni-internazionali/city-to-city-cooperation/gemellaggi/chicago\nhttps://www.comune.milano.it/aree-tematiche/relazioni-internazionali/city-to-city-cooperation/gemellaggi/cracovia\nhttps://www.comune.milano.it/aree-tematiche/relazioni-internazionali/city-to-city-cooperation/gemellaggi/cracovia\nhttps://www.comune.milano.it/aree-tematiche/relazioni-internazionali/city-to-city-cooperation/gemellaggi/daegu\nhttps://www.comune.milano.it/aree-tematiche/relazioni-internazionali/city-to-city-cooperation/gemellaggi/daegu\nhttps://www.comune.milano.it/aree-tematiche/relazioni-internazionali/city-to-city-cooperation/gemellaggi/dakar\nhttps://www.comune.milano.it/aree-tematiche/relazioni-internazionali/city-to-city-cooperation/gemellaggi/dakar\nhttps://www.comune.milano.it/aree-tematiche/relazioni-internazionali/city-to-city-cooperation/gemellaggi/francoforte\nhttps://www.comune.milano.it/aree-tematiche/relazioni-internazionali/city-to-city-cooperation/gemellaggi/francoforte\nhttps://www.comune.milano.it/aree-tematiche/relazioni-internazionali/city-to-city-cooperation/gemellaggi/lione\nhttps://www.comune.milano.it/aree-tematiche/relazioni-internazionali/city-to-city-cooperation/gemellaggi/lione\nhttps://www.comune.milano.it/aree-tematiche/relazioni-internazionali/city-to-city-cooperation/gemellaggi/melbourne\nhttps://www.comune.milano.it/aree-tematiche/relazioni-internazionali/city-to-city-cooperation/gemellaggi/melbourne\nhttps://www.comune.milano.it/aree-tematiche/relazioni-internazionali/city-to-city-cooperation/gemellaggi/osaka\nhttps://www.comune.milano.it/aree-tematiche/relazioni-internazionali/city-to-city-cooperation/gemellaggi/osaka\nhttps://www.comune.milano.it/aree-tematiche/relazioni-internazionali/city-to-city-cooperation/gemellaggi/san-paolo\n[https://www.comune.milano.it/aree-tematiche/relazioni-internazionali/city-to-city-cooperation/gemellaggi/san-paolo](San Paolo)\nhttps://www.comune.milano.it/aree-tematiche/relazioni-internazionali/city-to-city-cooperation/gemellaggi/san-pietroburgo\n[https://www.comune.milano.it/aree-tematiche/relazioni-internazionali/city-to-city-cooperation/gemellaggi/san-pietroburgo](San Pietroburgo)\nhttps://www.comune.milano.it/aree-tematiche/relazioni-internazionali/city-to-city-cooperation/gemellaggi/shanghai\nhttps://www.comune.milano.it/aree-tematiche/relazioni-internazionali/city-to-city-cooperation/gemellaggi/shanghai\nhttps://www.comune.milano.it/aree-tematiche/relazioni-internazionali/city-to-city-cooperation/gemellaggi/tel-aviv\n[https://www.comune.milano.it/aree-tematiche/relazioni-internazionali/city-to-city-cooperation/gemellaggi/tel-aviv](Tel Aviv)\nhttps://www.comune.milano.it/aree-tematiche/relazioni-internazionali/city-to-city-cooperation/gemellaggi/toronto\nhttps://www.comune.milano.it/aree-tematiche/relazioni-internazionali/city-to-city-cooperation/gemellaggi/toronto"
+    }
+  ],
+  "subcategory": "Milano"
+}

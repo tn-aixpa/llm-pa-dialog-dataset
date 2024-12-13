@@ -1,0 +1,34 @@
+{
+  "task_id": "TASK_00946",
+  "doc_src": "comune.milano_aree-tematiche_links_D0234.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Come possono essere richiesti i permessi e i nulla osta per trasporti eccezionali a Milano?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "I permessi e i nulla osta per trasporti eccezionali a Milano possono essere richiesti tramite mail o telefono, come indicato sul sito del Comune di Milano.\n\nPuoi trovare più informazioni al link https://www.comune.milano.it/servizi/trasporti-eccezionali",
+      "ground": "Utilizza i servizi\n[https://www.comune.milano.it/servizi/trasporti-eccezionali](Permessi e nulla osta per trasporti eccezionali)\nModalità di accesso al servizio:\nMail\nTelefono"
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Come si può richiedere lezioni di educazione stradale e di legalità per le scuole a Milano?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Le lezioni di educazione stradale e di legalità per le scuole a Milano possono essere richieste inviando una mail.\n\nPuoi trovare più informazioni al link https://www.comune.milano.it/servizi/proposte-di-educazione-stradale-e-di-legalita",
+      "ground": "[https://www.comune.milano.it/servizi/proposte-di-educazione-stradale-e-di-legalita](Proposte di educazione stradale e di legalità per le scuole)\nModalità di accesso al servizio:\nMail"
+    }
+  ],
+  "subcategory": "Milano"
+}

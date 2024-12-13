@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00831",
+  "doc_src": "comune.salerno_D0125.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Ci sarà a breve una sospensione dell'erogazione idrica a Salerno?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Sì, al fine di eseguire interventi programmati sulla rete per la riduzione delle perdite nelle reti di distribuzione dell’acqua, sarà necessario sospendere l'erogazione idrica mercoledì 21 aprile dalle 14.00 alle 24.00 in varie strade e traverse limitrofe. ",
+      "ground": "- Al fine di eseguire interventi programmati sulla rete, relativi ai lavori per “la riduzione delle perdite nelle reti di distribuzione dell’acqua, compresa la digitalizzazione e il monitoraggio delle reti nel comune di Salerno”, si rende necessario sospendere l’erogazione idrica mercoledì 21 aprile 2024, dalle ore 14.00 alle ore 24."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Capito, grazie. ",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Sono a disposizione per ulteriori chiarimenti, buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

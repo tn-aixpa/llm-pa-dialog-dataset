@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00974",
+  "doc_src": "comSalerno0701.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Quali sono i casi in cui è consentita l'occupazione urgente del suolo pubblico?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "L'occupazione urgente del suolo pubblico è consentita nei casi di forza maggiore o per motivi urgenti, speciali e imprevedibili ma di rilevante interesse pubblico. Inoltre, è consentita quando è necessario provvedere all'esecuzione di lavori, anche prima di avere presentato la domanda e ottenuto il rilascio del provvedimento di concessione.",
+      "ground": "Le occupazioni d’urgenza sono quelle effettuate nei casi di forza maggiore o per motivi urgenti, speciali e imprevedibili di rilevante interesse pubblico, oppure quando occorre provvedere senza indugio all’esecuzione di lavori, l’occupazione è consentita, eccezionalmente, anche prima di avere presentato la domanda e conseguito il rilascio del provvedimento di concessione."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Quali sono le conseguenze se la concessione per l'occupazione del suolo pubblico non viene rilasciata?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Qualora la concessione non sia rilasciata, questa sarà da ritenersi abusiva.",
+      "ground": "Qualora la concessione non sia rilasciata, ovvero non venga riconosciuta la necessità ed urgenza della occupazione, quest’ultima si riterrà abusiva."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Quali documenti devono essere allegati all'istanza di concessione per l'occupazione del suolo pubblico?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "All'istanza di concessione per l'occupazione del suolo pubblico devono essere allegati i seguenti documenti:\n1. Planimetria di inquadramento territoriale (stralcio aerofotogrammetrico).\n2. Planimetria di dettaglio debitamente quotata in scala opportuna (es. 1:100 o 1:200), con l’indicazione dell’area da occupare e della disciplina viabile vigente (sensi di marcia, segnaletica orizzontale e verticale esistente, fermate autolinee, aree carico/scarico merci, zone di parcheggio a pagamento, stalli parcheggio disabili, passi carrabili, marciapiedi ed eventuali elementi di arredo urbano esistenti, chiusini e caditoie stradali, verde pubblico, pubblica illuminazione, ecc.), munita di timbro e firma del Direttore dei Lavori.\n3. Documentazione fotografica dell’area da occupare.\n4. Verbale dell’Autorità pubblica che accerta la sussistenza delle condizioni d’urgenza (per l’art. 101).\n5. Ordinanza del Dirigente preposto emanata per la tutela della pubblica incolumità (per l’art. 94 lettera f).\n6. Segnalazione di inizio lavori al Comando di Polizia Municipale (solo per l’art. 101).\n7. PagoPa relativo al canone unico patrimoniale.\n8. Attestazione del Direttore dei Lavori dell’avvenuta messa in sicurezza.\n9. Copia dei documenti d’identità del Richiedente e/o delegato e del Direttore dei Lavori.\n10. Copia della richiesta presentata all’ufficio competente per il conseguente rilascio del titolo abilitativo (eccetto che per l'art. 94).",
+      "ground": "planimetria di inquadramento territoriale (stralcio aerofotogrammetrico)\nplanimetria di dettaglio\ndebitamente quotata in scala opportuna (es. 1:100 o 1:200), con l’indicazione dell’area da occupare, della disciplina viabile vigente (sensi di marcia, segnaletica orizzontale e verticale esistente, fermate autolinee, aree carico/scarico merci, zone di parcheggio a pagamento, stalli parcheggio disabili, passi carrabili, marciapiedi ed eventuali elementi di arredo urbano esistenti, chiusini e caditoie stradali, verde pubblico, pubblica illuminazione, ecc.)\nmunita di timbro e firma del Direttore dei Lavori.\ndocumentazione fotografica\ndell’area da occupare;\na) Verbale dell’Autorità pubblica\nche accerta la sussistenza delle condizioni d’urgenza\n( x l’art. 101);\nb) Ordinanza del Dirigente\npreposto emanata per la tutela della pubblica incolumità\n(x l’art 94 let. f) );\nSegnalazione di inizio lavori\nal Comando di Polizia Municipale\n( solo x l’art.101 );\npagoPa\nrelativo al canone unico patrimoniale;\nAttestazione del Direttore dei Lavori\ndell’avvenuta messa in sicurezza;\nCopia dei documenti d’identità\ndel Richiedente e/o delegato e del Direttore dei Lavori;\nNonchè\ncopia della richiesta\npresentata all’ufficio competente per il conseguente rilascio del titolo abilitativo\n(eccetto che per l'art. 94);"
+    }
+  ],
+  "subcategory": "Salerno"
+}

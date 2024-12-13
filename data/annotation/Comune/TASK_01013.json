@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01013",
+  "doc_src": "comSalerno0850.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Quali documenti sono richiesti per presentare l'istanza di concessione delle palestre comunali?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Per presentare l'istanza di concessione delle palestre comunali sono richiesti i seguenti documenti:\n1. Istanza redatta su apposita modulistica e sottoscritta dal legale rappresentante del richiedente.\n2. Autocertificazione dei dati dell'associazione/ente.\n3. Copia del documento di riconoscimento del legale rappresentante.\n4. Certificato di iscrizione al Registro Nazionale delle Società Sportive in corso di validità alla data di pubblicazione del bando.",
+      "ground": "Le istanze redatte su apposita modulistica (Modello A) e sottoscritte dal legale rappresentante dell’organismo richiedente devono essere corredate da:\nAutocertificazione dati associazione/ente (Modello B);\nCopia documento riconoscimento del legale rappresentante;\nCertificato di iscrizione al Registro Nazionale delle Società Sportive in corso di validità alla data di pubblicazione del bando."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Dove si deve andare per presentare l'istanza?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "L’istanza può essere presentata presso il Settore Strutture Comunali del Comune di Salerno, in Via Settimio Mobilio 52, nei giorni di mercoledì, giovedì e venerdì dalle ore 9:00 alle ore 12:00.",
+      "ground": "L’istanza può essere, alternativamente, presentata a mano presso il Settore Strutture Comunali del Comune di Salerno, Via Settimio Mobilio 52 nei giorni di mercoledì, giovedì e venerdì dalle ore 9:00 alle ore 12:00."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Come avverrà la comunicazione dell'esito?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Non sono in grado di dirti le modalità della comunicazione, però posso dirti che l'esito verrà dato direttamente dal Comune.",
+      "ground": "Il Comune provvederà a fornire opportuna informazione dell’esito delle assegnazioni."
+    }
+  ],
+  "subcategory": "Salerno"
+}

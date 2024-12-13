@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00345",
+  "doc_src": "comune.milano_aree-tematiche_links_D0377.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, potrebbe darmi informazioni su Unza?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Unza è un'associazione di promozione sociale con progetti no-profit artistico-culturali. Si trova in Via Passerini 18 e ha realizzato UnzaLab, un laboratorio aperto a vari professionisti e appassionati.",
+      "ground": "Unza è un’associazione di promozione sociale e un contenitore di progetti no-profit con finalità artistico-culturali.\nNegli spazi che il Comune le ha assegnato in Via Passerini 18 l’associazione ha realizzato UnzaLab, un laboratorio partecipato aperto a film-maker, artisti, fotografi, stampatori, hobbisti e chiunque abbia voglia di fare esperimenti con la fotografia analogica, il cinema in pellicola e la serigrafia."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Posso partecipare a UnzaLab?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, la partecipazione è libera a tutti coloro che vogliono sperimentare con la fotografia analigica, il cinema in pellicola e la serigrafia.",
+      "ground": "Negli spazi che il Comune le ha assegnato in Via Passerini 18 l’associazione ha realizzato UnzaLab, un laboratorio partecipato aperto a film-maker, artisti, fotografi, stampatori, hobbisti e chiunque abbia voglia di fare esperimenti con la fotografia analogica, il cinema in pellicola e la serigrafia.\nPer il progetto"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Capito, grazie comunque per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È stato un piacere aiutarti, se haibisogno di ulteriori informazioni non esiti a contattarci.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00441",
+  "doc_src": "comune.trento_aree-tematiche_D0053.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sui contributi per le associazioni sportive offerti dal Comune.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Il Comune di Trento offre contributi finanziari alle associazioni sportive per la gestione ordinaria, le manifestazioni, l'acquisto di attrezzature e la realizzazione, miglioramento e ristrutturazione degli impianti sportivi. Posso aiutarti con ulteriori dettagli?",
+      "ground": "Le attività di promozione e valorizzazione dello sport si articolano nel sostegno alle associazioni sportive attraverso l'assegnazione di contributi per la gestione ordinaria e le manifestazioni, il potenziamento della dotazione sportiva con l'assegnazione di contributi per la realizzazione, miglioramento e ristrutturazione di impianti sportivi, la promozione e il sostegno di eventi sportivi e la realizzazione di progetti comunali.\nIl Comune di Trento sostiene con contributi finanziari enti, comitati e associazioni che svolgono attività sportiva dilettantistica e che hanno sede legale, sociale e organizzativa nel territorio comunale."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Dove posso richiedere un contributo?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Può richiedere un contributo per la gestione ordinaria come associazione sportiva al link https://www.comune.trento.it/Aree-tematiche/Sport/Sostegno-allo-sport/Contributo-per-gestione-ordinaria-associazioni-sportive .",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Sport/Sostegno-allo-sport/Contributo-per-gestione-ordinaria-associazioni-sportive](Contributo per gestione ordinaria associazioni sportive)\nAssegnazione di un contributo finanziario a sostegno della gestione ordinaria dell'attività sportiva dilettantistica svolta nella stagione agonistica 2023 o 2023/2024."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È stato un piacere aiutarla. Se hai bisogno di ulteriori informazioni, non esiti a contattarci di nuovo. Buona giornata!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00788",
+  "doc_src": "comune.salerno_D0058.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, potrebbe darmi informazioni sul Cantagiovani?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, il Cantagiovani è un evento organizzato dalle associazioni Estro Armonico e Laes, con il patrocinio del Ministero dell'Istruzione e del Merito, del Comune di Salerno e di altre importanti istituzioni. Riunirà formazioni corali da diverse città italiane e prevede diverse attività come laboratori, concerti e concorsi.",
+      "ground": "I giovani sempre più al centro della coralità in formazione con la 17esima edizione del Cantagiovani, l’evento organizzato dalle associazioni Estro Armonico e Laes con il patrocinio del Ministero dell’Istruzione e del Merito, del Comune di Salerno, della Fondazione Cassa di Risparmio Salernitana, della Fondazione della Comunità Salernitana, del Rotaract Salerno Duomo, dell’ARCC (Associazione Regionale Cori Campani) e della Feniarco (Federazione Nazionale delle Associazioni Regionali Corali). Come da tradizione il Cantagiovani sceglie la prima settimana di maggio – quest’anno si terrà dal 2 al 4 – per richiamare a Salerno le formazioni corali da diverse città italiane."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Sarà aperto anche alle scuole di Salerno?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, quest'anno è prevista una giornata dedicata alle scuole secondarie di secondo grado di Salerno, intitolata \"Coralità in Crescendo\", in cui gli studenti avranno l'opportunità di confrontarsi e condividere le proprie esperienze sulla coralità.",
+      "ground": "Novità di questa edizione è la giornata dedicata alle scuole secondarie di secondo grado di Salerno dal titolo “Coralità in Crescendo”, nata da un’idea di Silvana Noschese. 350 studenti degli istituti Alfano I, Severi, De Sanctis e Da Vinci-Genovesi si ritroveranno il 2 maggio dalle ore 9.30 al Centro Sociale di Salerno per condividere uno “spazio di confronto” su che cosa è oggi la coralità."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Ci sarà anche una premiazione?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Sì, sabato 4 maggio presso la Chiesa di San Benedetto ci sarà la premiazione dei vincitori del concorso, che prevede sei premi speciali in borse di studio.",
+      "ground": "Sabato 4 maggio presso la Chiesa di San Benedetto, ci sarà la premiazione dei vincitori del concorso.\nI PREMI SPECIALI. Sei sono quest’anno premi speciali e consistono in borse di studio in denaro."
+    }
+  ],
+  "subcategory": "Salerno"
+}

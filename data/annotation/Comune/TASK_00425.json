@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00425",
+  "doc_src": "comune.trento_aree-tematiche_D0033.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, a che ora chiude la biglietteria della stazione dei treni?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "La biglietteria della stazione dei treni chiude alle 20.20, quindi ha ancora del tempo per acquistare i biglietti.",
+      "ground": "biglietteria: dalle 5.40 alle 20.20"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E per la funivia Trento Sardagna, a che ora termina il servizio?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "La funivia Trento Sardagna è in funzione fino alle 22.30, quindi potrà usufruirne ancora per un po' di tempo.",
+      "ground": "[http://www.ttesercizio.it](www.ttesercizio.it)\nFunivia Trento Sardagna\nLungadige Monte Grappa 1, 38121 Trento\nIn funzione dalle 7.00 alle 22.30"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È stato un piacere poterla aiutare, buona giornata!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

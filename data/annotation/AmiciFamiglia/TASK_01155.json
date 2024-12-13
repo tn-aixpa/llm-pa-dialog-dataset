@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01155",
+  "doc_src": "san_michele_all'adige_v2.1__2021.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Fammi una struttura con campi da riempire per il mantenimento di una rete per il risparmio alimentare",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "TITOLO: {{Inserire il titolo del progetto}}\n\nTASSONOMIA: Consegna spesa a domicilio/ Banco alimentare\n\nMACRO-AMBITO: Comunitа educante\nOBIETTIVO: Creare rete di aiuti.\n\nOBIETTIVO: Creare rete di aiuti.\n\nDESCRIZIONE: I volontari di {{associazione}} raccolgono il cibo inutilizzato distribuendolo a persone e famiglie che ne hanno bisogno. La distribuzione avviene in {{città}} presso {{indirizzo}} nei seguenti orari:\n{{orari}}",
+      "ground": "TITOLO: ROTALIANA SOLIDALE\nTASSONOMIA: Consegna spesa a domicilio/ Banco alimentare\nMACRO-AMBITO: Comunitа educante\nOBIETTIVO: Creare rete di aiuti.\nDESCRIZIONE: I volontari di Trentino solidale raccolgono il cibo inutilizzato e\nlo distribuiscono alle persone e alle famiglie che ne hanno bisogno. La\ndistribuzione avverrа nel nuovo punto di San Michele all’Adige, presso\nl'Oratorio in piazza Chistè nr. 2, a partire da giovedм 4 marzo 2021 e\nper tutti i giovedм seguenti, dalle ore 14.00 alle ore 15.00"
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Che incontri posso organizzare orientati ai giovani?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Puoi pensare di organizzare degli incontri rivolti alla ludopatia, oppure al Cyberbullismo.",
+      "ground": "TITOLO: LUDOPATIA: Cos'è\nTASSONOMIA: Azioni di contrasto alle dipendenze\nMACRO-AMBITO: Comunitа educante\nOBIETTIVO: Sensibilizzazione sulle dipendenze\nDESCRIZIONE: Organizzazione di una serata dedicata a giovani e adulti sul tema delle probabilitа dei giochi e ludopatia.\n\n|||\n\nTITOLO: Cyberbullismo e internet\nTASSONOMIA: Incontri formativi e informativi: Media education, cittadinanza digitale, digital divide e nuove tecnologie\nMACRO-AMBITO: Comunitа educante\nDESCRIZIONE: Organizzazione di incontri rivolti ai bambini delle scuole primarie sui temi di educazione all'utilizzo di internet, bullismo e cyberbullismo."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Scrivimi un'azione sul Cyberbullismo. Lasciami dei campi vuoti che possa riempire.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "TITOLO: {{Inserire il titolo dell'incontro}}\n\nTASSONOMIA: Incontri formativi e informativi: Media education, cittadinanza digitale, digital divide e nuove tecnologie\n\nMACRO-AMBITO: Comunità educante\n\nOBIETTIVO: Sensibilizzare i giovani sui temi del cyberbullismo e dell'uso responsabile di internet.\n\nDESCRIZIONE: Organizzazione di incontri rivolti ai bambini delle scuole primarie sui temi di educazione all'utilizzo di internet, bullismo e cyberbullismo. Gli incontri si svolgeranno in {{luogo}} nelle seguenti date: {{date}} e affronteranno argomenti come {{argomenti da trattare}}.",
+      "ground": "TITOLO: Cyberbullismo e internet\nTASSONOMIA: Incontri formativi e informativi: Media education, cittadinanza digitale, digital divide e nuove tecnologie\nMACRO-AMBITO: Comunitа educante\nDESCRIZIONE: Organizzazione di incontri rivolti ai bambini delle scuole primarie sui temi di educazione all'utilizzo di internet, bullismo e cyberbullismo."
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

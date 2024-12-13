@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_01125",
+  "doc_src": "mirano__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Cosa suggerirebbe per promuovere la lettura e l'interesse culturale all'interno delle famiglie?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Può creare dei laboratori creativi che coinvolgano genitori e bambini, così da promuovere l'apprendimento attraverso attività ludiche legate alla lettura e alla cultura.",
+      "ground": ""
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Cosa dovrei mettere come tassonomia?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Le suggerirei come tassonomia \"Proposte culturali: museo, cinema, teatro, arte ecc.\"",
+      "ground": "TASSONOMIA: Proposte culturali: museo, cinema, teatro, arte ecc."
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Ha anche proposte per servizi orientati agli anziani?",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Potrebbe creare un centro che offre animazione sociale, con tanto di gruppi di discussione, cineforum, conferenze, dibattiti, spettacoli e quant'altro.",
+      "ground": "DESCRIZIONE: - Centro diurno ''Arcobaleno''\n\nIn collaborazione con le varie associazioni cittadine:\n\n    Centro ''Over 65'' di animazione sociale con gruppi di discussione, cineforum, conferenze, dibattiti, visite guidate, gite nei siti più interessanti del territorio, spettacoli e concerti, presentazione libri e commento giornali, ballo, incontri intergenerazionali, mostre opere artistiche di over 65"
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "Grazie mille, è proprio una bella idea!",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "E' un piacere. Vuole chiedere altro?",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

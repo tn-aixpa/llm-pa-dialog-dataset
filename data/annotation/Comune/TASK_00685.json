@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00685",
+  "doc_src": "comune.trento_aree-tematiche_D0495.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sul Centro per bambini e genitori offerto dal Comune.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, il Centro per bambini e genitori è un servizio educativo rivolto ai bambini fino ai tre anni di età e ai loro genitori. Offre occasioni di gioco, incontro e socializzazione per i bambini e opportunità di comunicazione per gli adulti.",
+      "ground": "Tali servizi forniscono occasioni di gioco, di incontro e di socializzazione per i bambini e costituiscono opportunità di incontro e di comunicazione per gli adulti secondo modalità organizzative che garantiscano la corresponsabilità tra adulti, genitori e personale educativo.\nAi servizi possono accedere le bambine e i bambini fino ai tre anni di età."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Posso accedere a questo servizio con mio figlio di quattro anni?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Mi dispiace, ma il servizio è riservato ai bambini fino ai tre anni di età.",
+      "ground": "Ai servizi possono accedere le bambine e i bambini fino ai tre anni di età."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Capito, grazie comunque per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Prego, sono qui per qualsiasi altra domanda.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

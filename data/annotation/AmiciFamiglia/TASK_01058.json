@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_01058",
+  "doc_src": "baselga_di_pine'__2019.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Il mio Comune vorrebbe organizzare dei corsi per coinvolgere le famiglie nella Comunità. Che cosa proponi?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Potrebbe organizzare dei corsi di sartoria, dei laboratori per bambini, fare dei corsi per l'uso del tablet",
+      "ground": "TITOLO: Corsi di sartoria\n\n|||\n\nTITOLO: Laboratori per bambini\n\n|||\n\nTITOLO: Corso per utilizzo per Tablet"
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Puoi dirmi di più sui corsi per l'uso di tablet?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "L'idea è di attivare un corso per le persone sopra ai 65 anni così da promuovere lo scambio intergenerazionale. Può inserirlo nella tassonomia \"Attivitа con RSA, progetti tra generazioni\"",
+      "ground": "TASSONOMIA: Attivitа con RSA, progetti tra generazioni\n\nDESCRIZIONE: Attivazione di un corso per imparare l'utilizzo dei Tablet rivolto a persone over 65, per promuovere gli scambi intergenerazionali."
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Hai qualche proposta anche per i bebé?",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "C'è il progetto \"Leggi in Tandem\" che promuove la lettura condivisa fra bambini dai 0 ai 6 anni e adulti.",
+      "ground": "TITOLO: Adesione al progetto ''Leggi in tandem''\n\nTASSONOMIA: Proposte culturali: museo, cinema, teatro, arte ecc.\n\nDESCRIZIONE: Adesione al progetto ''Leggi in Tandem'', per promuovere l'amore per i libri attraverso la lettura condivisa con un adulto, rivolto ai bamibini in fascia prescolare 0-6 anni."
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "Sembra una stimolante iniziativa.",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "Vuole chiedere altro?",
+      "ground": ""
+    },
+    {
+      "id": "T9",
+      "speaker": "Citizen",
+      "message": "Per ora basta così. Grazie.",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agent",
+      "message": "Grazie a lei. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

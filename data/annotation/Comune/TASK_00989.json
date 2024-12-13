@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00989",
+  "doc_src": "comSalerno0733.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Le scuole rimarranno aperte durante la sospensione idrica?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "No, alcune scuole saranno chiuse durante la sospensione idrica.",
+      "ground": "A causa della sospensione dell'erogazione idrica prevista per la giornata di giovedì 16 novembre in Piazza San Francesco e traverse limitrofe (ore 11.00-16.00) e in via Sant’Eustachio e traverse limitrofe (ore 9.00-16.00), il Sindaco di Salerno Vincenzo Napoli ha disposto la chiusura per l’intera giornata del 16.11.2023 del Liceo T. Tasso e del Plesso della Scuola Primaria Sant’Eustachio dell’Istituto Comprensivo Alfano/Quasimodo."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Quali?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Il Liceo T. Tasso e il Plesso della Scuola Primaria Sant’Eustachio dell’Istituto Comprensivo Alfano/Quasimodo saranno chiusi per l’intera giornata del 16 Novembre. Inoltre, l'Istituto Superiore Sabatini Menna, la sede distaccata dell'Istituto Tecnico B. Focaccia, la succursale del Liceo Scientifico G.Da Procida e la sede staccata dell'Istituto R. Virtuoso chiuderanno invece in maniera anticipata alle ore 14.00 dello stesso giorno.",
+      "ground": "A causa della sospensione dell'erogazione idrica prevista per la giornata di giovedì 16 novembre in Piazza San Francesco e traverse limitrofe (ore 11.00-16.00) e in via Sant’Eustachio e traverse limitrofe (ore 9.00-16.00), il Sindaco di Salerno Vincenzo Napoli ha disposto la chiusura per l’intera giornata del 16.11.2023 del Liceo T. Tasso e del Plesso della Scuola Primaria Sant’Eustachio dell’Istituto Comprensivo Alfano/Quasimodo.\nIl primo cittadino ha inoltre disposto la chiusura anticipata, a partire dalle ore 14.00 della giornata del 16.11.2023, dell’Istituto Superiore Sabatini Menna, della sede distaccata dell’Isituto Tecnico B. Focaccia, della succursale del Liceo Scientifico G.Da Procida, della sede staccata dell’Istituto R. Virtuoso."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Posso avere il link dell'ordinanza?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Certamente, il link è il seguente: https://www.comune.salerno.it/sites/default/files/2023-11/ORDINANZA%20SINDACALE%20-%20INTERRUZIONE%20IDRICA%2016.11.2023%20definitiva.odt .",
+      "ground": "[https://www.comune.salerno.it/sites/default/files/2023-11/ORDINANZA%20SINDACALE%20-%20INTERRUZIONE%20IDRICA%2016.11.2023%20definitiva.odt](Ordinanza chiusura)"
+    }
+  ],
+  "subcategory": "Salerno"
+}

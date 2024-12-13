@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00378",
+  "doc_src": "comune.milano_aree-tematiche_links_D0412.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sulla dichiarazione Tari per le utenze domestiche.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, come posso aiutarti?",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Mi hanno detto che ogni cambiamento nella situazione abitativa ha effetti sulla Tari. Nell'appartamento che affitto ho dei nuovi inquilini ma non ho capito come presentare la dichiarazione di variazione del numero di occupanti non residenti.",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Al sito https://www.comune.milano.it/servizi/dichiarazione-tari-occupanti dovrebbe trovare tutte le informazioni che cerca.",
+      "ground": "[https://www.comune.milano.it/servizi/dichiarazione-tari-occupanti](Tari: dichiarazione variazione del numero di occupanti)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie di tutto. Buona giornata! ",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Buona giornata anche a lei!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

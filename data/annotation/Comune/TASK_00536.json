@@ -1,0 +1,34 @@
+{
+  "task_id": "TASK_00536",
+  "doc_src": "comune.trento_aree-tematiche_D0218.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Salve, vorrei informazioni su come accedere ai dati della piattaforma ComunWeb. Posso creare nuovi servizi utilizzando tali dati?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, la piattaforma ComunWeb espone automaticamente Open Data. È possibile accedere ai dati tramite link diretti a file in formato CSV o tramite API REST.",
+      "ground": "piattaforma ComunWeb espone automaticamente\ni propri contenuti pubblici utilizzando il paradigma degli Open Data;\n\n|||\n\nlink diretti a file in formato CSV (compatibile con i software per i fogli di calcolo come Microsoft Excel e OpenOffice Calc), per i cittadini senza particolari competenze informatiche\nAPI\n[http://it.wikipedia.org/wiki/Representational_State_Transfer](RESTful)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quindi posso estrarre i contenuti in formato strutturato?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Esattamente. Se incontrasse delle difficoltà, può contattare il Consorzio dei Comuni Trentini per avere un supporto diretto.",
+      "ground": "Qualora l'accesso non risulta possibile, si prega di contattare il Consorzio dei Comuni Trentini <\n[mailto:innovazione@consorziocomuni.it](innovazione@consorziocomuni.it)\n> per avere un supporto diretto."
+    }
+  ],
+  "subcategory": "Trento"
+}

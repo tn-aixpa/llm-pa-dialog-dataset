@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_00690",
+  "doc_src": "comune.trento_aree-tematiche_D0504.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Salve, vorrei informazioni sull'apertura di un'attività di estetista a Trento.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, le attività di estetista sono soggette alla S.C.I.A. da presentare tramite SUAP telematico. Può ottenere più info al link https://www.comune.trento.it/Aree-tematiche/Attivita-economiche/Artigianato/Acconciatori-ed-estetisti/Apertura-di-un-attivita-di-estetista-acconciatore .",
+      "ground": "Le attività di acconciatore e di estetista sono soggette alla sola\nS.C.I.A.\n, da presentare tramite\nSUAP\ntelematico. \n\n|||\n\n[https://www.comune.trento.it/Aree-tematiche/Attivita-economiche/Artigianato/Acconciatori-ed-estetisti/Apertura-di-un-attivita-di-estetista-acconciatore](Apertura di un'attività di estetista/acconciatore)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E devo rispettare dei criteri specifici per l'apertura dell'attività?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "L'esercizio dell'attività non è subordinato al rispetto del criterio della distanza minima o di parametri numerici prestabiliti riferiti alla presenza di altri soggetti svolgenti la stessa attività. Deve però dichiarare di possedere i requisiti previsti dal Regolamento, in particolare quelli dei locali, professionali e del responsabile tecnico, oltre che delle disposizioni igenico - sanitarie. ",
+      "ground": "L’esercizio dell’attività non è subordinato al rispetto del criterio della distanza minima o di parametri numerici prestabiliti riferiti alla presenza di altri soggetti svolgenti la medesima attività.\n\n|||\n\nCon la\nS.C.I.A.\nil richiedente deve dichiarare specificatamente il possesso dei requisiti previsti dal Regolamento, con particolare riferimento ai requisiti dei locali ed ai requisiti professionali del responsabile tecnico, nonché di essere a conoscenza delle disposizioni igienico – sanitarie indicate dal Regolamento."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "E se qualcuno volesse trasferire l'azienda?",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "Anche in caso di trasferimento dell'azienda o di sede di esercizio dell'attività, è necessario presentare la S.C.I.A.",
+      "ground": "deve essere presentata anche nei casi di trasferimento dell’azienda (cessione, affitto, successione, ecc.) o di trasferimento di sede di esercizio dell’attività."
+    },
+    {
+      "id": "T09",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agente",
+      "message": "È un piacere, se ha bisogno di ulteriori chiarimenti non esiti a contattarci. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

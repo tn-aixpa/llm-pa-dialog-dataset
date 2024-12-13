@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00584",
+  "doc_src": "comune.trento_aree-tematiche_D0295.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei sapere come posso contattare il polo territoriale di Garniga Terme.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "La sede è contattabile al numero di telefono 0461 889910 oppure raggiungibile all'indirizzo via Bronzetti 1 Trento.\nL'apertura del polo è lunedì, martedì e mercoledì dalle 8.30 alle 12.30, giovedì dalle 10.00 alle 12.00 e dalle 13.30 alle 16.00 e venerdì dalle 8.30 alle 12.00",
+      "ground": "Sede territoriale di\nS. Giuseppe - S. Chiara, Ravina - Romagnano, Aldeno, Cimone e Garniga Terme\nvia Bronzetti 1 Trento - Tel. 0461/889910\n\n|||\n\nlunedì, martedì e mercoledì dalle 8.30 alle 12.30\ngiovedì dalle 10.00 alle 12.00 e dalle 13.30 alle 16.00\nvenerdì dalle 8.30 alle 12.00"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "E la sede di Oltrefersina?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "La sede di Oltrefersina è aperta al pubblico nei medesimi orari.  È collocata in via Clarina 2/1 e raggiungibile al numero di telefono 0461 889960 ",
+      "ground": "Oltrefersina e Mattarello\nvia Clarina 2/1 - Tel. 0461/889960\n\n|||\n\nAperti al pubblico:\nlunedì, martedì e mercoledì dalle 8.30 alle 12.30\ngiovedì dalle 10.00 alle 12.00 e dalle 13.30 alle 16.00\nvenerdì dalle 8.30 alle 12.00"
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "È stato un piacere, buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

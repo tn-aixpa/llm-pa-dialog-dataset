@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01026",
+  "doc_src": "comSalerno1020.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "PA Operator",
+      "message": "Chi può ottenere l'attestazione della natura giuridica delle strade?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Tutti i cittadini possono ottenere l'attestazione della natura giuridica delle strade.",
+      "ground": "Rivolto a tutti i cittadini"
+    },
+    {
+      "id": "T03",
+      "speaker": "PA Operator",
+      "message": "E' gratuita?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "No, l'attestazione della natura giuridica delle strade non è gratuita. Ci sono diritti di segreteria e di istruttoria di € 297,00. Bisogna anche pagare una marca da bollo di € 16,00 al momento del ritiro della certificazione.",
+      "ground": "diritti di segreteria e di istruttoria € 297,00;\nE’ possibile pagare solo ed esclusivamente tramite il sistema PagoPa nella sezione\nVari\nalla voce\nDiritti vari\n. Raggiungibile dal seguente\nhttps://servizi.comune.salerno.it/web/pagamenti/vari?p_p_id=tipopagamentocontroller_WAR_jcitygovpagamentispontaneiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&p_r_p_-1550643597_tipoPagamentoId=1910\n.\nIl servizio offre la possibilità di pagare sia online che stampare il bollettino PagoPa per pagarlo nei punti abilitati.\nmarca da bollo 16 € (sedici/00) da consegnare all’atto del ritiro della certificazione"
+    },
+    {
+      "id": "T05",
+      "speaker": "PA Operator",
+      "message": "Che documentazione serve per la richiesta?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Per sottomettere la richiesta dell'attestazione della natura giuridica delle strade, è necessario compilare il \"Modulo istanza Natura Giuridica di una strada o porzione di questa\", reperibile nella sezione Documenti Correlati. Inoltre, bisogna allegare una rappresentazione grafica dell’area interessata, seguendo le prescrizioni contenute nel modulo e la ricevuta di versamento per i diritti di segreteria e di istruttoria.",
+      "ground": "Per sottomettere la richiesta occorre:\nCompilare l’opportuno modello denominato “Modulo\nistanza Natura Giuridica di una strada o porzione di questa” – reperibile dalla sezione Documenti Correlati della presente pagina – allegando\n1) una rappresentazione grafica dell’area interessata (seguendo le prescrizioni contenute nel modulo);\n2) La ricevuta di versamento per “\ndiritti di segreteria e di istruttoria\n” di euro 297,00\n(duecentonovantasette)\nstabiliti\ncon Delibera di Giunta Comunale n. 172, del 31/05/2023, da effettuarsi attraverso la piattaforma\n“\nPagoPA”\nindicando la causale “Attestato natura giuridica strade”;"
+    }
+  ],
+  "subcategory": "Salerno"
+}

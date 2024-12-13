@@ -1,0 +1,75 @@
+Modalità di pagamento del contributo di costruzione e monetizzazioni
+
+Il richiedente/avente titolo potrà avvalersi delle seguenti modalità di pagamento :
+
+unica soluzione secondo la seguente tempistica:
+
+PdC: entro 30 giorni dalla data di notifica dell’avviso di rilascio o dalla formazione del silenzio assenso
+SCIA art. 23: entro 30 giorni dalla data di presentazione
+SCIA art. 22: entro la data di presentazione
+SCIA art. 23 condizionata: entro trenta giorni dalla data di comunicazione dell’Area Sue dell’avvenuta acquisizione degli atti di assenso
+
+rateizzazione e presentazione garanzia (non prevista in caso di sanatoria) per garantire il debito residuo maggiorato degli interessi legali (il tasso di interesse da applicarsi è quello vigente al momento della formazione del titolo edilizio)  entro la scadenza di seguito indicata per la 1° rata e a versare quanto dovuto secondo la seguente modalità:
+1° rata pari al 25% dell’importo dovuto entro:
+
+PdC:  30 giorni dalla data di notifica dell’avviso di rilascio o dalla formazione del silenzio assenso
+SCIA art. 22: la data di presentazione
+SCIA art. 23: 30 giorni dalla data di presentazione
+SCIA art. 23 condizionata: entro trenta giorni dalla la data di comunicazione dell’Area Sue dell’avvenuta acquisizione degli atti di assenso.
+
+2° rata - 3° rata e 4° rata pari al 25% dell’importo dovuto per ciascuna, oltre agli interessi legali sul debito residuo come sopra indicati da corrispondere rispettivamente entro 180-360-540 giorni dalla data di notifica dell’avviso di rilascio nel caso di PdC o dalla data di presentazione della SCIA art. 23 o entro trenta giorni dalla data di comunicazione dell’Area Sue dell’avvenuta acquisizione degli atti di assenso, nel caso di SCIA condizionata.
+Nel caso di SCIA edilizia ex art. 22 DPR 380/01 che comporti la corresponsione di oneri o monetizzazioni, per la quale ci si avvalga della modalità di pagamento in forma rateizzata, autodeterminato l’importo, è necessario effettuare il calcolo del piano di rateizzazione e dell’importo complessivo della fidejussione da allegare in sede di presentazione del titolo sul portale di Impresainungiorno.
+Il foglio di calcolo (disponibile alla seguente pagina "Contributo di costruzione") richiede l’inserimento, laddove ricorrano i casi, dei seguenti importi autodeterminati:
+
+oneri di urbanizzazione primaria
+oneri di urbanizzazione secondaria
+costo di costruzione 
+smaltimento rifiuti 
+monetizzazione dotazione di servizi 
+monetizzazione parcheggi per interventi di recupero sottotetti (art 64.3 L.R.12/05)
+monetizzazione dotazione arborea di cui all’art.12.1 NA PdR 
+monetizzazione mancata riduzione CO2 e impatto climatico di cui all’art.10.5 NA PdR
+monetizzazione invarianza idraulica e idrologica 
+monetizzazione ERS in ambiti di Rigenerazione 
+maggiorazione 5% del contributo di costruzione per aree DUSAF
+
+NOTE
+La facoltà di rateizzazione per le SCIA ex art. 22 comporta la necessità di effettuare il pagamento della prima rata utilizzando l'avviso di pagamento PagoPA generato dal portale Impresainungiorno e presentare, contestualmente, idonea fidejussione (vedere paragrafo "Polizze fideiussorie) per garantire il debito residuo calcolato dalla somma delle rimanenti 3 rate, maggiorato degli interessi legali (il tasso di interesse applicato è quello vigente al momento della formazione del titolo edilizio).
+Si segnala che le date di scadenza delle rate dipendono dalla data di protocollazione della SCIA.  
+Il calcolo prevede il versamento del contributo di costruzione per aree DUSAF con la prima rata, unitamente ai diritti di segreteria e alle eventuali sanzioni, questi ultimi aggiunti al carrello dei pagamenti dal portale.
+Prima di effettuare il calcolo occorre verificare l’attualità degli importi autodeterminati e di aver utilizzato i valori correnti di monetizzazione (disponibili alla seguente pagina "Monetizzazioni").
+
+Ai fini della corretta determinazione dell'importo della polizza, è necessario verificare che il valore delle monetizzazioni siano aggiornati mensilmente rispetto al momento della protocollazione della SCIA.
+Nel caso di varianti si richiama quanto specificato con la Circolare n. 2/2011 e smi e si indicano esclusivamente gli importi a variante, non quelli complessivi. 
+Nel caso di SCIA alternativa al Permesso di Costruire ex art. 23 DPR 380/01 e di Permesso di Costruire, il piano di rateizzazione va richiesto all’Area Gestione Finanziaria - Ufficio Sportello
+Riscossioni presentando apposita istanza esclusivamente via e-mail o pec.
+e-mail: bil.uffsportelloriscossioni@comune.milano.it
+PEC: contabilita@postacert.comune.milano.it
+All'istanza va allegata la scansione del documento di identità.
+Eventuali informazioni possono essere richieste chiamando i numeri di telefono 02 884.52468 – 52469 – 52432.     
+POLIZZE FIDEJUSSORIE
+Le polizze fideiussorie devono essere rilasciate da primari istituti abilitati al rilascio di garanzie per le pubbliche amministrazioni. In particolare possono rilasciare le garanzie le imprese bancarie o assicurative che rispondono a determinati requisiti previsti dalla legge. 
+La garanzia dovrà prevedere espressamente l'escussione, da parte del Comune di Milano beneficiario, a 'prima richiesta', con esclusione della preventiva escussione del debitore principale. Inoltre dovrà prevedere che il Comune di Milano beneficiario possa effettuare la rivalsa diretta nei confronti dei fideiussori che hanno rilasciato le garanzie, i quali, in deroga all'art. 1945 c.c., non potranno opporre alcuna eccezione che potrebbe opporre il soggetto attuatore e non potranno avvalersi delle eccezioni di cui all'art. 1957 c.c.. 
+La garanzia dovrà essere tacitamente rinnovabile fino a liberazione da parte del Beneficiario Comune di Milano. Nel caso di trasferimento della proprietà dell’immobile/i oggetto dell’intervento dovranno conseguentemente essere presentate nuove polizze aggiornate con i nominativi della nuova proprietà. 
+Il Foro competente per qualsiasi controversia dovrà essere quello del Comune di Milano beneficiario. 
+Le polizze, firmate digitalmente dal garante e dal contraente, dovranno avere l'autentica digitale notarile dei poteri del soggetto garante.
+La fidejussione dovrà contenere la seguente clausola: “La sottoscritta Banca/Agenzia rimarrà obbligata fino a quando l'Ente Garantito non emetterà al contraente  la lettera di svincolo”.
+AVVERTENZE
+In caso di mancata presentazione di idonea polizza, il debito residuo dovrà essere corrisposto in unica soluzione.
+In caso di mancato pagamento della singola rata, alla scadenza indicata nel piano di rateizzazione, si provvederà all'escussione parziale della polizza.
+Il ritardato pagamento delle somme relative al contributo di costruzione comporterà l'applicazione delle sanzioni previste dall’art. 42 del D.P.R. 380/2001.
+Nel caso di ultimazione dei lavori prima del completamento del pagamento rateizzato, il debito residuo dovrà essere corrisposto in unica soluzione al momento della comunicazione di fine lavori/SCIA per l’agibilità.
+
+Collegamenti
+
+Contributo di costruzione
+
+Monetizzazioni
+
+Argomenti:
+
+Edilizia e territorio
+
+
+
+

@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_01104",
+  "doc_src": "fai_della_paganella__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Che tipo di agevolazioni contributive posso prevedere come azioni?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Alcune possibili agevolazioni che potrebbe prevedere sono:\n- COMPARTECIPAZIONE SPESA STUDIO MUSICALE\n- COMPARTECIPAZIONE SPESE PER REALIZZAZIONE PROGETTO ESTATE IN ALTOPIANO\n- CONTRIBUTO ALLE FAMIGLIE CHE USUFRUISCONO DEL SERVIZIO DI NIDO FAMILIARE\n- CONTRIBUTO SMALTIMENTO TESSILI SANITARI\n- INGRESSO GRATUITO AL PARCO DIVERTIMENTI \n- UTILIZZO GRATUITO STRUTTURE SPORTIVE\n- AGEVOLAZIONI TARIFFARIE STRUTTURE SPORTIVE\n- TARIFFA AGEVOLATA RESIDENTI PER L'UTILIZZO DEGLI IMPIANTI DI RISALITA",
+      "ground": "TITOLO: COMPARTECIPAZIONE SPESA STUDIO MUSICALE\n\n|||\n\nTITOLO: COMPARTECIPAZIONE SPESE PER REALIZZAZIONE PROGETTO ESTATE IN ALTOPIANO\n\n|||\n\nTITOLO: CONTRIBUTO ALLE FAMIGLIE CHE USUFRUISCONO DEL SERVIZIO DI NIDO FAMILIARE\n\n|||\n\nTITOLO: CONTRIBUTO SALTIMENTO TESSILI SANITARI\n\n|||\n\nTITOLO: INGRESSO GRATUITO AL PARO DIVERTIMENTI PAGANELLA FUN PARK\n\n|||\n\nTITOLO: UTILIZZO GRATUITO STRUTTURE SPORTIVE\n\n|||\n\nAGEVOLAZIONI TARIFFARIE STRUTTURE SPORTIVE DI TUTTO L'ALTOPIANO DELLA PAGANELLA\n\n|||\n\nTARIFFA AGEVOLATA RESIDENTI PER L'UTILIZZO DEGLI IMPIANTI DI RISALITA"
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Cosa mi puoi dire della compartecipazione alla spesa per studio musicale?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Lo scopo dell'azione è di incentivare le famiglie ad avvicinare i bambini alla musica, sostenendo il 50% dei costi organizzati dall'assessorato alla Cultura per i ragazzi fino alle superiori.",
+      "ground": "OBIETTIVO: Incentivare le famiglie alla partecipazione dei corsi musicali e quindi avvicinare i bambini alla musica significa dare un'opportunitа di svago sano, creare sinergie e comunitа tra il gruppo partecipante, diffondere la bellezza della cultura musicale.\n\nDESCRIZIONE: Compartecipare alla spesa per lo studio musicale, sostenendo il 50% dei costi per i corsi che l’assessorato alla Cultura organizza e promuove per i bambini e ragazzi in etа scolare (fino alle superiori)."
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "E per lo smaltimento dei tessilli?",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "L'azione prevede di dare dei fondi così da facilitare lo smaltimento dei tessuti sanitari usati dagli anziani.",
+      "ground": "DESCRIZIONE: Viene mantenuto il contributo per le spese di smaltimento di rifiuti determinati dall' uso di tessili sanitari da parte di anziani."
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "Bene, grazie.",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

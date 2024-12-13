@@ -1,0 +1,25 @@
+In questa sezione sono messi a disposizione i dati in formati e con licenza di tipo open data. In questa area potete trovare dati riguardanti diversi temi di rilevanza pubblica e in generale tutti i dati che l’ente pubblico intende pubblicare e rendere disponibile in open data.
+Per
+Open Data
+, come specificato nella FAQ disponibile
+[http://dati.trentino.it/faq#2](qui (apre il link in una nuova finestra)  )
+, si intendono degli insiemi di dati di varia natura che possono essere espressi e archiviati in formati digitali.
+Il
+Codice dell'Amministrazione Digitale (art. 68, c. 3, lett. b)
+indica i dati aperti (open data) quei dati che presentano le seguenti caratteristiche:
+sono disponibili secondo i termini di una licenza che ne permetta l'utilizzo da parte di chiunque, anche per finalità commerciali, in formato disaggregato;
+sono accessibili attraverso le tecnologie dell'informazione e della comunicazione, ivi comprese le reti telematiche pubbliche e private, in formati aperti ai sensi della lettera a), sono adatti all'utilizzo automatico da parte di programmi per elaboratori e sono provvisti dei relativi metadati;
+sono resi disponibili gratuitamente attraverso le tecnologie dell'informazione e della comunicazione, ivi comprese le reti telematiche pubbliche e private, oppure sono resi disponibili ai costi marginali sostenuti per la loro riproduzione e divulgazione.
+Quindi si tratta di dati
+che è possibile scaricare e riusare liberamente anche per fini commerciali.
+Tali dati sono pubblicati per: operatori pubblici, privati o commerciali, ricercatori, analisti, organizzazioni della società civile e per chiunque abbia la necessità di questo tipo di dati da utilizzare nelle proprie attività.
+Tutti i dati contenuti in
+questa area tematica
+del sito sono rilasciati in formati aperti e tramite il sistema di licenze “Creative Commons”, nelle versioni più aggiornate adottate dalle linee guida provinciali (Delibere Provinciali
+[http://www.delibere.provincia.tn.it/scripts/vediProvvedimento.asp?Modalita=Delibere&numero=2858&anno=2012](n.2858/2012 (apre il link in una nuova finestra)  )
+e
+[http://www.delibere.provincia.tn.it/scripts/vediProvvedimento.asp?Modalita=Delibere&numero=2449&anno=2015](n.2449/2015 (apre il link in una nuova finestra)  )
+).
+Le
+Creative Commons
+sono licenze standard e riconosciute internazionalmente come le licenze di riferimento per la gestione degli open data. In particolare, i dati cartografici sono attribuiti al Pubblico Dominio con lo strumento “Creative Commons Public Domain” (CC-Zero) mentre i dati alfanumerici sono rilasciati con la licenza “Creative Commons Attribution” (CC-BY) . Entrambe le licenze permettono l'utilizzo dei dati senza alcuna restrizione, salva la citazione della fonte, nel caso della CC-BY.

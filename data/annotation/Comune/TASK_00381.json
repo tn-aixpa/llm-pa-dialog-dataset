@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00381",
+  "doc_src": "comune.milano_aree-tematiche_links_D0415.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "E' ancora in vigore la Tasi?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, la Tasi è stata rimossa dal 2020 e integrata all'Imu, (Imposta Municipale Unica). Quindi, la Tasi non è più dovuta.",
+      "ground": "La Tasi è soppressa a partire dall'anno 2020\n(art. 1, comma 738 della L. n. 160/2019) e viene  ricompresa nella nuova Imu, l'Imposta Municipale Unica."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quindi non devo più preoccuparmi di pagare la Tasi?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Esatto, la Tasi non è più applicabile a partire dall'anno 2020. Se ha altre domande o dubbi, non esiti a contattarci. Siamo qui per aiutarla. ",
+      "ground": "La Tasi è soppressa a partire dall'anno 2020\n(art. 1, comma 738 della L. n. 160/2019) e viene  ricompresa nella nuova Imu, l'Imposta Municipale Unica."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Non mi serve altro, grazie mille per le informazioni. Buona giornata!",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Buona giornata anche a lei, arrivederci!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

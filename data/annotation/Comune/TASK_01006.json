@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01006",
+  "doc_src": "comSalerno0825.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Qual è la scadenza per la presentazione della domanda di co-progettazione del progetto \"Rafforzamento del Segretriato Sociale- Servizi di orientamento,informazione,accompagnamento ai servizi,consulenza legale e del alvoro nell'ambito S5\"?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "La scadenza per la presentazione della domanda di co-progettazione del progetto è il 01 Settembre 2023 alle 14.00.",
+      "ground": "La domanda di partecipazione e i relativi allegati dovranno pervenire entro e non oltre il giorno 01/09/2023 alle ore 14.00 mediante"
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Dove bisogna inviare le domande?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Le domande devono essere inviate all'indirizzo PEC: protocollo@pec.comune.salerno.it .",
+      "ground": "PEC\nal\nseguente\n[mailto:indirizzo:%20protocollo@pec.comune.salerno.it%20](indirizzo: protocollo@pec.comune.salerno.it)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Quali sono gli allegati da inviare assieme alla domanda?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Gli allegati sono i seguenti:\n- Capitolato tecnico Coprogettazione e servizi di orientamento https://www.comune.salerno.it/sites/default/files/2023-08/2.%20Allegato%201%20Capitolato%20tecnico%20Coprogettazione_servizi%20di%20orientamento.pdf\n- Modello di domanda servizi di orientamento https://www.comune.salerno.it/sites/default/files/2023-08/3.%20Allegato%202_Modello%20di%20domanda_servizi%20di%20orientamento.doc\n- Dichiarazioni_servizi di orientamento https://www.comune.salerno.it/sites/default/files/2023-08/4.%20Allegato%202b%20Dichiarazioni_servizi%20di%20orientamento.doc\n- Patto di integrità Coprogettazione Servizi di orientamento https://www.comune.salerno.it/sites/default/files/2023-08/5.%20Allegato%202%20c%20Fac%20simile%20%20Coprogettazione%20servizi%20di%20orientamento.doc\n- Piano economico coprogettazione servizi di orientamento https://www.comune.salerno.it/sites/default/files/2023-08/8.%20Allegato%204%20proposta%20progettuale%20coettazione_servizi%20di%20orientamento.doc\n- Apporto Risorse Servizi Orientamento https://www.comune.salerno.it/sites/default/files/2023-08/10.%20Allegato_5_b_Apporto_Risorse%20Servizi%20Orientamento.doc",
+      "ground": "[https://www.comune.salerno.it/sites/default/files/2023-08/2.%20Allegato%201%20Capitolato%20tecnico%20Coprogettazione_servizi%20di%20orientamento.pdf](2. Allegato 1 Capitolato tecnico Coprogettazione_servizi di orientamento.pdf)\n[https://www.comune.salerno.it/sites/default/files/2023-08/3.%20Allegato%202_Modello%20di%20domanda_servizi%20di%20orientamento.doc](3. Allegato 2_Modello di domanda_servizi di orientamento.doc)\n[https://www.comune.salerno.it/sites/default/files/2023-08/4.%20Allegato%202b%20Dichiarazioni_servizi%20di%20orientamento.doc](4. Allegato 2b Dichiarazioni_servizi di orientamento.doc)\n[https://www.comune.salerno.it/sites/default/files/2023-08/5.%20Allegato%202%20c%20Fac%20simile%20%20Coprogettazione%20servizi%20di%20orientamento.doc](5. Allegato 2 c Fac simile Coprogettazione servizi di orientamento.doc)\n[https://www.comune.salerno.it/sites/default/files/2023-08/6.%20Allegato%202d%20Patto%20di%20integrit%C3%A0%20Coprogettazione_Servizi%20di%20orientamento.pdf](6. Allegato 2d Patto di integrità Coprogettazione_Servizi di orientamento.pdf)\n[https://www.comune.salerno.it/sites/default/files/2023-08/7.%20Allegato%203%20Coprogettazione%20Esperienza_%20servizi%20di%20orientamento.doc](7. Allegato 3 Coprogettazione Esperienza_ servizi di orientamento.doc)\n[https://www.comune.salerno.it/sites/default/files/2023-08/8.%20Allegato%204%20proposta%20progettuale%20coettazione_servizi%20di%20orientamento.doc](8. Allegato 4 proposta progettuale coettazione_servizi di orientamento.doc)\n[https://www.comune.salerno.it/sites/default/files/2023-08/9.%20Allegato%205%20Piano%20economico%20%20coprogettazione_servizi%20di%20orientamento.doc](9. Allegato 5 Piano economico coprogettazione_servizi di orientamento.doc)\n[https://www.comune.salerno.it/sites/default/files/2023-08/10.%20Allegato_5_b_Apporto_Risorse%20Servizi%20Orientamento.doc](10. Allegato_5_b_Apporto_Risorse Servizi Orientamento.doc)\nhttps://www.comune.salerno.it/sites/default/files/2023-08/det_Verbale_04-08-2023_11-56-10.pdf"
+    }
+  ],
+  "subcategory": "Salerno"
+}

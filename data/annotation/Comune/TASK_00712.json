@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00712",
+  "doc_src": "comune.trento_aree-tematiche_D0537.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sui nidi d'infanzia disponibili in zona.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Mi dispiace, non ho accesso alla informazione che lei mi richiede.",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E per quanto riguarda le detrazioni fiscali per le spese sostenute per la frequenza del nido?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Per quel che riguarda il periodo di imposta 2023, può ottenre più informazioni al link https://www.comune.trento.it/Aree-tematiche/Servizi-all-infanzia-e-istruzione/Documentazione-e-contatti/Avvisi/Detrazioni-fiscali-spese-anno-2023-nidi-e-scuole-dell-infanzia .",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Servizi-all-infanzia-e-istruzione/Documentazione-e-contatti/Avvisi/Detrazioni-fiscali-spese-anno-2023-nidi-e-scuole-dell-infanzia](Detrazioni fiscali spese anno 2023 nidi e scuole dell'infanzia)\nAnche per il periodo di imposta 2023 il Testo unico delle imposte sui redditi prevede la detraibilità delle spese sostenute  per la frequenza del nido e della scuola dell'infanzia."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "Prego, sono qui per aiutarla.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00348",
+  "doc_src": "comune.milano_aree-tematiche_links_D0380.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, come posso prenotare uno spazio per un evento?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Per la prenotazione è disponibile una brochure al link /documents/20126/1295244/opuscolo_2021.pdf/eff0c598-2789-2989-9e9c-29e7e6a17852?t=1621927145389 ",
+      "ground": "Spazi culturali per eventi e iniziative\nLa brochure, scaricabile nella sezione\nAllegati\nin fondo alla pagina, presenta gli spazi disponibili adatti per iniziative di vario genere - come serate a porte chiuse, meeting ed altro - con i contatti e le relative tariffe.\n\n|||\n\n[/documents/20126/1295244/opuscolo_2021.pdf/eff0c598-2789-2989-9e9c-29e7e6a17852?t=1621927145389](Spazi per eventi e tariffe (pdf - 3851.624 KB)\n)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E' possibile visitare gli spazi prima?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, basta contattare direttamente le singole sedi per organizzare organizzare un sopralluogo.",
+      "ground": "È possibile contattare le singole sedi per avere informazioni dettagliate e organizzare un sopralluogo."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni, mi metterò in contatto con le sedi per ulteriori dettagli.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Prego, siamo a sua disposizione per qualsiasi ulteriore informazione di cui necessiti. Buona giornata!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

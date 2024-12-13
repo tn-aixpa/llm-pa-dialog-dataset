@@ -1,0 +1,27 @@
+Breve introduzione all'organizzazione
+Open Geospatial Consortium
+(OGC) ed agli standard
+Web Map Service
+(WMS) e
+Web Feature Service
+(WFS)
+[]()
+Open Geospatial Consortium (OGC)
+L'
+Open Geospatial Consortium
+(OGC) è un'organizzazione internazionale non-profit di standard a consenso volontario, leader nello sviluppo di standard per servizi geospaziali e basati sulla localizzazione geografica.
+Gli
+Standard OGC
+sono dei documenti tecnici che definiscono interfacce e codifiche. Gli sviluppatori usano questi documenti per costruire interfacce aperte e codifiche all'interno dei loro prodotti o servizi. Questi standard sono i "prodotti" principali dell'Open Geospatial Consortium e sono stati sviluppati dai suoi membri per realizzare specifici scenari di interoperabilità.
+Per saperne di più:
+[http://www.opengeospatial.org/](http://www.opengeospatial.org/)
+[]()
+Web Map Service (WMS)
+Lo Standard
+Web Map Service
+(WMS) fornisce una semplice interfaccia HTTP per richiedere immagini di mappe da uno o più server distribuiti in Internet. Una richiesta WMS definisce quali sono i layer geografici e l'area di interesse da processare. La risposta alla richiesta è una o più immagini di mappa (nel formato JPEG, PNG, ...) che può essere mostrata in un browser Internet. Lo Standard supporta inoltre la possibilità di specificare se l'immagine restituita debba essere trasparente, in modo da poter combinare tra loro layer provenienti da server differenti.
+[]()
+Web Feature Service (WFS)
+Lo Standard
+Web Feature Service
+(WFS) fornisce, similmente al WMS, una semplice interfaccia HTTP per richiedere direttamente oggetti geografici (e non immagini di mappe) da uno o più server distribuiti in Internet. I meccanismi di richiesta e risposta sono simili al WMS, con la differenza che non vengono restituite immagini, bensì le descrizioni dei singoli oggetti spaziali contenuti all'interno dell'area di interesse da processare (coordinate spaziali ed eventuali attributi alfanumerici).

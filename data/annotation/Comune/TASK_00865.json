@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00865",
+  "doc_src": "comune.salerno_D0178.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Come si può avere l'accesso agli spazi affittati del complesso immobiliare \"Ave Gratia Plena\" per progetti culturali a Salerno?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Dovrà presentare la domanda entro il 3 Giugno 2024. Può trovare più dettagli nell'avviso pubblico al link https://www.comune.salerno.it/sites/default/files/2024-05/Avviso_0.pdf .",
+      "ground": "Le istanze dovranno pervenire entro la data del 03/06/2024. La modulistica è pubblicata, insieme all'Avviso Pubblico, tra gli allegati di questa pagina web.\n[https://www.comune.salerno.it/sites/default/files/2024-05/Avviso_0.pdf](Avviso Pubblico)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E dove posso trovare la modulistica per presentare la mia candidatura?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "La modulistica per la domanda è disponibile al seguente link  https://www.comune.salerno.it/sites/default/files/2024-05/Modello%20A.pdf .",
+      "ground": "[https://www.comune.salerno.it/sites/default/files/2024-05/Modello%20A.pdf](Modello A - Domanda)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni, proverò a compilare la documentazione necessaria.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È un piacere, resto a disposizione per ulteriori chiarimenti o assistenza. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

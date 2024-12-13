@@ -1,0 +1,22 @@
+{
+  "task_id": "TASK_00496",
+  "doc_src": "comune.trento_aree-tematiche_D0144.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, potrebbe dirmi se è previsto un referendum popolare per approvare la legge costituzionale riguardante il superamento del bicameralismo paritario?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Le so dire che tale referendum è stato approvato dal Parlamento e pubblicato in gazzetta ufficiale. Non ho conoscenza se questo sia previsto.",
+      "ground": "Referendum popolare confermativo previsto dall'articolo 138 della Costituzione sulla legge costituzionale \"Disposizioni per il superamento del bicameralismo paritario, la riduzione del numero dei parlamentari, il contenimento dei costi di funzionamento delle istituzioni, la soppressione del CNEL e la revisione del titolo V della parte II della Costituzione\" approvata dal Parlamento e pubblicata nella Gazzetta Ufficiale n. 88 del 15 aprile 2016."
+    }
+  ],
+  "subcategory": "Trento"
+}

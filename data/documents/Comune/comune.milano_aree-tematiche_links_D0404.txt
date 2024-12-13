@@ -1,0 +1,110 @@
+Imposta di soggiorno: istruzioni per i gestori
+
+Utilizzo della piattaforma SoggiorniAmo
+I gestori delle strutture ricettive devono registrarsi a SoggiorniAmo
+, l'unica piattaforma software attraverso cui gestire l'imposta di soggiorno.
+SoggiorniAmo consente di:
+compilare i bollettari online, che hanno sostituito pienamente i bollettari cartacei
+inoltrare il riepilogo trimestrale delle presenze registrate
+generare avvisi di pagamento PagoPA per il versamento dell'imposta di soggiorno
+verificare la propria situazione (versamenti, riepiloghi inseriti ecc.)
+.
+Novità
+La procedura di scambio di informazioni con il Comune di Milano è stata semplificata in via sperimentale per quanto riguarda i seguenti
+casi di esenzione
+:
+minori fino al diciottesimo anno di età
+giovani fino a 30 anni che pernottano negli Ostelli per la Gioventù, gestiti da soggetti pubblici o privati per il conseguimento di finalità sociali, culturali ed educative, così come definito dalla vigente normativa regionale
+tutti i volontari coordinati dalla Protezione Civile provinciale, regionale e nazionale e gli appartenenti ad associazioni di volontariato in caso di calamità e grandi eventi individuati dall’Amministrazione
+coloro i quali sono stati alloggiati nelle strutture ricettive a seguito di provvedimenti adottati dalle autorità pubbliche e/o dallo stesso Comune di Milano per far fronte a situazioni di emergenza sociale o di natura straordinaria
+residenti nel Comune di Milano
+In sintesi:
+per i pernottamenti decorrenti dal 1/1/2022 è possibile utilizzare una procedura telematica semplificata per l’acquisizione dei dati nella piattaforma web Soggiorniamo;
+tale procedura semplificata prevede l’acquisizione di un codice identificativo (ID) prodotto dal sistema di gestione delle prenotazioni in uso presso la struttura ricettiva, allo scopo di recuperare l’informazione relativa ai nominativi dei soggetti pernottanti ed esenti, evitando così la produzione/conservazione delle autodichiarazioni cartacee;
+la procedura semplificata è riservata a coloro che si avvalgono della funzione import per il caricamento diretto dei dati dal proprio gestionale verso la piattaforma web Soggiorniamo.
+Le nuove modalità operative e il video tutorial sono disponibili nell'applicativo Soggiorniamo.
+
+Come rilasciare la ricevuta ai clienti
+Il gestore della struttura ricettiva che riscuote l'imposta di soggiorno è tenuto a rilasciare una
+ricevuta nominativa (bollettario) recante l'importo versato a titolo di imposta
+per la durata del soggiorno.
+La ricevuta per gli ospiti, da stampare e consegnare oppure da spedire via email, è scaricabile sul proprio PC dall'applicativo
+SoggiorniAmo
+il rilascio è obbligatorio da parte dei gestori privi di partiva Iva
+. In alternativa, l’importo del tributo dovrà essere riportato nella fattura fiscale rilasciata al cliente con la dicitura “operazione esclusa da IVA ex art.15 del D.P.R. 633/1972"
+la compilazione dei bollettari online popola, in modo automatico, il riepilogo delle presenze tramite l‘acquisizione automatica dei dati inseriti, che determina l'importo da versare all'Ente.
+I bollettari cartacei non sono più validi e non devono essere più utilizzati.
+
+Scadenze, versamenti e dichiarazioni
+La dichiarazione annuale va presentata entro il 30 giugno dell'anno successivo a quello in cui si è verificato il presupposto impositivo.
+Come versare l'imposta:
+Il gestore inserisce i propri dati in SoggiorniAmo tramite un percorso guidato
+il software genera un avviso di pagamento tramite PagoPA, scaricabile in tempo reale.
+Invio trimestrale del riepilogo e del versamento dell'imposta:
+Il riepilogo degli ospiti e dei pernottamenti è funzionale all’emissione del PagoPA:
+1° trimestre: entro il 15 aprile
+2° trimestre: entro il 15 luglio
+3° trimestre: entro il 15 ottobre
+4° trimestre: entro il 15 gennaio
+Presentazione della dichiarazione annuale
+Nel
+[https://www.finanze.it/it/inevidenza/D.M.-29-aprile-2022-concernente-lapprovazione-del-modello-di-dichiarazione-dellimposta-di-soggiorno/](portale dell'Agenzia delle Entrate)
+è disponibile il modello per la presentazione/trasmissione della dichiarazione annuale relativa all'imposta di soggiorno:
+compilare il modello dichiarativo predisposto dal Ministero dell'Economia e delle Finanze;
+trasmettere il modello dichiarativo esclusivamente mediante il canale telematico dell'Agenzia delle Entrate Fisconline/Entratel, seguendo le regole di abilitazione definite dall'Agenzia o rivolgendosi a un soggetto abilitato per legge (CAF, Commercialisti, Fiscalisti);
+la dichiarazione non deve essere trasmessa al Comune ma esclusivamente all'Agenzia delle Entrate.
+
+Obblighi, responsabilità, sanzioni
+I gestori devono informare i clienti sulle tariffe in vigore e sulle agevolazioni eventualmente applicabili.
+È obbligatorio esporre in modo visibile (bacheche o altro supporto) il materiale informativo fornito dall'Amministrazione comunale, scaricabile da questa pagina nella sezione
+Allegati
+.
+I gestori delle strutture ricettive e i locatori brevi e intermediari sono responsabili:
+del pagamento dell’imposta di soggiorno, con diritto di rivalsa sugli ospiti
+della presentazione della dichiarazione, la quale deve essere presentata cumulativamente ed esclusivamente in via telematica, secondo le modalità che saranno approvate con decreto del Ministro dell’Economia e delle Finanze.
+Sanzioni
+In caso di omesso, ritardato o parziale versamento dell’imposta si applicano le sanzioni amministrative previste:
+per l’omesso, ritardato o parziale versamento dell’imposta si applica la sanzione pari al trenta per cento di ogni importo non versato
+per l’omessa o infedele presentazione della dichiarazione la sanzione va dal 100 al 200 per cento dell’importo dovuto.
+
+Riscossione dell’imposta per strutture Airbnb
+Un accordo tra Comune di Milano e Airbnb regola la modalità di riscossione dell’imposta di soggiorno per le prenotazioni effettuate attraverso la piattaforma Airbnb.
+In sintesi l'accordo prevede i seguenti passaggi operativi:
+imposta:
+all'atto della prenotazione, Airbnb preleva l’imposta dovuta dall'ospite e la trasferisce al Comune alla scadenza stabilita
+riepilogo:
+quando dichiarano l'imposta di soggiorno sulla piattaforma SoggiorniAmo, i proprietari (o gli intermediari) devono indicare i dati (presenze e periodi) relativi ai soggiorni prenotati attraverso la piattaforma Airbnb
+esenzioni:
+gli ospiti che ne hanno diritto chiedono direttamente ad Airbnb il rimborso delle somme indebitamente trattenute.
+Per le locazioni
+non
+effettuate tramite la piattaforma Airbnb, permangono in capo ai gestori tutti gli obblighi previsti dal Regolamento.
+
+Bed and Breakfast e case vacanza: ulteriori obblighi amministrativi e tributari
+Chi vuole adibire la propria unità abitativa a B&B oppure casa o appartamento per vacanza è tenuto ad adempiere ai seguenti obblighi amministrativi e tributari:
+presentazione SCIA (solo per B&B)
+presentazione comunicazione inizio attività (solo per case vacanza)
+imposta di soggiorno
+Tari
+per il pagamento della Tari la superficie dell’alloggio destinata all'attività deve essere correttamente identificata. Il contribuente dovrà presentare:
+- una denuncia di variazione in diminuzione per i mq. sottratti all'uso domestico
+- una denuncia di nuova occupazione per dichiarare la superficie utilizzata come B&B
+- planimetria in scala da cui risulti evidente la diversa destinazione dell’alloggio
+alla superficie utilizzata come B&B è applicata la tariffa Tari prevista per la specifica attività esercitata
+per tutte le informazioni visita la pagina
+[/web/guest/aree-tematiche/tributi/tari](Tari)
+
+Informazioni
+Per ricevere informazioni e consulenza occorre fissare un appuntamento
+:
+[https://www.comune.milano.it/servizi/consulenza-tributaria-prenota-appuntamento](prenota online)
+tel. 02.02.02, attivo dal lunedì al sabato, dalle 8:00 alle 18:00 (festivi esclusi)
+
+[https://repository.comune.milano.it/s/y4N37WNBTE5Qmje](Visualizza i riferimenti normativi scaricabili)
+Decreto Legge n. 34/2020, art. 180 (convertito dalla Legge n. 77/2020)
+Legge Regionale n. 27 del 1° ottobre 2015
+Decreto Legislativo n. 50/2017, convertito dalla Legge n. 96/2017
+Decreto Legislativo n. 471 del 18 dicembre 1997, articolo 13
+Regio Decreto n. 827/1924, art. 178, lett. e)
+Utilizza i servizi
+[https://www.comune.milano.it/tributi/imposta-di-soggiorno-come-pagare](Imposta di soggiorno: come pagare)

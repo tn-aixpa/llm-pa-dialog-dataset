@@ -1,0 +1,40 @@
+{
+  "task_id": "TASK_00763",
+  "doc_src": "comune.salerno_D0027.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Potrebbe darmi informazioni sulla mostra fotografica \"Attraverso gli occhi dei bambini\"?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "La mostra fotografica si terrà il 30 maggio presso il plesso di Matierno dell’I.C. San Tommaso d’Aquino dalle 17.30. L'esposizione presenterà gli scatti dei bambini che frequentano il Centro per la Legalità.",
+      "ground": "La cooperativa sociale Galahad, infatti, con il patrocinio dell’Assessorato alle Politiche Sociali del Comune di Salerno, nell’ambito del Piano di Zona S5, ed in collaborazione con l’Istituto Comprensivo San Tommaso d’Aquino, ha organizzato un promettente evento il 30 maggio, alle 17.30, presso il plesso di Matierno dell’I.C. San Tommaso d’Aquino. In particolare, sarà presentata l’esposizione degli scatti realizzati dai bambini che frequentano il Centro per la Legalità e che, imparando ad osservare e ad ammirare quanto di bello li circonda, hanno catturato immagini ritraenti principalmente scenari naturali e animali."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E riguardo alla presentazione del murales presso l'area esterna del plesso scolastico di Matierno?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "La presentazione del murales avverrà durante lo stesso evento.",
+      "ground": "A seguire, nell’ambito della stessa iniziativa, la presentazione del nuovo murales presso un’area esterna del plesso scolastico di Matierno: i ragazzi del Centro per la Legalità, dando uno schiaffo a vandalismo e inciviltà, hanno realizzato una splendida opera incentrata sugli obiettivi dell’Agenda 2030, guidati dal writer professionista Stefano Santoro, in arte MC Nenya."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Capito, grazie per le informazioni.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

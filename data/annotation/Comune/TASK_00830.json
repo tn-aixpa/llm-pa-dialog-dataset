@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00830",
+  "doc_src": "comune.salerno_D0124.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni su come si vota alle prossime elezioni del Parlamento Europeo.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, certo. Le elezioni del Parlamento Europeo sono fissate per l'8 e 9 giugno 2024. Se lei è cittadino di uno Stato dell'UE e desidera votare presso il suo Comune di residenza i membri del Parlamento per l'Italia, deve fare richiesta di iscrizione nella lista aggiunta entro l'11 marzo 2024.",
+      "ground": " cittadini di Stati UE che alle prossime elezioni del Parlamento Europeo, fissate per l'8 e 9 giugno 2024, intendano votare presso questo Comune di residenza, così scegliendo i membri del Parlamento spettanti all'Italia, devono fare richiesta di iscrizione nella relativa\n[https://www.comune.salerno.it/amministrazione/settori/settore-servizi-demografici-ed-elettorali/ufficio-elettorale/iscrizione-nelle-liste-elettorali-di-stranieri-cittadini-ue](lista aggiunta)\nentro il 11/03/2024, ovvero non oltre il termine di novanta giorni anteriore alla data delle elezioni, ai sensi dell'art. 2, co. 1, D.L. 408/1994, convertito in L. 483/1994."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quindi devo compilare una domanda?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Esattamente. La domanda, disponibile al sito https://www.comune.salerno.it/sites/default/files/2024-02/Domanda%20-%20%20Application%20form.pdf e deve essere trasmessa tramite posta elettronica certificata all'indirizzo protocollo@pec.comune.salerno.it oppure direttamente presso l'Ufficio elettorale sito in Via Picarielli 76.",
+      "ground": "La domanda deve essere compilata secondo il format allegato (\"Domanda - application form\") e trasmessa, unitamente a copia del documento d'identità, attraverso uno dei seguenti mezzi:\n• posta elettronica certificata all'indirizzo protocollo@pec.comune.salerno.it;\n• posta raccomandata o presentazione presso l'Ufficio elettorale sito in Via Picarielli 76, Salerno.\n\n|||\n\n[https://www.comune.salerno.it/sites/default/files/2024-02/Domanda%20-%20%20Application%20form.pdf](Domanda - Application form)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Capito. Se ho bisogno di ulteriori informazioni, dove posso trovarle?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Sul sito del Comune di Salerno sono disponibili il manifesto informativo in diverse lingue, può anche contattare direttamente l'Ufficio Elettorale al link /node/3649 per qualsiasi ulteriore chiarimento.",
+      "ground": "[https://www.comune.salerno.it/sites/default/files/2024-02/manifesto.pdf](Manifesto informativo)\n[https://www.comune.salerno.it/sites/default/files/2024-02/informative%20poster.pdf](Informative poster)\n[https://www.comune.salerno.it/sites/default/files/2024-02/affiche%20d%27information.pdf](Affiche d'information)\n[https://www.comune.salerno.it/sites/default/files/2024-02/Informationsplakat.pdf](Informationsplakat)\n\n|||\n\n[/node/3649](Ufficio Elettorale)"
+    }
+  ],
+  "subcategory": "Salerno"
+}

@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00409",
+  "doc_src": "comune.trento_aree-tematiche_D0013.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei sapere di più sul Piano di eliminazione delle barriere architettoniche.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, al momento è in corso un analisi nella circoscrizione di Gardolo. ",
+      "ground": "Attualmente è in corso l’analisi della circoscrizione di Gardolo."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Capisco, posso comunque inviare una segnalazione?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Certamente, puoi compilare il modulo di segnalazione disponibile al link Aree-tematiche/Lavori-pubblici/Piano-di-eliminazione-delle-barriere-architettoniche-e-sensoriali/Partecipa/Inviaci-la-tua-segnalazione . La tua segnalazione verrà esaminata dal nostro servizio competente durante le fasi di analisi territoriale.",
+      "ground": "Se ti interessa contribuire all’aggiornamento del\nPiano di eliminazione delle barriere architettoniche e sensoriali\ncompila il\n[/Aree-tematiche/Lavori-pubblici/Piano-di-eliminazione-delle-barriere-architettoniche-e-sensoriali/Partecipa/Inviaci-la-tua-segnalazione](modulo di segnalazione)\n. La tua segnalazione sarà esaminata dal competente servizio nell’ambito delle fasi di analisi territoriale e potrai essere contattato per eventuali ulteriori delucidazioni."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni, scriverò una email se avrò bisogno di ulteriori delucidazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Perfetto, nel caso non lo sapesse già la mail è peba@comune.trento.it .",
+      "ground": "Se vuoi ricevere informazioni sul Piano di eliminazione delle barriere architettoniche e sensoriali o sul tema dell'accessibilità urbana scrivi una email a\n[mailto:peba@comune.trento.it](peba@comune.trento.it)"
+    }
+  ],
+  "subcategory": "Trento"
+}

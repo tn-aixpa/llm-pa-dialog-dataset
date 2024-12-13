@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_01137",
+  "doc_src": "mezzano__2023.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Come potrebbe essere potenziata la promozione degli eventi organizzati dal sistema Family?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Potrebbe pensare di usare i mezzi istituzionali del Comune, come il notiziario comunale, il sito web, la newsletter e WhatsApp per aumentare il pubblico.",
+      "ground": "TITOLO: PARTECIPAZIONE ATTIVA AL SISTEMA FAMILY\n\nTASSONOMIA: Partecipazione e promozione di eventi organizzati da ACS (Convention Comuni, Meeting Distretti, Festival della famiglia ecc.)\n\nOBIETTIVO: Aumentare la promozione degli eventi e, di conseguenza, la partecipazione agli eventi della partecipazione\n\nDESCRIZIONE: Il Comune di Madruzzo partecipa agli incontri organizzati dal sistema Family e li\n\npromuove, se di interesse ed aperti al pubblico, con i propri mezzi\n\nistituzionali (notiziario comunale, sito, newsletter e servizio di whatsapp)."
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Non abbiamo WhatsApp, però possiamo usare gli altri canali. Grazie per l'idea.",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "E' un piacere. Vuole chiedere altro?",
+      "ground": ""
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Cosa posso scrivere come azione relativa ai servizi estivi?",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Può pensare di organizzare laboratori estivi che coinvolgano diverse fasce di età per favorire l'incontro e lo scambio tra le generazioni e le culture presenti nella comunità.",
+      "ground": "TITOLO: Aiuto compiti - Spazio gioco\n\nTASSONOMIA: Servizi doposcuola e servizi estivi\n\nOBIETTIVO: Gettare una base per favorire l'incontro tra culture e generazioni diverse favorendo una partecipazione attiva della popolazione\n\nDESCRIZIONE: Laboratori che coinvolgono diversi target della popolazione attivitа di comunitа ... Spazio compiti è stato pensato in collaborazione con il plesso scolastico, partendo dai bisogni dei bambini e famiglie di avere uno spazio ludico di comunitа ma anche di supporto compiti"
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "Grazie mille per i suggerimenti, buona giornata.",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "Buona giornata a lei.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

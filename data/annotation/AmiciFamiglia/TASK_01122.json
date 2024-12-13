@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_01122",
+  "doc_src": "mezzano__2023.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Che tipo di azioni posso scrivere rivolto ai neonati e giovani bambini?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Le possibilità sono diverse.\n- Dare dei pannollini ecologici così da essistere la famiglia all'abbattimento dei costi dello smaltimento dei rifiuti;\n- Dare un contributo una tantum per supportare la natalità nel Comune;\n- Fornire uno zaino a tutti i bambini iscritti alla scuola materna locale.",
+      "ground": "L’Amministrazione del Comune di Mezzano ha ritenuto di prevedere un aiuto economico per le famiglie con figli neonati dell’etа compresa tra zero e ventiquattro mesi, fornendo alle medesime un kit di pannolini ecologici da richiedere all’atto dell’iscrizione anagrafica del bambino nei registri del Comune di Mezzano nella convinzione che l’iniziativa potrа supportare le famiglie nell’abbattimento dei costi derivanti dallo smaltimento dei rifiuti, diminuendo i rifiuti prodotti e favorendo la sensibilizzazione della popolazione alla corretta attuazione della raccolta differenziata dei medesimi.\n\n|||\n\nIn questo momento storico in cui per i giovani è difficile pensare ad allargare la propria famiglia, il Comune di Mezzano ha pensato di concedere un contributo specifico proprio a sostegno della natalitа con l’approvazione di un apposito Regolamento comunale per la concessione dei contributi (deliberazione del Consiglio comunale n. 29 dd. 24.10.2018).\n\nIl regolamento prevede l’erogazione di un contributo massimo di Euro 1.000,00 una tantum.\n\n|||\n\n"
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "E se voglio invecentivare la mobilità elettrica cosa posso fare?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Le consiglio l'installazione di punti di ricarica per bici elettriche. Un azione su questo tema può essere messa nella tassonomia \"Turismo a misura di famiglia (servizi ricettiiv, accoglienza ecc.)\"",
+      "ground": "Turismo a misura di famiglia (servizi ricettivi, accoglienza ecc.)\n\n|||\n\nNel corso del 2021, l’Amministrazione comunale in collaborazione con A.C.S.M. e il Bim Brenta ha\n\nprovveduto all’istallazione di appositi punti di ricarica per le bici elettriche all’interno del proprio territorio comunale."
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "E per la lotta allo spreco alimentare invece, che tipo di azione posso scrivere?",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Può dire che il suo Comune intende combatterla. All'atto pratico, può collaborare con le associazioni locali per individuare esercizi commerciali disposti a donare alimenti invenduti e non più vendibili oppure con confezioni difettose.",
+      "ground": ""
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "Bene bene.",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "Buole chiedere altro?",
+      "ground": ""
+    },
+    {
+      "id": "T9",
+      "speaker": "Citizen",
+      "message": "No. Buona giornata.",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agent",
+      "message": "Buona giornata a lei.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

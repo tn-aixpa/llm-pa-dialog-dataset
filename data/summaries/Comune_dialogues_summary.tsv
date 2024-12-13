@@ -1,0 +1,1040 @@
+task_id	annotation_type	turns_n	user_type	interaction_style	proactive	ext_knowledge	doc_filename	category	subcategory
+TASK_00001	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0001.txt	Comune	Milano
+TASK_00002	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0002.txt	Comune	Milano
+TASK_00003	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0003.txt	Comune	Milano
+TASK_00004	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0004.txt	Comune	Milano
+TASK_00005	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0006.txt	Comune	Milano
+TASK_00006	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0007.txt	Comune	Milano
+TASK_00007	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0009.txt	Comune	Milano
+TASK_00008	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0010.txt	Comune	Milano
+TASK_00009	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0012.txt	Comune	Milano
+TASK_00010	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0013.txt	Comune	Milano
+TASK_00011	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0014.txt	Comune	Milano
+TASK_00012	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0017.txt	Comune	Milano
+TASK_00013	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0019.txt	Comune	Milano
+TASK_00014	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0020.txt	Comune	Milano
+TASK_00015	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0021.txt	Comune	Milano
+TASK_00016	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0022.txt	Comune	Milano
+TASK_00017	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0024.txt	Comune	Milano
+TASK_00018	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0027.txt	Comune	Milano
+TASK_00019	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0028.txt	Comune	Milano
+TASK_00020	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0030.txt	Comune	Milano
+TASK_00021	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0031.txt	Comune	Milano
+TASK_00022	edit_with_ground_SBERT	9	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0033.txt	Comune	Milano
+TASK_00023	edit_with_ground_SBERT	12	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0034.txt	Comune	Milano
+TASK_00024	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0035.txt	Comune	Milano
+TASK_00025	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0037.txt	Comune	Milano
+TASK_00026	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0039.txt	Comune	Milano
+TASK_00027	edit_with_ground_SBERT	9	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0042.txt	Comune	Milano
+TASK_00028	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0043.txt	Comune	Milano
+TASK_00029	edit_with_ground_SBERT	12	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0045.txt	Comune	Milano
+TASK_00030	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0046.txt	Comune	Milano
+TASK_00031	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0047.txt	Comune	Milano
+TASK_00032	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0048.txt	Comune	Milano
+TASK_00033	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0049.txt	Comune	Milano
+TASK_00034	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0050.txt	Comune	Milano
+TASK_00035	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0052.txt	Comune	Milano
+TASK_00036	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0053.txt	Comune	Milano
+TASK_00037	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0054.txt	Comune	Milano
+TASK_00038	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0055.txt	Comune	Milano
+TASK_00039	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0059.txt	Comune	Milano
+TASK_00040	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0060.txt	Comune	Milano
+TASK_00041	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0062.txt	Comune	Milano
+TASK_00042	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0063.txt	Comune	Milano
+TASK_00043	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0064.txt	Comune	Milano
+TASK_00044	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0036.txt	Comune	Milano
+TASK_00045	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0065.txt	Comune	Milano
+TASK_00046	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0066.txt	Comune	Milano
+TASK_00047	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0067.txt	Comune	Milano
+TASK_00048	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0069.txt	Comune	Milano
+TASK_00049	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0071.txt	Comune	Milano
+TASK_00050	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0072.txt	Comune	Milano
+TASK_00051	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0073.txt	Comune	Milano
+TASK_00052	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0074.txt	Comune	Milano
+TASK_00053	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0075.txt	Comune	Milano
+TASK_00054	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0076.txt	Comune	Milano
+TASK_00055	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0077.txt	Comune	Milano
+TASK_00056	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0078.txt	Comune	Milano
+TASK_00057	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0079.txt	Comune	Milano
+TASK_00058	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0080.txt	Comune	Milano
+TASK_00059	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0081.txt	Comune	Milano
+TASK_00060	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0082.txt	Comune	Milano
+TASK_00061	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0083.txt	Comune	Milano
+TASK_00062	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0084.txt	Comune	Milano
+TASK_00063	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0085.txt	Comune	Milano
+TASK_00064	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0086.txt	Comune	Milano
+TASK_00065	edit_with_ground_SBERT	7	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0087.txt	Comune	Milano
+TASK_00066	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0088.txt	Comune	Milano
+TASK_00067	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0089.txt	Comune	Milano
+TASK_00068	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0090.txt	Comune	Milano
+TASK_00069	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0091.txt	Comune	Milano
+TASK_00070	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0093.txt	Comune	Milano
+TASK_00071	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0095.txt	Comune	Milano
+TASK_00072	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0097.txt	Comune	Milano
+TASK_00073	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0098.txt	Comune	Milano
+TASK_00074	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0101.txt	Comune	Milano
+TASK_00075	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0103.txt	Comune	Milano
+TASK_00076	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0104.txt	Comune	Milano
+TASK_00077	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0005.txt	Comune	Milano
+TASK_00078	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0008.txt	Comune	Milano
+TASK_00079	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0015.txt	Comune	Milano
+TASK_00080	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0025.txt	Comune	Milano
+TASK_00081	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0026.txt	Comune	Milano
+TASK_00082	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0029.txt	Comune	Milano
+TASK_00083	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0038.txt	Comune	Milano
+TASK_00084	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0040.txt	Comune	Milano
+TASK_00085	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0051.txt	Comune	Milano
+TASK_00086	edit_with_ground_SBERT	7	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0056.txt	Comune	Milano
+TASK_00087	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0057.txt	Comune	Milano
+TASK_00088	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0058.txt	Comune	Milano
+TASK_00089	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0061.txt	Comune	Milano
+TASK_00090	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0070.txt	Comune	Milano
+TASK_00091	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0092.txt	Comune	Milano
+TASK_00092	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0096.txt	Comune	Milano
+TASK_00093	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0099.txt	Comune	Milano
+TASK_00094	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0100.txt	Comune	Milano
+TASK_00095	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0102.txt	Comune	Milano
+TASK_00096	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0106.txt	Comune	Milano
+TASK_00097	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0110.txt	Comune	Milano
+TASK_00098	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0112.txt	Comune	Milano
+TASK_00099	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0113.txt	Comune	Milano
+TASK_00100	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0114.txt	Comune	Milano
+TASK_00101	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0115.txt	Comune	Milano
+TASK_00102	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0116.txt	Comune	Milano
+TASK_00103	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0118.txt	Comune	Milano
+TASK_00104	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0119.txt	Comune	Milano
+TASK_00105	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0120.txt	Comune	Milano
+TASK_00106	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0122.txt	Comune	Milano
+TASK_00107	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0124.txt	Comune	Milano
+TASK_00108	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0125.txt	Comune	Milano
+TASK_00109	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0127.txt	Comune	Milano
+TASK_00110	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0129.txt	Comune	Milano
+TASK_00111	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0130.txt	Comune	Milano
+TASK_00112	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0131.txt	Comune	Milano
+TASK_00113	edit_with_ground_SBERT	9	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0132.txt	Comune	Milano
+TASK_00114	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0133.txt	Comune	Milano
+TASK_00115	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0135.txt	Comune	Milano
+TASK_00116	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0136.txt	Comune	Milano
+TASK_00117	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0137.txt	Comune	Milano
+TASK_00118	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0138.txt	Comune	Milano
+TASK_00119	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0139.txt	Comune	Milano
+TASK_00120	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0140.txt	Comune	Milano
+TASK_00121	edit_with_ground_SBERT	3	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0141.txt	Comune	Milano
+TASK_00122	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0142.txt	Comune	Milano
+TASK_00123	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0143.txt	Comune	Milano
+TASK_00124	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0144.txt	Comune	Milano
+TASK_00125	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0146.txt	Comune	Milano
+TASK_00126	edit_with_ground_SBERT	7	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0147.txt	Comune	Milano
+TASK_00127	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0148.txt	Comune	Milano
+TASK_00128	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0149.txt	Comune	Milano
+TASK_00129	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0150.txt	Comune	Milano
+TASK_00130	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0151.txt	Comune	Milano
+TASK_00131	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0152.txt	Comune	Milano
+TASK_00132	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0153.txt	Comune	Milano
+TASK_00133	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0154.txt	Comune	Milano
+TASK_00134	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0155.txt	Comune	Milano
+TASK_00135	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0156.txt	Comune	Milano
+TASK_00136	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0157.txt	Comune	Milano
+TASK_00137	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0158.txt	Comune	Milano
+TASK_00138	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0159.txt	Comune	Milano
+TASK_00139	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0160.txt	Comune	Milano
+TASK_00140	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0162.txt	Comune	Milano
+TASK_00141	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0163.txt	Comune	Milano
+TASK_00142	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0164.txt	Comune	Milano
+TASK_00143	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0165.txt	Comune	Milano
+TASK_00144	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0167.txt	Comune	Milano
+TASK_00145	edit_with_ground_SBERT	9	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0169.txt	Comune	Milano
+TASK_00146	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0170.txt	Comune	Milano
+TASK_00147	edit_with_ground_SBERT	14	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0171.txt	Comune	Milano
+TASK_00148	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0172.txt	Comune	Milano
+TASK_00149	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0173.txt	Comune	Milano
+TASK_00150	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0174.txt	Comune	Milano
+TASK_00151	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0175.txt	Comune	Milano
+TASK_00152	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0176.txt	Comune	Milano
+TASK_00153	edit_with_ground_SBERT	12	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0178.txt	Comune	Milano
+TASK_00154	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0179.txt	Comune	Milano
+TASK_00155	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0181.txt	Comune	Milano
+TASK_00156	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0182.txt	Comune	Milano
+TASK_00157	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0183.txt	Comune	Milano
+TASK_00158	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0184.txt	Comune	Milano
+TASK_00159	edit_with_ground_SBERT	9	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0185.txt	Comune	Milano
+TASK_00160	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0186.txt	Comune	Milano
+TASK_00161	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0187.txt	Comune	Milano
+TASK_00162	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0188.txt	Comune	Milano
+TASK_00163	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0189.txt	Comune	Milano
+TASK_00164	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0190.txt	Comune	Milano
+TASK_00165	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0191.txt	Comune	Milano
+TASK_00166	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0192.txt	Comune	Milano
+TASK_00167	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0193.txt	Comune	Milano
+TASK_00168	edit_with_ground_SBERT	7	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0195.txt	Comune	Milano
+TASK_00169	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0196.txt	Comune	Milano
+TASK_00170	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0197.txt	Comune	Milano
+TASK_00171	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_D0198.txt	Comune	Milano
+TASK_00172	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0200.txt	Comune	Milano
+TASK_00173	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0201.txt	Comune	Milano
+TASK_00174	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0202.txt	Comune	Milano
+TASK_00175	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0203.txt	Comune	Milano
+TASK_00176	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0204.txt	Comune	Milano
+TASK_00177	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0205.txt	Comune	Milano
+TASK_00178	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0206.txt	Comune	Milano
+TASK_00179	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0207.txt	Comune	Milano
+TASK_00180	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0208.txt	Comune	Milano
+TASK_00181	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0209.txt	Comune	Milano
+TASK_00182	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0210.txt	Comune	Milano
+TASK_00183	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0211.txt	Comune	Milano
+TASK_00184	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0212.txt	Comune	Milano
+TASK_00185	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0213.txt	Comune	Milano
+TASK_00186	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0214.txt	Comune	Milano
+TASK_00187	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0215.txt	Comune	Milano
+TASK_00188	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0216.txt	Comune	Milano
+TASK_00189	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0217.txt	Comune	Milano
+TASK_00190	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0218.txt	Comune	Milano
+TASK_00191	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0219.txt	Comune	Milano
+TASK_00192	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0220.txt	Comune	Milano
+TASK_00193	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0221.txt	Comune	Milano
+TASK_00194	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0222.txt	Comune	Milano
+TASK_00195	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0223.txt	Comune	Milano
+TASK_00196	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0224.txt	Comune	Milano
+TASK_00197	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0225.txt	Comune	Milano
+TASK_00198	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0226.txt	Comune	Milano
+TASK_00199	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0227.txt	Comune	Milano
+TASK_00200	edit_with_ground_SBERT	14	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0228.txt	Comune	Milano
+TASK_00201	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0229.txt	Comune	Milano
+TASK_00202	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0230.txt	Comune	Milano
+TASK_00203	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0231.txt	Comune	Milano
+TASK_00204	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0232.txt	Comune	Milano
+TASK_00205	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0233.txt	Comune	Milano
+TASK_00206	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0234.txt	Comune	Milano
+TASK_00207	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0235.txt	Comune	Milano
+TASK_00208	edit_with_ground_SBERT	3	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0236.txt	Comune	Milano
+TASK_00209	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0237.txt	Comune	Milano
+TASK_00210	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0238.txt	Comune	Milano
+TASK_00211	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0239.txt	Comune	Milano
+TASK_00212	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0240.txt	Comune	Milano
+TASK_00213	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0241.txt	Comune	Milano
+TASK_00214	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0242.txt	Comune	Milano
+TASK_00215	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0243.txt	Comune	Milano
+TASK_00216	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0244.txt	Comune	Milano
+TASK_00217	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0245.txt	Comune	Milano
+TASK_00218	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0246.txt	Comune	Milano
+TASK_00219	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0247.txt	Comune	Milano
+TASK_00220	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0248.txt	Comune	Milano
+TASK_00221	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0249.txt	Comune	Milano
+TASK_00222	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0250.txt	Comune	Milano
+TASK_00223	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0251.txt	Comune	Milano
+TASK_00224	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0252.txt	Comune	Milano
+TASK_00225	edit_with_ground_SBERT	7	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0253.txt	Comune	Milano
+TASK_00226	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0254.txt	Comune	Milano
+TASK_00227	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0255.txt	Comune	Milano
+TASK_00228	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0256.txt	Comune	Milano
+TASK_00229	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0258.txt	Comune	Milano
+TASK_00230	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0259.txt	Comune	Milano
+TASK_00231	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0260.txt	Comune	Milano
+TASK_00232	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0261.txt	Comune	Milano
+TASK_00233	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0262.txt	Comune	Milano
+TASK_00234	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0263.txt	Comune	Milano
+TASK_00235	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0264.txt	Comune	Milano
+TASK_00236	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0265.txt	Comune	Milano
+TASK_00237	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0266.txt	Comune	Milano
+TASK_00238	edit_with_ground_SBERT	7	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0267.txt	Comune	Milano
+TASK_00239	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0268.txt	Comune	Milano
+TASK_00240	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0269.txt	Comune	Milano
+TASK_00241	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0270.txt	Comune	Milano
+TASK_00242	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0271.txt	Comune	Milano
+TASK_00243	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0272.txt	Comune	Milano
+TASK_00244	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0275.txt	Comune	Milano
+TASK_00245	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0276.txt	Comune	Milano
+TASK_00246	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0277.txt	Comune	Milano
+TASK_00247	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0278.txt	Comune	Milano
+TASK_00248	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0279.txt	Comune	Milano
+TASK_00249	edit_with_ground_SBERT	7	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0280.txt	Comune	Milano
+TASK_00250	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0281.txt	Comune	Milano
+TASK_00251	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0282.txt	Comune	Milano
+TASK_00252	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0283.txt	Comune	Milano
+TASK_00253	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0284.txt	Comune	Milano
+TASK_00254	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0285.txt	Comune	Milano
+TASK_00255	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0286.txt	Comune	Milano
+TASK_00256	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0287.txt	Comune	Milano
+TASK_00257	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0288.txt	Comune	Milano
+TASK_00258	edit_with_ground_SBERT	12	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0289.txt	Comune	Milano
+TASK_00259	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0290.txt	Comune	Milano
+TASK_00260	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0291.txt	Comune	Milano
+TASK_00261	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0292.txt	Comune	Milano
+TASK_00262	edit_with_ground_SBERT	7	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0293.txt	Comune	Milano
+TASK_00263	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0294.txt	Comune	Milano
+TASK_00264	edit_with_ground_SBERT	12	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0295.txt	Comune	Milano
+TASK_00265	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0296.txt	Comune	Milano
+TASK_00266	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0297.txt	Comune	Milano
+TASK_00267	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0298.txt	Comune	Milano
+TASK_00268	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0299.txt	Comune	Milano
+TASK_00269	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0300.txt	Comune	Milano
+TASK_00270	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0301.txt	Comune	Milano
+TASK_00271	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0302.txt	Comune	Milano
+TASK_00272	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0303.txt	Comune	Milano
+TASK_00273	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0304.txt	Comune	Milano
+TASK_00274	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0305.txt	Comune	Milano
+TASK_00275	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0306.txt	Comune	Milano
+TASK_00276	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0308.txt	Comune	Milano
+TASK_00277	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0309.txt	Comune	Milano
+TASK_00278	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0310.txt	Comune	Milano
+TASK_00279	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0311.txt	Comune	Milano
+TASK_00280	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0312.txt	Comune	Milano
+TASK_00281	edit_with_ground_SBERT	7	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0313.txt	Comune	Milano
+TASK_00282	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0314.txt	Comune	Milano
+TASK_00283	edit_with_ground_SBERT	9	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0315.txt	Comune	Milano
+TASK_00284	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0316.txt	Comune	Milano
+TASK_00285	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0317.txt	Comune	Milano
+TASK_00286	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0318.txt	Comune	Milano
+TASK_00287	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0319.txt	Comune	Milano
+TASK_00288	edit_with_ground_SBERT	11	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0320.txt	Comune	Milano
+TASK_00289	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0321.txt	Comune	Milano
+TASK_00290	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0322.txt	Comune	Milano
+TASK_00291	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0323.txt	Comune	Milano
+TASK_00292	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0324.txt	Comune	Milano
+TASK_00293	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0325.txt	Comune	Milano
+TASK_00294	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0326.txt	Comune	Milano
+TASK_00295	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0327.txt	Comune	Milano
+TASK_00296	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0328.txt	Comune	Milano
+TASK_00297	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0329.txt	Comune	Milano
+TASK_00298	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0330.txt	Comune	Milano
+TASK_00299	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0331.txt	Comune	Milano
+TASK_00300	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0332.txt	Comune	Milano
+TASK_00301	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0333.txt	Comune	Milano
+TASK_00302	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0334.txt	Comune	Milano
+TASK_00303	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0335.txt	Comune	Milano
+TASK_00304	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0336.txt	Comune	Milano
+TASK_00305	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0337.txt	Comune	Milano
+TASK_00306	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0338.txt	Comune	Milano
+TASK_00307	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0339.txt	Comune	Milano
+TASK_00308	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0340.txt	Comune	Milano
+TASK_00309	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0341.txt	Comune	Milano
+TASK_00310	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0342.txt	Comune	Milano
+TASK_00311	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0343.txt	Comune	Milano
+TASK_00312	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0344.txt	Comune	Milano
+TASK_00313	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0345.txt	Comune	Milano
+TASK_00314	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0346.txt	Comune	Milano
+TASK_00315	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0347.txt	Comune	Milano
+TASK_00316	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0348.txt	Comune	Milano
+TASK_00317	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0349.txt	Comune	Milano
+TASK_00318	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0350.txt	Comune	Milano
+TASK_00319	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0351.txt	Comune	Milano
+TASK_00320	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0352.txt	Comune	Milano
+TASK_00321	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0353.txt	Comune	Milano
+TASK_00322	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0354.txt	Comune	Milano
+TASK_00323	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0355.txt	Comune	Milano
+TASK_00324	edit_with_ground_SBERT	7	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0356.txt	Comune	Milano
+TASK_00325	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0357.txt	Comune	Milano
+TASK_00326	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0358.txt	Comune	Milano
+TASK_00327	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0359.txt	Comune	Milano
+TASK_00328	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0366.txt	Comune	Milano
+TASK_00329	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0363.txt	Comune	Milano
+TASK_00330	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0367.txt	Comune	Milano
+TASK_00331	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0364.txt	Comune	Milano
+TASK_00332	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0368.txt	Comune	Milano
+TASK_00333	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0360.txt	Comune	Milano
+TASK_00334	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0365.txt	Comune	Milano
+TASK_00335	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0362.txt	Comune	Milano
+TASK_00336	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0361.txt	Comune	Milano
+TASK_00337	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0369.txt	Comune	Milano
+TASK_00338	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0370.txt	Comune	Milano
+TASK_00339	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0372.txt	Comune	Milano
+TASK_00340	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0373.txt	Comune	Milano
+TASK_00341	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0371.txt	Comune	Milano
+TASK_00342	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0375.txt	Comune	Milano
+TASK_00343	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0376.txt	Comune	Milano
+TASK_00344	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0374.txt	Comune	Milano
+TASK_00345	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0377.txt	Comune	Milano
+TASK_00346	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0378.txt	Comune	Milano
+TASK_00347	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0379.txt	Comune	Milano
+TASK_00348	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0380.txt	Comune	Milano
+TASK_00349	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0381.txt	Comune	Milano
+TASK_00350	edit_with_ground_SBERT	7	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0382.txt	Comune	Milano
+TASK_00351	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0383.txt	Comune	Milano
+TASK_00352	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0384.txt	Comune	Milano
+TASK_00353	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0385.txt	Comune	Milano
+TASK_00354	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0386.txt	Comune	Milano
+TASK_00355	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0387.txt	Comune	Milano
+TASK_00356	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0388.txt	Comune	Milano
+TASK_00357	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0389.txt	Comune	Milano
+TASK_00358	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0390.txt	Comune	Milano
+TASK_00359	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0391.txt	Comune	Milano
+TASK_00360	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0392.txt	Comune	Milano
+TASK_00361	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0393.txt	Comune	Milano
+TASK_00362	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0394.txt	Comune	Milano
+TASK_00363	edit_with_ground_SBERT	9	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0395.txt	Comune	Milano
+TASK_00364	edit_with_ground_SBERT	9	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0396.txt	Comune	Milano
+TASK_00365	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0397.txt	Comune	Milano
+TASK_00366	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0398.txt	Comune	Milano
+TASK_00367	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0399.txt	Comune	Milano
+TASK_00368	edit_with_ground_SBERT	9	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0400.txt	Comune	Milano
+TASK_00369	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0401.txt	Comune	Milano
+TASK_00370	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0402.txt	Comune	Milano
+TASK_00371	edit_with_ground_SBERT	7	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0403.txt	Comune	Milano
+TASK_00372	edit_with_ground_SBERT	12	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0404.txt	Comune	Milano
+TASK_00373	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0405.txt	Comune	Milano
+TASK_00374	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0406.txt	Comune	Milano
+TASK_00375	edit_with_ground_SBERT	7	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0408.txt	Comune	Milano
+TASK_00376	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0410.txt	Comune	Milano
+TASK_00377	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0411.txt	Comune	Milano
+TASK_00378	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0412.txt	Comune	Milano
+TASK_00379	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0413.txt	Comune	Milano
+TASK_00380	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0414.txt	Comune	Milano
+TASK_00381	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0415.txt	Comune	Milano
+TASK_00382	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0416.txt	Comune	Milano
+TASK_00383	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0417.txt	Comune	Milano
+TASK_00384	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0418.txt	Comune	Milano
+TASK_00385	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0419.txt	Comune	Milano
+TASK_00386	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0420.txt	Comune	Milano
+TASK_00387	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0421.txt	Comune	Milano
+TASK_00388	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0422.txt	Comune	Milano
+TASK_00389	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0423.txt	Comune	Milano
+TASK_00390	edit_with_ground_SBERT	7	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0424.txt	Comune	Milano
+TASK_00391	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0425.txt	Comune	Milano
+TASK_00392	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0426.txt	Comune	Milano
+TASK_00393	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0427.txt	Comune	Milano
+TASK_00394	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0428.txt	Comune	Milano
+TASK_00395	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0429.txt	Comune	Milano
+TASK_00396	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0430.txt	Comune	Milano
+TASK_00397	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.milano_aree-tematiche_links_D0433.txt	Comune	Milano
+TASK_00398	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0001.txt	Comune	Trento
+TASK_00399	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0002.txt	Comune	Trento
+TASK_00400	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0003.txt	Comune	Trento
+TASK_00401	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0004.txt	Comune	Trento
+TASK_00402	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0005.txt	Comune	Trento
+TASK_00403	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0006.txt	Comune	Trento
+TASK_00404	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0007.txt	Comune	Trento
+TASK_00405	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0008.txt	Comune	Trento
+TASK_00406	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0010.txt	Comune	Trento
+TASK_00407	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0011.txt	Comune	Trento
+TASK_00408	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0012.txt	Comune	Trento
+TASK_00409	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0013.txt	Comune	Trento
+TASK_00410	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0015.txt	Comune	Trento
+TASK_00411	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0016.txt	Comune	Trento
+TASK_00412	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0017.txt	Comune	Trento
+TASK_00413	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0018.txt	Comune	Trento
+TASK_00414	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0019.txt	Comune	Trento
+TASK_00415	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0020.txt	Comune	Trento
+TASK_00416	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0022.txt	Comune	Trento
+TASK_00417	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0023.txt	Comune	Trento
+TASK_00418	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0024.txt	Comune	Trento
+TASK_00419	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0026.txt	Comune	Trento
+TASK_00420	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0027.txt	Comune	Trento
+TASK_00421	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0028.txt	Comune	Trento
+TASK_00422	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0029.txt	Comune	Trento
+TASK_00423	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0031.txt	Comune	Trento
+TASK_00424	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0032.txt	Comune	Trento
+TASK_00425	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0033.txt	Comune	Trento
+TASK_00426	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0034.txt	Comune	Trento
+TASK_00427	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0035.txt	Comune	Trento
+TASK_00428	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0036.txt	Comune	Trento
+TASK_00429	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0037.txt	Comune	Trento
+TASK_00430	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0038.txt	Comune	Trento
+TASK_00431	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0039.txt	Comune	Trento
+TASK_00432	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0040.txt	Comune	Trento
+TASK_00433	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0041.txt	Comune	Trento
+TASK_00434	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0042.txt	Comune	Trento
+TASK_00435	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0044.txt	Comune	Trento
+TASK_00436	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0045.txt	Comune	Trento
+TASK_00437	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0047.txt	Comune	Trento
+TASK_00438	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0048.txt	Comune	Trento
+TASK_00439	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0050.txt	Comune	Trento
+TASK_00440	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0051.txt	Comune	Trento
+TASK_00441	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0053.txt	Comune	Trento
+TASK_00442	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0055.txt	Comune	Trento
+TASK_00443	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0056.txt	Comune	Trento
+TASK_00444	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0058.txt	Comune	Trento
+TASK_00445	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0061.txt	Comune	Trento
+TASK_00446	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0062.txt	Comune	Trento
+TASK_00447	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0063.txt	Comune	Trento
+TASK_00448	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0065.txt	Comune	Trento
+TASK_00449	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0066.txt	Comune	Trento
+TASK_00450	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0069.txt	Comune	Trento
+TASK_00451	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0070.txt	Comune	Trento
+TASK_00452	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0071.txt	Comune	Trento
+TASK_00453	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0072.txt	Comune	Trento
+TASK_00454	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0073.txt	Comune	Trento
+TASK_00455	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0074.txt	Comune	Trento
+TASK_00456	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0075.txt	Comune	Trento
+TASK_00457	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0077.txt	Comune	Trento
+TASK_00458	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0078.txt	Comune	Trento
+TASK_00459	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0079.txt	Comune	Trento
+TASK_00460	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0081.txt	Comune	Trento
+TASK_00461	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0083.txt	Comune	Trento
+TASK_00462	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0084.txt	Comune	Trento
+TASK_00463	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0086.txt	Comune	Trento
+TASK_00464	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0087.txt	Comune	Trento
+TASK_00465	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0088.txt	Comune	Trento
+TASK_00466	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0093.txt	Comune	Trento
+TASK_00467	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0094.txt	Comune	Trento
+TASK_00468	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0096.txt	Comune	Trento
+TASK_00469	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0097.txt	Comune	Trento
+TASK_00470	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0098.txt	Comune	Trento
+TASK_00471	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0100.txt	Comune	Trento
+TASK_00472	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0102.txt	Comune	Trento
+TASK_00473	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0103.txt	Comune	Trento
+TASK_00474	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0104.txt	Comune	Trento
+TASK_00475	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0105.txt	Comune	Trento
+TASK_00476	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0106.txt	Comune	Trento
+TASK_00477	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0108.txt	Comune	Trento
+TASK_00478	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0109.txt	Comune	Trento
+TASK_00479	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0112.txt	Comune	Trento
+TASK_00480	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0114.txt	Comune	Trento
+TASK_00481	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0115.txt	Comune	Trento
+TASK_00482	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0116.txt	Comune	Trento
+TASK_00483	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0118.txt	Comune	Trento
+TASK_00484	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0121.txt	Comune	Trento
+TASK_00485	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0122.txt	Comune	Trento
+TASK_00486	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0128.txt	Comune	Trento
+TASK_00487	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0129.txt	Comune	Trento
+TASK_00488	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0131.txt	Comune	Trento
+TASK_00489	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0134.txt	Comune	Trento
+TASK_00490	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0136.txt	Comune	Trento
+TASK_00491	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0138.txt	Comune	Trento
+TASK_00492	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0139.txt	Comune	Trento
+TASK_00493	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0141.txt	Comune	Trento
+TASK_00494	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0142.txt	Comune	Trento
+TASK_00495	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0143.txt	Comune	Trento
+TASK_00496	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0144.txt	Comune	Trento
+TASK_00497	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0145.txt	Comune	Trento
+TASK_00498	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0146.txt	Comune	Trento
+TASK_00499	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0148.txt	Comune	Trento
+TASK_00500	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0150.txt	Comune	Trento
+TASK_00501	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0153.txt	Comune	Trento
+TASK_00502	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0154.txt	Comune	Trento
+TASK_00503	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0155.txt	Comune	Trento
+TASK_00504	edit_with_ground_SBERT	7	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0156.txt	Comune	Trento
+TASK_00505	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0157.txt	Comune	Trento
+TASK_00506	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0158.txt	Comune	Trento
+TASK_00507	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0161.txt	Comune	Trento
+TASK_00508	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0162.txt	Comune	Trento
+TASK_00509	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0164.txt	Comune	Trento
+TASK_00510	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0165.txt	Comune	Trento
+TASK_00511	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0167.txt	Comune	Trento
+TASK_00512	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0168.txt	Comune	Trento
+TASK_00513	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0170.txt	Comune	Trento
+TASK_00514	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0172.txt	Comune	Trento
+TASK_00515	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0176.txt	Comune	Trento
+TASK_00516	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0177.txt	Comune	Trento
+TASK_00517	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0178.txt	Comune	Trento
+TASK_00518	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0181.txt	Comune	Trento
+TASK_00519	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0183.txt	Comune	Trento
+TASK_00520	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0185.txt	Comune	Trento
+TASK_00521	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0188.txt	Comune	Trento
+TASK_00522	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0195.txt	Comune	Trento
+TASK_00523	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0196.txt	Comune	Trento
+TASK_00524	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0199.txt	Comune	Trento
+TASK_00525	edit_with_ground_SBERT	7	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0201.txt	Comune	Trento
+TASK_00526	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0203.txt	Comune	Trento
+TASK_00527	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0204.txt	Comune	Trento
+TASK_00528	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0205.txt	Comune	Trento
+TASK_00529	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0209.txt	Comune	Trento
+TASK_00530	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0210.txt	Comune	Trento
+TASK_00531	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0211.txt	Comune	Trento
+TASK_00532	edit_with_ground_SBERT	7	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0212.txt	Comune	Trento
+TASK_00533	edit_with_ground_SBERT	7	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0213.txt	Comune	Trento
+TASK_00534	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0215.txt	Comune	Trento
+TASK_00535	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0217.txt	Comune	Trento
+TASK_00536	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0218.txt	Comune	Trento
+TASK_00537	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0219.txt	Comune	Trento
+TASK_00538	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0220.txt	Comune	Trento
+TASK_00539	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0223.txt	Comune	Trento
+TASK_00540	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0225.txt	Comune	Trento
+TASK_00541	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0226.txt	Comune	Trento
+TASK_00542	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0227.txt	Comune	Trento
+TASK_00543	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0228.txt	Comune	Trento
+TASK_00544	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0229.txt	Comune	Trento
+TASK_00545	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0230.txt	Comune	Trento
+TASK_00546	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0231.txt	Comune	Trento
+TASK_00547	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0233.txt	Comune	Trento
+TASK_00548	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0234.txt	Comune	Trento
+TASK_00549	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0235.txt	Comune	Trento
+TASK_00550	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0236.txt	Comune	Trento
+TASK_00551	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0239.txt	Comune	Trento
+TASK_00552	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0240.txt	Comune	Trento
+TASK_00553	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0241.txt	Comune	Trento
+TASK_00554	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0243.txt	Comune	Trento
+TASK_00555	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0246.txt	Comune	Trento
+TASK_00556	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0247.txt	Comune	Trento
+TASK_00557	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0248.txt	Comune	Trento
+TASK_00558	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0249.txt	Comune	Trento
+TASK_00559	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0251.txt	Comune	Trento
+TASK_00560	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0252.txt	Comune	Trento
+TASK_00561	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0254.txt	Comune	Trento
+TASK_00562	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0255.txt	Comune	Trento
+TASK_00563	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0256.txt	Comune	Trento
+TASK_00564	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0257.txt	Comune	Trento
+TASK_00565	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0260.txt	Comune	Trento
+TASK_00566	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0261.txt	Comune	Trento
+TASK_00567	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0262.txt	Comune	Trento
+TASK_00568	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0264.txt	Comune	Trento
+TASK_00569	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0266.txt	Comune	Trento
+TASK_00570	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0268.txt	Comune	Trento
+TASK_00571	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0271.txt	Comune	Trento
+TASK_00572	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0273.txt	Comune	Trento
+TASK_00573	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0274.txt	Comune	Trento
+TASK_00574	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0276.txt	Comune	Trento
+TASK_00575	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0277.txt	Comune	Trento
+TASK_00576	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0278.txt	Comune	Trento
+TASK_00577	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0279.txt	Comune	Trento
+TASK_00578	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0280.txt	Comune	Trento
+TASK_00579	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0281.txt	Comune	Trento
+TASK_00580	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0282.txt	Comune	Trento
+TASK_00581	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0286.txt	Comune	Trento
+TASK_00582	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0287.txt	Comune	Trento
+TASK_00583	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0289.txt	Comune	Trento
+TASK_00584	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0295.txt	Comune	Trento
+TASK_00585	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0296.txt	Comune	Trento
+TASK_00586	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0299.txt	Comune	Trento
+TASK_00587	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0301.txt	Comune	Trento
+TASK_00588	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0302.txt	Comune	Trento
+TASK_00589	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0303.txt	Comune	Trento
+TASK_00590	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0304.txt	Comune	Trento
+TASK_00591	edit_with_ground_SBERT	7	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0308.txt	Comune	Trento
+TASK_00592	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0309.txt	Comune	Trento
+TASK_00593	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0310.txt	Comune	Trento
+TASK_00594	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0311.txt	Comune	Trento
+TASK_00595	edit_with_ground_SBERT	7	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0312.txt	Comune	Trento
+TASK_00596	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0316.txt	Comune	Trento
+TASK_00597	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0317.txt	Comune	Trento
+TASK_00598	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0320.txt	Comune	Trento
+TASK_00599	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0322.txt	Comune	Trento
+TASK_00600	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0324.txt	Comune	Trento
+TASK_00601	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0325.txt	Comune	Trento
+TASK_00602	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0326.txt	Comune	Trento
+TASK_00603	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0327.txt	Comune	Trento
+TASK_00604	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0330.txt	Comune	Trento
+TASK_00605	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0331.txt	Comune	Trento
+TASK_00606	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0332.txt	Comune	Trento
+TASK_00607	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0334.txt	Comune	Trento
+TASK_00608	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0336.txt	Comune	Trento
+TASK_00609	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0338.txt	Comune	Trento
+TASK_00610	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0339.txt	Comune	Trento
+TASK_00611	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0340.txt	Comune	Trento
+TASK_00612	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0342.txt	Comune	Trento
+TASK_00613	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0343.txt	Comune	Trento
+TASK_00614	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0344.txt	Comune	Trento
+TASK_00615	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0346.txt	Comune	Trento
+TASK_00616	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0348.txt	Comune	Trento
+TASK_00617	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0352.txt	Comune	Trento
+TASK_00618	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0354.txt	Comune	Trento
+TASK_00619	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0358.txt	Comune	Trento
+TASK_00620	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0359.txt	Comune	Trento
+TASK_00621	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0361.txt	Comune	Trento
+TASK_00622	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0362.txt	Comune	Trento
+TASK_00623	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0364.txt	Comune	Trento
+TASK_00624	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0367.txt	Comune	Trento
+TASK_00625	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0369.txt	Comune	Trento
+TASK_00626	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0371.txt	Comune	Trento
+TASK_00627	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0374.txt	Comune	Trento
+TASK_00628	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0377.txt	Comune	Trento
+TASK_00629	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0378.txt	Comune	Trento
+TASK_00630	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0379.txt	Comune	Trento
+TASK_00631	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0380.txt	Comune	Trento
+TASK_00632	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0381.txt	Comune	Trento
+TASK_00633	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0384.txt	Comune	Trento
+TASK_00634	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0385.txt	Comune	Trento
+TASK_00635	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0386.txt	Comune	Trento
+TASK_00636	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0394.txt	Comune	Trento
+TASK_00637	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0396.txt	Comune	Trento
+TASK_00638	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0397.txt	Comune	Trento
+TASK_00639	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0398.txt	Comune	Trento
+TASK_00640	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0399.txt	Comune	Trento
+TASK_00641	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0400.txt	Comune	Trento
+TASK_00642	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0402.txt	Comune	Trento
+TASK_00643	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0404.txt	Comune	Trento
+TASK_00644	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0406.txt	Comune	Trento
+TASK_00645	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0407.txt	Comune	Trento
+TASK_00646	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0409.txt	Comune	Trento
+TASK_00647	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0410.txt	Comune	Trento
+TASK_00648	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0414.txt	Comune	Trento
+TASK_00649	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0416.txt	Comune	Trento
+TASK_00650	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0417.txt	Comune	Trento
+TASK_00651	edit_with_ground_SBERT	3	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0418.txt	Comune	Trento
+TASK_00652	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0422.txt	Comune	Trento
+TASK_00653	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0425.txt	Comune	Trento
+TASK_00654	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0426.txt	Comune	Trento
+TASK_00655	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0429.txt	Comune	Trento
+TASK_00656	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0430.txt	Comune	Trento
+TASK_00657	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0431.txt	Comune	Trento
+TASK_00658	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0432.txt	Comune	Trento
+TASK_00659	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0434.txt	Comune	Trento
+TASK_00660	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0435.txt	Comune	Trento
+TASK_00661	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0436.txt	Comune	Trento
+TASK_00662	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0437.txt	Comune	Trento
+TASK_00663	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0438.txt	Comune	Trento
+TASK_00664	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0441.txt	Comune	Trento
+TASK_00665	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0443.txt	Comune	Trento
+TASK_00666	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0444.txt	Comune	Trento
+TASK_00667	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0447.txt	Comune	Trento
+TASK_00668	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0448.txt	Comune	Trento
+TASK_00669	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0452.txt	Comune	Trento
+TASK_00670	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0453.txt	Comune	Trento
+TASK_00671	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0456.txt	Comune	Trento
+TASK_00672	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0459.txt	Comune	Trento
+TASK_00673	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0462.txt	Comune	Trento
+TASK_00674	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0465.txt	Comune	Trento
+TASK_00675	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0467.txt	Comune	Trento
+TASK_00676	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0469.txt	Comune	Trento
+TASK_00677	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0476.txt	Comune	Trento
+TASK_00678	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0477.txt	Comune	Trento
+TASK_00679	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0481.txt	Comune	Trento
+TASK_00680	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0484.txt	Comune	Trento
+TASK_00681	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0487.txt	Comune	Trento
+TASK_00682	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0490.txt	Comune	Trento
+TASK_00683	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0492.txt	Comune	Trento
+TASK_00684	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0493.txt	Comune	Trento
+TASK_00685	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0495.txt	Comune	Trento
+TASK_00686	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0496.txt	Comune	Trento
+TASK_00687	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0499.txt	Comune	Trento
+TASK_00688	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0500.txt	Comune	Trento
+TASK_00689	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0503.txt	Comune	Trento
+TASK_00690	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0504.txt	Comune	Trento
+TASK_00691	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0505.txt	Comune	Trento
+TASK_00692	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0506.txt	Comune	Trento
+TASK_00693	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0507.txt	Comune	Trento
+TASK_00694	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0510.txt	Comune	Trento
+TASK_00695	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0513.txt	Comune	Trento
+TASK_00696	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0514.txt	Comune	Trento
+TASK_00697	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0515.txt	Comune	Trento
+TASK_00698	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0516.txt	Comune	Trento
+TASK_00699	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0518.txt	Comune	Trento
+TASK_00700	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0519.txt	Comune	Trento
+TASK_00701	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0520.txt	Comune	Trento
+TASK_00702	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0522.txt	Comune	Trento
+TASK_00703	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0523.txt	Comune	Trento
+TASK_00704	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0525.txt	Comune	Trento
+TASK_00705	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0526.txt	Comune	Trento
+TASK_00706	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0528.txt	Comune	Trento
+TASK_00707	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0530.txt	Comune	Trento
+TASK_00708	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0531.txt	Comune	Trento
+TASK_00709	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0532.txt	Comune	Trento
+TASK_00710	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0533.txt	Comune	Trento
+TASK_00711	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0534.txt	Comune	Trento
+TASK_00712	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0537.txt	Comune	Trento
+TASK_00713	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0538.txt	Comune	Trento
+TASK_00714	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0539.txt	Comune	Trento
+TASK_00715	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0548.txt	Comune	Trento
+TASK_00716	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0550.txt	Comune	Trento
+TASK_00717	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0551.txt	Comune	Trento
+TASK_00718	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0553.txt	Comune	Trento
+TASK_00719	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0554.txt	Comune	Trento
+TASK_00720	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0555.txt	Comune	Trento
+TASK_00721	edit_with_ground_SBERT	7	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0558.txt	Comune	Trento
+TASK_00722	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0560.txt	Comune	Trento
+TASK_00723	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0563.txt	Comune	Trento
+TASK_00724	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0564.txt	Comune	Trento
+TASK_00725	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0565.txt	Comune	Trento
+TASK_00726	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0567.txt	Comune	Trento
+TASK_00727	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0568.txt	Comune	Trento
+TASK_00728	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0569.txt	Comune	Trento
+TASK_00729	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0575.txt	Comune	Trento
+TASK_00730	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0577.txt	Comune	Trento
+TASK_00731	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0580.txt	Comune	Trento
+TASK_00732	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0582.txt	Comune	Trento
+TASK_00733	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0583.txt	Comune	Trento
+TASK_00734	edit_with_ground_SBERT	9	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0590.txt	Comune	Trento
+TASK_00735	edit_with_ground_SBERT	12	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0594.txt	Comune	Trento
+TASK_00736	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0597.txt	Comune	Trento
+TASK_00737	edit_with_ground_SBERT	3	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0599.txt	Comune	Trento
+TASK_00738	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0600.txt	Comune	Trento
+TASK_00739	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0605.txt	Comune	Trento
+TASK_00740	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0609.txt	Comune	Trento
+TASK_00741	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0610.txt	Comune	Trento
+TASK_00742	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0613.txt	Comune	Trento
+TASK_00743	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.trento_aree-tematiche_D0614.txt	Comune	Trento
+TASK_00744	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0001.txt	Comune	Salerno
+TASK_00745	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.salerno_D0004.txt	Comune	Salerno
+TASK_00746	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.salerno_D0005.txt	Comune	Salerno
+TASK_00747	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.salerno_D0006.txt	Comune	Salerno
+TASK_00748	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.salerno_D0007.txt	Comune	Salerno
+TASK_00749	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.salerno_D0008.txt	Comune	Salerno
+TASK_00750	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.salerno_D0009.txt	Comune	Salerno
+TASK_00751	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.salerno_D0010.txt	Comune	Salerno
+TASK_00752	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0014.txt	Comune	Salerno
+TASK_00753	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.salerno_D0016.txt	Comune	Salerno
+TASK_00754	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.salerno_D0018.txt	Comune	Salerno
+TASK_00755	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.salerno_D0019.txt	Comune	Salerno
+TASK_00756	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.salerno_D0020.txt	Comune	Salerno
+TASK_00757	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.salerno_D0021.txt	Comune	Salerno
+TASK_00758	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.salerno_D0022.txt	Comune	Salerno
+TASK_00759	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.salerno_D0023.txt	Comune	Salerno
+TASK_00760	edit_with_ground_SBERT	3	Cittadino	Lei	False	False	comune.salerno_D0024.txt	Comune	Salerno
+TASK_00761	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.salerno_D0025.txt	Comune	Salerno
+TASK_00762	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.salerno_D0026.txt	Comune	Salerno
+TASK_00763	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.salerno_D0027.txt	Comune	Salerno
+TASK_00764	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0028.txt	Comune	Salerno
+TASK_00765	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0029.txt	Comune	Salerno
+TASK_00766	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0030.txt	Comune	Salerno
+TASK_00767	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0031.txt	Comune	Salerno
+TASK_00768	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0032.txt	Comune	Salerno
+TASK_00769	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0033.txt	Comune	Salerno
+TASK_00770	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0034.txt	Comune	Salerno
+TASK_00771	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0035.txt	Comune	Salerno
+TASK_00772	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0036.txt	Comune	Salerno
+TASK_00773	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0037.txt	Comune	Salerno
+TASK_00774	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0039.txt	Comune	Salerno
+TASK_00775	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0040.txt	Comune	Salerno
+TASK_00776	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0041.txt	Comune	Salerno
+TASK_00777	edit_with_ground_SBERT	7	Cittadino	Lei	False	False	comune.salerno_D0045.txt	Comune	Salerno
+TASK_00778	edit_with_ground_SBERT	7	Cittadino	Lei	False	False	comune.salerno_D0046.txt	Comune	Salerno
+TASK_00779	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.salerno_D0048.txt	Comune	Salerno
+TASK_00780	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.salerno_D0049.txt	Comune	Salerno
+TASK_00781	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.salerno_D0050.txt	Comune	Salerno
+TASK_00782	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0051.txt	Comune	Salerno
+TASK_00783	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.salerno_D0053.txt	Comune	Salerno
+TASK_00784	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.salerno_D0054.txt	Comune	Salerno
+TASK_00785	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0055.txt	Comune	Salerno
+TASK_00786	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0056.txt	Comune	Salerno
+TASK_00787	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0057.txt	Comune	Salerno
+TASK_00788	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0058.txt	Comune	Salerno
+TASK_00789	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.salerno_D0059.txt	Comune	Salerno
+TASK_00790	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0063.txt	Comune	Salerno
+TASK_00791	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0064.txt	Comune	Salerno
+TASK_00792	edit_with_ground_SBERT	3	Cittadino	Lei	False	False	comune.salerno_D0065.txt	Comune	Salerno
+TASK_00793	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.salerno_D0069.txt	Comune	Salerno
+TASK_00794	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.salerno_D0070.txt	Comune	Salerno
+TASK_00795	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.salerno_D0071.txt	Comune	Salerno
+TASK_00796	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.salerno_D0072.txt	Comune	Salerno
+TASK_00797	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.salerno_D0073.txt	Comune	Salerno
+TASK_00798	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.salerno_D0074.txt	Comune	Salerno
+TASK_00799	edit_with_ground_SBERT	9	Cittadino	Lei	False	False	comune.salerno_D0076.txt	Comune	Salerno
+TASK_00800	edit_with_ground_SBERT	9	Cittadino	Lei	False	False	comune.salerno_D0077.txt	Comune	Salerno
+TASK_00801	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.salerno_D0083.txt	Comune	Salerno
+TASK_00802	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.salerno_D0084.txt	Comune	Salerno
+TASK_00803	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0086.txt	Comune	Salerno
+TASK_00804	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0087.txt	Comune	Salerno
+TASK_00805	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0088.txt	Comune	Salerno
+TASK_00806	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0089.txt	Comune	Salerno
+TASK_00807	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.salerno_D0090.txt	Comune	Salerno
+TASK_00808	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.salerno_D0091.txt	Comune	Salerno
+TASK_00809	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.salerno_D0092.txt	Comune	Salerno
+TASK_00810	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0094.txt	Comune	Salerno
+TASK_00811	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0095.txt	Comune	Salerno
+TASK_00812	edit_with_ground_SBERT	7	Cittadino	Lei	False	False	comune.salerno_D0096.txt	Comune	Salerno
+TASK_00813	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.salerno_D0097.txt	Comune	Salerno
+TASK_00814	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.salerno_D0099.txt	Comune	Salerno
+TASK_00815	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.salerno_D0100.txt	Comune	Salerno
+TASK_00816	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.salerno_D0102.txt	Comune	Salerno
+TASK_00817	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.salerno_D0103.txt	Comune	Salerno
+TASK_00818	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.salerno_D0104.txt	Comune	Salerno
+TASK_00819	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.salerno_D0105.txt	Comune	Salerno
+TASK_00820	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.salerno_D0112.txt	Comune	Salerno
+TASK_00821	edit_with_ground_SBERT	3	Cittadino	Lei	False	False	comune.salerno_D0113.txt	Comune	Salerno
+TASK_00822	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.salerno_D0114.txt	Comune	Salerno
+TASK_00823	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.salerno_D0115.txt	Comune	Salerno
+TASK_00824	edit_with_ground_SBERT	3	Cittadino	Lei	False	False	comune.salerno_D0116.txt	Comune	Salerno
+TASK_00825	edit_with_ground_SBERT	3	Cittadino	Lei	False	False	comune.salerno_D0117.txt	Comune	Salerno
+TASK_00826	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.salerno_D0118.txt	Comune	Salerno
+TASK_00827	edit_with_ground_SBERT	3	Cittadino	Lei	False	False	comune.salerno_D0119.txt	Comune	Salerno
+TASK_00828	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.salerno_D0121.txt	Comune	Salerno
+TASK_00829	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0123.txt	Comune	Salerno
+TASK_00830	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0124.txt	Comune	Salerno
+TASK_00831	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.salerno_D0125.txt	Comune	Salerno
+TASK_00832	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.salerno_D0126.txt	Comune	Salerno
+TASK_00833	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.salerno_D0127.txt	Comune	Salerno
+TASK_00834	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0133.txt	Comune	Salerno
+TASK_00835	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0134.txt	Comune	Salerno
+TASK_00836	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.salerno_D0136.txt	Comune	Salerno
+TASK_00837	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.salerno_D0138.txt	Comune	Salerno
+TASK_00838	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.salerno_D0142.txt	Comune	Salerno
+TASK_00839	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.salerno_D0144.txt	Comune	Salerno
+TASK_00840	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.salerno_D0145.txt	Comune	Salerno
+TASK_00841	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0147.txt	Comune	Salerno
+TASK_00842	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.salerno_D0149.txt	Comune	Salerno
+TASK_00843	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.salerno_D0150.txt	Comune	Salerno
+TASK_00844	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0151.txt	Comune	Salerno
+TASK_00845	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.salerno_D0152.txt	Comune	Salerno
+TASK_00846	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.salerno_D0153.txt	Comune	Salerno
+TASK_00847	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.salerno_D0157.txt	Comune	Salerno
+TASK_00848	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0163.txt	Comune	Salerno
+TASK_00849	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.salerno_D0164.txt	Comune	Salerno
+TASK_00850	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0165.txt	Comune	Salerno
+TASK_00851	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0166.txt	Comune	Salerno
+TASK_00852	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0167.txt	Comune	Salerno
+TASK_00853	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.salerno_D0090.txt	Comune	Salerno
+TASK_00854	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.salerno_D0091.txt	Comune	Salerno
+TASK_00855	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.salerno_D0092.txt	Comune	Salerno
+TASK_00856	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.salerno_D0099.txt	Comune	Salerno
+TASK_00857	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.salerno_D0100.txt	Comune	Salerno
+TASK_00858	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0103.txt	Comune	Salerno
+TASK_00859	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.salerno_D0170.txt	Comune	Salerno
+TASK_00860	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0171.txt	Comune	Salerno
+TASK_00861	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.salerno_D0172.txt	Comune	Salerno
+TASK_00862	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.salerno_D0174.txt	Comune	Salerno
+TASK_00863	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.salerno_D0175.txt	Comune	Salerno
+TASK_00864	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.salerno_D0176.txt	Comune	Salerno
+TASK_00865	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0178.txt	Comune	Salerno
+TASK_00866	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.salerno_D0179.txt	Comune	Salerno
+TASK_00867	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.salerno_D0180.txt	Comune	Salerno
+TASK_00868	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0182.txt	Comune	Salerno
+TASK_00869	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.salerno_D0184.txt	Comune	Salerno
+TASK_00870	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.salerno_D0185.txt	Comune	Salerno
+TASK_00871	edit_with_ground_SBERT	10	Cittadino	Lei	False	False	comune.salerno_D0186.txt	Comune	Salerno
+TASK_00872	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.salerno_D0188.txt	Comune	Salerno
+TASK_00873	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.salerno_D0189.txt	Comune	Salerno
+TASK_00874	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.salerno_D0190.txt	Comune	Salerno
+TASK_00875	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0191.txt	Comune	Salerno
+TASK_00876	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0193.txt	Comune	Salerno
+TASK_00877	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0194.txt	Comune	Salerno
+TASK_00878	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.salerno_D0196.txt	Comune	Salerno
+TASK_00879	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.salerno_D0197.txt	Comune	Salerno
+TASK_00880	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.salerno_D0198.txt	Comune	Salerno
+TASK_00881	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.salerno_D0199.txt	Comune	Salerno
+TASK_00882	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.salerno_D0201.txt	Comune	Salerno
+TASK_00883	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.salerno_D0205.txt	Comune	Salerno
+TASK_00884	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.salerno_D0206.txt	Comune	Salerno
+TASK_00885	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.salerno_D0207.txt	Comune	Salerno
+TASK_00886	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.salerno_D0211.txt	Comune	Salerno
+TASK_00887	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0213.txt	Comune	Salerno
+TASK_00888	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.salerno_D0214.txt	Comune	Salerno
+TASK_00889	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.salerno_D0215.txt	Comune	Salerno
+TASK_00890	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.salerno_D0221.txt	Comune	Salerno
+TASK_00891	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.salerno_D0224.txt	Comune	Salerno
+TASK_00892	edit_with_ground_SBERT	7	Cittadino	Lei	False	False	comune.salerno_D0225.txt	Comune	Salerno
+TASK_00893	edit_with_ground_SBERT	7	Cittadino	Lei	False	False	comune.salerno_D0226.txt	Comune	Salerno
+TASK_00894	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0227.txt	Comune	Salerno
+TASK_00895	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.salerno_D0228.txt	Comune	Salerno
+TASK_00896	edit_with_ground_SBERT	6	Cittadino	Lei	False	False	comune.salerno_D0247.txt	Comune	Salerno
+TASK_00897	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.salerno_D0249.txt	Comune	Salerno
+TASK_00898	edit_with_ground_SBERT	8	Cittadino	Lei	False	False	comune.salerno_D0250.txt	Comune	Salerno
+TASK_00899	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.salerno_D0255.txt	Comune	Salerno
+TASK_00900	edit_with_ground_SBERT	2	Cittadino	Lei	False	False	comune.salerno_D0257.txt	Comune	Salerno
+TASK_00901	edit_with_ground_SBERT	4	Cittadino	Lei	False	False	comune.salerno_D0272.txt	Comune	Salerno
+TASK_00902	edit_with_ground_SBERT	5	Cittadino	Lei	False	False	comune.salerno_D0279.txt	Comune	Salerno
+TASK_00903	edit_with_ground_SBERT_pa_operator	10	Operatore PA	Lei	False	False	comune.salerno_D0636.txt	Comune	Salerno
+TASK_00904	edit_with_ground_SBERT_pa_operator	8	Operatore PA	Lei	False	False	comune.salerno_D0681.txt	Comune	Salerno
+TASK_00905	edit_with_ground_SBERT_pa_operator	6	Operatore PA	Lei	False	False	comune.salerno_D0685.txt	Comune	Salerno
+TASK_00906	edit_with_ground_SBERT_pa_operator	8	Operatore PA	Lei	False	False	comune.salerno_D0686.txt	Comune	Salerno
+TASK_00907	edit_with_ground_SBERT_pa_operator	8	Operatore PA	Lei	False	False	comune.salerno_D0687.txt	Comune	Salerno
+TASK_00908	edit_with_ground_SBERT_pa_operator	14	Operatore PA	Lei	False	False	comune.salerno_D0691.txt	Comune	Salerno
+TASK_00909	edit_with_ground_SBERT_pa_operator	10	Operatore PA	Lei	False	False	comune.salerno_D0692.txt	Comune	Salerno
+TASK_00910	edit_with_ground_SBERT_pa_operator	10	Operatore PA	Lei	False	False	comune.salerno_D0693.txt	Comune	Salerno
+TASK_00911	edit_with_ground_SBERT_pa_operator	8	Operatore PA	Lei	False	False	comune.salerno_D0694.txt	Comune	Salerno
+TASK_00912	edit_with_ground_SBERT_pa_operator	6	Operatore PA	Lei	False	False	comune.salerno_D0695.txt	Comune	Salerno
+TASK_00913	edit_with_ground_SBERT_pa_operator	8	Operatore PA	Lei	False	False	comune.salerno_D0696.txt	Comune	Salerno
+TASK_00914	edit_with_ground_SBERT_pa_operator	12	Operatore PA	Lei	False	False	comune.salerno_D0697.txt	Comune	Salerno
+TASK_00915	edit_with_ground_SBERT_pa_operator	12	Operatore PA	Lei	False	False	comune.salerno_D0698.txt	Comune	Salerno
+TASK_00916	dynamic_interface	6	Operatore PA	Tu	False	False	comune.trento_aree-tematiche_D0001.txt	Comune	Trento
+TASK_00917	dynamic_interface	6	Operatore PA	Tu	False	False	comune.trento_aree-tematiche_D0005.txt	Comune	Trento
+TASK_00918	dynamic_interface	4	Operatore PA	Tu	False	False	comune.trento_aree-tematiche_D0010.txt	Comune	Trento
+TASK_00919	dynamic_interface	4	Operatore PA	Tu	False	False	comune.trento_aree-tematiche_D0013.txt	Comune	Trento
+TASK_00920	dynamic_interface	4	Operatore PA	Tu	False	False	comune.trento_aree-tematiche_D0016.txt	Comune	Trento
+TASK_00921	dynamic_interface	4	Operatore PA	Tu	False	False	comune.trento_aree-tematiche_D0023.txt	Comune	Trento
+TASK_00922	dynamic_interface	2	Operatore PA	Tu	False	False	comune.trento_aree-tematiche_D0027.txt	Comune	Trento
+TASK_00923	dynamic_interface	4	Operatore PA	Tu	False	False	comune.trento_aree-tematiche_D0028.txt	Comune	Trento
+TASK_00924	dynamic_interface	4	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0200.txt	Comune	Milano
+TASK_00925	dynamic_interface	6	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0202.txt	Comune	Milano
+TASK_00926	dynamic_interface	4	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0207.txt	Comune	Milano
+TASK_00927	dynamic_interface	4	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0210.txt	Comune	Milano
+TASK_00928	dynamic_interface	4	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0213.txt	Comune	Milano
+TASK_00929	dynamic_interface	6	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0214.txt	Comune	Milano
+TASK_00930	dynamic_interface	4	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0216.txt	Comune	Milano
+TASK_00931	dynamic_interface	8	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0218.txt	Comune	Milano
+TASK_00932	dynamic_interface	4	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0219.txt	Comune	Milano
+TASK_00933	dynamic_interface	6	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0220.txt	Comune	Milano
+TASK_00934	dynamic_interface	4	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0221.txt	Comune	Milano
+TASK_00935	dynamic_interface	2	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0222.txt	Comune	Milano
+TASK_00936	dynamic_interface	6	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0223.txt	Comune	Milano
+TASK_00937	dynamic_interface	4	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0224.txt	Comune	Milano
+TASK_00938	dynamic_interface	6	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0241.txt	Comune	Milano
+TASK_00939	dynamic_interface	12	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0242.txt	Comune	Milano
+TASK_00940	dynamic_interface	4	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0244.txt	Comune	Milano
+TASK_00941	dynamic_interface	6	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0246.txt	Comune	Milano
+TASK_00942	dynamic_interface	8	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0223_1.txt	Comune	Milano
+TASK_00943	dynamic_interface	6	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0231.txt	Comune	Milano
+TASK_00944	dynamic_interface	6	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0232.txt	Comune	Milano
+TASK_00945	dynamic_interface	6	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0233.txt	Comune	Milano
+TASK_00946	dynamic_interface	4	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0234.txt	Comune	Milano
+TASK_00947	dynamic_interface	8	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0235.txt	Comune	Milano
+TASK_00948	dynamic_interface	6	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0239.txt	Comune	Milano
+TASK_00949	dynamic_interface	4	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0249.txt	Comune	Milano
+TASK_00950	dynamic_interface	4	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0253.txt	Comune	Milano
+TASK_00951	dynamic_interface	4	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0256.txt	Comune	Milano
+TASK_00952	dynamic_interface	4	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0260.txt	Comune	Milano
+TASK_00953	dynamic_interface	6	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0261.txt	Comune	Milano
+TASK_00954	dynamic_interface	4	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0285.txt	Comune	Milano
+TASK_00955	dynamic_interface	4	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0324.txt	Comune	Milano
+TASK_00956	dynamic_interface	4	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0326.txt	Comune	Milano
+TASK_00957	dynamic_interface	6	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0327.txt	Comune	Milano
+TASK_00958	dynamic_interface	4	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0328.txt	Comune	Milano
+TASK_00959	dynamic_interface	4	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0333.txt	Comune	Milano
+TASK_00960	dynamic_interface	6	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0335.txt	Comune	Milano
+TASK_00961	dynamic_interface	6	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0339.txt	Comune	Milano
+TASK_00962	dynamic_interface	4	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0340.txt	Comune	Milano
+TASK_00963	dynamic_interface	6	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0341.txt	Comune	Milano
+TASK_00964	dynamic_interface	6	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0342.txt	Comune	Milano
+TASK_00965	dynamic_interface	4	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0345.txt	Comune	Milano
+TASK_00966	dynamic_interface	4	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0346.txt	Comune	Milano
+TASK_00967	dynamic_interface	6	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0347.txt	Comune	Milano
+TASK_00968	dynamic_interface	4	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0356.txt	Comune	Milano
+TASK_00969	dynamic_interface	8	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0392.txt	Comune	Milano
+TASK_00970	dynamic_interface	4	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0393.txt	Comune	Milano
+TASK_00971	dynamic_interface	6	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0396.txt	Comune	Milano
+TASK_00972	dynamic_interface	7	Operatore PA	Tu	False	False	comune.milano_aree-tematiche_links_D0398.txt	Comune	Milano
+TASK_00973	dynamic_interface	4	Operatore PA	Tu	False	False	comSalerno0700.txt	Comune	Salerno
+TASK_00974	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno0701.txt	Comune	Salerno
+TASK_00975	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno0702.txt	Comune	Salerno
+TASK_00976	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno0703.txt	Comune	Salerno
+TASK_00977	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno0705.txt	Comune	Salerno
+TASK_00978	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno0720.txt	Comune	Salerno
+TASK_00979	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno0725.txt	Comune	Salerno
+TASK_00980	dynamic_interface	8	Operatore PA	Tu	False	False	comune.trento_aree-tematiche_D0050.txt	Comune	Trento
+TASK_00981	dynamic_interface	4	Operatore PA	Tu	False	False	comune.trento_aree-tematiche_D0071.txt	Comune	Trento
+TASK_00982	dynamic_interface	4	Operatore PA	Tu	False	False	comune.trento_aree-tematiche_D0097.txt	Comune	Trento
+TASK_00983	dynamic_interface	4	Operatore PA	Tu	False	False	comune.trento_aree-tematiche_D0103.txt	Comune	Trento
+TASK_00984	dynamic_interface	6	Operatore PA	Tu	False	False	comune.trento_aree-tematiche_D0106.txt	Comune	Trento
+TASK_00985	dynamic_interface	6	Operatore PA	Tu	False	False	comune.trento_aree-tematiche_D0122.txt	Comune	Trento
+TASK_00986	dynamic_interface	6	Operatore PA	Tu	False	False	comune.trento_aree-tematiche_D0128.txt	Comune	Trento
+TASK_00987	dynamic_interface	6	Operatore PA	Tu	False	False	comune.trento_aree-tematiche_D0141.txt	Comune	Trento
+TASK_00988	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno0732.txt	Comune	Salerno
+TASK_00989	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno0733.txt	Comune	Salerno
+TASK_00990	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno0749.txt	Comune	Salerno
+TASK_00991	dynamic_interface	10	Operatore PA	Tu	False	True	comSalerno0750.txt	Comune	Salerno
+TASK_00992	dynamic_interface	6	Operatore PA	Tu	False	True	comSalerno0752.txt	Comune	Salerno
+TASK_00993	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno0758.txt	Comune	Salerno
+TASK_00994	dynamic_interface	8	Operatore PA	Tu	False	False	comSalerno0760.txt	Comune	Salerno
+TASK_00995	dynamic_interface	6	Operatore PA	Tu	False	True	comSalerno0750_1.txt	Comune	Salerno
+TASK_00996	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno0778.txt	Comune	Salerno
+TASK_00997	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno0780.txt	Comune	Salerno
+TASK_00998	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno0784.txt	Comune	Salerno
+TASK_00999	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno0785.txt	Comune	Salerno
+TASK_01000	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno0789.txt	Comune	Salerno
+TASK_01001	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno0793.txt	Comune	Salerno
+TASK_01002	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno0798.txt	Comune	Salerno
+TASK_01003	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno0800.txt	Comune	Salerno
+TASK_01004	dynamic_interface	4	Operatore PA	Tu	False	False	comSalerno0801.txt	Comune	Salerno
+TASK_01005	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno0816.txt	Comune	Salerno
+TASK_01006	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno0825.txt	Comune	Salerno
+TASK_01007	dynamic_interface	8	Operatore PA	Tu	False	False	comSalerno0827.txt	Comune	Salerno
+TASK_01008	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno0829.txt	Comune	Salerno
+TASK_01009	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno0830.txt	Comune	Salerno
+TASK_01010	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno0838.txt	Comune	Salerno
+TASK_01011	dynamic_interface	4	Operatore PA	Tu	False	False	comSalerno0839.txt	Comune	Salerno
+TASK_01012	dynamic_interface	6	Operatore PA	Tu	False	True	comSalerno0848.txt	Comune	Salerno
+TASK_01013	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno0850.txt	Comune	Salerno
+TASK_01014	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno0854.txt	Comune	Salerno
+TASK_01015	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno0863.txt	Comune	Salerno
+TASK_01016	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno0882.txt	Comune	Salerno
+TASK_01017	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno0920.txt	Comune	Salerno
+TASK_01018	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno0948.txt	Comune	Salerno
+TASK_01019	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno0949.txt	Comune	Salerno
+TASK_01020	dynamic_interface	8	Operatore PA	Tu	False	True	comSalerno0951.txt	Comune	Salerno
+TASK_01021	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno0968.txt	Comune	Salerno
+TASK_01022	dynamic_interface	8	Operatore PA	Tu	False	False	comSalerno0969.txt	Comune	Salerno
+TASK_01023	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno0971.txt	Comune	Salerno
+TASK_01024	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno1008.txt	Comune	Salerno
+TASK_01025	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno1019.txt	Comune	Salerno
+TASK_01026	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno1020.txt	Comune	Salerno
+TASK_01027	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno1049.txt	Comune	Salerno
+TASK_01028	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno1064.txt	Comune	Salerno
+TASK_01029	dynamic_interface	4	Operatore PA	Tu	False	False	comSalerno1075.txt	Comune	Salerno
+TASK_01030	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno1079.txt	Comune	Salerno
+TASK_01031	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno1091.txt	Comune	Salerno
+TASK_01032	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno1093.txt	Comune	Salerno
+TASK_01033	dynamic_interface	3	Operatore PA	Tu	False	False	comSalerno1097.txt	Comune	Salerno
+TASK_01034	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno1116.txt	Comune	Salerno
+TASK_01035	dynamic_interface	4	Operatore PA	Tu	False	False	comSalerno1117.txt	Comune	Salerno
+TASK_01036	dynamic_interface	3	Operatore PA	Tu	False	False	comSalerno1140.txt	Comune	Salerno
+TASK_01037	dynamic_interface	6	Operatore PA	Tu	False	False	comSalerno1145.txt	Comune	Salerno
+TASK_01038	dynamic_interface	4	Operatore PA	Tu	False	False	comSalerno1150.txt	Comune	Salerno
+TASK_01039	dynamic_interface	8	Operatore PA	Tu	False	False	comSalerno1152.txt	Comune	Salerno

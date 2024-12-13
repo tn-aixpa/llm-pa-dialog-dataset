@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00446",
+  "doc_src": "comune.trento_aree-tematiche_D0062.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, quando è stato approvato il Programma Urbanistico di Struttura Generale dal Consiglio comunale?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, certo. Il Programma Urbanistico di Struttura Generale, è stato approvato nel 12 marzo 2002. ",
+      "ground": "Il Consiglio comunale nella seduta del 14 marzo 2002 contestualmente alla prima adozione della Variante 2001 al PRG (successivamente adottata in via definitiva con deliberazione del Consiglio comunale n. 166 del 26 novembre 2002 e approvata con deliberazione della Giunta provinciale n. 2808 del 23 ottobre 2003) ha approvato un documento contenente il quadro complessivo degli interventi strategici per il nuovo PRG. "
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Posso consultare le tavole?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Le tavole sono consultabili presso il Servizio Urbanistica e Pianificazione della mobilità. Può trovare ulteriori dettagli del servizio al link /Comune/Organizzazione-comunale/Organigramma/Servizi-non-attivi/URBANISTICA-E-PIANIFICAZIONE-DELLA-MOBILITA .",
+      "ground": "Tavole\n(Consultabili presso il\n[/Comune/Organizzazione-comunale/Organigramma/Servizi-non-attivi/URBANISTICA-E-PIANIFICAZIONE-DELLA-MOBILITA](Servizio Urbanistica e Pianificazione della mobilità)\n):"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni, ma è possibile avere una copia del documento PUSG?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "E' possibile scaricare il PUSG al link /content/download/564391/5436826/file/PUSG.pdf .",
+      "ground": "Il PUSG risulta costituito da una Relazione e da n. 6 tavole.\n[/content/download/564391/5436826/file/PUSG.pdf](PUSG)"
+    }
+  ],
+  "subcategory": "Trento"
+}

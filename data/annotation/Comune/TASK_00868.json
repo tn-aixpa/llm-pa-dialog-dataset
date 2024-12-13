@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00868",
+  "doc_src": "comune.salerno_D0182.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Salve, vorrei informazioni sull'elenco degli scrutatori nominati per le Elezioni Europee di giugno 2024. Dove posso trovarlo?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, l'elenco degli scrutatori nominati è pubblicato al link https://www.comune.salerno.it/sites/default/files/2024-05/Effettivi_per_pubblicazione.pdf .",
+      "ground": "[https://www.comune.salerno.it/sites/default/files/2024-05/Effettivi_per_pubblicazione.pdf](Elenco Scrutatori Elezioni Europee 2024)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Cosa si deve fare se non si riesce ad assolvere l'incarico?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "In caso di grave impedimento ad assolvere l'incarico di scrutatore, è necessario comunicarlo entro 48 ore dalla notifica compilando il modulo di rinuncia disponibile sul sito del Comune di Salerno e inviandolo all'ufficio elettorale.",
+      "ground": "Le persone presenti nell'elenco riceveranno notifica della nomina tramite messi comunali.\nL'eventuale grave impedimento ad assolvere l'incarico di scrutatore dovrà essere essere comunicato, entro 48 ore dalla notifica, tramite compilazione del modulo sotto allegato da inviare all'ufficio elettorale, che provvederà alle sostituzioni nell'ordine di estrazione delle riserve."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Capito, grazie mille per le informazioni. ",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È stato un piacere poterla aiutare. Se ha bisogno di ulteriori chiarimenti, non esiti a ricontattarci. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

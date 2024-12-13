@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_00727",
+  "doc_src": "comune.trento_aree-tematiche_D0568.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, mi sa dire di più sul Piano di eliminazione delle barriere architettoniche a Trento?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, il Piano di eliminazione delle barriere architettoniche e sensoriali (Peba) investe sull'autonomia delle persone ed eleva l'attuale standard della mobilità pedonale. Il Peba vuole dare massima accessibilità facilitando, attraverso l'aggiunta o la rimozione, migliorando l'autonomia di tutti i soggetti.",
+      "ground": " Il Piano di eliminazione delle barriere architettoniche e sensoriali investe sull'autonomia delle persone ed eleva l'attuale standard della mobilità pedonale.\n\n|||\n\nIl Peba approfondisce maggiormente la mobilità pedonale al fine di favorire l'autonomia delle persone e di privilegiare un'utenza pedonale della città, coerentemente con il principio di massima accessibilità; il miglioramento della mobilità passa attraverso l'eliminazione di tutti quei fattori nell'ambiente di una persone che, mediante la loro assenza o presenza, limitano una sicura autonomia:"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E questo Piano è stato già attuato?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, il Piano è stato promosso in tutte le sue fasi con un approccio partecipato, mettendo a disposizione vari strumenti disponibili sul sito /Aree-tematiche/Lavori-pubblici/Piano-di-eliminazione-delle-barriere-architettoniche-e-sensoriali/Interventi-eseguiti .",
+      "ground": "La struttura del Peba\nNel perseguire questo obiettivo, il Peba di Trento promuove in tutte le sue fasi un approccio partecipato, mettendo a disposizione della cittadinanza vari strumenti, facilmente raggiungibili da questo sito:\n[/Aree-tematiche/Lavori-pubblici/Piano-di-eliminazione-delle-barriere-architettoniche-e-sensoriali/Interventi-eseguiti](Interventi)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Posso consultare quali interventi sono stati eseguiti finora?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Certamente, dal sito indicato sopra può avere una visione di tutti gli interventi fatti, ordinati in senso cronologico.",
+      "ground": "•  una finestra virtuale sugli interventi eseguiti, in ordine cronologico, corredati da una descrizione e dalle fotografie più rappresentative."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "E la mappa delle barriere e dei percorsi accessibili è pubblica?",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "Sì, la mappa è accessibile dal seguente link /Aree-tematiche/Lavori-pubblici/Piano-di-eliminazione-delle-barriere-architettoniche-e-sensoriali/Cartografia .",
+      "ground": "[/Aree-tematiche/Lavori-pubblici/Piano-di-eliminazione-delle-barriere-architettoniche-e-sensoriali/Cartografia](Cartografia)\n• pubblica e sempre aggiornata, la cartografia consente di visualizzare e consultare i dati del Piano, come le barriere, i percorsi accessibili e i parcheggi riservati."
+    },
+    {
+      "id": "T09",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agente",
+      "message": "È un piacere poter essere d'aiuto. Se ha bisogno di ulteriori informazioni o chiarimenti, non esiti a contattarci.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

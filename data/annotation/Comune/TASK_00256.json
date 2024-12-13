@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_00256",
+  "doc_src": "comune.milano_aree-tematiche_links_D0287.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Come funziona la cremazione a Milano?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Il Comune dispone di un polo crematorio situato all'interno del Cimitero di Lambrate. La cremazione può essere decisa in presenza di manifestazione di volontà espressa dalla persona defunta o dai suoi congiunti, al momento della fissazione del funerale o per un cambio di sepoltura, ad esempio la cremazione dei resti ossei di persone defunte a seguito di esumazioni o estumulazioni.",
+      "ground": "Il Comune di Milano è dotato di un polo crematorio situato all'interno del Cimitero di Lambrate.\nLa cremazione può essere decisa, in presenza di manifestazione di volontà espressa dalla persona defunta o dai suoi congiunti:\n​\nal momento della fissazione del funerale;\nper un cambio di sepoltura, ad esempio la cremazione dei resti ossei di persone defunte a seguito di esumazioni o estumulazioni."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Posso chiuedere di venire cremato alla mia  morte?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, la volontà di cremazione può essere manifestata in vita attraverso una testamento olografo fatto e depositato con un notaio, un testamento pubblico o in un testamento segreto oppure l'iscrizione in vita a un'Associazione legalmente riconosciuta che ha tra i propri scopi quello della cremazione del corpo delle persone associate.",
+      "ground": "La volontà di cremazione può essere manifestata nei seguenti modi:\nmanifestazione in vita della volontà dichiarata dalla persona defunta in una disposizione testamentaria,\nattraverso una delle seguenti modalità:\n• in uno scritto da depositare e pubblicare a cura di un notaio (testamento olografo);\n• in un testamento pubblico;\n• in un testamento segreto;\niscrizione in vita ad Associazione legalmente riconosciuta,\navente tra i propri scopi quello della cremazione del corpo delle persone associate."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "E se non faccio nessuno di questo passaggio?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "In assenza di questi documenti, la volontà di cremazione può essere resa con una dichiarazione sostitutiva di atto di notorietà dal coniuge o persona unita civilmente. In mancanza di queste figure, la volontà può essere espressa dal parente più prossimo entro il 6° grado. Se ci sono più parenti nello stesso grado, serve la maggioranza assoluta fra i parenti di stesso grado",
+      "ground": "In mancanza di tali documenti\nla volontà di cremazione può resa con dichiarazione sostitutiva di atto di notorietà, dal coniuge/persona unita civilmente.\nIn assenza di queste figure, la volontà può essere espressa dal parente più prossimo entro il 6° grado; in caso di esistenza di più parenti dello stesso grado, occorre la maggioranza assoluta di parenti di pari grado."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Quanto costa la cremazione?",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "Le principali tariffe per i servizi di cremazione variano a seconda se è a seguito di un funerale o di un cambio di sepoltura. Ad esempio, per la cremazione di una salma a seguito di un funerale il costo è di € 319,43, oltre alla marca da bollo di € 16,00 per l'autorizzazione alla cremazione. Se hai bisogno di ulteriori informazioni, puoi contattare l'Ufficio Funerali, Sepolture e Cremazioni al numero 02 884.62160.",
+      "ground": "Principali tariffe per i servizi di cremazione\nA seguito di funerale:\ncremazione salma € 319,43;\nmarca da bollo da 16,00 euro per autorizzazione alla cremazione, applicata virtualmente.\n\n|||\n\nPer cremazione a seguito di funerale\nUfficio Funerali, Sepolture e Cremazioni\ntel. 02 884.62160 / 02 884.62171"
+    },
+    {
+      "id": "T09",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni!",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agente",
+      "message": "È stato un piacere poterti aiutare. Se hai altre domande, non esitare a contattarci. Buona giornata!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

@@ -1,0 +1,34 @@
+{
+  "task_id": "TASK_00172",
+  "doc_src": "comune.milano_aree-tematiche_links_D0200.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Buongiorno, vorrei informazioni sulle consultazioni in corso",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Buongiorno, certo. Attualmente è in corso la consultazione sul Piano di Governo del Territorio - PGT al link https://www.comune.milano.it/web/guest/aree-tematiche/urbanistica-ed-edilizia/pgt-adottato-milano-2030 .",
+      "ground": "Consultazioni ATTIVE\n[https://www.comune.milano.it/web/guest/aree-tematiche/urbanistica-ed-edilizia/pgt-adottato-milano-2030](Piano di Governo del Territorio - PGT)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "E sul piano del movimento sostenibile, c'è qualche cosa in corso?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Mi dispiace, ma la consultazione sul  Piano Urbano della Mobilità Sostenibile (PUMS) è chiusa.",
+      "ground": "Consultazioni CHIUSE\n[https://www.comune.milano.it/aree-tematiche/mobilita/pianificazione-mobilita/piano-urbano-della-mobilita](Piano Urbano della Mobilità Sostenibile - PUMS)"
+    }
+  ],
+  "subcategory": "Milano"
+}

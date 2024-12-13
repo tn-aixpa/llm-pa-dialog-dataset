@@ -1,0 +1,52 @@
+{
+  "task_id": "TASK_00383",
+  "doc_src": "comune.milano_aree-tematiche_links_D0417.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni su come prendermi cura di un parco.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, certo. Il Comune di Milano stipula accordi di collaborazione o contratti di sponsorizazzione per il miglioramento del verde. Può questi accordi o contratti possono essere fatti su tutte le aree verdi che NON sono riportate nei seguenti allegati:\n- Aree A /documents/20126/477241551/All.+A+aree+NON+disponibili+agg.+26.10.2023.pdf/47bfe84a-e7c2-9b38-605a-46b87ac84a51?t=1704355639757\n- Aree B /documents/20126/478451279/Allegato+D1+Domanda+collaboraz+%2B+Privacy+%2B+AutoCert+26.1.24.pdf/76494708-31f0-c9ed-f228-89084ba8b271?t=1706271973910",
+      "ground": "Il Comune di Milano da tanti anni riceve il supporto dei privati, stipulando accordi di collaborazione o contratti di sponsorizzazione per migliorare il verde della nostra città.\nPuoi prenderti cura di tutto il verde NON indicato negli elenchi degli\nAllegati A e B\na fondo pagina.\n\n|||\n\n[/documents/20126/477241551/All.+A+aree+NON+disponibili+agg.+26.10.2023.pdf/47bfe84a-e7c2-9b38-605a-46b87ac84a51?t=1704355639757](All. A aree NON disponibili agg. 26.10.2023. (pdf - 212.038 KB)\n)\n\n|||\n\nAllegato B - aree non disponibili (parterre alberati)\n(pdf\n• 104.448 KB)\n[/documents/20126/478451279/Allegato+D1+Domanda+collaboraz+%2B+Privacy+%2B+AutoCert+26.1.24.pdf/76494708-31f0-c9ed-f228-89084ba8b271?t=1706271973910](Allegato D1 Domanda collaborazione + Privacy + AutoCert rev 26.1.24 (pdf - 555.736 KB)\n)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "L'area vicino al mio condominio è libera, cosa devo fare per mandare la richiesta?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Compili uno dei seguenti allegati in base alla sua casistica:\n- Domanda di collaborazione  /documents/20126/478451279/Allegato+D1+Domanda+collaboraz+%2B+Privacy+%2B+AutoCert+26.1.24.pdf/76494708-31f0-c9ed-f228-89084ba8b271?t=1706271973910\n- Domanda di sponsorizzazione documents/20126/478451279/Allegato+D2+Domanda+sponsor+%2B+Dich+AutoCert+rev+26.01.24.pdf/13bf6af2-15e1-92f0-d143-4092c130c255?t=1706271976479\n- Domanda di sponsorizzazione finanziaria /documents/20126/478451279/Allegato+D3+Domanda+Sponsorizzazione+rev+16.01.24.pdf/c585440c-4271-cb45-85f1-137bfd8cb130?t=1707397257031\n\nPuò poi trasmettere la domanda o per lettera oppure all'indirizzo email mailto:verdeambiente.gestione@pec.comune.milano.it . La scadenza per la presentazione della domanda ha base bimestrale.",
+      "ground": "Le domande dovranno pervenire entro le seguenti scadenze annuali:\n28 febbraio\n30 aprile\n30 giugno\n31 agosto\n31 ottobre\n31 dicembre.\nScegli uno degli\nAllegati D\nche corrisponde o   alla collaborazione tecnica o alle sponsorizzazioni, scaricalo, compilalo e presenta la domanda in busta chiusa all'Area Verde, completa di tutti gli allegati indicati, non oltre le ore 12 (termine perentorio) del giorno di scadenza bimestre previsto, al seguente indirizzo:\nUnità Amministrativa Sponsorizzazioni e Affari Generali – Via Sile, 8\nLa busta dovrà riportare il nome del mittente e la dicitura “\nNON APRIRE\n• Avviso pubblico - Sponsorizzazioni e collaborazioni per la riqualificazione e manutenzione delle aree verdi pubbliche”.\nE' possibile trasmettere la domanda e la relativa documentazioni all'indirizzo PEC\n[mailto:verdeambiente.gestione@pec.comune.milano.it](verdeambiente.gestione@pec.comune.milano.it)\n• entro l’orario e la data di scadenza del bimestre.\n\n|||\n\n[/documents/20126/478451279/Allegato+D1+Domanda+collaboraz+%2B+Privacy+%2B+AutoCert+26.1.24.pdf/76494708-31f0-c9ed-f228-89084ba8b271?t=1706271973910](Allegato D1 Domanda collaborazione + Privacy + AutoCert rev 26.1.24 (pdf - 555.736 KB)\n)\nAllegato D1 Domanda collaborazione + Privacy + AutoCert rev 26.1.24\n\n|||\n\n[/documents/20126/478451279/Allegato+D2+Domanda+sponsor+%2B+Dich+AutoCert+rev+26.01.24.pdf/13bf6af2-15e1-92f0-d143-4092c130c255?t=1706271976479](Allegato D2 Domanda sponsorizzazione + Dich AutoCert rev 26.01.24 (pdf - 622.839 KB)\n)\nAllegato D2 Domanda sponsorizzazione + Dich AutoCert rev 26.01.24\n\n|||\n\n[/documents/20126/478451279/Allegato+D3+Domanda+Sponsorizzazione+rev+16.01.24.pdf/c585440c-4271-cb45-85f1-137bfd8cb130?t=1707397257031](Allegato D3 Domanda Sponsorizzazione Finanziaria rev. 16.01.2024 (pdf - 102.402 KB)\n)\nAllegato D3 Domanda Sponsorizzazione Finanziaria rev. 16.01.2024"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

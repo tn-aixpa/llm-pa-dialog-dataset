@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01056",
+  "doc_src": "baselga_di_pine'__2019.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Buongiorno, vorrei fare delle azioni improntate alla lettura, consigli?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Salve, potrebbe anche lei aderire al progetto \"Leggi in Tandem\", che promuove le lettura condivisa fra un bambino dai 0 ai 6 anni e un adulto oppure tenere delle presentazioni di libri per bambini nelle biblioteche",
+      "ground": "DESCRIZIONE: Adesione al progetto ''Leggi in Tandem'', per promuovere l'amore per i libri attraverso la lettura condivisa con un adulto, rivolto ai bamibini in fascia prescolare 0-6 anni.\n\n|||\n\nDESCRIZIONE: Presentazione di libri per bambini in biblioteca e presso le scuole dell'infanzia con incontri formativi rivolti ai genitori per la lettura espressiva di libri per bimbi tenuti da esperti.\n\n"
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Più in generale che attività verso i bambini propone?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Può organizzare dei laboratori creativi o che promuovano l'educazione ambientale, degli spettacoli gratuiti, letture animate nei parchi o tenere dei corsi di lingua straniera stagionali",
+      "ground": "DESCRIZIONE: Organizzazione di laboratori creativi per bambini.\n\n|||\n\nDESCRIZIONE: Organizzazione di spettacoli gratuiti per bambini e famiglie durante l'estate 2019 nell'ambito dell'iniziativa ''Metti una sera al Museo del Turismo di Montagna''.\n\n|||\n\nDESCRIZIONE: Realizzazione di laboratori rivolti ai bambini per promuovere l'educazione ambientale in riva al lago di Serraia.\n\n|||\n\nDESCRIZIONE: Per bambini e famiglie animazione dei parchi pico in periodo estivo con letture animate e promozione dei prestiti librai per bambini.\n\n|||\n\nDESCRIZIONE: Organizzazione di corsi estivi 2019 di lingua straniera per bambini e ragazzi."
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "mi può dire di più sull'ultima proposta?",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Il Comune di Baselga di Pine' nell'anno 2019 sì è proposto nelle azioni del suo piano di organizzare dei corsi estivi aperti sia a bambini che a ragazzi.",
+      "ground": "=== PIANO FAMIGLIA DI BASELGA DI PINE' ANNO 2019 ===\n\n|||\n\nTITOLO: Corsi estivi di lingua straniera\n\nTASSONOMIA: Servizi doposcuola e servizi estivi\n\nDESCRIZIONE: Organizzazione di corsi estivi 2019 di lingua straniera per bambini e ragazzi."
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

@@ -1,0 +1,26 @@
+[http://website.comune.salerno.it/client/menu.aspx?menu=5&stile=4](Utilizza vecchia versione amministrazione trasparente)
+Utilizza vecchia versione amministrazione trasparente
+[](Descrizione)
+Descrizione
+In applicazione del
+D.Lgs. 23-12-2022 n. 201
+recante
+"Riordino della disciplina dei servizi pubblici locali di rilevanza economica"
+, i comuni o le loro eventuali forme associative, con popolazione superiore a 5.000 abitanti, nonché le città metropolitane, le province e gli altri enti competenti, in relazione al proprio ambito o bacino del servizio, effettuano la ricognizione periodica della situazione gestionale dei servizi pubblici locali di rilevanza economica nei rispettivi territori.
+Al fine di rafforzare la trasparenza e la comprensibilità degli atti e dei dati concernenti l'affidamento e la gestione dei servizi pubblici locali di rilevanza economica,gli enti locali pubblicano
+la deliberazione di cui all'articolo 10, comma 5 (La deliberazione di istituzione del servizio)
+la relazione di cui all'articolo 14, comma 3
+la deliberazione di cui all'articolo 17, comma 2
+il provvedimenti di affidamento di cui l'articolo 17, comma 3
+la relazione di cui all'articolo 30, comma 2, tenendo conto degli atti e degli indicatori di cui agli articoli 7, 8 e 9.
+il contratto di servizio
+Di seguito il
+[https://www.anticorruzione.it/-/trasparenza-dei-servizi-pubblici-locali-di-rilevanza-economica#p6](link della pagina dedicata alla disciplina sul portale ANAC)
+Per consultare gli affidamenti relativi al servizio di Trasparenza dei servizi pubblici locali, accedere al portale
+[https://tspl.anticorruzione.it/tspl/ricerca-affidamenti](https://tspl.anticorruzione.it/tspl/ricerca-affidamenti)
+ed inserire nel campo Ente la stringa
+"comune di Salerno"
+.
+[](Normativa)
+Normativa
+[https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-12-23;201](D.Lgs. 23-12-2022 n. 201)

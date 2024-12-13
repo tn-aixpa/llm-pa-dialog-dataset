@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00643",
+  "doc_src": "comune.trento_aree-tematiche_D0404.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Cosa sarebbe la \"IEEE Smart Cities Initiative\"?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "È una iniziativa globale della Institute of Electrical and Electronic Engineers (IEEE) che individua le 10 città modello di eccellenza di Smart City",
+      "ground": "La città di Trento è stata selezionata dall’Institute of Electrical and Electronic Engineers (IEEE) nell’ambito di\nIEEE Smart Cities Initiative\n: un’iniziativa globale sulle smart cities con l’obiettivo di individuare 10 città come modello di eccellenza in ambito di Smart Cities."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

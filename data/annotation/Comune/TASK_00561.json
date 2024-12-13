@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00561",
+  "doc_src": "comune.trento_aree-tematiche_D0254.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "C'è Wi-fi pubblico gratuito a Trento?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Sì, nelle zone centrali della città è possibile connettersi gratuitamente ad Internet attraverso la rete di Trentino WiFi; l'unica condizione richiesta è quella di possedere un cellulare dotato di SIM telefonica.",
+      "ground": "Nelle zone centrali della città è possibile connettersi gratuitamente ad Internet attraverso la rete di Trentino WiFi; l'unica condizione richiesta è quella di possedere un cellulare dotato di SIM telefonica."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quindi posso accedere a questa rete con il mio smartphone?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Esattamente. ",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "E se non ho una SIM telefonica posso comunque utilizzare la Wi-fi pubblica?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Per poter accedere alla rete Trentino WiFi è necessario possedere un cellulare dotato di SIM telefonica.",
+      "ground": "l'unica condizione richiesta è quella di possedere un cellulare dotato di SIM telefonica."
+    }
+  ],
+  "subcategory": "Trento"
+}

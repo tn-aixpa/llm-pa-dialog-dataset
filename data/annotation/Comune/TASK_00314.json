@@ -1,0 +1,40 @@
+{
+  "task_id": "TASK_00314",
+  "doc_src": "comune.milano_aree-tematiche_links_D0346.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, vorrei informazioni sull'Assegno di inclusione. Come posso fare domanda?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "L'Assegno di inclusione è presentabile telematicamente sul sito dell'INPS, oppure in Caf o patronati. l'assegno è dato tramite la Carta di inclusione.  Il contributo ha una durata massima di 18 mesi.\n\nPuò avere accesso a più informazioni alla pagina https://www.lavoro.gov.it/temi-e-priorita/decreto-lavoro/Pagine/assegno-di-inclusione .",
+      "ground": "La domanda di Assegno di inclusione può essere presentata con modalità telematiche sul portale INPS, o tramite Caf o patronati.\nL’Assegno di inclusione sarà erogato attraverso la Carta di inclusione, uno strumento di pagamento elettronico ricaricabile. Il contributo ha una\ndurata massima di 18 mensilità.\nPer maggiori dettagli sui requisiti si invita a consultare la\n[https://www.lavoro.gov.it/temi-e-priorita/decreto-lavoro/Pagine/assegno-di-inclusione](pagina web)\ndedicata del Ministero del Lavoro e delle Politiche Sociali."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Capisco, grazie comunque per le informazioni. Posso contattare l'INPS per ulteriori dettagli?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Le consiglio di contattare un'altro ufficio al  02 884.63044, da lunedì a venerdì dalle 8:30 alle 14:30 oppure l'infoline  02 02 02 dal lunedì al sabato dalle 8:00 alle 18:00 o sul consultare il link https://servizicrm.comune.milano.it/sostegnoalreddito/richiestecomplesse per maggiori dettagli.",
+      "ground": "Per informazioni è possibile contattare:\nil numero 02 884.63044, da lunedì a venerdì dalle 8:30 alle 14:30;\nl'infoline al numero 02 02 02, attivo dal lunedì al sabato dalle 8:00 alle 18:00;\ninviare una richiesta di informazioni collegarsi alla piattaforma dedicata cliccando\n[https://servizicrm.comune.milano.it/sostegnoalreddito/richiestecomplesse](qui)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per l'aiuto.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

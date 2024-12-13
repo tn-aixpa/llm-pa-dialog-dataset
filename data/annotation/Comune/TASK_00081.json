@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00081",
+  "doc_src": "comune.milano_aree-tematiche_D0026.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sul Piano di Azione per l’Energia Sostenibile del Comune di Milano, potete aiutarmi?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, posso aiutarti. Cosa vorresti sapere esattamente?",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Mi chiedevo se è stato approvato il Piano di Azione per l’Energia Sostenibile.",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, il Piano è stato approvato con la Delibera di Consiglio Comunale n. 43 del 13/12/2018.",
+      "ground": "Con Delibera di Consiglio Comunale n. 43 del 13/12/2018 è stato approvato il Piano d’Azione per l’Energia Sostenibile del Comune di Milano (PAES) corredato dai documenti inerenti la procedura di Valutazione Ambientale Strategica del Piano (Rapporto Ambientale, Parere Motivato, Dichiarazione di Sintesi)."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Posso consultare la documentazione inerente alla procedura di Valutazione Ambientale Strategica del Piano?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Sì, puoi trovare tutti i documenti relativi alla procedura di Valutazione Ambientale Strategica negli allegati. Puoi trovare gli allegati al link a www.allegati.pdf .",
+      "ground": "La documentazione è disponibile nella sezione Allegati.\n\n|||\n\nAllegati[www.allegati.pdf]"
+    }
+  ],
+  "subcategory": "Milano"
+}

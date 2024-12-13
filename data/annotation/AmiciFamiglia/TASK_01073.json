@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_01073",
+  "doc_src": "calliano__2023.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": " Buongiorno, cosa mi consigli per la tassonomia \"Sostegno economico alle associazioni del territorio / Concessione spazi\" ?",
+      "ground": " "
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Buongiorno, le posso consigliare una di queste azioni, le riporto solo il titolo per brevità:\n- Contributi ad associazioni e gruppi\n- Promozione della musica\n- Sede per associazioni",
+      "ground": "TITOLO: Contributi ad associazioni e gruppi\n\n|||\n\nTITOLO: Promozione della musica\n\n|||\n\nTITOLO: Sede per associazioni"
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Mi puoi dire di più sulla seconda azione?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Sì,  l'idea è quella di dare uno spazio nonché un contributo alla scuola musicale così da renderla più accessibile ",
+      "ground": "DESCRIZIONE: Anche quest’anno il Comune di Calliano fornirа gli spazi per la sede di Calliano alla Scuola Musicale Jan Novak oltre a garantire un contributo a suo favore, al fine di abbattere i costi per le famiglie.\n\n"
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "E per la tassonomia lagata alla Promozione della natalità?",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Posso suggerirle una di queste azione legate alla natalità:\n- Sostegno economico ai nuovi nati\n- Kit di benvenuto per i nuovi nati",
+      "ground": "TITOLO: Sostegno economico ai nuovi nati\n\n|||\n\nTITOLO: Kit di benvenuto per i nuovi nati\n\n"
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "Kit di benvenuto?",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "Il kit di benvenuto viene dato come segno di vicinanza e accoglienza alla famiglia residente. Questo contiene tutte le informazioni dei servizi per le famiglie.  Può anche aggiungere a questi una cornice per foto.",
+      "ground": "DESCRIZIONE: Nel 2023 il Comune di Calliano, il Comune più giovane del Trentino, intende donare, per ogni bimbo nato o adottato, un ''kit di benvenuto'' in segno di vicinanza ed accoglienza ad ogni famiglia residente, con allegato un opuscolo contenente tutte le informazioni dei servizi per le famiglie.\n\nInoltre la Cooperativa Sociale Villa Maria, che aderisce all'iniziativa proposta dalle politiche famigliari, donerа delle cornici per foto decorate dai loro ospiti, arricchendo ulteriormente il kit di benvenuto.\n\n"
+    },
+    {
+      "id": "T9",
+      "speaker": "Citizen",
+      "message": "Grazie delle idee.",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agent",
+      "message": "Le serve altro?",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

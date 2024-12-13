@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00252",
+  "doc_src": "comune.milano_aree-tematiche_links_D0283.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Ho sentito parlare di affidamento delle ceneri, cos'è?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "L’affidamento delle ceneri è la consegna delle ceneri di una persona defunta in un'urna a un familiare del de cuius. L'affidamento può avvenire se è volontà del defunto o per dichiarazione sostitutive dal coniuge o persona unita civilmente.",
+      "ground": "L’affidamento delle ceneri a un familiare della persona defunta, in un'urna cineraria da custodire presso la propria abitazione (luogo di residenza legale), può avvenire quando sia stata espressa volontà:\ndalla persona defunta;\nin mancanza di tali disposizioni la volontà di affidamento delle ceneri del defunto può essere resa con dichiarazione sostitutiva di atto di notorietà dal coniuge/persona unita civilmente."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Se la persona affidataria rinuncia, cosa succede?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "In caso di rinuncia della persona affidataria, si dovrà definire la nuova destinazione delle ceneri. Se la persona affidataria decede, la decisione spetterà a coloro che ne hanno titolo.",
+      "ground": "Rinuncia o decesso della persona affidataria\nSe la persona affidataria\nrinuncia\nall'affido dovrà definire la nuova destinazione delle ceneri.\nIn caso richiesta di tumulazione in uno dei cimiteri milanesi non si deve procedere alla consegna dell’urna alla struttura prima di aver definito le pratiche di rinuncia e di nuova destinazione della persona defunta.\nIn caso di\ndecesso\ndella persona affidataria la decisione della nuova destinazione spetterà a coloro che ne hanno titolo."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Dove posso ottenere ulteriori informazioni?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Per l'affidamento delle ceneri, Puoi contattare il numero 02884 62160 oppure lo 02884 62167. E' possibile anche consultare il link https://www.comune.milano.it/servizi/affidamento-delle-ceneri .",
+      "ground": "Per affidamento di ceneri a seguito di un funerale\npuoi contattare telefonicamente il numero: 02884 62160 oppure lo 02884 62167.\n\n|||\n\n[https://www.comune.milano.it/servizi/affidamento-delle-ceneri](Affidamento delle ceneri)\nModalità di accesso al servizio:"
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per l'aiuto.",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "È stato un piacere, buona giornata!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

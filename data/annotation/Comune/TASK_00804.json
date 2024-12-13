@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00804",
+  "doc_src": "comune.salerno_D0087.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, potrebbe gentilmente darmi informazioni sulla prossima edizione della Fiera del Crocifisso Ritrovato?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, la Fiera del Crocifisso Ritrovato è organizzata dalla Bottega San Lazzaro insieme al Comune di Salerno. Si svolgerà dal 25 al 28 aprile 2024 nel centro storico di Salerno. La manifestazione è supportata da diverse istituzioni come il Comune di Salerno, la Camera di Commercio, la Regione Campania.",
+      "ground": "questo lo slogan della XXXII edizione della Fiera del Crocifisso Ritrovato, organizzata dalla Bottega San Lazzaro con il Comune di Salerno. Quella che è ormai attestata tra le maggiori fiere medievali d’Italia è in programma dal 25 al 28 aprile 2024 nel centro storico di Salerno. La manifestazione è sostenuta da: Comune di Salerno, Camera di Commercio, CNA, Regione Campania, Provincia di Salerno, Ministero della Cultura, Coldiretti, Fondazione della Comunità Salernitana, Fondazione Carisal e la Fondazione Scuola Medica Salernitana."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Ha delle peculiarità questa fiera?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "La Fiera del Crocifisso Ritrovato è una delle maggiori fiere medievali d'Italia. È un evento molto atteso e ricco di tradizione.",
+      "ground": "Quella che è ormai attestata tra le maggiori fiere medievali d’Italia è in programma dal 25 al 28 aprile 2024 nel centro storico di Salerno."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "E ci saranno delle iniziative particolari durante la fiera?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Non ho informazioni particolari su iniziative durante lo svogimento della fiera.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00478",
+  "doc_src": "comune.trento_aree-tematiche_D0109.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Sa darmi informazioni sulla storia di Trento?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Le origini di Trento risalgono all'epoca romana, il nome viene dal latino Tridentum, tridente. Si dice che questo sia dovuto ai tre monti (Bondone, Calisio e Marzola) o ai tre colli (Sant'Agata, San Rocco, Verruca) che circondano la città, ricordando di fatto un tridente, ma si tratta di una leggenda. ",
+      "ground": "Le origini del capoluogo risalgono all'epoca romana (I secolo A.C.) di cui la città custodisce bellissime testimonianze nel proprio sottosuolo.\n\n|||\n\nIl nome di Trento, dal latino Tridentum, si fa risalire ai tre monti (Bondone, Calisio, Marzola) o ai tre colli (Sant'Agata, San Rocco, Verruca) che circondano la città, la cui disposizione suggerisce la forma di un tridente: ma si tratta di una leggenda."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Trento è stata mai invasa dai barbari?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, Trento è stata invasa dai barbari. ",
+      "ground": "Invasa dai barbari, dopo il dominio longobardo entrò nella sfera di influenza germanica."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "È sempre stata italiana?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "No, Trento è diventata italiana solo dopo la prima guerra mondiale nel 1918.",
+      "ground": "Trento divenne italiana solo dopo la prima guerra mondiale (1918)."
+    }
+  ],
+  "subcategory": "Trento"
+}

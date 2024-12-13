@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00250",
+  "doc_src": "comune.milano_aree-tematiche_links_D0281.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sulle Sezioni Didattiche.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, le Sezioni Didattiche sono attive nei principali poli museali della città nonché in alcune Pediatrie degli ospedali.",
+      "ground": "Le Sezioni Didattiche del Comune di Milano sono attive nei principali\npoli museali\ne nelle\nPediatrie di quattro ospedali della città\n."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "A chi sono accessibili queste sezioni?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Le sezioni sono disponibili a tutti i bambini ultimo anno della scuola dell’infanzia fino alla scuola secondaria di secondo grado. Le attività sono differenziate in base all'età",
+      "ground": "Le Sezioni Didattiche del Comune di Milano sono attive nei principali poli museali della città e offrono alle scuole attività differenziate per età, dall’ultimo anno della scuola dell’infanzia alla secondaria di secondo grado."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie comunque. Come posso accedere ai servizi delle Sezioni Didattiche Museali e Ambientali?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Può accedere ai servizi tramite mail, sportello, telefono o fax. C'è anche un link al servizio: https://www.comune.milano.it/servizi/sezioni-didattiche-museali",
+      "ground": "[https://www.comune.milano.it/servizi/sezioni-didattiche-museali](Sezioni didattiche Museali e Ambiente)\nModalità di accesso al servizio:\nMail\nSportello\nTelefono\nFax"
+    }
+  ],
+  "subcategory": "Milano"
+}

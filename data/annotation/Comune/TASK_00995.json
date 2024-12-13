@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00995",
+  "doc_src": "comSalerno0750_1.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Qual è il modello di comunicazione approvato dal decreto dirigenziale n. 3 del 16 ottobre 2023?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Con il degreto dirigenziale n. 3 del 16 ottobre 2023 è stato approvato un modello di comunicazione per acquisire le informazioni dai soggetti che hanno istituito o intendono istituire attività di locazione breve. Questo modello permetterà la generazione del Cusr, nonché il tenere aggiornato la banca dati delle attività di locazione breve esistenti.",
+      "ground": "In attuazione della Deliberazione di Giunta Regionale n. 552 del 28/09/2023, con decreto dirigenziale n. 3 del 16 ottobre 2023 della Direzione Generale Politiche Culturali e Turismo pubblicato sul Burc numero 75 del 23/10/2023, è stato approvato un\nmodello di comunicazione per acquisire le informazioni dai soggetti che hanno istituito o intendono istituire attività di locazione breve\nsul territorio di competenza finalizzate alla generazione del Cusr e alla tenuta della banca dati delle attività di locazione breve esistenti."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Cos'è il Cusr?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Il Cusr è un acronimo che sta per \"Codice Unico delle Strutture Ricettive\".",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Quali sono i documenti necessari da inviare per la comunicazione di locazione breve al comune di Salerno?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Per la comunicazione di locazione breve, è necessario inviare via pec, all'indirizzo protocollosuap@pec.comune.salerno.it , il modello di \"comunicazione locazione breve\" debitamente compilato e sottoscritto, insieme a una copia di un documento di identità in corso di validità del richiedente.",
+      "ground": "I soggetti che hanno istituito o intendono istituire attività di locazione breve\nnel comune di Salerno al fine della generazione del Cusr e per permettere la tenuta della banca dati delle attività di locazione breve esistenti, devono inviare via pec, all'indirizzo:\nprotocollosuap@pec.comune.salerno.it\nil modello di \"comunicazione locazione breve\" presente in fondo a questa pagina debitamente compilato e sottoscritto e una copia di un documento di identità in corso di validità del richiedente."
+    }
+  ],
+  "subcategory": "Salerno"
+}

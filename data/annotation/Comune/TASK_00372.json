@@ -1,0 +1,82 @@
+{
+  "task_id": "TASK_00372",
+  "doc_src": "comune.milano_aree-tematiche_links_D0404.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sull'imposta di soggiorno. ",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, posso aiutarla. Che tipo di informazioni cerca? ",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "È vero che devo registrarmi su una piattaforma per gestire l'imposta? ",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, i gestori delle strutture ricettive devono registrarsi su SoggiorniAmo per gestire l'imposta di soggiorno. ",
+      "ground": "I gestori delle strutture ricettive devono registrarsi a SoggiorniAmo\n, l'unica piattaforma software attraverso cui gestire l'imposta di soggiorno."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "L'imposta vale anche sui minori? ",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "No, ci sono delle esenzioni per i minori fino al diciottesimo anno di età e per i giovani fino a 30 anni che pernottano negli Ostelli per la Gioventù. ",
+      "ground": "minori fino al diciottesimo anno di età\ngiovani fino a 30 anni che pernottano negli Ostelli per la Gioventù, gestiti da soggetti pubblici o privati per il conseguimento di finalità sociali, culturali ed educative, così come definito dalla vigente normativa regionale"
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Capito, e come posso rilasciare la ricevuta ai clienti? ",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "Il gestore della struttura deve rilasciare una ricevuta nominativa per l'imposta di soggiorno con tanto di importo.",
+      "ground": "Come rilasciare la ricevuta ai clienti\nIl gestore della struttura ricettiva che riscuote l'imposta di soggiorno è tenuto a rilasciare una\nricevuta nominativa (bollettario) recante l'importo versato a titolo di imposta\nper la durata del soggiorno."
+    },
+    {
+      "id": "T09",
+      "speaker": "Cittadino",
+      "message": "E come gestore, io come pago l'imposta? ",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agente",
+      "message": "Deve inserire i dati nella piattaforma SoggiorniAmo, il software genererà un avviso di pagamento PagoPA. L'invio dei dati e il pagamento del versamento è fatto su base trimestrale. ",
+      "ground": "Il gestore inserisce i propri dati in SoggiorniAmo tramite un percorso guidato\nil software genera un avviso di pagamento tramite PagoPA, scaricabile in tempo reale.\nInvio trimestrale del riepilogo e del versamento dell'imposta:"
+    },
+    {
+      "id": "T11",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni. ",
+      "ground": ""
+    },
+    {
+      "id": "T12",
+      "speaker": "Agente",
+      "message": "È stato un piacere aiutarla. Se ha bisogno di ulteriori chiarimenti, non esiti a contattarci. Buona giornata!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

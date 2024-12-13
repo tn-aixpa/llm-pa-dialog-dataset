@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00771",
+  "doc_src": "comune.salerno_D0035.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Vorrei informazioni riguardo alla concessione d'uso degli spazi di \"Ave Gratia Plena\".",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Le istanze per la concessione d'uso dovranno pervenire entro il 3 giugno 2024. \nIn seguito la documentazione disponibile:\n- Avviso pubblico https://www.comune.salerno.it/sites/default/files/2024-05/Avviso_0.pdf\n- Modello A - Domanda https://www.comune.salerno.it/sites/default/files/2024-05/Modello%20A.pdf\n- Scheda descrittiva https://www.comune.salerno.it/sites/default/files/2024-05/scheda%20descrittiva%20Ave%20Gratia%20Plena%20-%20Piano%20Terra.pdf",
+      "ground": "Le istanze dovranno pervenire entro la data del 03/06/2024. La modulistica è pubblicata, insieme all'Avviso Pubblico, tra gli allegati di questa pagina web.\n[https://www.comune.salerno.it/sites/default/files/2024-05/Avviso_0.pdf](Avviso Pubblico)\n[https://www.comune.salerno.it/sites/default/files/2024-05/Modello%20A.pdf](Modello A - Domanda)\n[https://www.comune.salerno.it/sites/default/files/2024-05/scheda%20descrittiva%20Ave%20Gratia%20Plena%20-%20Piano%20Terra.pdf](Scheda descrittiva)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E' possibile visitare gli spazi prima di presentare l'istanza?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Mi dispiace ma non sono in grado di fornire questa informazione.",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Capito, grazie mille per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Perfetto, rimango a disposizione per ulteriori chiarimenti o domande. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

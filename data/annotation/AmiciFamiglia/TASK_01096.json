@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_01096",
+  "doc_src": "cinte_tesino__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Come posso migliorare il livello di istruzione fra i miei cittadini?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Può concedere un contributo per il conseguimento di titoli di laurea o simili nonché per studenti meritevoli all'esame di stato alla fine dell'istruzione secondaria superiore.\nIn alternativa, può organizzare in presenza o con sistemi di didattica a distanza dei corsi dell'Università della Terza età.",
+      "ground": "DESCRIZIONE: Concessione di contributi per il conseguimento di titoli di laurea o similari e per studenti meritevoli in occasione del conseguimento dell’esame di stato conclusivo del corso di studio di istruzione secondaria superiore.\n\n|||\n\nDESCRIZIONE: Organizzazione in presenza o mediante il sistema di didattica a distanza dei corsi dell’Universitа della Terza etа e del tempo disponibile"
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "E se invece voglio assistere i miei cittadini all'ottenimento dello SPID?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Può dedicare degli addetti del Comune ad assistere il cittadino nella compilazione di richiesta della identità digitale. L'identità digitale è rilasciata gratuitamente quindi lo SPID dovrebbe essere incentivato.\nSe scrive questa azione le consiglio di metterla sotto la tassonomia \"Sportelli informativi e di orientamento\", un possibile titolo può essere \"Rilascio identità digitale SPID\"",
+      "ground": "TITOLO: Rilascio identitа digitale SPID\n\nTASSONOMIA: Sportelli informativi e di orientamento\n\n|||\n\nDESCRIZIONE: Il Comune rilascia ai cittadini gratuitamente l'identitа digitale in collaborazione con LEPIDA Spa.\n\nIl cittadino puт essere anche aiutato nella compilazione della richiesta di identitа digitale da parte dell'addetto del Comune."
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Interessante proposta.",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Vuole chiedere altro?",
+      "ground": ""
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "No. Sono a posto grazie.",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "Allora buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

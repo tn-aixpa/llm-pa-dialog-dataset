@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00403",
+  "doc_src": "comune.trento_aree-tematiche_D0006.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sulle visite guidate a Trento.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, certo. Può trovare una vasta scelta di itinerari e visite guidate sul sito web dell'Azienda per il Turismo di Trento e Monte Bondone al seguente link https://www.trento.info/esperienze-trento#/esperienze .",
+      "ground": "L'Azienda per il Turismo di Trento e Monte Bondone offre una vasta scelta di itinerari e visite guidate per scoprire la città di Trento e il Monte Bondone, consulta il calendario a questo link\n[https://www.trento.info/esperienze-trento"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E' possibile prenotare visite guidate in altre lingue oltre all'italiano?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Mi spiace ma non so fornirle questa informazione. Può provare a contattare qualcuno all'indirizzo info@trento.info oppure al numero di telefono 0461 216000 per maggiori informazioni",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie comunque.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Prego. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

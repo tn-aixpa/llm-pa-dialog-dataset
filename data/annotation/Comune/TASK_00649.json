@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00649",
+  "doc_src": "comune.trento_aree-tematiche_D0416.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei avere informazioni sull'applicazione dei modelli di eccellenza EFQM e CAF nel Comune di Trento.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, il Comune di Trento ha adottato il modello EFQM nel 2003 e successivamente ha partecipato al Premio Qualità PP.AA. utilizzando il modello CAF.",
+      "ground": "Valutazione esterna Premio Qualità PP.AA. 2005/2006\nIn occasione della partecipazione nel 2005 alla prima edizione del Premio Qualità per le Pubbliche Amministrazioni il Comune di Trento ha adottato il modello CAF,  come espressamente richiesto per la partecipazione al Premio."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Il Comune ha ottenuto risultati positivi con l'applicazione di questi modelli?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, il Comune di Trento è stato selezionato tra le Amministrazioni vincitrici del Premio Qualità PP.AA. e ha ottenuto anche l'attestato di \"Effective CAF User\" e il livello di eccellenza \"Committed to Excellence\" del modello EFQM.",
+      "ground": "Valutazione esterna – Attestato europeo “Committed to Excellence” (Impegno verso l’eccellenza) del modello EFQM\nIl Comune di Trento, aderendo all’invito del FormezPA - Centro Risorse CAF in collaborazione con EFQM e l’Associazione Italiana Cultura per la Qualità (AICQ), partner nazionale di EFQM,  ha conseguito, nel marzo 2012, il 1° livello di eccellenza  del modello EFQM, su una scala di 5 livelli, costituito dal Committed to Excellence” – Impegno verso l’eccellenza” (C2E)."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Quindi posso dire che il Comune ha raggiunto l'eccellenza grazie a questi modelli?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Assolutamente sì, il Comune ha dimostrato impegno e capacità nel miglioramento continuo attraverso l'applicazione di questi modelli di eccellenza. ",
+      "ground": "Il lavoro del valutatore consiste, soprattutto, nell’effettuazione delle autovalutazioni, dalle quali si ricavano nuovi punti di forza e nuove aree di miglioramento, che costituiscono le basi per la creazione e implementazione di nuovi progetti di miglioramento.\nFra i criteria owner e i valutatori interni esiste un'interazione costante nello sforzo congiunto di raccogliere i dati necessari alla stesura ed aggiornamento del Documento di Partecipazione per l'autovalutazione o da sottoporre all'analisi di valutatori esterni e nella collaborazione nell'adempimento di tutte le azioni richieste dal Modello, tenuto conto, ovviamente, delle diverse competenze."
+    }
+  ],
+  "subcategory": "Trento"
+}

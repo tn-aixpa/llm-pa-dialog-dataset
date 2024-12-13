@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00073",
+  "doc_src": "comune.milano_aree-tematiche_D0098.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei avere informazioni sulle visure catastali per gli immobili di cui non sono titolare.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, certo. Puoi accedere al servizio di visura catastale telematica, sappia che è a pagamento.",
+      "ground": "Accedendo al servizio Visura catastale telematica è possibile richiedere, a pagamento:\n\nvisura per soggetto"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Capito, posso richiedere visure attuali o storiche di un immobile?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Entrambe. Può richiedere visure attuali o storiche di un immobile, sia del catasto terreni che del catasto fabbricati.",
+      "ground": "Accedendo al servizio Visura catastale telematica è possibile richiedere, a pagamento:\n\nvisura per soggetto\nvisure attuali o storiche di un immobile (catasto terreni o catasto fabbricati)\nvisure di mappa (estratto di mappa)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "E come posso effettuare il pagamento delle richieste?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Il pagamento delle richieste viene effettuato tramite PagoPA.",
+      "ground": "Il pagamento delle richieste viene effettuato con PagoPA"
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "No, grazie. Grazie per l'aiuto.",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "È stato un piacere. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_01169",
+  "doc_src": "valdaone_v2.1__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Che tipo di azioni posso scrivere con macro-ambito \"Misure economiche\"?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Con il macro-ambito \"Misure economiche\" potresti scrivere azioni come la creazione di incentivi fiscali, agevolazioni per la fruizione di servizi sportivi e culturali, esenzioni da determinate tasse come l'IMIS sulla prima casa, regolamenti per contributi alla conciliazione vita-lavoro e sostegno alle famiglie, contributi per il conseguimento dell'efficienza energetica e della sostenibilità ambientale sul territorio comunale.",
+      "ground": "Agevolazioni per la fruizione di servizi sportivi e culturali\n\n|||\n\nLa legge provinciale ha stabilito che non si pagherа più l'IMIS sulla prima casa. \n\n|||\n\nRegolamento comunale per contributi relativi alla conciliazione vita-lavoro e sostegno alle famiglie residenti nel comune di Valdaone.\n\n|||\n\nRegolamento per contributi a favore della permanenza di persone e famiglie e per il conseguimento dell’efficienza energetica e della sostenibilitа ambientale sul territorio comunale di Valdaone.\n\n|||\n\nRegolamento per contributi a favore della permanenza di persone e famiglie e per il conseguimento dell’efficienza energetica e della sostenibilitа ambientale sul territorio comunale di Valdaone.\n\n|||\n\nVoucher Sportivo\n\n|||\n\nSostegno all’associazionismo che promuove iniziative o attivitа culturali, di animazione e aggregazione, attinente alla dimensione familiare\n\n|||\n\nSpazi per l’aggregazione e la socializzazione\n\n|||\n\nLegna da ardere agli 80enni"
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Scrivimi un'azione per concedere contributi per il miglioramento dell'efficienza energetica alle famiglie.",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "TITOLO: Concessione di contributi per il miglioramento dell'efficienza energetica alle famiglie\n\nTASSONOMIA: Agevolazioni tariffarie e contributi per servizi educativi e di conciliazione\n\nMACRO-AMBITO: Misure economiche\n\nOBIETTIVO: Favorire interventi per il miglioramento dell'efficienza energetica nelle abitazioni.\n\nDESCRIZIONE: Il Comune ha istituito un fondo per erogare contributi a favore dei propri cittadini che intendono effettuare interventi per il miglioramento dell'efficienza energetica. Questi interventi possono includere l'acquisto di corpi illuminanti a led ad alta efficienza energetica, l'acquisto di elettrodomestici ad alta efficienza, la fornitura e posa di valvole termostatiche per il riscaldamento, e la realizzazione di impianti solari termici per la produzione di acqua calda sanitaria. Ogni nucleo famigliare residente può beneficiare del contributo per uno o più interventi ammessi, secondo le specifiche del bando energetico del Comune.",
+      "ground": "TITOLO: Regolamento per contributi a favore della permanenza di persone e famiglie e per il conseguimento dell’efficienza energetica e della sostenibilitа ambientale sul territorio comunale di Valdaone.\nTASSONOMIA: Agevolazioni tariffarie e contributi per servizi educativi e di conciliazione\nMACRO-AMBITO: Misure economiche\n\n|||\n\nIl Comune di Valdaone, con un bando specifico si è proposto di promuovere e di incentivare politiche energetiche-ambientali sostenibili, iniziative volte a valorizzare e qualificare il proprio territorio e a stimolare nei propri cittadini una coscienza e una consapevolezza della necessitа di salvaguardare l’ambiente in cui viviamo. A tal fine è stato costituito un apposito fondo destinato all’erogazione di contributi in conto capitale a favore dei propri cittadini residenti.\nHanno potuto beneficare del contributo i seguenti interventi:\n­L’acquisto di corpi illuminanti a led sia per l’uso interno che per l’uso esterno agli edifici oggetto di residenza, ad alta efficienza energetica con classe A+ o superiore della vecchia etichetta e almeno in classe B della nuova etichetta 2021;\n­L’acquisto di elettrodomestici ad alta efficienza energetica nell’unitа abitativa oggetto di residenza, fra i seguenti prodotti;\n­La fornitura e posa di valvole termostatiche per la riqualificazione degli impianti di riscaldamento esistenti, nell’unitа abitativa oggetto di residenza;\n­La fornitura e posa di impianti solari termici, per la produzione di acqua calda sanitaria nell’unitа abitativa oggetto di residenza.\n­Ogni nucleo famigliare residente a Valdaone ha beneficiare del contributo comunale per uno o più interventi ammessi dal bando, nella somma massima, nella percentuale concedibile e con una spesa minima , prevista dal bando stesso.\nNel 2022 l’Amministrazione Comunale prevede di riapprovare il bando energia con modalitа molto simili a quello promosso nell’anno precedente."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Scrivimi adesso un'azione sulla conciliazione vita-lavoro.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "TITOLO: Contributi per il servizio di assistenza domiciliare per anziani e disabili\n\nTASSONOMIA: Agevolazioni tariffarie e contributi per servizi educativi e di conciliazione\n\nMACRO-AMBITO: Misure economiche\n\nOBIETTIVO: Favorire la conciliazione dei tempi famiglia-lavoro per le famiglie con anziani o disabili a carico.\n\nDESCRIZIONE: Il Comune offre contributi alle famiglie residenti che necessitano di assistenza domiciliare per anziani o disabili, al fine di favorire la conciliazione dei tempi famiglia-lavoro. Questi contributi possono coprire parte delle spese sostenute per l'assunzione di personale qualificato o per l'acquisto di servizi di assistenza domiciliare. In questo modo, si vuole garantire un sostegno concreto alle famiglie che si trovano ad affrontare la gestione di situazioni complesse legate alla cura di persone non autosufficienti.",
+      "ground": "TITOLO: Regolamento comunale per contributi relativi alla conciliazione vita-lavoro e sostegno alle famiglie residenti nel comune di Valdaone.\nTASSONOMIA: Agevolazioni tariffarie e contributi per servizi educativi e di conciliazione\nMACRO-AMBITO: Misure economiche\nDESCRIZIONE: Il Comune di Valdaone in una logica di ''Family Friendly'' si è dotato di un regolamento volto al sostegno delle famiglie residenti promuovendo la natalitа, valorizzando e premiando lo studio dei propri giovani, incentivando esperienze di studio all’estero, la partecipazione a corsi formativi di interesse artistico e culturale, nell’ottica di qualificare il comune di Valdaone come territorio accogliente e attrattivo per le famiglie, seguendo le indicazioni della politica provinciale, nazionale e europea che evidenziano la necessitа di orientare le proprie attivitа in una logica family friendly. Prevede inoltre contributi alle famiglie che si avvalgono del servizio dell'asilo nido per la conciliazione dei tempi famiglia-lavoro; tale contribuzione copre parte della spesa effettiva sostenuta dalle famiglie."
+    },
+    {
+      "id": "T07",
+      "speaker": "Citizen",
+      "message": "Puoi riscrivere l'azione, ma orientarla verso a famiglie con infanti?",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agent",
+      "message": "TITOLO: Contributi per il servizio di asilo nido per famiglie con infanti\n\nTASSONOMIA: Agevolazioni tariffarie e contributi per servizi educativi e di conciliazione\n\nMACRO-AMBITO: Misure economiche\n\nOBIETTIVO: Favorire la conciliazione dei tempi famiglia-lavoro per le famiglie con infanti.\n\nDESCRIZIONE: Il Comune offre contributi alle famiglie residenti che hanno infanti e necessitano di usufruire del servizio di asilo nido per conciliare i tempi tra famiglia e lavoro. Questi contributi coprono parte delle spese sostenute per l'iscrizione e la frequenza all'asilo nido, al fine di agevolare le famiglie nell'accesso a questo servizio essenziale. In questo modo, si promuove la valorizzazione della genitorialità, sostenendo le famiglie con infanti nel territorio comunale.",
+      "ground": "TITOLO: Regolamento comunale per contributi relativi alla conciliazione vita-lavoro e sostegno alle famiglie residenti nel comune di Valdaone.\nTASSONOMIA: Agevolazioni tariffarie e contributi per servizi educativi e di conciliazione\nMACRO-AMBITO: Misure economiche\nDESCRIZIONE: Il Comune di Valdaone in una logica di ''Family Friendly'' si è dotato di un regolamento volto al sostegno delle famiglie residenti promuovendo la natalitа, valorizzando e premiando lo studio dei propri giovani, incentivando esperienze di studio all’estero, la partecipazione a corsi formativi di interesse artistico e culturale, nell’ottica di qualificare il comune di Valdaone come territorio accogliente e attrattivo per le famiglie, seguendo le indicazioni della politica provinciale, nazionale e europea che evidenziano la necessitа di orientare le proprie attivitа in una logica family friendly. Prevede inoltre contributi alle famiglie che si avvalgono del servizio dell'asilo nido per la conciliazione dei tempi famiglia-lavoro; tale contribuzione copre parte della spesa effettiva sostenuta dalle famiglie."
+    },
+    {
+      "id": "T09",
+      "speaker": "Citizen",
+      "message": "Specifica che l'infante deve frequentare l'asilo comunale \"San Lucan\".",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agent",
+      "message": "TITOLO: Contributi per il servizio di asilo nido per famiglie con infanti\n\nTASSONOMIA: Agevolazioni tariffarie e contributi per servizi educativi e di conciliazione\n\nMACRO-AMBITO: Misure economiche\n\nOBIETTIVO: Favorire la conciliazione dei tempi famiglia-lavoro per le famiglie con infanti.\n\nDESCRIZIONE: Il Comune offre contributi alle famiglie residenti che hanno infanti e necessitano di usufruire del servizio di asilo nido per conciliare i tempi tra famiglia e lavoro. Questi contributi coprono parte delle spese sostenute per l'iscrizione e la frequenza all'asilo nido comunale \"San Lucan\", al fine di agevolare le famiglie nell'accesso a questo servizio essenziale. In questo modo, si promuove la valorizzazione della genitorialità, sostenendo le famiglie con infanti nel territorio comunale.",
+      "ground": "TITOLO: Regolamento comunale per contributi relativi alla conciliazione vita-lavoro e sostegno alle famiglie residenti nel comune di Valdaone.\nTASSONOMIA: Agevolazioni tariffarie e contributi per servizi educativi e di conciliazione\nMACRO-AMBITO: Misure economiche\nDESCRIZIONE: Il Comune di Valdaone in una logica di ''Family Friendly'' si è dotato di un regolamento volto al sostegno delle famiglie residenti promuovendo la natalitа, valorizzando e premiando lo studio dei propri giovani, incentivando esperienze di studio all’estero, la partecipazione a corsi formativi di interesse artistico e culturale, nell’ottica di qualificare il comune di Valdaone come territorio accogliente e attrattivo per le famiglie, seguendo le indicazioni della politica provinciale, nazionale e europea che evidenziano la necessitа di orientare le proprie attivitа in una logica family friendly. Prevede inoltre contributi alle famiglie che si avvalgono del servizio dell'asilo nido per la conciliazione dei tempi famiglia-lavoro; tale contribuzione copre parte della spesa effettiva sostenuta dalle famiglie."
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

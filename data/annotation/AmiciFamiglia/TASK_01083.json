@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_01083",
+  "doc_src": "castel_condino__2023.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Cosa mi propone avente la tassonomia \"Agevolazioni tariffarie e contributi attivitа ricreative/culturali/aggregative/formative\"?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Potrebbe creare una convenzione per la gestione di un impianto sciistico così da usare la pratica di sci alpinistico come opportunità per la popolazione e il turismo di socializzare. Altra possibilità è di dare agevolazioni a tutti i cittadini dei Comuni aventi il marchio Family tariffe agevolate presso piscine e centri acquatici",
+      "ground": "TASSONOMIA: Agevolazioni tariffarie e contributi attivitа ricreative/culturali/aggregative/formative\n\nDESCRIZIONE: Convenzione intercomunale per il\n\nconcorso alle spese di gestione dell’impianto sportivo centro sci “coste di\n\nBolbeno.\n\nAllo scopo di consentire\n\nl’apprendimento e l’esercizio della disciplina sportiva dello sci alpino, quale\n\nveicolo di socializzazione e quale volano di sviluppo economico sociale del\n\nterritorio e del turismo, con importanti ricadute positive anche sulle prospettive\n\neconomiche del comune amministrato ed allo scopo di garantire alle giovani\n\ngenerazioni la fruizione di momenti di sport e aggregazione a condizioni\n\ngratuite o particolarmente vantaggiose, il comune di Castel Condino, con\n\ndelibera nr 25 di data: 29.11.2021 ha approvato la convenzione intercomunale per il concorso\n\nalle spese di gestione dell’impianto sportivo sciovia “Coste di Bolbeno” 2021 – 2026.\n\nI\n\nresidenti e ospitati nel territorio dei BIM chiese, oltre ai Comuni con marchio\n\nFamily, dal 2015 possono usufruire di tariffe agevolate presso la Piscina e\n\nCentro Acquatico di Borgo Chiese in Condino."
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Ha anche idee da proporre per il banco alimentare?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Alla tassonomia \"Consegna spesa a domicilio/ Banco alimentare\", viene proposto il servizio per la consegna di farmaci a domicilio per chi non riesce a muoversi. Questa azione sembra più legata alla consegna spesa a domicilio che al banco alimentare.",
+      "ground": "TASSONOMIA: Consegna spesa a domicilio/ Banco alimentare\n\nDESCRIZIONE: Servizio farmaco pronto\n\nAll’interno della convenzione di\n\nmultiservizi, dal 2021 è stato integrato un nuovo servizio fornito dalla\n\nFamiglia Cooperativa di Valle per la consegna di farmaci a domicilio per le\n\npersone impossibilitate ad andare in farmacia.\n\n"
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Sì, decisamente non è spesa alimentare.",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Mi dispiace non poterle dare consigli migliore. Vuole sapere altro?",
+      "ground": ""
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "Hai proposte con tassonomia \"Azioni di contrasto alle dipendenze\"?",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "Mi dispiace ma non ho proposte di azioni aventi tassonomia \"Azioni di contrasto alle dipendenze\".",
+      "ground": ""
+    },
+    {
+      "id": "T9",
+      "speaker": "Citizen",
+      "message": "Fa nulla, buona giornata.",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agent",
+      "message": "Buona giornata a lei.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

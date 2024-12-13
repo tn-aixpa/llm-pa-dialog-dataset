@@ -1,0 +1,40 @@
+{
+  "task_id": "TASK_00880",
+  "doc_src": "comune.salerno_D0198.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Cosa sa dirmi del Cantagiovani?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Il Cantagiovani è un evento organizzato dalle associazioni Estro Armonico e Laes, con il patrocinio del Ministero dell'Istruzione e del Comune di Salerno, quest'anno si terrà dal 2 al 4 maggio. ",
+      "ground": "Come da tradizione il Cantagiovani sceglie la prima settimana di maggio – quest’anno si terrà dal 2 al 4 – per richiamare a Salerno le formazioni corali da diverse città italiane."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Sarà aperto al pubblico?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Mi dispiace ma non sono in grado di darle questa informazione.",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

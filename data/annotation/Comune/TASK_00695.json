@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00695",
+  "doc_src": "comune.trento_aree-tematiche_D0513.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, vorrei informazioni sulle elezioni europee del 2024, posso votare se sono cittadino dell'Unione Europea residente in Italia?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Doveva iscriversi alle liste elettorali aggiunte. Purtroppo però la scadenza per l'iscrizione era a 11 marzo 2024.",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Statistiche-e-dati-elettorali/Elettorale/Elezioni-europee-8-e-9-giugno-2024/Come-e-quando-si-vota/Elezioni-europee-il-voto-per-i-cittadini-dell-Unione-europea-residenti-in-Italia](Elezioni europee, il voto per i cittadini dell'Unione europea residenti in Italia)\nDomanda di iscrizione nella lista elettorale aggiunta per i cittadini dell'Unione europea residenti in Italia, che vogliono votare in Italia, per i membri del Parlamento europeo spettanti all'Italia.\nScadenza\n11 marzo 2024\n."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E per gli italiani temporaneamente residenti all'estero, c'è ancora la possibilità di votare?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Mi dispiace, anche per gli italiani temporaneamente residenti all'estero la scadenza per presentare domanda è il 21 marzo 2024. ",
+      "ground": "Domande\nentro il 21 marzo 2024."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Capito, grazie comunque per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Prego, se ha bisogno di ulteriori chiarimenti non esiti a contattarci.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01140",
+  "doc_src": "pomarolo__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Scrivimi il testo di un'azione verso i nuovi nati",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "TITOLO: Iniziativa “Nuovi Nati”\n\nTASSONOMIA: Promozione della natalitа (Bonus bebè, kit nuovi nati ecc.)\n\nDESCRIZIONE: Il Comune di Pomarolo, in segno di augurio e di benvenuto, continuerа a destinare gratuitamente alle famiglie residenti dei “Nuovi Nati” un kit utile per i primi giorni di vita del bambino e per i neogenitori.\n\nIl kit comprende: un buono del valore di Ђ 25,00, materiale informativo e di promozione dell’iniziativa “Nati per leggere”, una bibliografia che spiega l’importanza della pratica della lettura ad alta voce ai bambini anche piccolissimi, una lettera di riepilogo dei servizi attivi nel Comune e su altre forme di sostegno alle famiglie, una lettera di sensibilizzazione all’utilizzo di pannolini ecologici lavabili e un buono sconto del 10% offerto dalla Farmacia Comunale “G. Adami” di Pomarolo spendibile sull’acquisto di prodotti non medicinali, valido fino all’anno di vita del bambino. ",
+      "ground": "TITOLO: Iniziativa “Nuovi Nati”\n\nTASSONOMIA: Promozione della natalitа (Bonus bebè, kit nuovi nati ecc.)\n\nDESCRIZIONE: Il Comune di Pomarolo, in segno di augurio e di benvenuto, continuerа a destinare gratuitamente alle famiglie residenti dei “Nuovi Nati” un kit utile per i primi giorni di vita del bambino e per i neogenitori.\n\nIl kit comprende: un buono del valore di Ђ 25,00, materiale informativo e di promozione dell’iniziativa “Nati per leggere”, una bibliografia che spiega l’importanza della pratica della lettura ad alta voce ai bambini anche piccolissimi, una lettera di riepilogo dei servizi attivi nel Comune e su altre forme di sostegno alle famiglie, una lettera di sensibilizzazione all’utilizzo di pannolini ecologici lavabili e un buono sconto del 10% offerto dalla Farmacia Comunale “G. Adami” di Pomarolo spendibile sull’acquisto di prodotti non medicinali, valido fino all’anno di vita del bambino. "
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Riscrivi l'azione, ma falla per il Comune di Gardolo, cambia l'utilità del kit ai nuovi a un anno e il buono sconto del 15% offerto dalla catena locale di negozi per pannolini tradizionali. Rimuovi anche la lettera sull'importanza dei pannolini riutilizzabili.",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "TITOLO: Iniziativa “Nuovi Nati”\n\nTASSONOMIA: Promozione della natalitа (Bonus bebè, kit nuovi nati ecc.)\n\nDESCRIZIONE: Il Comune di Gardolo, in segno di augurio e di benvenuto, continuerа a destinare gratuitamente alle famiglie residenti dei “Nuovi Nati” un kit utile per il primo anno di vita del bambino e per i neogenitori.\n\nIl kit comprende: un buono del valore di €25,00, materiale informativo e di promozione dell’iniziativa “Nati per leggere”, una bibliografia che spiega l’importanza della pratica della lettura ad alta voce ai bambini anche piccolissimi, una lettera di riepilogo dei servizi attivi nel Comune e su altre forme di sostegno alle famiglie e un buono sconto del 15% offerto dalla catena locale di negozi per l'acquisto di pannolini tradizionali, valido fino all’anno di vita del bambino. ",
+      "ground": "TITOLO: Iniziativa “Nuovi Nati”\n\nTASSONOMIA: Promozione della natalitа (Bonus bebè, kit nuovi nati ecc.)\n\nDESCRIZIONE: Il Comune di Pomarolo, in segno di augurio e di benvenuto, continuerа a destinare gratuitamente alle famiglie residenti dei “Nuovi Nati” un kit utile per i primi giorni di vita del bambino e per i neogenitori.\n\nIl kit comprende: un buono del valore di Ђ 25,00, materiale informativo e di promozione dell’iniziativa “Nati per leggere”, una bibliografia che spiega l’importanza della pratica della lettura ad alta voce ai bambini anche piccolissimi, una lettera di riepilogo dei servizi attivi nel Comune e su altre forme di sostegno alle famiglie, una lettera di sensibilizzazione all’utilizzo di pannolini ecologici lavabili e un buono sconto del 10% offerto dalla Farmacia Comunale “G. Adami” di Pomarolo spendibile sull’acquisto di prodotti non medicinali, valido fino all’anno di vita del bambino. "
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Grazie, a posto.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "E' stato un piacere per me, buona giornata.",
+      "ground": "=== PIANO FAMIGLIA DI POMAROLO ANNO 2022 ===\n\nNel 2006 la Giunta della Provincia Autonoma di Trento ha istituito il sistema di certificazione “Family in Trentino”, con l’obiettivo di identificare quelle Organizzazioni, pubbliche e private, che erogano servizi a favore delle famiglie secondo uno standard predefinito di qualitа.\n\n|||\n\nLa certificazione “Family in Trentino” trova disciplina nella legge provinciale 02 marzo 2022, n.\n\n|||\n\nLa certificazione “Family in Trentino” trova disciplina nella legge provinciale 02 marzo 2022, n. 1 avente ad oggetto “Sistema integrato delle politiche strutturali per la promozione del benessere familiare e della natalitа”, che ha inteso qualificare il Trentino quale territorio accogliente per le famiglie e per i soggetti che interagiscono con esse, in grado di offrire servizi rispondenti alle esigenze delle famiglie residenti e a quelle delle famiglie ospiti."
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

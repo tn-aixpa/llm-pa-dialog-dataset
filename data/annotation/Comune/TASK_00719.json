@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00719",
+  "doc_src": "comune.trento_aree-tematiche_D0554.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, mi scusi, potrebbe dirmi se ci sono dei mercati contadini in piazza Dante?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, sì, ci sono mercati contadini in Piazza Dante.",
+      "ground": "Mercati contadini di piazza Dante e San Giuseppe (via Filzi)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Come può un produttore agricolo vendere la sua merce in questi mercati?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Le consiglio di consultare la pagina https://www.comune.trento.it/Aree-tematiche/Attivita-economiche/Commercio-su-area-pubblica/Vendita-prodotti-agricoli/Mercati-contadini/Mercati-contadini-di-piazza-Dante-e-San-Giuseppe-via-Filzi per ulteriori informazioni.",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Attivita-economiche/Commercio-su-area-pubblica/Vendita-prodotti-agricoli/Mercati-contadini/Mercati-contadini-di-piazza-Dante-e-San-Giuseppe-via-Filzi](Mercati contadini di piazza Dante e San Giuseppe (via Filzi))\nModalità di partecipazione da parte dei produttori agricoli."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "E per utilizzare la sala di Villa de Mersi, come devo procedere?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Per l'utilizzo della sala di Villa de Mersi, è necessario fare una richiesta scritta . Può ottenre più informazioni al link https://www.comune.trento.it/Aree-tematiche/Servizi-demografici/Stato-civile/Altro/Utilizzo-sala-di-Villa-de-Mersi .",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Servizi-demografici/Stato-civile/Altro/Utilizzo-sala-di-Villa-de-Mersi](Utilizzo sala di Villa de Mersi)\nÈ ammesso da parte di cittadini singoli o associati l'uso del salone o sale attigue al primo piano di Villa de Mersi, per matrimoni e unioni civili (durata di un'ora) o congressi e convegni, previa richiesta scritta."
+    }
+  ],
+  "subcategory": "Trento"
+}

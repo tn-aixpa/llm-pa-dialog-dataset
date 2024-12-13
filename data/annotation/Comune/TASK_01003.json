@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01003",
+  "doc_src": "comSalerno0800.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Di cosa si occupa nello specifico il servizio Espropri del Comune?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Il Servizio Espropri ed Esecuzioni si occupa di procedure ablative e cessioni volontarie nell'ambito delle procedure espropriative per la realizzazione di opere e lavori pubblici. Gestisce l'acquisizione del diritto di proprietà o di altri diritti reali necessari per tali opere, oltre a occuparsi della gestione delle procedure amministrative relative alla pianificazione ERP/ERS. Inoltre, esegue le ordinanze di abbattimento degli abusi edilizi e si occupa di ogni altra funzione che rientra nella sua competenza per legge, regolamento o atto amministrativo.",
+      "ground": "Il Servizio Espropri ed Esecuzioni si occupa di:\nProcedure ablative e cessioni volontarie nel corso di procedure espropriative afferenti a tutti i procedimenti per la realizzazione di opere e/o lavori dell’Ente e sottoscrizione degli atti endoprocedimentali e conclusi;\nAcquisizione del diritto di proprietà o altro diritto reale per la realizzazione di opere e lavori pubblici;\nGestione procedure amministrative (bandi assegnazioni convenzioni) seguenti pianificazione ERP/ERS;\nEsecuzione delle ordinanze di abbattimento degli abusi edilizi non ottemperate: procedimenti conseguenti;\nOgni altra funzione inequivocabilmente riferibile alla competenza del servizio in forza di legge, regolamento e/o atto amministrativo."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "In quali orari è accessibile il servizio?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "per il pubblico, il servizio è accessibile il martedì dalle 9:00 alle 12:00 e dalle 15:00 alle 16:30 e il giovedì dalle 9:00 alle 12:00.",
+      "ground": "Orari per il pubblico:\nMartedì dalle 9:00 alle 12:00 e dalle 15:00 alle 16:30.\nGiovedì dalle 9:00 alle 12:00."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Ci sono dei contatti per il servizio?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Sì, puoi contattare Antonella Senatore, al numero 089662533 o all'indirizzo antonella.senatore@comune.salerno.it oppure Gennaro Saiano, al numero 089662312 o all'indirizzo gennaro.saiano@comune.salerno.it .",
+      "ground": "[/node/3531](Antonella Senatore\nIstruttore amministrativo\n\n\n\n\n  089662533\n  antonella.senatore@comune.salerno.it)\nAntonella Senatore\nIstruttore amministrativo\ntel:089662533\nmailto\n.senatore@comune.salerno.it\n[/node/3532](Gennaro Saiano\nIstruttore Tecnico\n\n\n\n\n  089662312\n  gennaro.saiano@comune.salerno.it)\nGennaro Saiano\nIstruttore Tecnico\ntel:089662312\nmailto\n.saiano@comune.salerno.it\n[](Codice di fatturazione (ipa))\nCodice di fatturazione (ipa)\n7FGI96"
+    }
+  ],
+  "subcategory": "Salerno"
+}

@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00614",
+  "doc_src": "comune.trento_aree-tematiche_D0344.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, mi sa dire di più sulla Banca della terra?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "La Banca della terra è un inventario di terreni pubblici e privati disponibili per l'assegnazione temporanea. Per iscrivere i terreni, è necessario compilare l'apposito modulo.",
+      "ground": "La Banca della terra è un inventario di terreni pubblici e privati che i proprietari dichiarano disponibili per la temporanea assegnazione ai soggetti che ne fanno richiesta favorendo in tal modo l'incontro tra domanda e offerta.\n\n|||\n\n[https://www.comune.trento.it/Aree-tematiche/Attivita-economiche/Agricoltura-e-allevamento/Banca-della-terra/Banca-della-terra-iscrizione-dei-terreni-cancellazione-e-richiesta-informazioni](Banca della terra: iscrizione dei terreni, cancellazione e richiesta informazioni)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E se volessi cancellare un terreno?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Per cancellare un terreno dall'inventario, è possibile inviare una richiesta di cancellazione tramite il modulo apposito sul sito web al link https://www.comune.trento.it/Aree-tematiche/Attivita-economiche/Agricoltura-e-allevamento/Banca-della-terra/Banca-della-terra-iscrizione-dei-terreni-cancellazione-e-richiesta-informazioni .",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Attivita-economiche/Agricoltura-e-allevamento/Banca-della-terra/Banca-della-terra-iscrizione-dei-terreni-cancellazione-e-richiesta-informazioni](Banca della terra: iscrizione dei terreni, cancellazione e richiesta informazioni)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Capito, grazie per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È un piacere, se ha bisogno di ulteriori chiarimenti non esitare a contattarci. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

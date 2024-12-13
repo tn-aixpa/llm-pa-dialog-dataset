@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00752",
+  "doc_src": "comune.salerno_D0014.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni riguardo al Fondo Dell'Acqua. È già disponibile al pubblico?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "La pagina è ancora in allestimento e i risultati della digitalizzazione non sono completi al momento.",
+      "ground": "PAGINA IN ALLESTIMENTO\nLa pagina contiene i risultati della digitalizzazione\ndi parte del “Fondo Dell’Acqua”, complesso archivistico prodotto dal Prof. Arch. Mario Dell’Acqua\ndurante la sua pluridecennale attività e recentemente donato\nall’ente comunale."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Capisco, il prof. Dell'Acqua è disponibile per rispondere a domande riguardo ai suoi progetti?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Mi dispiace, ma non sono in grado di dirle se Dell'Acqua è disponibile a rispondere a domande.",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie comunque per le informazioni. ",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Prego, sono qui per aiutarla con qualsiasi altra domanda abbia. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

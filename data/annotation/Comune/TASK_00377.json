@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00377",
+  "doc_src": "comune.milano_aree-tematiche_links_D0411.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Come si calcola la Tari?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "La Tari è determinata in base ai servizi di raccolta, trasporto e smaltimento dei rifiuti urbani. È dovuta da chiunque possieda o detenga locali adibiti a qualsiasi uso e che producono rifiuti urbani.",
+      "ground": "La Tari è la tassa dovuta per i servizi di raccolta, trasporto e smaltimento o recupero dei rifiuti urbani.\nIstituita con Legge 27/12/2013 n. 147, è dovuta da chiunque possieda o detenga a qualsiasi titolo locali o aree scoperte adibiti a qualsiasi uso, suscettibili di produrre rifiuti urbani, con vincolo di solidarietà tra i componenti del nucleo familiare o tra coloro che usano in comune i locali o le aree."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Esistono agevolazioni?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Sì, esistono delle agevolazioni che dipendono se la sua è una utenza domestica o non. ",
+      "ground": "Agevolazioni\nPer informazioni sulle agevolazioni visita:\n[/web/guest/aree-tematiche/tributi/tari/agevolazioni-e-rimborsi/agevolazioni-tari-per-utenze-domestiche](Agevolazioni e rimborsi Tari per utenze domestiche)\n[/web/guest/aree-tematiche/tributi/tari/agevolazioni-e-rimborsi/agevolazioni-tari-per-utenze-non-domestiche](Agevolazioni Tari per utenze non domestiche)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Quando non si paga la Tari?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "La Tari non si paga per alcuni tipi di locali, come quelli con altezza inferiore a 1,5 mt, locali tecnici, balconi, posti auto scoperti, giardini e parchi. È inoltre possibile chiedere l'esenzione per locali vuoti se l'immobile risulta non occupato, privo di arredi e non fornito dalle utenze di acqua, luce e gas.",
+      "ground": "Quando non si paga la Tari\nLa Tari non si paga su:\nlocali con altezza inferiore a 1,5 mt.\nlocali tecnici (cabine elettriche, vani ascensori, locali contatori ecc.)\nbalconi e terrazze scoperte\nposti auto scoperti\ngiardini e parchi\naree comuni condominiali che non siano detenute o occupate in via esclusiva.\nInoltre è possibile chiedere l’\n[/web/guest/servizi/esenzione-tari-locali-vuoti](esenzione per locali vuoti)\nse l’immobile resta a disposizione, cioè non è occupato, è privo di arredi e ha le utenze di acqua, gas, luce e telefono scollegate."
+    },
+    {
+      "id": "T07",
+      "speaker": "Citizen",
+      "message": "Come posso presentare la dichiarazione?",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agent",
+      "message": "Per presentare la dichiarazione della Tari, può visitare il sito /dichiaratariutenzedomestiche in caso di utenze domestiche o il sito /dichiaratariutenzenondomestiche per le utenze non domestiche.",
+      "ground": "Dichiarazioni Tari\nPer presentare le dichiarazioni Tari visita:\n[/dichiaratariutenzedomestiche](Dichiarazioni per le utenze domestiche)\n[/dichiaratariutenzenondomestiche](Dichiarazioni per le utenze non domestiche)"
+    }
+  ],
+  "subcategory": "Milano"
+}

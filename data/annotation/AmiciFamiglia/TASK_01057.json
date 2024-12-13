@@ -1,0 +1,82 @@
+{
+  "task_id": "TASK_01057",
+  "doc_src": "arco__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Buongiorno, vorrei avere delle idee sul come costruire una azione orientata al mantenimento del marchio Family Audit.",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Il Comune di Arco nel 2022 ha costruito un'azione dove, a seguito di una ristrutturazione interna, vuole consolidare il percorso per mantenere la certificazione conciliando famiglia e lavoro per i dipendenti del Comune di Arco",
+      "ground": "=== PIANO FAMIGLIA DI ARCO ANNO 2022 ===\n\n|||\n\nTITOLO: FASE DI MANTENIMENTO CERTIFICAZIONE FAMILY AUDIT\n\n|||\n\nOBIETTIVO: Con il coordinamento del nuovo team direttivo e la collaborazione con il gruppo di lavoro interno, (rappresentativo dei vari servizi e aree comunali) l'obiettivo è quello di proseguire, consolidare e rinnovare le politiche di conciliazione famiglia lavoro a beneficio dei dipendenti del Comune di Arco, identificando azioni e progettualitа adatte alle mutate condizioni del contesto lavorativo, familiare e sociale dei lavoratori.\n\nDESCRIZIONE: A seguito dell'ottenimento del certificato Family Audit Executive (2020) e di una fase di profonda riorganizzazione dell'assetto organizzativo della struttura e dell'organico comunale (con un turnover sia del gruppo di direzione che del personale), nel 2022 verrа ripreso e consolidato il percorso per il mantenimento della certificazione."
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Hai qualche suggerimento per azioni di tipo sportivo?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Di seguito una lista esemplificativa di alcune azioni:\n\n- Voucher sportivo per le famiglie\n- Falesia di Arrampicata family\n- Festa dello sport\n",
+      "ground": "TITOLO: VOUCHER SPORTIVO PER LE FAMIGLIE\n\n|||\n\nTITOLO: FALESIA DI ARRAMPICATA FAMILY\n\n|||\n\nTITOLO: FESTA DELLO SPORT"
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Puoi dirmi di più sulla festa dello sport?",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Lo scopo del festival è di fare conoscere in prossimità delle iscrizioni annuali le discipline delle associazione nel territorio. Lo scopo è di promuovere l'interessamento dei giovani verso la pratica sportiva.",
+      "ground": "OBIETTIVO: Far conoscere alle famiglie, in prossimitа delle iscrizioni alle attivitа annuali, le discipline sportive attivate delle associazioni che operano sul territorio, promuovendo tra i bambini/e e i giovani la pratica sportiva.\n\nDESCRIZIONE: La festa dello sport viene svolta, con cadenza annuale, durante una delle quattro domeniche del mese di settembre, invitando nel centro storico di Arco, le varie associazioni sportive che, installando dei corner pratico-promozionali, permettono a bambini/e, ragazzi/e e famiglie di conoscere e sperimentare le più varie discipline sportive, prima dell'iscrizione alle attivitа autunnali."
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "Interessante.",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "Vuole chiedere altro?",
+      "ground": ""
+    },
+    {
+      "id": "T9",
+      "speaker": "Citizen",
+      "message": "Hai per caso suggerimenti anche sul come accogliere i profughi?",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agent",
+      "message": "Sempre Arco ha scritto una azione orientata verso i profughi ucraini.\n\nL'obiettivo di questa è attivare corsi di italiano presso la biblioteca collaborando con un'associazione locale e riservando momenti di socializzazioni per le famiglie in collaborazione con altri enti.",
+      "ground": "OBIETTIVO: Verranno attivati:\n\ncorsi di italiano per profughi presso la Biblioteca comunale, in collaborazione con l'associazione Il Gioco degli Specchi;\n\nmomenti di socializzazione rivolti alle famgilie (presso il centro giovani Cantiere 26 e l'Oratorio di Arco), in collaborazione con scout Agesci, Croce Rossa Sezione Alto Garda etc., coordinando tale attivitа con tutti i Comuni aderenti al Distretto famiglia Alto Garda e Ledro.\n"
+    },
+    {
+      "id": "T11",
+      "speaker": "Citizen",
+      "message": "Perfetto, grazie di tutto.",
+      "ground": ""
+    },
+    {
+      "id": "T12",
+      "speaker": "Agent",
+      "message": "Il piacere è mio. Buona Giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

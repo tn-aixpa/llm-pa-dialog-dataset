@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00615",
+  "doc_src": "comune.trento_aree-tematiche_D0346.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sulla vidimazione dei registri vini e prodotti vitivinicoli.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "La vidimazione dei registri vini e prodotti vitivinicoli riguarda la gestione dei procedimenti di ricevimento, controllo e spedizione di dichiarazioni di produzione e raccolta uve e denuncia giacenza vini; timbratura e convalida di documenti di trasporto di prodotti vitivinicoli.",
+      "ground": "Questa sezione riguarda la gestione dei procedimenti di ricevimento, controllo e spedizione di dichiarazioni di produzione e raccolta uve e denuncia giacenza vini; timbratura e convalida di documenti di trasporto di prodotti vitivinicoli;"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quali sono i riferimenti normativi relativi a questa pratica?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "I riferimenti normativi sono il R.D. 6.5.1940 n. 635, il D.P.R. 12.2.1965 n. 162, la L. 3.12.1971 n. 1064, il D.M. 10.7.1985, la L. 7.8.1986 n. 462, il D.M. 8.8.1986, la L. 10.2.1992 n. 164, il D.M. 19.12.1994 n. 768 e il D.M. 1.8.1995.",
+      "ground": "8.6.1931 n. 773 delle leggi di pubblica sicurezza”;\nD.P.R. 12.2.1965 n. 162\n\"Norme per la repressione delle frodi nella preparazione e nel commercio dei mosti, vini ed aceti\" e s.m.i.;\nL. 3.12.1971 n. 1064\n“Norme relative all’obbligo di far distillare i sottoprodotti della vinificazione”;\nD.M. 10.7.1985\n\"Norme applicative del Regolamento C.E.E. n. 2102/84 riguardante la dichiarazione di giacenza dei vini e prodotti vitivinicoli\" e s.m.i.;\nL. 7.8.1986 n. 462\n“Misure urgenti in materia di prevenzione e repressione delle sofisticazioni alimentari”;\nD.M. 8.8.1986\n\"Termine e modalità per la presentazione delle dichiarazioni annuali di raccolta delle uve e di produzione vino e prodotti vitivinicoli\" e s.m.i.;\nL. 10.2.1992 n. 164\n“Nuova disciplina delle denominazioni di origine”;\nD.M. 19.12.1994 n. 768\n“Regolamento recante disposizioni nazionali di attuazione delle norme del Regolamento C.E.E. n. 2238/93, relativo ai documenti che scortano il trasporto dei prodotti e alla tenuta dei registri nel settore vitivinicolo”;\nD.M. 1.8.1995\n\"Adozione dei nuovi modelli di dichiarazione di raccolta delle uve e produzione vino\";"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni. Posso presentare la domanda per la vidimazione dei documenti di accompagnamento di prodotti vitivinicoli qui in Comune?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Certamente, può trovare ulteriori informazioni e istruzioni per presentare la domanda al sito https://www.comune.trento.it/Aree-tematiche/Attivita-economiche/Agricoltura-e-allevamento/Prodotti-vitivinicoli-e-sostanze-zuccherine/Vidimazione-dei-documenti-di-accompagnamento-di-prodotti-vitivinicoli .",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Attivita-economiche/Agricoltura-e-allevamento/Prodotti-vitivinicoli-e-sostanze-zuccherine/Vidimazione-dei-documenti-di-accompagnamento-di-prodotti-vitivinicoli](Vidimazione dei documenti di accompagnamento di prodotti vitivinicoli)\nInformazioni per presentare la domanda di vidimazione dei documenti di accompagnamento di prodotti vitivinicoli."
+    }
+  ],
+  "subcategory": "Trento"
+}

@@ -1,0 +1,82 @@
+{
+  "task_id": "TASK_01041",
+  "doc_src": "Plan_57328.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Buongiorno, vorrei scrivere un piano per le famiglie nel mio comune. Hai consigli sul dove partire?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Buongiorno, può esserle di ispirazione la Comunitа Rotaliana Kцnigsberg. Il loro interesse è di offrire  servizi e opportunità per le famiglie residenti e non operando in una logica di Distretto famiglia. Il Comune di San Michele all'Adige è fra coloro che hanno aderito  a questo \"Distretto Famiglia\"",
+      "ground": "Anche all’interno del territorio della Comunitа Rotaliana Kцnigsberg ci si vuole pertanto qualificare sempre più\n\ncome territorio accogliente ed attrattivo per le famiglie e per i soggetti che interagiscono con esse, capace di offrire servizi e opportunitа rispondenti alle aspettative delle famiglie residenti e non, operando in una logica di Distretto famiglia, all’interno del quale accrescere sul territorio il benessere familiare.\n\nIl Comune di San Michele all’Adige ha formalmente aderito al “Distretto Famiglia” nel 2015 e con determinazione del Dirigente dell’Agenzia provinciale per la famiglia, la natalitа e le politiche giovanili n.86 di data 15.03.2017, ha ottenuto il marchio Family in Trentino” per la categoria Comuni."
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "E come intende distinguersi il Comune di San Michele all'Adige?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Il Comune di San Michele all'Adige è una realtà ricca di associazioni e associazioni sportive che promuovono iniziative per giovani e famiglie che riesce a cogliere queste risorse e metterle in sinergia fra loro, facendo beneficiare sia le singole famiglie che la comunità. ",
+      "ground": "Il Comune di San Michele all’Adige si presenta come una realtа ricca di associazioni, gruppi informali, societа sportive che a vario titolo si occupano di promuovere iniziative per giovani e famiglie. Il saper cogliere queste importanti risorse, metterle in rete e creare sinergia tra le stesse potrа portare il beneficio alla singola famiglia e all’interno della comunitа."
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Sembra interessante. All'atto pratico cosa intendono fare?",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Ci sono diverse azioni che il Comune di San Michele all'Adige intende svolgere. Cosa ti interessa?",
+      "ground": ""
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "Quali sono le iniziative per i più piccoli?",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "Per i più piccoli, le iniziative sono diverse, fra queste, lo sviluppo di politiche attive per promuovere azioni nel mondo giovanile e portare il benessere dei bambini nelle colonie, anche i diversamente abili.\n- P",
+      "ground": "OBIETTIVO: Sviluppare politiche attive volte a promuovere azioni a favore del mondo giovanile, inteso nella sua accezione più ampia di pre-adolescenti,\n\nadolescenti, giovani e giovani adulti\n\ndi etа compresa tra gli 11 e 35 anni e sensibilizzare la comunitа verso un atteggiamento positivo,\n\naccogliente e propositivo nei\n\nconfronti di questa c\n\nategoria\n\ndi cittadini.\n\n|||\n\nTITOLO: COLONIA ESTIVA DIURNA\n\nOBIETTIVO: Il servizio si pone come obiettivo primario il benessere dei piccoli ospiti, rendendo piacevole loro permanenza, personalizzando al bisogno l’intervento educativo, valorizzando la presenza dei bambini diversamente abili anche rendendoli partecipi delle singole iniziative e sfruttando al meglio le risorse che la sede delle colonie e il territorio offrono."
+    },
+    {
+      "id": "T9",
+      "speaker": "Citizen",
+      "message": "Interessante, grazie per gli spunti. C'è nulla per quanto riguarda le attività sportive?",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agent",
+      "message": "No, pare che il piano di quest'anno non abbia niente rivolto alle attività sportive.",
+      "ground": ""
+    },
+    {
+      "id": "T11",
+      "speaker": "Citizen",
+      "message": "Va bene, grazie comunque.",
+      "ground": ""
+    },
+    {
+      "id": "T12",
+      "speaker": "Agent",
+      "message": "Se ha altre domande, non esiti a ricontattarmi.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

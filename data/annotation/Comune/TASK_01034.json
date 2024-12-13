@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01034",
+  "doc_src": "comSalerno1116.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "PA Operator",
+      "message": "Quali sono i documenti richiesti per presentare un'istanza di estratto conto debitorio?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Per presentare un'istanza di estratto conto debitorio, è richiesto un documento d'identità in corso di validità del richiedente, da allegare alla richiesta di estratto conto.",
+      "ground": "La richiesta, debitamente compilata allegando un documento d'identità in corso di validità del richiedente, può essere trasmessa agli uffici mediante\nuna\ndelle seguenti modalità:"
+    },
+    {
+      "id": "T03",
+      "speaker": "PA Operator",
+      "message": "Bisogna pagare qualcosa per questa richiesta?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "La presentazione della richiesta di estratto della posizione debitoria non prevede costi.",
+      "ground": "La presentazione della richiesta non prevede costi."
+    },
+    {
+      "id": "T05",
+      "speaker": "PA Operator",
+      "message": "E' possibile mandare la richiesta per casella postale?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "No, l'invio postale non è fra le modalità previste per la ricezione della richiesta.",
+      "ground": "La richiesta, debitamente compilata allegando un documento d'identità in corso di validità del richiedente, può essere trasmessa agli uffici mediante\nuna\ndelle seguenti modalità:\nmail all'indirizzo:\nmailto:info.tari@comune.salerno.it?subject=%5BTARI%5D%20Richiesta%20estratto%20posizione%20debitoria&body=Spett.le%20Ufficio%20TARI%2C%0A%0Acon%20la%20presente%20si%20richiede%20estratto%20conto%20della%20posizione%20debitoria%20relativa%20al%20tributo%20TARI%2FTARES%2FTARSU%20nei%20confronti%20dell'Amministrazione%20Comunale%20del%20seguente%20contribuente%3A%0A%0ACognome%3A%0ANome%3A%0AData%20di%20nascita%3A%0AC.F.%3A%0ATel.%3A%0A%0ASi%20allegano%3A%0A-%20Richiesta%20debitamente%20compilata%0A-%20Copia%20di%20un%20documento%20d'identit%C3%A0%20in%20corso%20di%20validit%C3%A0%0A%0AGrazie.%0A%0ACordiali%20Saluti.%0A\ninfo.tari@comune.salerno.it\nPEC all'indirizzo:\nmailto:tari@pec.comune.salerno.it%20?subject=%5BTARI%5D%20Richiesta%20estratto%20posizione%20debitoria&body=Spett.le%20Ufficio%20TARI%2C%0A%0Acon%20la%20presente%20si%20richiede%20estratto%20conto%20della%20posizione%20debitoria%20relativa%20al%20tributo%20TARI%2FTARES%2FTARSU%20nei%20confronti%20dell'Amministrazione%20Comunale%20del%20seguente%20contribuente%3A%0A%0ACognome%3A%0ANome%3A%0AData%20di%20nascita%3A%0AC.F.%3A%0ATel.%3A%0A%0ASi%20allegano%3A%0A-%20Richiesta%20debitamente%20compilata%0A-%20Copia%20di%20un%20documento%20d'identit%C3%A0%20in%20corso%20di%20validit%C3%A0%0A%0AGrazie.%0A%0ACordiali%20Saluti.%0A\ntari@pec.comune.salerno.it\nconsegna a mano al protocollo del Settore Tributi e Entrate Comunali durante l'orario di apertura."
+    }
+  ],
+  "subcategory": "Salerno"
+}

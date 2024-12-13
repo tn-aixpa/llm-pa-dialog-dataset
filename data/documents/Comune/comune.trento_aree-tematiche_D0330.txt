@@ -1,0 +1,109 @@
+Descrizione degli scenari di rischio e delle zone interessate all'evacuazione (zona viola e zona rosa)
+In base allo scenario di rischio, cioè alla portata del fiume, la popolazione interessata sarà informata sui comportamenti da assumere (e anche da evitare).
+Tutte le informazioni verranno diffuse attraverso questo sito e gli altri canali istituzionali (social, stampa e TV). È di fondamentale importanza seguirli costantemente per tenersi aggiornati sull'evolversi della situazione.
+[]()
+Comportamento della popolazione in caso di preallarme-allarme inondazione fiume Adige (allerta rossa)
+Il piano prevede due scenari e due zone di rischio in base alla portata di esondazione del fiume e in base alla posizione della propria abitazione.
+Nel primo scenario,
+scenario 1
+, è attesa un'inondazione estesa del fondovalle, con portata del fiume dai 2050 ai 2700 metri cubi al secondo, nello
+scenario 2
+invece, sono attese esondazioni locali minori, con portata del fiume inferiore ai 2050 metri cubi al secondo.
+Il modello di intervento è suddiviso inoltre in due zone: la
+[/Aree-tematiche/Protezione-civile/Piano-emergenza-inondazione-fiume-Adige/Documentazione-ufficiale/Tavola-E11-Modello-di-intervento-tr-100-200-portata-attesa-maggior-o-uguale-a-2050-metri-cubi-al-secondo](zona viola)
+zona viola
+, per cui è prevista l'evacuazione completa degli edifici e la
+[/Aree-tematiche/Protezione-civile/Piano-emergenza-inondazione-fiume-Adige/Documentazione-ufficiale/Tavola-E11-Modello-di-intervento-tr-100-200-portata-attesa-maggior-o-uguale-a-2050-metri-cubi-al-secondo](zona rosa)
+, per cui è prevista la messa in sicurezza ed evacuazione solo dei piani terra degli edifici. A loro volta le zone sono suddivise in 20 settori (contrassegnati dalle lettere A, B, C... fino alla lettera V).
+[]()
+Scenario 1
+(tr 100-200)
+Portata del fiume attesa maggiore o uguale a 2050 metri cubi al secondo
+La prima cosa da fare è verificare se la propria abitazione ricade in area inondabile raffigurata nel modello di intervento
+([/Aree-tematiche/Protezione-civile/Piano-emergenza-inondazione-fiume-Adige/Documentazione-ufficiale/Tavola-E11-Modello-di-intervento-tr-100-200-portata-attesa-maggior-o-uguale-a-2050-metri-cubi-al-secondo](TAV. E11)
+)
+Il modello di intervento è suddiviso in 2 zone:
+Zona viola
+soggetta ad evacuazione completa dell’edificio
+([/Aree-tematiche/Protezione-civile/Piano-emergenza-inondazione-fiume-Adige/Documentazione-ufficiale/Fig.-11a-Evacuazione-completa](Fig 11a)
+-
+Schema evacuazione completa
+)
+[]()
+Residenti nella zona viola
+se residenti nella zona viola (evacuazione completa), quando viene dato l'allarme dalla Protezione civile (diffuso da mass media, social network, operatori di Protezione civile a mezzo megafoni, sirene ecc...)
+allontanarsi autonomamente
+con i propri autoveicoli dalla zona di inondazione, raggiungendo alloggi alternativi presso seconde case, parenti, amici ecc. Lasciare l’abitazione dotati di
+[/Aree-tematiche/Protezione-civile/Piano-emergenza-inondazione-fiume-Adige/Comportamento-della-popolazione-in-caso-di-esondazione-del-fiume-Adige/Zaino-di-emergenza](zaino di emergenza)
+.
+se residenti nella zona viola, in caso non sia possibile allontanarsi autonomamente,
+individuare il punto di raccolta
+nel quale recarsi al momento dell’attivazione dell’evacuazione. Il punto di raccolta è ubicato per ogni settore di appartenenza nell’
+[/Aree-tematiche/Protezione-civile/Piano-emergenza-inondazione-fiume-Adige/Documentazione-ufficiale/Allegato-7-Schede-evacuazione](ALLEGATO 7 TR 100-200)
+-
+Schede evacuazione
+. I settori, con relativi punti di raccolta e
+centri di accoglienza
+*, sono tutti riportati nella mappa del piano di evacuazione ([/Aree-tematiche/Protezione-civile/Piano-emergenza-inondazione-fiume-Adige/Documentazione-ufficiale/Tavola-E13-Area-evacuazione-tr-100-200-portata-attesa-maggior-o-uguale-a-2050-metri-cubi-al-secondo](TAV. E13)
+). La popolazione giunta ai punti di raccolta verrà presa in carico da personale addetto della Protezione civile e trasferita in sicurezza nei vari centri di accoglienza (strutture adeguate individuate all’esterno della zona soggetta a inondazione).
+* allestiti presso centri civici, centri sportivi, scuole, palestre, caserme, chiese, oratori, canoniche
+Zona rosa
+soggetta a messa in sicurezza-evacuazione dei piani terra dell’edificio
+([/Aree-tematiche/Protezione-civile/Piano-emergenza-inondazione-fiume-Adige/Documentazione-ufficiale/Fig.-11b-Messa-in-sicurezza-evacuazione-piani-terra](Fig 11b)
+-
+Messa in sicurezza – evacuazione piani terra
+)
+[]()
+Residenti nella zona rosa
+la popolazione residente nella zona rosa (messa in sicurezza-evacuazione dei piani terra dell’edificio) che intendesse permanere ai piani superiori dovrà essere munita di
+[/Aree-tematiche/Protezione-civile/Piano-emergenza-inondazione-fiume-Adige/Comportamento-della-popolazione-in-caso-di-esondazione-del-fiume-Adige/Scorte-di-emergenza](scorte di emergenza)
+scorte di emergenza
+Nota
+: la Protezione civile, potrebbe ritenere non necessario evacuare tutti i settori.  Quindi è fondamentale continuare a seguire le  informazioni divulgate dai mass media, social network, sito istituzionale del Comune di Trento.
+[]()
+Comportamento della popolazione in caso di preallarme-allarme inondazione fiume Adige (allerta rossa)
+[]()
+Scenario 2
+(tr 30)
+Portata del fiume attesa inferiore a 2050 metri cubi al secondo
+La prima cosa da fare è verificare se la propria abitazione ricade in area inondabile raffigurata nel modello di intervento
+([/Aree-tematiche/Protezione-civile/Piano-emergenza-inondazione-fiume-Adige/Documentazione-ufficiale/Tavola-E10-Modello-di-intervento-tr-30-portata-attesa-inferiore-a-2050-metri-cubi-al-secondo](TAV. E10)
+)
+Il modello di intervento è suddiviso in 2 zone:
+Zona viola
+soggetta ad evacuazione completa dell’edificio
+([/Aree-tematiche/Protezione-civile/Piano-emergenza-inondazione-fiume-Adige/Documentazione-ufficiale/Fig.-11a-Evacuazione-completa](Fig 10a)
+-
+Schema evacuazione completa
+)
+[]()
+Residenti nella zona viola
+se residenti nella zona viola (evacuazione completa), quando viene dato l'allarme dalla Protezione civile (diffuso da mass media, social network, operatori di Protezione civile a mezzo megafoni, sirene ecc...)
+allontanarsi autonomamente
+con i propri autoveicoli dalla zona di inondazione, raggiungendo alloggi alternativi presso seconde case, parenti, amici ecc. Lasciare l’abitazione dotati di
+[/Aree-tematiche/Protezione-civile/Piano-emergenza-inondazione-fiume-Adige/Comportamento-della-popolazione-in-caso-di-esondazione-del-fiume-Adige/Zaino-di-emergenza](zaino di emergenza)
+.
+se residenti nella zona viola, in caso non sia possibile allontanarsi autonomamente,
+individuare il punto di raccolta
+nel quale recarsi al momento dell’attivazione dell’evacuazione. Il punto di raccolta è ubicato per ogni settore di appartenenza nell’
+[/Aree-tematiche/Protezione-civile/Piano-emergenza-inondazione-fiume-Adige/Documentazione-ufficiale/Allegato-7-Schede-evacuazione](ALLEGATO 7 TR 30)
+-
+Schede evacuazione
+. I settori, con relativi punti di raccolta e
+centri di accoglienza*
+, sono tutti riportati nella mappa del piano di evacuazione ([/Aree-tematiche/Protezione-civile/Piano-emergenza-inondazione-fiume-Adige/Documentazione-ufficiale/Tavola-E12-Area-evacuazione-tr-30-portata-attesa-inferiore-a-2050-metri-cubi-al-secondo](TAV. E12)
+). La popolazione giunta ai punti di raccolta verrà presa in carico da personale addetto della Protezione civile e trasferita in sicurezza nei vari centri di accoglienza (strutture adeguate individuate all’esterno della zona soggetta a inondazione).
+* allestiti presso centri civici, centri sportivi, scuole, palestre, caserme, chiese, oratori, canoniche
+Zona rosa
+soggetta a messa in sicurezza-evacuazione dei piani terra dell’edificio
+([/Aree-tematiche/Protezione-civile/Piano-emergenza-inondazione-fiume-Adige/Documentazione-ufficiale/Fig.-11b-Messa-in-sicurezza-evacuazione-piani-terra](Fig 10b)
+-
+Messa in sicurezza – evacuazione piani terra
+)
+[]()
+Residenti nella zona rosa
+la popolazione residente nella zona rosa (messa in sicurezza-evacuazione dei piani terra dell’edificio) che intendesse permanere ai piani superiori dovrà essere munita di
+[/Aree-tematiche/Protezione-civile/Piano-emergenza-inondazione-fiume-Adige/Comportamento-della-popolazione-in-caso-di-esondazione-del-fiume-Adige/Scorte-di-emergenza](scorte di emergenza)
+scorte di emergenza
+Nota
+: la Protezione civile, potrebbe ritenere non necessario evacuare tutti i settori.  Quindi è fondamentale continuare a seguire le  informazioni divulgate dai mass media, social network, sito istituzionale del Comune di Trento.

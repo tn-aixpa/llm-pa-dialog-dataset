@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00925",
+  "doc_src": "comune.milano_aree-tematiche_links_D0202.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Quali sono i principali temi che verranno trattati durante il Forum della Partecipazione?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Non sono in grado di fornire questa informazione. Potrebbe trovare la risposta che cerca al programma completo disponibile al link /documents/20126/468801947/Programma+Forum+PARTECIPAZIONE+2023.pdf/49a87085-82ff-1273-3198-a426e1abb640?t=1687193564874 .",
+      "ground": "[/documents/20126/468801947/Programma+Forum+PARTECIPAZIONE+2023.pdf/49a87085-82ff-1273-3198-a426e1abb640?t=1687193564874](Scarica il programma completo)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Dove e quando si terrà l'evento?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Il Forum della Partecipazione si svolgerà a Milano, in Via Angelo Mosso 3, dal 19 al 21 giugno.",
+      "ground": "Forum della Partecipazione\nIl Forum della Partecipazione\nsi terrà dal\n19 al 21 giugno 2023\npresso lo spazio\nVia Angelo Mosso 3,\nMilano (M1 Rovereto)."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Chi sono i partner e le organizzazioni coinvolte nell'organizzazione dell'evento?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "L'evento è organizzato con la partecipazione della Scuola di Giornalismo Walter Tobagi e la collaborazione di Effetto Larsen.",
+      "ground": "Con la partecipazione di Scuola di Giornalismo Walter Tobagi\nCon la collaborazione di Effetto Larsen"
+    }
+  ],
+  "subcategory": "Milano"
+}

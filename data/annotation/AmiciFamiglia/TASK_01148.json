@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01148",
+  "doc_src": "rovereto__2021.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Vorrei scrivere un'azione per rendere le strade della mia città più sicure",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "TITOLO: Percorsi sicuri\n\nTASSONOMIA: Sensibilizzazione su convivenza e rispetto reciproco (impegno civico, volontariato, sicurezza stradale, giornata dell’infanzia e dell’adolescenza, sicurezza delle famiglie)\n\nOBIETTIVO: Garantire l'attraversamento pedonale in completa sicurezza\n\nDESCRIZIONE: Il Comune prevede la presenza di vigilantes all’esterno delle scuole elementari per garantire l'attraversamento in completa sicurezza. La gestione del servizio è affidata ad associazioni cittadine per tutta la durata dell’anno scolastico negli orari di ingresso e uscita degli alunni. Attualmente l'associazione incaricata del servizio è la SEV (Servizi eventi volontari). Inoltre, il Comune ha previsto nel centro cittadino e in molte zone più periferiche il limite di velocità di 30 km orari al fine di garantire maggiore sicurezza ai veicoli e pedoni.",
+      "ground": "TITOLO: Percorsi sicuri\n\nTASSONOMIA: Sensibilizzazione su convivenza e rispetto reciproco (impegno civico, volontariato, sicurezza stradale, giornata dell’infanzia e dell’adolescenza, sicurezza delle famiglie)\n\nOBIETTIVO: Garantire il servizio di attraversamento pedonale in completa sicurezza\n\nDESCRIZIONE: Il Comune prevede la presenza di vigilantes all’esterno delle scuole elementari per garantire il servizio di attraversamento in completa sicurezza. La gestione del servizio è affidata ad associazioni cittadine per tuttala durata dell’anno scolastico negli orari di ingresso e uscita degli alunni. Attualmente l'associazione incaricata del servizio è la SEV (Servizi eventi volontari).\n\nIl Comune ha previsto nel centro cittа e in molte zone più periferiche il limite di velocitа di 30 km orari al fine di garantire maggiore sicurezza ai veicoli e pedoni."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Cambia l'associazione incaricata a \"Vigile come il Nonno\"",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "TITOLO: Percorsi sicuri\n\nTASSONOMIA: Sensibilizzazione su convivenza e rispetto reciproco (impegno civico, volontariato, sicurezza stradale, giornata dell’infanzia e dell’adolescenza, sicurezza delle famiglie)\n\nOBIETTIVO: Garantire l'attraversamento pedonale in completa sicurezza\n\nDESCRIZIONE: Il Comune prevede la presenza di vigilantes all’esterno delle scuole elementari per garantire l'attraversamento in completa sicurezza. La gestione del servizio è affidata all'associazione \"Vigile come il Nonno\" per tutta la durata dell’anno scolastico negli orari di ingresso e uscita degli alunni. Inoltre, il Comune ha previsto nel centro cittadino e in molte zone più periferiche il limite di velocità di 30 km orari al fine di garantire maggiore sicurezza ai veicoli e pedoni.",
+      "ground": "Si puт partecipare individualmente o come gruppo. Il “Teatro dei Sogni” si articola come un laboratorio d’arte e nasce sull’onda di un’attivitа avviata da tempo all’interno dell’Associazione. La creazione di uno spettacolo di canto, musica, recitazione, danze e altre forme d’arte, nasce dall’idea di poter accogliere e coinvolgere i giovani artisti aiutandoli nei loro sogni, nella loro creativitа, nella loro crescita non solo artistica. \n\nL’iniziativa è strutturata come un talent, dove i giovani artisti possono iscriversi e partecipare a delle audizioni."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Scrivimi un'azione in cui si progetta un nuovo sentiero ciclabile in città, così da dare più sicurezza ai ragazzi che vanno a scuola in bicicletta.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "TITOLO: Sviluppo percorso ciclabile\n\nTASSONOMIA: Pianificazione urbanistica (strade, parchi, orti, campi sportivi ecc.)\n\nOBIETTIVO: Dare più sicurezza ai giovani che intendono andare a scuola in bibicletta.\n\nDESCRIZIONE: Il Comune intende sviluppare un nuovo percorso ciclabile attraverso la città così da garantire la sicurezza a tutti i ragazzi che intendono raggiungere la scuola attraverso la bicicletta.",
+      "ground": "TITOLO: Parchi e giardini\n\nTASSONOMIA: Pianificazione urbanistica (strade, parchi, orti, campi sportivi ecc.)"
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

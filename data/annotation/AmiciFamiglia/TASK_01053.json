@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_01053",
+  "doc_src": "andalo__2023.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Buongiorno, vorrei delle idee su come supportare il piano giovani nel mio Comune.",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Buongiorno a lei. Andalo nel 2023 ha deciso di continuare a sostenere il Piano Giovani con il suo impegno a favorire la presentazione dei progetti delle associazioni e realtà locali ",
+      "ground": "=== PIANO FAMIGLIA DI ANDALO ANNO 2023 ===\n\n|||\n\nDESCRIZIONE: Il Comune di Andalo continua a sostenere il Piano Giovani della Paganella, impegnandosi a\n\nfavorire la presentazione dei progetti da parte delle associazioni e delle realtа locali."
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Hai proposte su azioni riguardo attività all'aria aperta?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Sempre Andalo nel suo piano del 2023 ha le seguenti azioni:\n- Gratuità in Piscina\n- Voucher Sportivo\n- Sconti per Famiglie Numerose Sulla Attività Estiva\n- Sarnacli Mountain Park",
+      "ground": "TITOLO: GRATUITA' IN PISCINA\n\n|||\n\nTITOLO: VOUCHER SPORTIVO\n\n|||\n\nTITOLO: SCONTI PER FAMIGLIE NUMEROSE SULLA ATTIVITA' ESTIVA\n\n|||\n\nTITOLO: SARNACLI MOUNTAIN PARK"
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Mi puoi dare il testo integrale dell'azione \"Voucher Sportivo\"?",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Questo è il testo integrale dell'azione \"Voucher Sportivo\", aggiustato dall'eccessiva spaziatura\n\nTITOLO: VOUCHER SPORTIVO\n\nTASSONOMIA: Agevolazioni tariffarie e contributi attivitа ricreative/culturali/aggregative/formative\n\nDESCRIZIONE: Il Comune di Andalo aderisce al progetto Voucher Sportivo dell'Agenzia della Famiglia e della PAT. Tra le numerose politiche che la Provincia mette in campo per aiutare le famiglie, quella del sostegno allo sport risulta essere fondamentale per la crescita dei bambini e dei ragazzi sia dal punto di vista fisico che sociale. L’attuale trend sta registrando un abbandono delle attivitа sportive da parte dei giovani, considerato che l’onere per l’iscrizione e per il tesseramento hanno un notevole impatto sul bilancio familiare. Di qui il contributo messo in campo dalla Provincia autonoma di Trento per la stagione sportiva 2021/2022, per sostenere le famiglie in possesso di determinati requisiti, al fine di consentire loro di far iniziare o proseguire l’attivitа sportiva ai propri figli minorenni di etа compresa tra gli 8 ed i 18 anni non compiuti\n\n",
+      "ground": "TITOLO: VOUCHER SPORTIVO\n\nTASSONOMIA: Agevolazioni tariffarie e contributi attivitа ricreative/culturali/aggregative/formative\n\nDESCRIZIONE: Il Comune di Andalo aderisce al\n\nprogetto Voucher Sportivo dell'Agenzia\n\ndella Famiglia e della PAT. Tra le\n\nnumerose politiche che la Provincia\n\nmette in campo per aiutare le famiglie,\n\nquella del sostegno allo sport risulta\n\nessere fondamentale per la crescita dei\n\nbambini e dei ragazzi sia dal punto di\n\nvista fisico che sociale. L’attuale trend\n\nsta registrando un abbandono delle\n\nattivitа sportive da parte dei giovani,\n\nconsiderato che l’onere per l’iscrizione e\n\nper il tesseramento hanno un notevole\n\nimpatto sul bilancio familiare. Di qui il\n\ncontributo messo in campo dalla\n\nProvincia autonoma di Trento per la\n\nstagione sportiva 2021/2022, per\n\nsostenere le famiglie in possesso di\n\ndeterminati requisiti, al fine di consentire\n\nloro di far iniziare o proseguire l’attivitа\n\nsportiva ai propri figli minorenni di etа\n\ncompresa tra gli 8 ed i 18 anni non\n\ncompiuti\n\n"
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "Perfetto, grazie mille per tutto.",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "Se serve altro non esiti a ricontattarmi. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

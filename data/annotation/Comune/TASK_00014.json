@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00014",
+  "doc_src": "comune.milano_aree-tematiche_D0020.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei delle informazioni sulla disinfestazione a Milano. ",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno. L'Amministrazione comunale interviene solo su determinati immobili e pertinenze, come giardini e cortili comunali. Per gli edifici privati è necessaria la segnalazione dell'Agenzia di Tutela della Salute.",
+      "ground": "Nella disinfestazione da animali, insetti nocivi e vettori di elementi patogeni, l'Amministrazione comunale interviene solo su:\n\ni propri immobili a gestione diretta\nle loro pertinenze: spazi, giardini, cortili, cantine e solai annessi o antistanti gli edifici comunali, le strutture scolastiche ecc.\nle rive comunali di rogge scoperte e le aree di proprietà comunale delimitate da recinzioni.\n\nIn tutti gli altri casi, inclusi gli edifici privati, gli interventi sono eseguiti su segnalazione dell'Agenzia di Tutela della Salute."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quindi se ho nel mio giardino devo contattare direttamente l'Agenzia di Tutela della Salute?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Esattamente. ",
+      "ground": "In tutti gli altri casi, inclusi gli edifici privati, gli interventi sono eseguiti su segnalazione dell'Agenzia di Tutela della Salute."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

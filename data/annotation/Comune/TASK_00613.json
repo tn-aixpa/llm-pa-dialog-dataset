@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00613",
+  "doc_src": "comune.trento_aree-tematiche_D0343.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Salve, vorrei informazioni riguardo all'apertura di un panificio in città.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, i panifici non sono soggetti a contingentamento e possono essere aperti liberamente su tutto il territorio comunale. Sarà necessario rispettare le norme urbanistiche ed edilizie vigenti e presentare la dia sanitaria per l'attività.",
+      "ground": "L'attività predetta non è sottoposta a contingentamento ed è quindi libera su tutto il territorio comunale. Dovranno peraltro essere osservate le norme urbanistiche ed edilizie vigenti e dovrà essere presentata la dia sanitaria per l'attività esercitata."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quindi non c'è bisogno di richiedere alcuna autorizzazione particolare?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Esatto, l'apertura di un panificio può essere effettuata presentando una Segnalazione certificata di inizio attività al Comune.",
+      "ground": "L'attività concernente l'impianto, il trasferimento o la trasformazione di un panificio può essere effettuata a seguito della presentazione al Comune di apposita Segnalazione certificata di inizio attività (SCIA)."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È stato un piacere poterla aiutare. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

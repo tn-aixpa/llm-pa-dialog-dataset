@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01158",
+  "doc_src": "segonzano_v2.1__2021.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Scrivimi una azione tipo orientata ai bambini",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Certamente, il seguente esempio viene dal Piano Famiglia del Comune di Segonzano del 2021.\n\nTITOLO: Servizio di Aiuto Compiti\n\nTASSONOMIA: Agevolazioni tariffarie e contributi per servizi educativi e di conciliazione\n\nMACRO-AMBITO: Misure economiche\n\nOBIETTIVO: Aiutare le famiglie economicamente che hanno bisogno di questo servizio.\n\nDESCRIZIONE: Il Comune ha attivato uno spazio di aiuto compiti gestito da educatori professionali che forniscono un servizio continuativo ormai da diversi anni. L'aiuto ai compiti si configura come una risposta a problematiche specifiche di apprendimento aiutando i bambini e ragazzi nel loro percorso formativo. Il costo è sostenuto dall'Amministrazione e alle famiglie viene richiesto un simbolico contributo per garantirne la fruizione.",
+      "ground": "TITOLO: SERVIZIO DI AIUTO COMPITI\nTASSONOMIA: Agevolazioni tariffarie e contributi per servizi educativi e di conciliazione\nMACRO-AMBITO: Misure economiche\nOBIETTIVO: Aiutare le famiglie economicamente che hanno bisogno di questo servizio.\nDESCRIZIONE: Il Comune ha attivato uno spazio di aiuto compiti gestito da educatori professionali che forniscono un servizio continuativo ormai da diversi anni. L'aiuto ai compiti si configura come una risposta a problematiche specifiche di apprendimento aiutando i bambini e ragazzi nel loro percorso formativo. Il costo è sostenuto dall'Amministrazione e alle famiglie viene richiesto un simbolico contributo per garantirne la fruizione."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Dammi un esempio di azione legata agli orti botanici.",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Va bene, il seguente esempio è ispirato da un'azione presente nel Piano Famiglia del Comune di Segonzano del 2021.\n\nTITOLO: Orto Botanico \"Ort dei Saltari\"\n\nTASSONOMIA: Servizi integrativi: Spazio genitori/bambini, spazio gioco\n\nMACRO-AMBITO: Welfare territoriale e sostenibilità\n\nOBIETTIVO: Riqualificazione dell' area \"Ort dei Saltari\"\n\nDESCRIZIONE:L'Amministrazione comunale intende rivalutare l'area per valorizzare la biodiversità a fini didattici, nell'ambito di un progetto scolastico promosso dall'Istituto Comprensivo della Valle di Cembra, volto a far comprendere agli studenti l'importanza delle risorse agricole e forestali del territorio. Saranno realizzati percorsi naturali, piantumazione di nuove essenze autoctone, ripristino dell'orto storico, installazione di bacheche didattiche, panchine e tavoli, oltre alla creazione di un percorso sensoriale. L'area sarà sempre fruibile per le famiglie, che potranno svolgere attività liberamente e gratuitamente.",
+      "ground": "=== PIANO FAMIGLIA DI SEGONZANO ANNO 2021 ===\n\n|||\n\nTITOLO: ORTO BOTANICO ''ORT DEI SALTARI''\nTASSONOMIA: Servizi integrativi: Spazio genitori/bambini, spazio gioco\nMACRO-AMBITO: Welfare territoriale e sostenibilitа\nOBIETTIVO: Spazi educativi genitori bambini.\nIl ripristino dell'area\nagricola/boschiva rientra altresм in un progetto\nscolastico promosso dall'Istituto Comprensivo della Valle di Cembra,\nche ha come obbiettivo quello di far comprendere agli studenti l'importanza presente e passata delle risorse agricole/forestali del\nproprio territorio\nDESCRIZIONE: Sul territorio comunale è presente “Ort dei Saltari”. In molte localitа di montagna del territorio trentino era presente questo ''orto'' dove venivano trapiantati e curati i piccoli alberi da reimpiantare successivamente in varie zona di montagna. Attualmente l'area risulta incolta e abbandonata.E' intenzione dell'Amministrazione comunale rivalutare l'area e valorizzare la biodivesitа per finalitа didattiche. E' prevista la sistemazione e rivalorizzazione della zona attraverso la realizzazione dei percorsi naturali, la piantumazione di nuove essenze autoctone, il ripristino dell'orto storico, la realizzazione e la posa di bacheche didattiche e descrittive, panchine e tavoli, ideazione di un percorso sensoriale. L'area sarа sempre fruibile con la possibilitа per le famiglie di svolgere attivitа liberamente e gratuitamente."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Togli qualsiasi riferimento all'Ort dei Saltari e a zone abbandonate, rifrasa un po' tutto il resto.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "TITOLO: ORTO BOTANICO\n\nTASSONOMIA: Servizi integrativi: Spazio genitori/bambini, spazio gioco\n\nMACRO-AMBITO: Welfare territoriale e sostenibilità\n\nOBIETTIVO: Spazi educativi per genitori e bambini.\n\nDESCRIZIONE: L'Amministrazione comunale intende sviluppare un orto botanico che promuova la comprensione dell'importanza delle risorse agricole e forestali del territorio, attraverso un progetto scolastico collaborativo. Saranno realizzati percorsi naturali, piantumazione di nuove essenze autoctone, creazione di bacheche didattiche e informative, panchine e tavoli, nonché un percorso sensoriale. L'area sarà accessibile e permetterà alle famiglie di svolgere attività educative e ricreative in modo libero e gratuito.",
+      "ground": "TITOLO: ORTO BOTANICO ''ORT DEI SALTARI''\nTASSONOMIA: Servizi integrativi: Spazio genitori/bambini, spazio gioco\nMACRO-AMBITO: Welfare territoriale e sostenibilitа\nOBIETTIVO: Spazi educativi genitori bambini.\nIl ripristino dell'area\nagricola/boschiva rientra altresм in un progetto\nscolastico promosso dall'Istituto Comprensivo della Valle di Cembra,\nche ha come obbiettivo quello di far comprendere agli studenti l'importanza presente e passata delle risorse agricole/forestali del\nproprio territorio\nDESCRIZIONE: Sul territorio comunale è presente “Ort dei Saltari”. In molte localitа di montagna del territorio trentino era presente questo ''orto'' dove venivano trapiantati e curati i piccoli alberi da reimpiantare successivamente in varie zona di montagna. Attualmente l'area risulta incolta e abbandonata.E' intenzione dell'Amministrazione comunale rivalutare l'area e valorizzare la biodivesitа per finalitа didattiche. E' prevista la sistemazione e rivalorizzazione della zona attraverso la realizzazione dei percorsi naturali, la piantumazione di nuove essenze autoctone, il ripristino dell'orto storico, la realizzazione e la posa di bacheche didattiche e descrittive, panchine e tavoli, ideazione di un percorso sensoriale. L'area sarа sempre fruibile con la possibilitа per le famiglie di svolgere attivitа liberamente e gratuitamente."
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

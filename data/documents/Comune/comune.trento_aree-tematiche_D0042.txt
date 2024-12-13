@@ -1,0 +1,44 @@
+QROWD è un progetto ambizioso che ha l’obiettivo di sviluppare soluzioni
+smart
+per migliorare la
+mobilità a Trento
+Nel progetto vengono raccolti e integrati tra loro diversi tipi di dati relativi alla mobilità a Trento:
+statici
+(che indicano la posizione, ad esempio, delle rastrelliere per bici)
+in tempo reale
+(che indicano la disponibilità, ad esempio, dei parcheggi sotterranei)
+già disponibili a livello istituzionale (come: posizione delle piste ciclabili e dei parcheggi per disabili)
+provenienti da altre fonti (traffico in tempo reale di TomTom)
+raccolti dai cittadini (su base volontaria)
+[]()
+Obiettivi
+Il progetto QROWD mira a sfruttare i dati raccolti per raggiungere i seguenti obiettivi:
+calcolare il
+modal split
+- ovvero la percentuale dei diversi mezzi di trasporto utilizzati quotidianamente da residenti e pendolari per muoversi sul territorio comunale
+ottenere informazioni su posizione e disponibilità dei
+parcheggi
+(biciclette e auto)
+visualizzare le principali informazioni sulla mobilità su una
+dashboard
+[]()
+Tecnologia
+L’aspetto tecnologico è essenziale per il raggiungimento degli obiettivi. In particolare, QROWD prevede un kit di strumenti composto da:
+un’app (i-Log) -  per il
+crowdsourcing
+una strategia di
+incentivazione
+- coinvolgimento dei cittadini tramite giochi a premi
+tecniche di
+Machine Learning
+e
+AI
+sui
+Big data
+un processo di
+analisi
+- per analizzare i dati e le informazioni raccolte tramite
+crowdsourcing
+una
+dashboard
+- per visualizzare i dati e renderne immediata la comprensione

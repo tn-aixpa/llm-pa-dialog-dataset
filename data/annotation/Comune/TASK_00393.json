@@ -1,0 +1,40 @@
+{
+  "task_id": "TASK_00393",
+  "doc_src": "comune.milano_aree-tematiche_links_D0427.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, sa dirmi qualcosa sui regolamenti per la progettazione del verde pubblico?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Le prescrizioni tecniche contenute nel documento hanno lo scopo di indirizzare la progettazione e la manutenzione del verde pubblico o privato a uso pubblico e affidato ad operatori privati. Posso aiutarti con qualcos'altro?",
+      "ground": "Linee guida alla progettazione e manutenzione del verde pubblico (o privato asservito all’uso pubblico) affidato ad operatori privati\nLe prescrizioni tecniche contenute in questa pagina hanno la funzione di indirizzare la progettazione e la manutenzione del verde pubblico o privato asservito all’uso pubblico e affidato ad operatori privati.\nIl documento elenca le prescrizioni a cui gli operatori si devono attenere."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Dove posso trovare il Regolamento per la tutela del verde?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Puoi trovare il Regolamento d'uso e tutela del verde pubblico e privato al seguente link https://www.comune.milano.it/comune/statuto-regolamenti-patrocini/regolamenti/tz/uso-e-tutela-del-verde-pubblico-e-privato .",
+      "ground": "[https://www.comune.milano.it/comune/statuto-regolamenti-patrocini/regolamenti/tz/uso-e-tutela-del-verde-pubblico-e-privato](Regolamento d'uso e tutela del verde pubblico e privato)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "No, grazie mille per le informazioni.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

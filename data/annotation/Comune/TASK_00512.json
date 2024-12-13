@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_00512",
+  "doc_src": "comune.trento_aree-tematiche_D0168.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei delle informazioni sull'Ecosistema Urbano di Trento.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, cosa vorrebbe sapere esattamente?",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Ho sentito che Trento è la città più sostenibile d'Italia, è vero?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, effettivamente la trentesima edizione della ricerca \"Ecosistema urbano\" di Legambiente ha confermato che Trento è al primo posto come città più sostenibile d'Italia.",
+      "ground": "https://www.comune.trento.it/Aree-tematiche/Ambiente-e-territorio/Mobilita-e-traffico-urbano/Avvisi/Ecosistema-urbano-Trento-e-di-nuovo-la-citta-piu-sostenibile-d-Italia](“Ecosistema urbano”, Trento è di nuovo la città più sostenibile d’Italia)\nLa trentesima edizione della ricerca \"Ecosistema urbano\" di\n[https://www.legambiente.it/comunicati-stampa/ecosistema-urbano-trentesima-edizione-il-punto-sulle-performance-ambientali-delle-citta-italiane-e-la-classifica-2023/?_gl=1*ausaox*_up*MQ..*_ga*MTcxODg0OTQ1Ni4xNjk4MDY1NjA3*_ga_LX7CNT6SDN*MTY5ODA2NTYwNC4xLjAuMTY5ODA2NTY0NC4wLjAuMA..](Legambiente)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Wow, davvero impressionante! E cosa ha contribuito a questo successo?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Non sono in grado di dare informazioni dettagliate al riguardo.",
+      "ground": ""
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T09",
+      "speaker": "Cittadino",
+      "message": "Grazie mille.",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agente",
+      "message": "È stato un piacere aiutarla, buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

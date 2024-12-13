@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00164",
+  "doc_src": "comune.milano_aree-tematiche_D0190.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Salve, potrebbe darmi informazioni sull'intervento nel sottopasso di viale Rubicone?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "L'intervento straordinario è stato programmato dal Comune di Milano e MM per potenziare la rete di drenaggio delle acque piovane. Recentemente si è concluso l'impatto sulla viabilità della SS 35 Milano-Meda in direzione Como.",
+      "ground": "Il Comune di Milano e MM hanno programmato un intervento straordinario nel sottopasso di viale Rubicone incrocio via Senigallia finalizzato al potenziamento della rete di drenaggio stradale delle acque piovane, previsto dal 2 novembre 2020.\nL’intervento che impattava sulla viabilità della SS 35 Milano-Meda in direzione Como, è concluso."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quindi attualmente non ci sono modifiche o problemi nel traffico?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Al momento no. La manutenzione è nella sua seconda fase dove non non ci sono impatti sulla viabilità.",
+      "ground": "E’ in corso una seconda fase dell’intervento che si sviluppa nell’area verde tra Viale Rubicone, Via Senigallia e Via Oroboni che al momento non ha impatti viabilistici."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Qual è lo scopo dei lavori?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Questi lavori sono parte di un piano di cura e rafforzamento dei sistemi di messa in sicurezza. Lo scopo finale è di adeguare i sottopassi al nuovo scenario delle precipitazioni. Non di meno, vuole dare una spinta digitale ai sistemi grazie alla monitorazione costante.",
+      "ground": "I lavori sono parte di un Piano d'azione straordinaria di cura e rafforzamento dei sistemi di messa in sicurezza dei sottopassi in tema di gestione delle acque, con la finalità di adeguarli al nuovo scenario delle precipitazioni.\nInoltre, si sviluppa in un’ottica di evoluzione digitale dei sistemi, in una rete di automazione remota e telecontrollo in grado di monitorare costantemente in tempo reale e a distanza, il funzionamento dei sistemi e l’intensità della pioggia, da parte della centrale operativa di Protezione Civile del Comune di Milano e della centrale operativa del sistema idrico milanese di MM."
+    }
+  ],
+  "subcategory": "Milano"
+}

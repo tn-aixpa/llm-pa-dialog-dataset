@@ -1,0 +1,22 @@
+{
+  "task_id": "TASK_00336",
+  "doc_src": "comune.milano_aree-tematiche_links_D0361.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, sa dirmi se la Comunità Emmanuel offre supporto anche per le dipendenze da gioco d'azzardo?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Mi dispiace, ma la Comunità Emmanuel si occupa principalmente di persone con dipendenze da droga e alcol. Non offre supporto per dipendenza da gioco d'azzardo.",
+      "ground": "Comunità Emmanuel\nLa Comunità Emmanuel  è un’associazione di psicoterapeuti, educatori e volontari che opera per la prevenzione, il sostegno e l’aiuto di persone con dipendenze da droga e alcol."
+    }
+  ],
+  "subcategory": "Milano"
+}

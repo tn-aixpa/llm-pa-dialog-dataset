@@ -1,0 +1,34 @@
+{
+  "task_id": "TASK_00919",
+  "doc_src": "comune.trento_aree-tematiche_D0013.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Come si può contribuire al Piano di eliminazione delle barriere architettoniche?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "È possibile contribuire al Piano di eliminazione delle barriere architettoniche inviando una segnalazione al sito /Aree-tematiche/Lavori-pubblici/Piano-di-eliminazione-delle-barriere-architettoniche-e-sensoriali/Partecipa/Inviaci-la-tua-segnalazione .",
+      "ground": "['[]()\\nInvia un segnalazione\\nSe ti interessa contribuire all’aggiornamento del\\nPiano di eliminazione delle barriere architettoniche e sensoriali\\ncompila il\\n[/Aree-tematiche/Lavori-pubblici/Piano-di-eliminazione-delle-barriere-architettoniche-e-sensoriali/Partecipa/Inviaci-la-tua-segnalazione](modulo di segnalazione)']"
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "E per informazioni sul tema a chi ci si può rivolgere?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Per ricevere informazioni sul Piano di eliminazione delle barriere architettoniche e sensoriali, può scrivere un'email a peba@comune.trento.it.",
+      "ground": "Se vuoi ricevere informazioni sul Piano di eliminazione delle barriere architettoniche e sensoriali o sul tema dell'accessibilità urbana scrivi una email a\n[mailto:peba@comune.trento.it](peba@comune.trento.it)"
+    }
+  ],
+  "subcategory": "Trento"
+}

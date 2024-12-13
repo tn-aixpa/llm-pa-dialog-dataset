@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00732",
+  "doc_src": "comune.trento_aree-tematiche_D0582.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Buongiorno, vorrei informazioni sui seggi elettorali del Comune di Trento. Ce ne solo uno per gli studenti fuori sede?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Sì, esatto. Il Comune di Trento ha un solo seggio istituito per gli studenti fuori sede.",
+      "ground": "I seggi elettorali del Comune di Trento sono 99 di cui uno istituito per l'esercizio del diritto di voto da parte degli studenti fuori sede. Vi sono poi 9"
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "E ci sono seggi speciali per la raccolta del voto presso gli ospedali?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Sì, ci sono 9 seggi speciali e 8 seggi volanti per permettere la raccolta del voto presso gli ospedali, case di cura e la casa circondariale.",
+      "ground": "Vi sono poi 9\nseggi speciali\ne 8\nseggi volanti\nper permettere la raccolta del voto presso gli ospedali, case di cura e casa circondariale"
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

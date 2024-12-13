@@ -1,0 +1,34 @@
+{
+  "task_id": "TASK_00070",
+  "doc_src": "comune.milano_aree-tematiche_D0093.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei avere informazioni su come partecipare al Patto di Milano per la Lettura.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, per aderire al Patto di Milano per la Lettura può andare al link [www.pattomilanolettura.it]",
+      "ground": "Qui le informazioni per aderire[www.pattomilanolettura.it]"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Capisco, e per partecipare al concorso internazionale \"Lettera d'amore\", avete informazioni a riguardo?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "L'iniziativa è organizzata dall'Associazione Culturale AbruzziAMOci ODV, il bando si trova sul loro sito.",
+      "ground": "Concorso internazionale “Lettera d’amore”\nPer partecipare al concorso, aperto a adulti e minorenni autorizzati, i candidati dovranno inviare la propria lettera d’amore inedita, in prosa, all’Associazione Culturale AbruzziAMOci ODV, che organizza l'iniziativa, accompagnata dalla traduzione se scritta in altra lingua. La scadenza è il 30 maggio 2024, il bando integrale si trova sul sito."
+    }
+  ],
+  "subcategory": "Milano"
+}

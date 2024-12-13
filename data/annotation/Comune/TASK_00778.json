@@ -1,0 +1,52 @@
+{
+  "task_id": "TASK_00778",
+  "doc_src": "comune.salerno_D0046.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sulla procedura telematica di assegnazione del CIN da parte del Ministero del turismo. È già entrata in vigore?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno. No, la procedura telematica di assegnazione del CIN non è ancora entrata in esercizio. Il Ministero sta lavorando per dare attuazione alla nuova normativa e ne darà comunicazione tramite Avviso pubblicato sulla Gazzetta Ufficiale e sul sito del Ministero del turismo.",
+      "ground": "In merito alla disciplina delle locazioni per finalità turistiche, delle locazioni brevi, delle attività turistico-ricettive e del Codice Identificativo Nazionale, si comunica che la procedura telematica di assegnazione del CIN da parte del Ministero del turismo, prevista dall’art. 13-ter del\n[https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto:2023-10-18;145~art3!vig](decreto-legge 18 ottobre 2023, n. 145, convertito dalla legge 15 dicembre 2023, n. 191)\n, non è ancora entrata in esercizio.\nIl Ministero sta operando al fine di dare attuazione a quanto previsto dalla nuova normativa e ne darà comunicazione con Avviso pubblicato sulla Gazzetta Ufficiale e sul sito del Ministero del turismo."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quindi, al momento, i titolari delle strutture ricettive e i locatori devono continuare ad utilizzare il Codice regionale o provinciale?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Nelle more dell'attuazione della nuova procedura, i titolari delle strutture ricettive e i locatori devono rispettare le normative regionali attualmente vigenti e utilizzare il Codice regionale o provinciale. In caso di nuove strutture o attività di locazione, dovranno richiedere l'assegnazione del Codice all'ente territoriale di competenza.",
+      "ground": "Nelle more dell’attuazione, i titolari delle strutture ricettive e i locatori di unità immobiliari per finalità turistiche o di immobili in locazione breve sono tenuti a rispettare le normative regionali attualmente vigenti e, pertanto, a continuare ad utilizzare il Codice regionale o provinciale, laddove previsto nonché, nel caso di nuove strutture o di nuove attività di locazione, a richiedere l’assegnazione dello stesso all’ente territoriale di competenza\nfonte:"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "E se non riesco a inviare la documentazione entro il 20 maggio?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Le richieste pervenute successivamente al 20 maggio potranno essere prese in considerazione compatibilmente con le esigenze organizzative dell'ufficio elettorale. ",
+      "ground": "Si precisa che le richieste pervenute successivamente al 20 maggio potranno essere prese in considerazione compatibilmente con le esigenze organizzative dell'ufficio elettorale, che avrà cura di comunicare la propria disponibilità all'ASL competente per il rilascio del certificato medico."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

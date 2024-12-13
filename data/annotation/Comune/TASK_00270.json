@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00270",
+  "doc_src": "comune.milano_aree-tematiche_links_D0301.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sul trasferimento di un monumento da una tompa. Come funziona?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Il trasferimento di un monumento decennale o di un segno funebre, anche in altri cimiteri, inclusi di altri comuni, una volta che si è ottenuto il nulla osta dal cimitero.",
+      "ground": "Un monumento decennale o un segno funebre possono essere spostati da una sepoltura all'altra, anche in cimiteri differenti e in altri Comuni.\nI lavori possono iniziare dopo aver ottenuto il nulla osta dal cimitero e, lì dove è tecnicamente possibile, gli interventi di manutenzione ordinaria o straordinaria sulle sepolture si eseguono direttamente all'interno del cimitero."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E quali sono i costi per questa pratica?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Il trasferimento del monumento in cimiteri non comunali non comporta costi oltre al rilascio dell'autorizzazione. Se la destinazione è un cimitero al di fuori del Comune di Milano, all'autorizzazione si aggiungono 179,50€ più 2€ di bollo. L'importo è da pagare prima del rilascio del nulla osta.",
+      "ground": "3. Trasferimento del monumento\nIl trasferimento in cimiteri non comunali non comporta ulteriori oneri oltre al rilascio dell'autorizzazione.\nSe invece la nuova destinazione è un altro cimitero del Comune di Milano, oltre all'autorizzazione è prevista la seguente tariffa:\n€ 179,50;\n€ 2,00 di bollo.\nL'importo è da corrispondere prima del rilascio del nulla osta al trasferimento come segue:"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Capito, grazie per le informazioni. Posso pagare presso la Cassa civica di via Larga, 12?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Sì, è possibile.",
+      "ground": "in alternativa è possibile pagare presso la Cassa civica di via Larga, 12."
+    }
+  ],
+  "subcategory": "Milano"
+}

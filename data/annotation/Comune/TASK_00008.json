@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00008",
+  "doc_src": "comune.milano_aree-tematiche_D0010.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, potrebbe darmi informazioni sulla Low Emission Zone?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, la Low Emission Zone è un'area all'interno della quale possono entrare solo veicoli che rispettano determinati criteri ambientali.",
+      "ground": "La Low Emission Zone rappresenta un’area all’interno della quale possono entrare solo veicoli che rispettano determinati criteri e/o standard ambientali."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quindi se il mio veicolo non rispetta questi criteri, non posso accedere all'area?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Esattamente, solo i veicoli con minori emissioni inquinanti possono entrare nella Low Emission Zone.",
+      "ground": "Il maggior numero di veicoli che viaggiano all’interno della LEZ sono pertanto i veicoli più puliti e con minori emissioni inquinanti allo scarico e questo porta direttamente al miglioramento della qualità dell’aria con particolare riferimento all'esposizione agli inquinanti da traffico di prossimità."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Capito, quindi con la mia vecchia macchina non posso passare?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Se il suo veicolo non rispetta gli standard ambientali richiesti, no, dovrà trovare un'altra strada per evitare l'area.",
+      "ground": "La Low Emission Zone rappresenta un’area all’interno della quale possono entrare solo veicoli che rispettano determinati criteri e/o standard ambientali."
+    }
+  ],
+  "subcategory": "Milano"
+}

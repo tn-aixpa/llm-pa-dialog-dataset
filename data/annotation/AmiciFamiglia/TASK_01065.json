@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_01065",
+  "doc_src": "bondone__2019.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": " Vorrei creare delle opportunità di lavoro per i giovani.",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Il piano famiglia di Bondone nell'anno 2019 ha proposto l'apertura estiva del Castello San Giovanni così da dare l'opportunità agli studenti del Comune di approcciarsi al mondo del lavoro. In alternativa potrebbe predisporre dei tirocini per lavori socialmente utili.",
+      "ground": "=== PIANO FAMIGLIA DI BONDONE ANNO 2019 ===\n\n|||\n\nDESCRIZIONE: Apertura del Castello San Giovanni nei mesi estivi dando l'opportunitа a giovani studenti residenti nel Comune di approcciarsi al lavoro nel campo dell'accoglienza e del comparto turistico e di avere cosм un'opportunitа di lavoro retribuito.\n\n|||\n\nTITOLO: Lavori socialmente utili"
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Capito, e hai qualche idea per l'inverno?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Mi spiace ma non sono in grado di fornire suggerimenti per iniziative relative al piano invernale.",
+      "ground": ""
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Va bene va bene. Hai allora dei suggerimenti sugli incontri per le famiglie?",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Può erogare contributi a parrocchie o simili per organizzare una festa della famiglia, organizzare serate formative a sostegno della genitorialità",
+      "ground": "DESCRIZIONE: Erogazione contributo alla Parrocchia per l'organizzazione della ''Festa delle Famiglie''.\n\n|||\n\nTITOLO: Serate formative a sostegno della genitorialitа"
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "Non ho altre domande, grazie per le idee.",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "A lei, buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

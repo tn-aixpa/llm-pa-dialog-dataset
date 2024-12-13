@@ -1,0 +1,34 @@
+{
+  "task_id": "TASK_00660",
+  "doc_src": "comune.trento_aree-tematiche_D0435.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sul dibattito pubblico della circonvallazione ferroviaria di Trento.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Il Dibattito per la Circonvallazione Ferroviaria si è aperto il 6 dicembre 2023 e si concluderà il 3 febbraio 2024 con la presentazione della relazione conclusiva.",
+      "ground": "Il Dibattito per la Circonvallazione Ferroviaria si apre il 6 dicembre 2023, con la presentazione e pubblicazione del Dossier di progetto, e termina il 3 febbraio 2024, con la presentazione della relazione conclusiva."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "È possibile visionare il calendario degli incontri pubblici sul sito web del progetto?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, può vedere al sito https://www.dpcirconvallazioneferroviariatrento.it/partecipa/  il calendario degli incontri pubblici.",
+      "ground": "E' possibile visionare il calendario degli incontri pubblici nella sezione\n[https://www.dpcirconvallazioneferroviariatrento.it/partecipa/]"
+    }
+  ],
+  "subcategory": "Trento"
+}

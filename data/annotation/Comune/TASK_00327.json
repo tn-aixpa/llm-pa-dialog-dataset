@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00327",
+  "doc_src": "comune.milano_aree-tematiche_links_D0359.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Cos'è BezzeccaLab?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "BezzeccaLab è un laboratorio culturale che si occupa di cercare nuove modalità di narrazione e di progettare incroci fra diverse forme di esperienze culturali. Si trova in Via Bezzecca 4/A.",
+      "ground": "BezzeccaLab è un laboratorio culturale che nasce per ricercare nuove modalità di narrazione e progettare incroci fra diverse forme di esperienze culturali, sia umanistiche che tecnico-pratiche.\nNegli spazi che il Comune le ha assegnato in Via Bezzecca 4/A il laboratorio ha realizzato un unico spazio per la creatività di ciascuno e di tutti, un luogo per leggere, studiare, creare, fotografare, ascoltare, suonare."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E' possibile studiare all'interno del laboratorio?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, fra le cose nel laboratorio è possibile studiare.",
+      "ground": "Negli spazi che il Comune le ha assegnato in Via Bezzecca 4/A il laboratorio ha realizzato un unico spazio per la creatività di ciascuno e di tutti, un luogo per leggere, studiare, creare, fotografare, ascoltare, suonare."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni, cercherò ulteriori dettagli online. ",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Puoi trovare più dettagli al seguente link https://www.comune.milano.it/documents/20126/29502354/BezzeccaLab.pdf/daca4121-ee30-55ca-d7c3-5ccb154bf09c?t=1567407741893\nPer il resto, rimango a disposizione per altre domande, non esiti a contattarmi se ha bisogno di ulteriori chiarimenti. Buona giornata!",
+      "ground": "[https://www.comune.milano.it/documents/20126/29502354/BezzeccaLab.pdf/daca4121-ee30-55ca-d7c3-5ccb154bf09c?t=1567407741893](clicca qui)"
+    }
+  ],
+  "subcategory": "Milano"
+}

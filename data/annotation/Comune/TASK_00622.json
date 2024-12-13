@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00622",
+  "doc_src": "comune.trento_aree-tematiche_D0362.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, potrebbe dirmi se il Comune di Trento eroga contributi per attività di assistenza ad anziani?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Sì, il Comune di Trento può erogare dei contributi a parziale copertura delle spese della gestione ordinaria per sostenere i soggetti pubblici e privati che operano nel territorio comunale con finalità assistenziali e senza scopo di lucro.\nPiù dettagli al link https://www.comune.trento.it/Aree-tematiche/Politiche-sociali-e-abitative/Giovani/Servizi/Contributi-per-attivita-ordinaria-in-campo-socio-assistenziale .",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Politiche-sociali-e-abitative/Giovani/Servizi/Contributi-per-attivita-ordinaria-in-campo-socio-assistenziale](Contributi per attività ordinaria in campo socio-assistenziale)\nIl Comune di Trento può erogare dei contributi a parziale copertura delle spese della gestione ordinaria annuale per sostenere i soggetti pubblici e privati che, operando nel territorio comunale con finalità socio-assistenziali e senza scopo di lucro, svolgono attività di cooperazione sociale."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E per attività socio-culturali?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, anche per le attività socio-culturali il Comune può erogare dei contributi a parziale copertura delle spese della gestione ordinaria annuale.\nPiù dettagli al link.",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Politiche-sociali-e-abitative/Giovani/Servizi/Contributi-per-attivita-ordinaria-in-campo-socio-culturale](Contributi per attività ordinaria in campo socio-culturale)\nIl Comune di Trento può erogare dei contributi a parziale copertura delle spese della gestione ordinaria annuale per sostenere i soggetti pubblici e privati che, operando nel territorio comunale con finalità socio-culturali e senza scopo di lucro, svolgono attività di cooperazione sociale."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "E per informazioni sul Piano giovani di zona?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Tutte le informazioni sono disponibili sul sito Trentogiovani.it.",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Politiche-sociali-e-abitative/Giovani/Servizi/Piano-giovani-di-zona](Piano giovani di zona)\nTutte le informazioni sul sito\n[https://trentogiovani.it/Argomenti/PGZ-Piano-Giovani-di-Zona](Trentogiovani.it)"
+    }
+  ],
+  "subcategory": "Trento"
+}

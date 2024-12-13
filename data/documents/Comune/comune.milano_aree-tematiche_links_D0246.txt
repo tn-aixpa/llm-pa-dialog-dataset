@@ -1,0 +1,39 @@
+Bonifiche
+L'Area Bonifiche si occupa di:
+[/web/guest/servizi/indagini-ambientali-preliminari-iap](indagini ambientali preliminari (IAP))
+a supporto di procedimenti edilizi e urbanistici;
+[/web/guest/servizi/procedimenti-di-bonifica1](procedimenti di bonifica)
+dei siti contaminati (suolo, sottosuolo e acque sotterranee).
+In questa sezione sono disponibili pagine informative relative alla gestione sia dei
+[/web/guest/servizi/dismissione-serbatoi-interrati](serbatoi interrati)
+dismessi che dei
+[/web/guest/servizi/gestione-dei-materiali-da-scavo](materiali da scavo)
+.
+E' possibile visualizzare tramite il
+[https://geoportale.comune.milano.it/portal/apps/webappviewer/index.html?id=e6ce471980c14a0c8191116e8de921a4](Geoportale)
+del Comune di Milano informazioni cartografiche relative a:
+perimetri dei siti oggetto di procedimenti di bonifica;
+siti dove insistono limitazioni alle destinazioni d'uso insediabili in virtù di accertati livelli di qualità dei suoli (conformità agli usi commerciali/industriali ma non verde/residenziali);
+dati idrogeologici (profondità e gradiente locale della prima falda).
+
+Informazioni ambientali. Aggiornamento Marzo 2024
+377 procedimenti di bonifica aperti: superficie complessiva 6.539.580* metri quadrati
+1481 procedimenti di bonifica conclusi: superficie complessiva 14.985.800* metri quadrati
+È possibile filtrare e/o scaricare l’elenco procedimenti direttamente dal Geoportale SIT - Bonifiche.
+*valore calcolato con: DATUM WGS84 - proiezione UTM Zone 32N
+
+[/documents/20126/434768781/Informativa+privacy+-+Area+Bonifiche+-+Settembre+2021.pdf/43dd51f5-3973-8fc5-db8a-4ffc82286430?t=1632139956189](Informativa privacy - Area Bonifiche - Settembre 2021 (pdf - 101.801 KB)
+)
+Informativa privacy - Area Bonifiche - Settembre 2021
+(pdf
+- 101.801 KB)
+
+[https://geoportale.comune.milano.it/portal/apps/webappviewer/index.html?id=e6ce471980c14a0c8191116e8de921a4](Geoportale SIT - Comune di Milano - Bonifiche)
+Geoportale SIT - Comune di Milano - Bonifiche
+[https://www.regione.lombardia.it/wps/portal/istituzionale/HP/DettaglioRedazionale/istituzione/direzioni-generali/direzione-generale-ambiente-e-clima/piano-regionale-rifiuti-e-bonifiche](Programma Regionale di Gestione dei Rifiuti (PRGR) e Programma Regionale delle Aree Inquinate (PRB)
+)
+Programma Regionale di Gestione dei Rifiuti (PRGR) e Programma Regionale delle Aree Inquinate (PRB)
+Argomenti:
+[https://www.comune.milano.it/elenco-argomenti/dettaglio-argomenti?restrictCategoryId=36641&fromPage=elencoArgomenti](Edilizia e territorio)
+[https://www.comune.milano.it/elenco-argomenti/dettaglio-argomenti?restrictCategoryId=36651&fromPage=elencoArgomenti](Inquinamento)
+[https://www.comune.milano.it/elenco-argomenti/dettaglio-argomenti?restrictCategoryId=36755&fromPage=elencoArgomenti](Rifiuti)

@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00993",
+  "doc_src": "comSalerno0758.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Cosa succede domani con l'allerta meteo?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Con l'allerta di domani, il Sindaco di Salerno ha deciso di chiudere gli istituti scolastici di ogni ordine e grado, (asili nido  comunali inclusi) assieme a giardini, parchi, cimiteri e strutture sportive nonché i sottopassaggi stradali.",
+      "ground": "A causa delle avverse condizioni meteo previste per la giornata di domani, venerdì 3 novembre, con allerta meteo arancione emanata dalla Protezione Civile della Regione Campania, il Sindaco di Salerno Vincenzo Napoli ha disposto la chiusura degli istituti cittadini di ogni ordine e grado, compresi gli asili nido comunali.\nÈ stata inoltre disposta la chiusura di giardini e parchi pubblici, del cimitero comunale, delle strutture sportive comunali, compresa la Piscina Simone Vitale, e a partire da questa sera dei sottopassi stradali."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "È pericoloso uscire?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Sì, con l'allerta meteo arancione sono previste forti conzioni avverse che possono causare danni a cose e persone, sia direttamente che indirettamente.",
+      "ground": "A causa delle avverse condizioni meteo previste per la giornata di domani, venerdì 3 novembre, con allerta meteo arancione emanata dalla Protezione Civile della Regione Campania, il Sindaco di Salerno Vincenzo Napoli ha disposto la chiusura degli istituti cittadini di ogni ordine e grado, compresi gli asili nido comunali.\nÈ stata inoltre disposta la chiusura di giardini e parchi pubblici, del cimitero comunale, delle strutture sportive comunali, compresa la Piscina Simone Vitale, e a partire da questa sera dei sottopassi stradali.\n[https://www.comune.salerno.it/sites/default/files/2023-11/ordinanza_allerta_meteo_2_e_3_novembre_2023.stamped.pdf](Ordinanza)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "C'è una qualche ordinanza del sindaco legata alla chiusura delle varie strutture?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Sì, l'ordinanza è consultabile al link https://www.comune.salerno.it/sites/default/files/2023-11/ordinanza_allerta_meteo_2_e_3_novembre_2023.stamped.pdf .",
+      "ground": "https://www.comune.salerno.it/sites/default/files/2023-11/ordinanza_allerta_meteo_2_e_3_novembre_2023.stamped.pdf"
+    }
+  ],
+  "subcategory": "Salerno"
+}

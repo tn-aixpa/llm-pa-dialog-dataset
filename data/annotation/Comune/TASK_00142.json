@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00142",
+  "doc_src": "comune.milano_aree-tematiche_D0164.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Salve, vorrei informazioni sui dissuasori di sosta. Posso installarli davanti al mio passo carrabile?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, certo. Però deve inviare un modulo corredato di documentazione richiesta. Il personale tecnico farà un sopralluogo per verificare l'effettiva esigenza e fattibilità della posa.",
+      "ground": "Inviare il modulo, preparare la documentazione richiesta e inviare.\nDi seguito il personale tecnico effettuerà un sopralluogo per verificare l'effettiva esigenza e la fattibilità tecnica della posa."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E se voglio aumentare la sicurezza, posso chiedere anche la tracciatura della segnaletica orizzontale?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, è possibile.",
+      "ground": "Al fine di aumentare la fruibilità e sicurezza dei passi carrabili regolarmente autorizzati, è possibile presentare istanza anche per:\n\nla tracciatura della segnaletica orizzontale\nla posa di uno specchio parabolico qualora ne ricorra l'effettivo presupposto di necessità."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Quanto dura lìautorizzazione?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "L'autorizzazione dura fino a quando le strutture vengono mantenute efficienti o fino a quando altre soluzioni non eliminano la necessità.",
+      "ground": "L’autorizzazione dura sino a quando le strutture vengono mantenute in efficienza oppure sino a quando altre soluzioni non ne eliminino la necessità."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni. Come posso accedere al servizio?",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "Certamente, è possibile accedere al servizio tramite PEC o direttamente presso lo sportello.",
+      "ground": "Modalità di accesso al servizio:\n\nPEC\nSportello"
+    }
+  ],
+  "subcategory": "Milano"
+}

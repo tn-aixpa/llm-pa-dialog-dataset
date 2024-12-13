@@ -1,0 +1,52 @@
+{
+  "task_id": "TASK_00224",
+  "doc_src": "comune.milano_aree-tematiche_links_D0252.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Buongiorno, potrebbe darmi informazioni sulla competizione Reinventing Cities?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Certamente, la competizione Reinventing Cities è una iniziativa globale promossa da C40 Cities Climate Leadership Group con il supporto di Climate KIC. La Città di Milano ha partecipato a diverse edizioni mettendo a bando vari siti per la riqualificazione.",
+      "ground": "Reinventing Cities è una competizione globale promossa da C40 Cities Climate Leadership Group con il supporto di Climate KIC.\nC40 è network di circa 100 città influenti a livello globale impegnate a combattere il cambiamento climatico. C40 supporta le città nel collaborare tra loro e nel condividere conoscenze al fine di raggiungere un futuro inclusivo, prospero e sostenibile."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Ho sentito che in questa competizione si cerca di affrontare delle sfide per il clima, quali sono?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Le sfide sono le seguenti:\n- Efficienza energetica ed energia a basse emissioni\n- Valutazione del ciclo di vita e gestione sostenibile dei materiali da costruzione \n- Mobilità a bassa emissione\n- Resilienza e adattamento climatico\n- Servizi ecologici per il territorio e lavori green\n- Gestione sostenibile delle risorse idriche\n- Gestione sostenibile dei rifiuti\n- Biodiversità, riforestazione urbana e agricoltura\n- Azioni inclusive, benefici sociali e impegno della comunità\n- Architettura e design urbano innovativo",
+      "ground": "Il programma internazionale Reinventing Cities, strutturato in due fasi (FASE I “Manifestazione di interesse” e FASE II “Proposte finali”) vede il coinvolgimento delle Città nell’individuare siti di proprietà pubblica abbandonati o sottoutilizzati, pronti per essere valorizzati, e di soggetti privati, organizzati in Team multidisciplinari, nel presentare proposte per la riqualificazione dei siti trovando soluzioni alle seguenti 10 sfide per il clima:\nEfficienza energetica ed energia a basse emissioni\nValutazione del ciclo di vita e gestione sostenibile dei materiali da costruzione\nMobilità a bassa emissione\nResilienza e adattamento climatico\nServizi ecologici per il territorio e lavori green\nGestione sostenibile delle risorse idriche\nGestione sostenibile dei rifiuti\nBiodiversità, riforestazione urbana e agricoltura\nAzioni inclusive, benefici sociali e impegno della comunità\nArchitettura e design urbano innovativo"
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Quante edizioni della competizione ha partecipato Milano finora?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Milano ha partecipato a tre edizioni finora e si sta preparando per la quarta.",
+      "ground": "La Giunta Comunale ha approvato la partecipazione del Comune di Milano alla quarta edizione del programma internazionale \"Reinventing Cities\" indetto da \"C40-Cities Climate Leadership Group\", individuando l'\nimmobile di via Zama 23"
+    },
+    {
+      "id": "T07",
+      "speaker": "Citizen",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

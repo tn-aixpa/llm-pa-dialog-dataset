@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00916",
+  "doc_src": "comune.trento_aree-tematiche_D0001.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Dove posso trovare i rapporti mensili sulla qualità dell'aria pubblicati dall'APPA?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Puoi trovare i rapporti mensili sulla qualità dell'aria pubblicati dall'APPA al seguente link: https://www.appa.provincia.tn.it/Documenti-e-dati/Documenti-tecnici-di-supporto/Rapporti-mensili-sulla-qualita-dell-aria .",
+      "ground": "i rapporti mensili di qualità dell'aria in cui sono riportate le valutazioni relative all'andamento mensile degli inquinanti rilevati\n[https://www.appa.provincia.tn.it/Documenti-e-dati/Documenti-tecnici-di-supporto/Rapporti-mensili-sulla-qualita-dell-aria](https://www.appa.provincia.tn.it/Documenti-e-dati/Documenti-tecnici-di-supporto/Rapporti-mensili-sulla-qualita-dell-aria)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Quali altri dati sono disponibili sul loro sito?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Oltre ai rapporti mensili, il sito offre sia i bollettini giornalieri che i rapporti annuali sulla qualità dell'aria, fornendo quindi una panoramica sia a breve che a lungo termine della situazione inquinante.",
+      "ground": "i dati di qualità dell'aria rilevati giornalmente dalle centraline nella forma di un“bollettino giornaliero”\n[https://appa.alpz.it/aria](https://appa.alpz.it/aria)\n\n|||\n\ni rapporti annuali di qualità dell'aria in cui sono riportate le valutazioni relative all'andamento annuale degli inquinanti rilevati\n[https://www.appa.provincia.tn.it/Documenti-e-dati/Documenti-tecnici-di-supporto/Rapporti-annuali-sulla-qualita-dell-aria](https://www.appa.provincia.tn.it/Documenti-e-dati/Documenti-tecnici-di-supporto/Rapporti-annuali-sulla-qualita-dell-aria)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Quali sono gli inquinanti analizzati?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Gli inquinanti sono Biossido di zolfo (SO2), Ossidi di azoto (NOX), Ossido di carbonio (CO),  Ozono (O3), Particolato sottile (PM10), Particolato fine (PM2,5), Idrocarburi Policiclici Aromatici (IPA), Metalli, Benzene e Meteo",
+      "ground": "Gli inquinanti analizzati sono i seguenti: Biossido di zolfo (SO2), Ossidi di azoto (NOX), Ozono (O3), Particolato sottile (PM10), Particolato fine (PM2,5), Idrocarburi Policiclici Aromatici (IPA), Metalli, Meteo\n\n|||\n\nGli inquinanti analizzati sono i seguenti: Ossido di carbonio (CO), Ossidi di azoto (NOX), Particolato sottile PM10, Particolato fine PM2,5, Benzene, Meteo"
+    }
+  ],
+  "subcategory": "Trento"
+}

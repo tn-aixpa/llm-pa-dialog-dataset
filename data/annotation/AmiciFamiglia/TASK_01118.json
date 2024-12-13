@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_01118",
+  "doc_src": "lavis__2023.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Che tipo di azioni posso scrivere a supporto dei neonati?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Può pensare di offrire un contributo per l'acquisto di pannolini lavabili, offrire uno spazio di riflessione e condivisione per l'allattamento, oppure dare un kit di benvenuto a tutti i nuovi nati.",
+      "ground": "TITOLO: Contributo per l'acquisto di pannolini lavabili\n\n|||\n\nSarа attivato uno spazio comunale, ''Il Cerchio di latte'' per agevolare la condivisioni di riflessioni ed informazioni inerenti all'allattamento, sia in un'ottica di confronto tra i pari sia con l'intervento di una esperta facilitatrice.\n\n|||\n\nL'Amministrazione comunale ha predisposto un kit per dare il benvenuto a tutti i nuovi nati del territorio."
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Cosa suggerisce di mettere nel kit di benvenuto?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Potrebbe mettere delle brochure con i servizi socio-sanitari ed educativi dedicati al neonato e alla famiglia, oltre che due libri per l'infanzia.",
+      "ground": "Ogni famiglia interessata al lieto evento riceverа, al momento della registrazione all'anagrafe, una borsa contenente due brochure informative con la presentazione dei servizi socio-sanitari ed educativi a disposizione del neonato e della famiglia. Sono anche illustrati gli uffici competenti per aiutare nell'espletamento delle pratiche e per informare su tutte le opportunitа attive sul territorio comunale. Ogni kit è corredato da due libri per l'infanzia."
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Sì, è una cosa che il Comune può fare.",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Mi fa piacere. C'è altro con cui posso assisterla?",
+      "ground": ""
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "Sì, che azioni è possibile scrivere con tassonomia \"Progetti di partecipazione attiva di bambini, ragazzi e giovani\"? ",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "Può pensare di dare un contributo per chi scrive tesi di laurea di interesse comunale, fare un attività di cura del verde e del decoro urbano, il cui pagamento è un \"buono fatica\" spendibile in realtà che sostengono l'iniziativa, creare un gruppo informale di giovani per la realizzazione di eventi locali, oppure creare un servizio civile universale.",
+      "ground": "E' stato aggiornato il regolamento per l'erogazione del contributo per tesi di laurea concernente argomenti di interesse comunale. Il contributo è stato fissato in Euro 300,00 per le lauree brevi e di Euro 600,00 per le lauree specialistiche e/o magistrali.\n\n|||\n\nLa squadra di 10 ragazzi sarа impegnata in attivitа di cura del verde e del decoro urbano in cui la ''fatica'' diventa servizio di cittadinanza attiva nella cura dei beni comuni. E' prevista una ricompensa con un ''buono fatica'' per acquisti da effettuare in realtа economiche locali che saranno invitate a sostenere l'iniziativa.\n\n|||\n\nConsiderata la difficoltа emersa negli anni scorsi per la costituzione della Consulta dei Giovani, prevista nello statuto comunale, si continuerа nel percorso iniziato con un gruppo informale di giovani tra i 16 ed i 22 anni per la collaborazione attiva nell'organizzazione e realizzazione di diversi eventi sul territorio (ad. es. giornata dell'Europa, concerti, tornei ecc.)\n\n|||\n\nConsiderata la difficoltа emersa negli anni scorsi per la costituzione della Consulta dei Giovani, prevista nello statuto comunale, si continuerа nel percorso iniziato con un gruppo informale di giovani tra i 16 ed i 22 anni per la collaborazione attiva nell'organizzazione e realizzazione di diversi eventi sul territorio (ad. es. giornata dell'Europa, concerti, tornei ecc.)"
+    },
+    {
+      "id": "T9",
+      "speaker": "Citizen",
+      "message": "Okay, grazie mille.",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agent",
+      "message": "A lei, buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

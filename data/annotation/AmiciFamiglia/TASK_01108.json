@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_01108",
+  "doc_src": "garniga_terme__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Che tassonomia posso mettere per incontri dedicati alla sensibilizzazione sulla violenza di genere?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Una possibile tassonomia valida per tale tipologia di incontri potrebbe essere \"Incontri formativi e informativi: Educazione, Genitorialitа, Conciliazione, Vita di coppia\"",
+      "ground": "TITOLO: Sensibilizzazione al fenomeno della violenza di genere\n\nTASSONOMIA: Incontri formativi e informativi: Educazione, Genitorialitа, Conciliazione, Vita di coppia"
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "E invece per un orto scolastico?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "In questo caso le suggerisco la tassonimia \"Pianificazione urbanistica (strade, parchi, orti, campi sportivi ecc.)\"",
+      "ground": "TITOLO: Progetto ''Orto didattico''\n\nTASSONOMIA: Pianificazione urbanistica (strade, parchi, orti, campi sportivi ecc.)"
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "E per caso avrebbe qualche suggerimento da scrivere riguardo a iniziative orientate verso la promozione di festival musicali?",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "No, mi spiace. Non sono in grado di fornire suggerimenti al riguardo.",
+      "ground": ""
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "Nessun problema. Mi ha già aiutato molto, gentilissimo.",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "È stato un piacere. Sicuro che non le serve chiedere altro?",
+      "ground": ""
+    },
+    {
+      "id": "T9",
+      "speaker": "Citizen",
+      "message": "Sicuro, buona giornata.",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agent",
+      "message": "A lei.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

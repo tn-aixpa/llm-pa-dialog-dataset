@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00563",
+  "doc_src": "comune.trento_aree-tematiche_D0256.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sull'istanza di applicazione della sanzione prevista dalla legge per opere abusive non sanabili.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, per maggiori informazioni le consiglio di consultare il link https://www.comune.trento.it/Aree-tematiche/Attivita-edilizia/Provvedimenti-sanzionatori-e-di-sanatoria/Istanza-di-applicazione-della-sanzione-di-legge/Istanza-di-applicazione-della-sanzione-prevista-dall-art.-128-commi-6-7-e-8-della-LP-1-2008\nQuesto link tratta della istanza di applicazione della sanzione prevista dall'art. 128, commi 6, 7 e 8 della LP 1/2008.",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Attivita-edilizia/Provvedimenti-sanzionatori-e-di-sanatoria/Istanza-di-applicazione-della-sanzione-di-legge/Istanza-di-applicazione-della-sanzione-prevista-dall-art.-128-commi-6-7-e-8-della-LP-1-2008](Istanza di applicazione della sanzione prevista dall'art. 128, commi 6, 7 e 8 della LP 1/2008.)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

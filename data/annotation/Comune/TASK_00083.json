@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00083",
+  "doc_src": "comune.milano_aree-tematiche_D0038.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sulla Valutazione di Impatto Ambientale, potete aiutarmi?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, la Valutazione di Impatto Ambientale (VIA) è una procedura finalizzata all'analisi dei progetti che possono avere impatti ambientali e supporta l'individuazione delle soluzioni più idonee per la sostenibilità ambientale.",
+      "ground": "all’analisi dei progetti che possono avere significativi impatti sull’ambiente\nall’individuazione delle soluzioni più idonee al perseguimento degli obiettivi di sostenibilità ambientale."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E' obiettivo della  VIA proteggere la salute umana e migliorare la qualità della vita?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì esatto. Posso aiutarti con altre informazioni?",
+      "ground": "Finalità e obiettivi\nLa finalità della VIA è quella di proteggere la salute umana, migliorare la qualità della vita, mantenere le specie e loro capacità riproduttiva."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie, no. Ho capito tutto quello che mi serviva sapere. Grazie per l'aiuto.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Di nulla, sono qui per qualsiasi ulteriore domanda. Buona giornata!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00228",
+  "doc_src": "comune.milano_aree-tematiche_links_D0256.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Scusi, potrebbe darmi informazioni sull'Urban Center?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Certamente, l'Urban Center ha come obiettivo quello di osservare la città e il suo cambiamento attraverso conferenze, workshop e dibattiti pubblici. Si occupa anche di concorsi e competizioni sulla rigenerazione degli spazi della città.",
+      "ground": "L’Urban Center ha come scopo quello di osservare la città, e il suo cambiamento, attraverso una serie di\nconferenze, workshop, dibattiti pubblici\ne attraverso l’istruzione di\nconcorsi e competizioni pubbliche\nsulla\nrigenerazione degli spazi della città"
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "E' possibile partecipare a qualche attività dell'Urban Center?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Assolutamente sì, l'Urban Center raccoglie idee, proposte ed osservazioni e promuove lo studio, la ricerca e il confronto tra le trasformazioni di Milano e di altre città. È un luogo di partecipazione e condivisione aperto a tutti.",
+      "ground": "L’Urban Center raccoglierà\nidee, proposte, suggestioni ed osservazioni\n, sarà luogo di\nstudio, ricerca\ne di\nconfronto\ntra le trasformazioni di Milano e quelle di altre città italiane e del mondo e sarà a disposizione della città, con l’intento di\ncoinvolgere\nle persone e di produrre un processo virtuoso di\npartecipazione\ne\ncondivisione"
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

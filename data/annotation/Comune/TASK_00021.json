@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00021",
+  "doc_src": "comune.milano_aree-tematiche_D0031.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Salve, vorrei informazioni sull'inquinamento luminoso.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, certo. L'inquinamento luminoso si riferisce a ogni forma di luce artificiale che si diffonde al di là del necessario utilizzo. Questo include anche luci che causano disturbi per gli ecosistemi",
+      "ground": "ogni forma di irradiazione di luce artificiale che si disperde al di fuori delle aree alle quali è funzionalmente diretta\nogni forma di irradiazione artificiale emessa dagli apparecchi di illuminazione e dalle superfici illuminate oltre il piano dell'orizzonte che agisce negativamente sulla salute degli esseri viventi e che condiziona o interferisce negativamente sulla funzionalità degli ecosistemi, determinando perdita di biodiversità."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Come segnalo un inquinamento luminoso?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Puoi segnalare il presunto fenomeno di inquinamento luminoso tramite il link [[Segnala inquinamento luminoso]].",
+      "ground": "Per segnalare un presunto fenomeno di inquinamento luminoso vedi in questa pagina il link Segnala inquinamento luminoso."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Se hai bisogno di ulteriori informazioni, non esitare a contattarci. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

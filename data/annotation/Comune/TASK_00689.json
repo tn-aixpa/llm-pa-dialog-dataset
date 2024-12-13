@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00689",
+  "doc_src": "comune.trento_aree-tematiche_D0503.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Salve, potrebbe dirmi come si calcola la Tari per le utenze domestiche?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, la tariffa sui rifiuti per le utenze domestiche è composta da una quota fissa e da una quota variabile. La quota fissa viene calcolata moltiplicando i metri quadrati dell'immobile per la tariffa corrispondente al numero di occupanti. Se l'intestatario dell'utenza è residente, il numero di occupanti corrisponde ai componenti del nucleo familiare, altrimenti viene determinato in base alla superficie. La quota variabile è invece determinata in base agli altri costi variabili e alla quantità di rifiuto prodotto.",
+      "ground": "[]()\nUtenze domestiche\nLa tariffa sui rifiuti è così composta:\nuna\nquota fissa\n, per il calcolo della quale bisogna moltiplicare i metri quadrati dell'immobile (determinati sulla base della superficie calpestabile) per la tariffa corrispondente al numero degli occupanti dello stesso. Se l'intestatario dell'utenza è residente nell'immobile, quest'ultimo dato viene reperito negli archivi anagrafici del Comune e corrisponde al numero dei componenti il nucleo familiare. Se invece l'intestatario dell'utenza non risiede nell'immobile,il numero degli occupanti viene determinato in via presuntiva, in rapporto alla superficie dei locali, secondo la seguente tabella:\n\n|||\n\nuna\nquota variabile altri servizi\n, determinata sulla base degli altri costi variabili, commisurati alla qualità del servizio reso alla singola utenza, nonché al numero dei servizi messi a disposizione della medesima\nuna\nquota variabile misurata\n, rapportata alla quantità di rifiuto residuo prodotto e conferito"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quindi se sono residente nell'immobile, devo pagare in base al numero di componenti della mia famiglia?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Esatto, la quota fissa sarà calcolata in base al numero di componenti del nucleo familiare residente. Posso aiutarla con altri dettagli? ",
+      "ground": "Se l'intestatario dell'utenza è residente nell'immobile, quest'ultimo dato viene reperito negli archivi anagrafici del Comune e corrisponde al numero dei componenti il nucleo familiare."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "No, grazie mille per le informazioni. Buona giornata!",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Altrettanto, arrivederci!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

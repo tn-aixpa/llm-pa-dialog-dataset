@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00465",
+  "doc_src": "comune.trento_aree-tematiche_D0088.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Posso visitare il laboratorio TrentoLab?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Il TrentoLab. è aperto fino al 29 Maggio 2024 il  lunedì, martedì e giovedì, dalle 16.00 alle 18.30, ad eccezione del 23 maggio. Se però serve puoi richiedere un appuntamento al di fuori di questi orari.",
+      "ground": "Apertura per il pubblico\nfino al 29 maggio 2024\nnei giorni di lunedì, martedì e giovedì, dalle 16.00 alle 18.30 ad esclusione di martedì 23 maggio\nPer particolari esigenze è possibile richiedere appuntamento anche in altri orari."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Quali sono i contatti?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Può inviare una mail a trentolab@comune.trento.it o chiamare al numero 0461 889597. ",
+      "ground": "[mailto:trentolab@comune.trento.it](trentolab@comune.trento.it)\n0461 889597"
+    }
+  ],
+  "subcategory": "Trento"
+}

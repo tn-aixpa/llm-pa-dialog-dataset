@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00528",
+  "doc_src": "comune.trento_aree-tematiche_D0205.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei avere informazioni sull'utilizzo degli edifici scolastici del Comune di Trento in orario extrascolastico.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Gli edifici scolastici del Comune di Trento sono parte del patrimonio dell'Amministrazione comunale e possono essere utilizzati da terzi per attività culturali, sociali e civili, nonché per manifestazioni pubbliche di interesse collettivo.",
+      "ground": "Gli edifici scolastici del Comune di Trento sono parte integrante del patrimonio dell’Amministrazione comunale e sono destinati all’uso pubblico.\nIn coerenza con il regolamento comunale approvato dal Consiglio comunale con deliberazione 25 ottobre 2000 n. 136 è possibile l’utilizzo da parte di terzi delle strutture scolastiche non destinate ad attività sportiva per lo svolgimento di attività che realizzino la funzione della scuola come centro di promozione culturale, sociale e civile, nonché per attività extrascolastiche e manifestazioni pubbliche di interesse collettivo."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quindi posso richiedere l'autorizzazione per l'utilizzo in orario extrascolastico?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, è possibile. Per dettagli può consultare il link https://www.comune.trento.it/Aree-tematiche/Servizi-all-infanzia-e-istruzione/Servizi-istruzione-3-14-anni/Utilizzo-degli-immobili-scolastici/Utilizzo-degli-immobili-scolastici-in-orario-extrascolastico",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Servizi-all-infanzia-e-istruzione/Servizi-istruzione-3-14-anni/Utilizzo-degli-immobili-scolastici/Utilizzo-degli-immobili-scolastici-in-orario-extrascolastico](Utilizzo degli immobili scolastici in orario extrascolastico)\nInformazioni e moduli per l'autorizzazione all’utilizzo di spazi negli edifici scolastici comunali in orario extrascolastico per attività di promozione della scuola come centro culturale, economico e sociale."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni, proverò a contattare il servizio competente.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È stato un piacere poterla aiutare, se ha bisogno di ulteriori informazioni non esiti a contattarci. Buona giornata!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

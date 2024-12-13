@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00977",
+  "doc_src": "comSalerno0705.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Cosa ha definito il nuovo decreto del Ministro delle Imprese e del Made in Italy?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Il decreto ha definito il seguente:\n1) Chi ha preso la carta Dedicata a Te (o carta solidale) riceverà un importo per singolo nucleo familiare pari a €77,20. Questo importo sarà accreditato e direttamente sulla carta;\n2) Le carte ritirate e non attivate entro il 15 settembre saranno riattivate. L'importo su queste sarà di\nè di €459,70;\n3) Chi ha ricevuto la lettera per il ritiro della carta ma non è ancora stato a ritirarla, potrà farlo presso gli uffici postali;\n4) Chi non ha ricevuto la lettera ma può benificiare dei contributi, potrà ritirarla e recarsi negli uffici postali. Sono previste sia la modalità cartacea che digitale.\nTutte queste voci saranno disponibili dal 15 dicembre.",
+      "ground": "1) dal 15 dicembre, a tutti coloro che nell’estate 2023 hanno ritirato la carta Dedicata a Te (o Carta Solidale) sarà accreditato un importo aggiuntivo, per singolo nucleo familiare, pari ad €77,20 (bonus benzina). I beneficiari non dovranno fare nulla, l’importo sarà direttamente accreditato sulla carta;\n2) dal 15 dicembre, le carte ritirate ma non attivate entro il 15 settembre 2023 saranno riattivate. Sulla carta sarà accreditato l’importo di € 77,20 oltre i 382,50 € originari.\nI beneficiari sono tenuti ad effettuare il primo pagamento entro il 31 gennaio 2024;\n3) dal 15 dicembre, coloro che hanno ricevuto la lettera necessaria al ritiro della carta solidale ma non l'hanno effettivamente ritirata, potranno farlo presso gli uffici postali;\n4) dal 15 dicembre, coloro che non hanno ricevuto la lettera di ritiro della Carta ma risultano beneficiari del contributo (così come da elenco allegato) potranno ritirare la lettera per poi recarsi negli uffici postali secondo queste modalità:\n• in formato cartaceo, recandosi presso i Segretariati Sociali competenti per territorio;\n• in formato digitale, inviando una mail - con allegata carta d’identità e codice fiscale del beneficiario - al seguente indirizzo maria.melfi@comune.salerno.it"
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "A chi ci si deve rivolgere per il ritiro in digitale se non si ha ricevuto la lettera? ",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Ci si deve rivolgere inviando una mail, con allegata carta d’identità e codice fiscale del beneficiario, all'indirizzo maria.melfi@comune.salerno.it .",
+      "ground": "- in formato digitale, inviando una mail - con allegata carta d’identità e codice fiscale del beneficiario - al seguente indirizzo maria.melfi@comune.salerno.it"
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Grazie.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Di nulla. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

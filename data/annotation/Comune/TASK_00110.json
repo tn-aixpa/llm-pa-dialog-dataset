@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00110",
+  "doc_src": "comune.milano_aree-tematiche_D0129.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei delle informazioni riguardo alle imprese che operano nei cimiteri.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, certo. Le ditte che intendono svolgere lavori di impresa nei cimiteri milanesi o svolgere attività funebri sul territorio comunale devono essere iscritte negli elenchi comunali. Vuole sapere qualcosa di più preciso?",
+      "ground": "Le ditte che intendono svolgere lavori di impresa nei cimiteri milanesi per conto di cittadini o svolgere attività funebre sul territorio comunale devono essere iscritte negli elenchi comunali, tenuti dall'Area Servizi Funebri e Cimiteriali."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Le imprese devono comunicare le variazioni del personale o della società una volta iscritte negli elenchi, giusto?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Esatto, l'iscrizione non è soggetta a rinnovo ma è necessario comunicare tempestivamente qualsiasi variazione o integrazione. Una volta iscritte, le imprese devono dotare il proprio personale di un tesserino di riconoscimento con fotografia.",
+      "ground": "L’iscrizione delle imprese nei rispettivi elenchi non è soggetta a rinnovo: spetta a ciascuna ditta provvedere con assoluta tempestività alla comunicazione di variazioni o integrazioni relative al proprio personale o di altri dati relativi alla società (esempio: nuove assunzioni, cessazione del rapporto di lavoro, cambio di indirizzo, di denominazione o di ragione sociale ecc.).\nUna volta ottenuta l’iscrizione negli elenchi comunali, le imprese dovranno dotare il proprio personale di tesserino di riconoscimento munito di fotografia, da esporre in modo chiaramente visibile."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Come posso accedere ai servizi per lavori sulle tombe?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Per le tombe novantennali, può accedere al servizio tramite sportello.",
+      "ground": "Lavori su tombe novantanovennali\n\nModalità di accesso al servizio:\n\nSportello"
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni. Quali sono gli approfondimenti approfondimenti normativi?",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "Per approfondimenti normativi, i riferimenti sono:\n- Regolamento dei Servizi Funebri e Cimiteriali del Comune di Milano\n- Regolamento Regione Lombardia n. 6/2004 e s.m.i.\n- Legge Regionale n. 33 del 30/12/2009 e s.m.i.",
+      "ground": "Riferimenti normativi\n\nPer approfondimenti normativi consultare i seguenti documenti:\nRegolamento dei Servizi Funebri e Cimiteriali del Comune di Milano\nRegolamento Regione Lombardia n. 6/2004 e s.m.i.\nLegge Regionale n. 33 del 30/12/2009 e s.m.i."
+    }
+  ],
+  "subcategory": "Milano"
+}

@@ -1,0 +1,34 @@
+{
+  "task_id": "TASK_00920",
+  "doc_src": "comune.trento_aree-tematiche_D0016.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Cosa si intende per autorimessa?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Per autorimessa si intende un luogo destinato alla custodia di veicoli, come biciclette, auto e caravan, che può essere sia chiuso che all'aperto. Questa attività è soggetta a un pagamento di una compensazione per la sosta del veicolo.",
+      "ground": "[\"Attività di autorimessa\\nPer rimessa di veicoli si intende il luogo chiuso o all'aperto destinato alla custodia di veicoli (dalla bicicletta, alla roulotte/caravan) per la quale viene corrisposto un compenso per la sosta.\"]"
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Quali sono le normative che regolano le autorimesse?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "I riferimenti normativi sono i D.P.R. 19 dicembre 2001, n. 480 e n. 481.",
+      "ground": "Riferimenti normativi\nD.P.R.\n19 dicembre 2001, n. 480\nD.P.R.\n19 dicembre 2001, n. 481"
+    }
+  ],
+  "subcategory": "Trento"
+}

@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_00259",
+  "doc_src": "comune.milano_aree-tematiche_links_D0290.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, sa dirmi come posso chiedere di aver accesso all'urna di mio padre contenuta in un colombaro?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente. Le consiglio di consultare la risorsa https://www.comune.milano.it/aree-tematiche/servizi-funebri/funerali-e-sepolture/rinnovare-cambiare-o-dismettere-la-sepoltura per maggiori dettagli.\nSappia che l'operazione ha un costo di 105,83€.",
+      "ground": "Per informazioni sulla successiva destinazione del defunto, visita\n[https://www.comune.milano.it/aree-tematiche/servizi-funebri/funerali-e-sepolture/rinnovare-cambiare-o-dismettere-la-sepoltura](Rinnovare, cambiare o dismettere la sepoltura.)\n\n|||\n\nTali operazioni sono effettuate a cura e spese del richiedente:\n€ 246,50 estumulazione straordinaria di salma\n€ 105,83 estumulazione straordinaria di resti o ceneri."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Ci sono casi in cui non è possibile chiedere l'urna?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Le estumulazioni straordinarie non possono essere eseguite nel periodo dal 20 giugno al 15 settembre.",
+      "ground": "Non possono essere eseguite estumulazioni straordinarie di salme nei seguenti casi:\nnel periodo dal 20 giugno al 15 settembre."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "E in quali casi posso invece richiederla?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Le può richiedere per trasferimento, affidamento, dispersione o ristrutturamento del colombaro",
+      "ground": "In quali casi è possibile richiederle?\nSi possono richiedere nei seguenti casi:\ntrasferimento di salma, resti ossei, ceneri in un’altra sepoltura nello stesso cimitero o in un altro cimitero di Milano, tenuto conto delle disponibilità di spazi esistenti e delle disposizioni vigenti, oppure di un altro Comune o Stato;\ncremazione successiva alla sepoltura;\naffidamento delle ceneri;\ndispersione delle ceneri;\nristrutturazione o operazioni in sepoltura della tomba novantanovennale."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T09",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni. Come posso accedere al servizio?",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agente",
+      "message": "Puoi accedere al servizio online al link https://www.comune.milano.it/servizi-funebri/estumulazioni-straordinarie-da-colombari-cellette-o-sepolture-novantanovennali , oppure allo sportello o in posta.",
+      "ground": "[https://www.comune.milano.it/servizi-funebri/estumulazioni-straordinarie-da-colombari-cellette-o-sepolture-novantanovennali](Estumulazioni straordinarie da colombari, cellette o sepolture novantanovennali)\nModalità di accesso al servizio:\nSportello\nPosta"
+    }
+  ],
+  "subcategory": "Milano"
+}

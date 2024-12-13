@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00933",
+  "doc_src": "comune.milano_aree-tematiche_links_D0220.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Cosa è necessario per il voto domiciliare?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Per poter chiedere il voto domiciale bisogna che l'elettore o sia affetto da gravi infermità tali da costringerlo a condizioni di dipendenza continuativa e vitale da dispositivi medici, tale da impedirne l'allontanamento, oppure di infermità che più in generale rendano l'allontanamento da casa impossibile.\n\nQueste infermità verranno accertate da un medico dell'ATS.",
+      "ground": "le elettrici e gli elettori affetti da gravi infermità che si trovino in condizioni di dipendenza continuativa e vitale da apparecchiature elettromedicali tali da impedirne l’allontanamento dall'abitazione in cui dimorano;\nle elettrici e gli elettori affetti da gravissime infermità tali che l’allontanamento dall'abitazione in cui dimorano risulti impossibile.\nLa grave infermità verrà accertata preventivamente da un medico dell'ATS che visiterà l'elettrice/elettore."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Entro quando bisogna presentare la richiesta per il voto domiciliare?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "È necessario presentare la richiesta per il voto domiciliare tra il 40° e il 20° giorno prima della data di votazione.",
+      "ground": "nel periodo compreso tra il 40° e il 20° giorno prima della data di votazione."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Cambiando argomento, cosa sai dirmi in sintesi del voto assistito?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Il voto assistito è un servizio per gli elettori con grave infermità o non vedenti, che possono chiedere l'apposizione del timbro (AVD) sulla tessera elettorale. Questo timbro permette all'elettore di essere accompagnati all'interno della cabina elettorale da un altro elettore così da poter votare.",
+      "ground": "Le elettrici e gli elettori con grave infermità o non vedenti possono chiedere al Comune l\n'apposizione del timbro\n(AVD) sulla tessera elettorale. Il timbro attesta il diritto permanente di essere accompagnati all’interno della cabina elettorale da un altro elettore, per poter eseguire la votazione."
+    }
+  ],
+  "subcategory": "Milano"
+}

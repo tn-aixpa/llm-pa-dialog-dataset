@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00944",
+  "doc_src": "comune.milano_aree-tematiche_links_D0232.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Parlami del progetto anticontraffazione a Milano.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Il progetto anticontraffazione a Milano prevede la rielaborazione dei dati sul contrasto alla contraffazione forniti dagli Enti interessati, la promozione di azioni locali integrate e sinergiche, la definizione di strategie di prevenzione e contrasto del fenomeno nel territorio milanese, nonché iniziative di sensibilizzazione dei consumatori.",
+      "ground": "Il Comitato si propone di rielaborare, a livello locale, i dati sul contrasto alla contraffazione forniti da tutti gli Enti interessati e di promuovere, attraverso lo scambio di informazioni tra gli aderenti, la programmazione di azioni locali integrate e sinergiche, nonché definire strategie di prevenzione e contrasto del fenomeno con riferimento alle specificità del territorio. Promuovere, altresì, iniziative di sensibilizzazione nei confronti dei consumatori."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Come è composto il Comitato Anticontraffazione a Milano?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Il Comitato Anticontraffazione a Milano è composto da Enti pubblici e soggetti privati, tra cui il Tribunale di Milano, la Procura della Repubblica presso il Tribunale di Milano, la Guardia di Finanza – Comando Provinciale Milano, l'Agenzia delle Dogane e dei Monopoli, i Carabinieri – Comando Gruppo Milano, la Polizia di Stato - Questura di Milano, la Polizia Postale - Compartimento Milano, l'Ispettorato Repressione Frodi – ICRF Lombardia, il Comune di Milano, la Regione Lombardia, il Ministero dello Sviluppo Economico del Lavoro e delle Politiche Sociali, Unioncamere, Assolombarda Milano, Lodi, Monza e Brianza, l'Ordine degli avvocati di Milano, il Centro Studi Grande Milano, l'Università degli Studi di Milano e il Politecnico di Milano.",
+      "ground": "Comitato Anticontraffazione\nIl Comitato è composto sia da Enti pubblici che da soggetti privati, tra i quali:\n•    Tribunale di Milano;\n•    Procura della Repubblica presso il Tribunale di Milano;\n•    Guardia di Finanza – Comando Provinciale Milano;\n•    Agenzia delle Dogane e dei Monopoli;\n•    Carabinieri – Comando Gruppo Milano;\n•    Polizia di Stato- Questura di Milano;\n•    Polizia Postale – Compartimento Milano;\n•    Ispettorato Repressione Frodi – ICRF Lombardia;\n•    Comune di Milano;\n•    Regione Lombardia;\n•    Ministero dello Sviluppo Economico del Lavoro e delle Politiche Sociali;\n•    Unioncamere;\n•    Assolombarda Milano, Lodi, Monza e Brianza;\n•    Ordine degli avvocati di Milano;\n•    Centro Studi Grande Milano;\n•    Università degli Studi di Milano;\n•    Politecnico di Milano;"
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Il Comune svolge anche campagne di anticontraffazione?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Sì, all'interno del progetto \"Gazebo Anticontraffazione\", l'Amministrazione Comunale di Milano svolge campagne di anticontraffazione in collaborazione con il Ministero dello Sviluppo Economico, l'Associazione Nazionale dei Comuni Italiani (ANCI), Confcommercio Milano, Federmodaitalia Milano, Camera di Commercio, Agenzia delle Dogane e Indicam. Queste campagne sono finalizzate alla formazione alla legalità, all'informazione e alla sensibilizzazione dei cittadini sugli effetti negativi dell'abusivismo commerciale.",
+      "ground": "Il progetto “Gazebo Anticontraffazione”\nL’Amministrazione Comunale di Milano è estremamente sensibile al tema dell'anticontraffazione e promuove, unitamente al Ministero delle Sviluppo Economico, l’Associazione Nazionale dei Comuni Italiani (ANCI), Confcommercio Milano, Federmodaitalia Milano, Camera di Commercio, Agenzia delle Dogane e Indicam (Istituto di Centromarca per la lotta alla contraffazione) campagne di formazione alla legalità, finalizzate all’informazione e alla sensibilizzazione dei cittadini sugli effetti negativi prodotti dall’abusivismo commerciale da un punto di vista economico, sociale e sanitario."
+    }
+  ],
+  "subcategory": "Milano"
+}

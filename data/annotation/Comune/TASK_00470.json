@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00470",
+  "doc_src": "comune.trento_aree-tematiche_D0098.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, potrebbe darmi informazioni sull'iniziativa IEEE per le città intelligenti?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Per dettagli riguardo l'iniziativa IEEE per le città intelligenti le consiglio di visitare il sito http://smartcities.ieee.org/home/ieee-smart-cities-initiative.html]",
+      "ground": "[http://smartcities.ieee.org/home/ieee-smart-cities-initiative.html](http://smartcities.ieee.org/home/ieee-smart-cities-initiative.html"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie per l'aiuto. Buona giornata!",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Prego, buona giornata anche a lei.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

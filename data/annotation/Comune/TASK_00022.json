@@ -1,0 +1,64 @@
+{
+  "task_id": "TASK_00022",
+  "doc_src": "comune.milano_aree-tematiche_D0033.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Salve, vorrei informazioni sulle attività a emissioni nocive delle imprese. ",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Salve, le attività a emissioni nocive sono divise fra I e II classe. Sono considerate nocive o \"insalubri\" le attività di artigianati o industrie che possono produrre un'alterazione dell'ambiente esterno, oppure che comportanto il deposito e/o uso di sostanze chimiche e/o pericolose secondo quanto detto nel Decreto del Ministero della Sanità",
+      "ground": "ono classificate industrie insalubri di I e II classe le attività artigianali o industriali che:\n\npossono produrre un'alterazione dell'ambiente esterno con le loro lavorazioni\ncomportano il deposito e/o l'uso di sostanze chimiche e/o pericolose comprese nell'elenco incluso nel Decreto Ministero della Sanità (vedi sezione Allegati)."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Posso vedere la mappa delle attività insalubri di prima e seconda classe?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "La mappa la può trovare al seguente link [[MAPPA]]",
+      "ground": "È possibile visionare la mappa delle attività insalubri di prima e seconda classe nella seguente [[MAPPA]]"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "E per le procedure ambientali riguardanti avvio, modifica e trasferimento di attività d'impresa, dove posso trovare informazioni?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Può trovare tali informazioni alla pagina [[Imprese a rilevanza ambientale]].",
+      "ground": "Per informazioni su dichiarazioni e comunicazioni sulle procedure ambientali riguardanti avvio, modifica e trasferimento di attività d'impresa consulta la pagina [[Imprese a rilevanza ambientale]] e i link ai servizi in essa contenuti."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Grazie mille, sei stato molto chiaro.",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "Grazie. Se ha ulteriori domande, non esiti a contattarci.",
+      "ground": ""
+    },
+    {
+      "id": "T09",
+      "speaker": "Cittadino",
+      "message": "Grazie, arrivederci!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

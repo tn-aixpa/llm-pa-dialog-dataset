@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00669",
+  "doc_src": "comune.trento_aree-tematiche_D0452.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, vorrei informazioni sul plugin \"Quantum GIS\" che il Comune di Trento sta utilizzando. Posso scaricarli e utilizzarli anche io?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Sì, può anche lei scaricare questi plugin, ma sappia che sono in uno in una configurazione altamente personalizzata e la versione pubblica non è pronta all'uso. Sono disponibili solo come riferimento per la programmazione e non sono da usarsi in produzione.",
+      "ground": "Questi plugin sono pubblicati con licenza GPL e disponibili al download in questa pagina.\nATTENZIONE\n• Questi plugin sono stati inizialmente realizzati in una configurazione altamente personalizzata.\nLa versione scaricabile in questa pagina non è quella utilizzata al nostro interno, ma è stata modificata per renderla configurabile, per questo non è \"pronta all'uso\"."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quindi non posso utilizzarli direttamente?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Esattamente, i plugin sono stati resi configurabili per l'utenza esterna. Non è garantito il pieno supporto ad ambienti diversi dai nostri.",
+      "ground": "La versione scaricabile in questa pagina non è quella utilizzata al nostro interno, ma è stata modificata per renderla configurabile, per questo non è \"pronta all'uso\".\n\n|||\n\nInoltre non possiamo garantire pieno supporto ad ambienti diversi dai nostri."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È stato un piacere aiutarla.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

@@ -1,0 +1,34 @@
+{
+  "task_id": "TASK_00519",
+  "doc_src": "comune.trento_aree-tematiche_D0183.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei iscrivermi alla newsletter di Trento Smart City. Come faccio?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Le consiglio di consultare il link http://www.comune.trento.it/newsletter/subscribe .",
+      "ground": "Per rimanere aggiornati sulle novità e le attività legate a Trento Smart City e poter partecipare diventando parte attiva nel percorso di innovazione della nostra città\n[http://www.comune.trento.it/newsletter/subscribe](iscriviti alla nostra Newsletter)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

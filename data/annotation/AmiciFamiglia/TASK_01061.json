@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_01061",
+  "doc_src": "baselga_di_pine'__2023.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Hai delle azioni da propormi sul uso di strumenti digitali?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Certamente, potrebbe pensare di organizzare incontri per la sensibilizazzione di dipendenze digitali.",
+      "ground": "DESCRIZIONE: Incontri volti a sensibilizzare la cittadinanza in merito alle nuove dipendenze digitali e non con\n\nparticolare attenzione al fenomeno della ludopatia e alle sue conseguenze sociali."
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "E qualche idee per eventi estivi?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Mi spiace ma non sono in grado di suggerirle iniziative legate al periodo estivo.",
+      "ground": ""
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "E per eventi musicali?",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Non sono in grado di suggerirle eventi musicali, ma se l'interessa potrebbe scrivere un'azione legata all'educazione musicale.",
+      "ground": "TITOLO: Educazione musicale"
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "No grazie, non mi interessa. Beh, buona giornata allora.",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "Se avesse bisogno sono sempre qui, buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

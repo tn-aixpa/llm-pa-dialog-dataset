@@ -1,0 +1,16 @@
+Una “Smart City” è una città che usa la tecnologia come mezzo per  migliorare i servizi che offre a cittadini ed imprese e la qualità della vita in generale.
+“Trento Smart City” è il progetto che mira a realizzare concretamente tutto ciò, fondandosi su un percorso partecipativo che coinvolga cittadini, imprese e istituzioni presenti sul territorio.
+[]()
+Perché "Smart City"
+Una delle domande che più spesso viene fatta è perché si debba usare un termine non italiano come “smart” associato a “città”, quando si potrebbe tranquillamente parlare di città “intelligente” o “furba”. C’è invece chi parlerebbe di città “digitale”, fantascientifica, da vivere e fruire solo con la tecnologia.
+Appare chiaro come il termine “smart” sia ormai abusato e citato il più delle volte a sproposito, ancor più se coniugato con la parola “città”. Il concetto è confuso e non ben delineato perché non esiste ancora una definizione olistica accettata universalmente dal mondo accademico, politico e industriale. Se è vero che in inglese l’aggettivo smart si traduce letteralmente in “intelligente”, il concetto si allarga nell’immaginario collettivo diventando “furbo”. E a seconda del significato che si attribuisce a questa parola italiana, discende di volta in volta una definizione diversa di smart city come città intelligente, della conoscenza, sostenibile, digitale, ubiqua, del benessere e altre ancora.
+Risulta quindi evidente come il termine “smart city” sia difficilmente traducibile con una sola parola, ma venga usato per sottintendere una serie di concetti: l’uso della tecnologia ma con obiettivi legati al benessere di città e persone, tanti ambiti di intervento ma un’unica strategia, la sostenibilità ambientale e la necessità di coinvolgere i cittadini.
+[]()
+Cos’è quindi una “Smart City”
+Col termine “Smart city” si intende quindi una città che usa la tecnologia (intesa come informatica e rete di telecomunicazioni) non come un fine, ma come un mezzo per riuscire a innovare e migliorare i servizi che offre a cittadini ed imprese e la qualità della vita in generale.
+Quindi l’obiettivo non è diventare una città digitale, ma aumentare il benessere della città e migliorare la qualità della vita delle persone.
+E per perseguirlo non bastano singole misure estemporanee in alcuni ambiti, ma è necessaria una strategia e una visione d’insieme, così da evitare di disperdere risorse e riuscire invece a centrare l’obiettivo generale. Essenziale è poi non agire da soli, ma prevedere un percorso partecipativo che coinvolga cittadini, imprese, istituzioni e tutti i soggetti presenti sul territorio in grado di portare un proprio contributo.
+[]()
+Il progetto “Trento Smart City”
+“Trento Smart City” è il progetto che mira a realizzare concretamente tutto ciò, senza però stravolgere la storia e la dimensione di Trento, adattando semplicemente la città per venire incontro ai bisogni delle persone che la abitano e la vivono, in continuità con le sue origini, il suo passato e le sue peculiarità.
+L’obiettivo è utilizzare la tecnologia in tutte le sue forme (dai sensori e l’Internet of Things alle reti -  dall’informatica ai big data e all’intelligenza artificiale) ma renderla il più possibile “trasparente”, sfruttandola per migliorare i servizi che già si erogano o per fornire nuovi e semplici servizi essenziali a valore aggiunto.

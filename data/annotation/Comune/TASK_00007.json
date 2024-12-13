@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00007",
+  "doc_src": "comune.milano_aree-tematiche_D0009.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, potrebbe darmi informazioni sul monitoraggio del Black Carbon a Milano?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, il Comune ha realizzato un progetto di monitoraggio del Black Carbon per valutare l'inquinamento \"di prossimità\" del traffico, così da valutare anche le politiche di regolamentazione. Le misurazioni sono state svolte in diverse stagioni nel 2012.",
+      "ground": "Nell’ambito della sperimentazione del provvedimento Area C, Amat - per conto del Comune di Milano - ha realizzato un progetto di monitoraggio del Black Carbon nel particolato atmosferico, un indicatore dell'inquinamento 'di prossimità' alla fonte traffico, che consente di valutare l'efficacia delle politiche di regolamentazione di questa importante sorgente emissiva anche in termini di rischio sanitario locale e specifico della popolazione esposta [WHO, 2013]."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quindi, ci sono dati disponibili sulle concentrazioni di PM10 e PM2.5?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, le misurazioni sono state fatte contemporaneamente dentro e fuori dall'Area C nei mesi di febbraio, maggio, settembre e ottobre. Puoi consultare il sito di Amat per ulteriori informazioni.",
+      "ground": "Le misurazioni delle concentrazioni di Black Carbon PM10 e PM2.5 in postazioni fisse sono state svolte contemporaneamente dentro e fuori Area C nei mesi di febbraio, maggio, settembre e ottobre, in due coppie di siti appositamente selezionati per rappresentare differenti tipologie espositive al 'traffico di prossimità' (a livello strada e al livello del terzo piano di un edificio). Per saperne di più consultare il sito di Amat >>"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per l'aiuto!",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Di nulla.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

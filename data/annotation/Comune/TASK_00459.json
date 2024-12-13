@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00459",
+  "doc_src": "comune.trento_aree-tematiche_D0079.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sui tirocini  al cimitero monumentale di Trento.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno. Attualmente il cimitero monumentale Funerario non è fra le strutture deputate all'accoglimento di studenti per i tirocini formativi, ma sono comunque in sviluppo progetti formativi per la valorizzazione del patrimonio.",
+      "ground": "Il Servizio Funerario , pur non essendo stato individuato fra le strutture deputate all'accoglimento di studenti ha ritenuto ugualmente di elaborare un progetto formativo atto a valorizzare il patrimonio artistico e culturale presente all'interno del cimitero momumentale di Trento."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "È possibile avere informazioni sul progetto formativo?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Due scuole, il Liceo Prati e il Liceo Da VInci, hanno sviluppato un loro progetto formativo verso il cimitero comunale. Non ho accesso a ulteriori dettagli di questi.",
+      "ground": "Il progetto è stato quindi trasmesso alle scuole  che si erano rese disponibili a sviluppare aspetti storici e culturali (liceo classico e  licei scientifici) per eventuali manifestazioni di interesse.\n\n|||\n\nNelle pagine seguenti i dettagli di ciascun progetto nonchè gli elaborati e il materiale che gli studenti partecipanti hanno ritenuto di rendere pubblico.\n\nAlternanza scuola lavoro _ Progetto Liceo Da Vinci\nAlternanza scuola lavoro _ Progetto Liceo Prati"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni. A presto!",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È stato un piacere aiutarla. Buona giornata!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

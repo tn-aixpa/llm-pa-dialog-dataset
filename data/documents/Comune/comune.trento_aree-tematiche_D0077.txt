@@ -1,0 +1,26 @@
+La normativa in questo ambito è in continuo aggiornamento. L'Amministrazione comunale intende proseguire su questa strada in piena sintonia con lo spirito delle disposizioni normative in tema di dati:
+[]()
+A livello europeo
+[http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003L0098:IT:HTML](direttiva 2003/98/CE del Parlamento europeo e del Consiglio)
+[http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ%3AL%3A2013%3A175%3A0001%3A0008%3AIT%3APDF](direttiva 2013/37/CE del Parlamento europeo e del Consiglio)
+[]()
+A livello nazionale
+[http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-22;83](decreto legge, 22 giugno 2012 n.83)
+convertito dalla
+[http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012;134](legge, 7 agosto 2012 n.134)
+[http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-10-18;179](decreto legge, 18 ottobre 2012, n.179)
+, coordinato con la legge di conversione
+[http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012;221](17 dicembre 2012,n. 221)
+[http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-11-06;190!vi](legge, 6 novembre 2012 n.190.)
+[]()
+A livello provinciale
+[http://www.consiglio.provincia.tn.it/leggi-e-archivi/codice-provinciale/archivio/Pages/Legge%20provinciale%2027%20luglio%202012,%20n.%2016_23650.aspx?zid=8301dd8e-8393-4b5f-b064-be8b8564254e](Legge Provinciale, 27 luglio 2012. n.16)
+[http://www.delibere.provincia.tn.it/scripts/vediProvvedimento.asp?Modalita=Delibere&numero=2449&anno=2015](Delibera n° 2449 del 30/12/2015 proposta da ROSSI UGO)
+(Approvazione delle "Linee guida provinciali per la valorizzazione del patrimonio informativo pubblico" in attuazione dell'art. 9 della legge provinciale 27 luglio 2012, n. 16.)
+[http://www.innovazione.provincia.tn.it/notizie/pagina636.html](Informazioni sul processo di elaborazione delle linee guida provinciali)
+[]()
+Altri link
+[http://www.agid.gov.it/agenda-digitale/open-data/dati-pubblici-condivisione](L)
+[http://www.agid.gov.it/agenda-digitale/open-data/dati-pubblici-condivisione](inee guida Open Data AGID)
+[http://www.innovazione.provincia.tn.it/contenuti.php?t=opendata_tab&id=11](La pagina dei riferimenti normativi sul sito PaT)
+[http://www.epsiplatform.eu/](European Public Sector Information Platform)

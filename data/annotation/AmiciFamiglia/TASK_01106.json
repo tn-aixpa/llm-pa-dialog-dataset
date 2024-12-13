@@ -1,0 +1,82 @@
+{
+  "task_id": "TASK_01106",
+  "doc_src": "fiave'__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Buongiorno.",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Buongiorno, come posso assisterla?",
+      "ground": ""
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Come mi consiglia di rilevare la soddisfazione verso i servizi offerti dal mio Comune?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Può pensare all'invio di un questionario anonimo a tutte le famiglie, così da capire i bisogno socio/assistenziali necessari all'interno del suo Comune.\nSe dovesse scrivere un'azione ispirata a questa idea, le consiglio di darle la tassonomia \"Monitoraggio e Valutazione della soddisfazione/qualitа dei servizi e indagini sui fabbisogni e d’impatto dei progetti/politiche (questionari, ricerche ecc.)\"",
+      "ground": "DESCRIZIONE: Questionario anonimo da inviare a tutte le famiglie per capire i bisogni socio/assistenziali\n\n|||\n\nTASSONOMIA: Monitoraggio e Valutazione della soddisfazione/qualitа dei servizi e indagini sui fabbisogni e d’impatto dei progetti/politiche (questionari, ricerche ecc.)"
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Grazie del suggerimento.",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Vuole chiedere altro?",
+      "ground": ""
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "Hai qualche azione da proporre esclusiva del periodo invernale?",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "Sì. può dare delle agevolazioni alle famiglie che vanno a sciare nelle montagne dei Comuni convenzionati con il suo.",
+      "ground": "Sostegno economico del Comune in collaborazione con i Comuni limitrofi allo Sci Club Bolbeno che permette agevolazioni delle tariffe per le famiglie di comuni convenzionati"
+    },
+    {
+      "id": "T9",
+      "speaker": "Citizen",
+      "message": "Sì, potrebbe funzionare.",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agent",
+      "message": "Vuole chiedere altro?",
+      "ground": ""
+    },
+    {
+      "id": "T11",
+      "speaker": "Citizen",
+      "message": "No, a posto così. Saluti.",
+      "ground": ""
+    },
+    {
+      "id": "T12",
+      "speaker": "Agent",
+      "message": "È stato un piacere, a presto.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

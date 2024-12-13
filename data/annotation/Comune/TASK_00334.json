@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00334",
+  "doc_src": "comune.milano_aree-tematiche_links_D0365.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, sa dirmi se Le Sciure offrono corsi di cucito per principianti?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Non ho informazioni se l'associazione Le Sciure offre o no corsi di cucito per principianti, posso dirle che offrono corsi di cucito agli abitante del quartiere di Via Consolini 14.",
+      "ground": "Negli spazi che il Comune ha assegnato loro in Via Consolini 14 hanno realizzato una sartoria che dà nuova vita ad abiti e tessuti usati, i quali vengono reimpiegati e riassemblati in nuovi capi e accessori.\nOrganizzano inoltre corsi di maglia e cucito rivolti in particolare agli abitanti del quartiere."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Capito, grazie comunque. E' possibile visitare la sartoria in Via Consolini 14?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Per la visita le consiglio di contattare direttamente l'associazione. Potresti trovare più dettagli al link https://www.comune.milano.it/documents/20126/22236557/Le+Sciure.pdf/f2e33104-cb2e-6b24-d3d8-7bf47308c289?t=1563872965470",
+      "ground": "[https://www.comune.milano.it/documents/20126/22236557/Le+Sciure.pdf/f2e33104-cb2e-6b24-d3d8-7bf47308c289?t=1563872965470](clicca qui)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni. Buona giornata.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Prego, buona giornata anche a lei.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

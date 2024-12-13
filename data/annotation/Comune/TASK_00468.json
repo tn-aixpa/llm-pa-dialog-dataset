@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00468",
+  "doc_src": "comune.trento_aree-tematiche_D0096.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Dove posso trovare uno sportello digitale?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Gli sportelli digitali sono locati nei seguenti indirizzi:\n\n- A Gardolo, Piazzale Lionello Groff 2,  in Circoscrizione, i mercoledì dalle 9 alle 12;\n- Ad Argentario, Via Carlo e Valeria Jülg 5, negli ambulatori medici, giovedì dalle 9 alle 12;\n- Ad Oltrefersina, Via Clarina, 2/1, in circoscrizione, i martedì dalle 9 alle 12 e i giovedì dalle 14 alle 17;\n- Ad Oltrefersina, Via Fratelli Bronzetti 1, al Servizio Welfare e coesione sociale, i mercoledì dalle 9 alle 12 e dalle 14 alle 17;\n- Ad Oltrefersina, Via Roma 55, alla Biblioteca centrale, i martedì e giovedì dalle 9 alle 12 e dalle 14 alle 17;\n- Ad Oltrefersina,  Via G. Manci 2, all'Ufficio relazioni col pubblico (URP), venerdì dalle 9 alle 12;\n- A Povo, Via della Resistenza 61/C, alla Casa Melograno su appuntamento.\n\nI numeri di telefono per le prenotazioni sono 335 7863040 e 337 1261296",
+      "ground": "Elenco degli sportelli di facilitazione digitale presenti sul territorio\nSi consiglia di contattare i numeri sopraindicati per richiedere un appuntamento negli sportelli ed orari indicati.\nGardolo\nOgni mercoledì dalle 9:00 alle 12:00 in Circoscrizione. Piazzale Lionello Groff, 2\nArgentario\nOgni giovedì dalle 9:00 alle 12:00 presso gli ambulatori medici. Via Carlo e Valeria Jülg, 5\nOltrefersina\nOgni martedì dalle 9:00 alle 12:00 e ogni giovedì dalle 14:00 alle 17:00 in Circoscrizione. Via Clarina, 2/1\nServizio Welfare e coesione sociale\nOgni mercoledì dalle 9:00 alle 12:00 e dalle 14:00 alle 17:00 in Via Fratelli Bronzetti, 1\nBiblioteca centrale\nOgni martedì e giovedì dalle 9:00 alle 12:00 e dalle 14:00 alle 17:00 in Via Roma, 55\nUfficio relazioni col pubblico (URP)\nOgni venerdì dalle 9:00 alle 12:30 in Via G. Manci, 2\nPovo\nSu appuntamento presso Casa Melograno in Via della Resistenza 61/C\n\n|||\n\nNumeri di telefono 335 7863040 o 337 1261296"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Purtroppo non posso recarmi fisicamente agli sportelli. Esiste un modo per ricevere assistenza a distanza?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Assolutamente sì, puoi contattarci dal lunedì al venerdì dalle 9:00 alle 12:00 tramite telefono o messaggio Whatsapp ai numeri di telefono sopra indicati. Saremo felici di aiutarti anche a distanza.",
+      "ground": "come fare\nPer informazioni o appuntamenti chiamaci dal lunedì al venerdì dalle 9:00 alle 12:00 o mandaci un sms o messaggio Whatsapp e sarai ricontattato per informazioni o per un appuntamento."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

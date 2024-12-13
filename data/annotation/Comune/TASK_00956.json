@@ -1,0 +1,34 @@
+{
+  "task_id": "TASK_00956",
+  "doc_src": "comune.milano_aree-tematiche_links_D0326.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Che cosa si fa nel Centro Servizi per Minori Stranieri non accompagnati?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Il Centro Servizi per Minori Stranieri non accompagnati assicura l'accoglienza e la definizione di progetti individualizzati per la crescita armoniosa e il benessere psico-fisico. Offre servizi quali prima accoglienza, ricerca di strutture residenziali, progetti socioeducativi, affido familiare, supporto giuridico-legale, orientamento per domande di protezione internazionale, screening sanitario, attività di mappatura dei servizi, networking, assistenza psicologica, attività formative, orientamento ai percorsi di alfabetizzazione e molto altro. I professionisti collaborano con varie Istituzioni e offrono supporto ai tutori volontari.",
+      "ground": "Aree di intervento\nIl Centro assicura l’accoglienza e l’attivazione di tutte le azioni necessarie per garantire il superiore interesse del minore e la tempestiva definizione della progettualità più idonea per la sua crescita armoniosa ed il suo benessere psico-fisico.\n\n|||\n\nL’équipe multisciplinare del Centro offre i seguenti servizi:\nPrima accoglienza dei minori e ricerca della struttura residenziale più idonea;\nDefinizione e avvio di progetti socioeducativi individualizzati;\nAttivazione di percorsi di affido familiare o a parenti, ove ne ricorrano le condizioni;\nOrientamento giuridico-legale per i minori neo-arrivati, con sessioni informative di gruppo e incontri individuali;\nSupporto alle procedure per l’eventuale presentazione della domanda di protezione internazionale, rimpatrio assistito, ricongiungimento familiare;\nOrientamento ai percorsi di alfabetizzazione; alle risorse ed opportunità formative, ricreative, sportive e culturali della città e del quartiere;\nAssistenza psicologica e screening sanitario, in collaborazione con Uonpia- Fondazione Policlinico;\nAccertamenti dell’età e di eventuali esiti da traumi e violenze in collaborazione con l’istituto di Medicina Legale dell’Università degli Studi di Milano Labanof;\nAttività di mappatura e di networking dei servizi, dei progetti e delle risorse anche informali d’interesse rispetto al tema Msna;\nOsservatorio e analisi dei dati relativi al fenomeno.\nI professionisti del Centro Servizi Msna collaborano con le altre Istituzioni (Procura e Tribunale Minori, Forze dell'Ordine, Ospedali, Questura, USSM, Prefettura ecc..), i tutori volontari, la rete dei servizi territoriali e residenziali (SAI ed extra SAI) che si occupano di tutela e progetti di aiuto.\n\nServizi offerti\nCentro servizi per la prima accoglienza\nIl Centro è un hub connesso a tutti i servizi che quotidianamente si occupano di cura e accoglienza dei minori stranieri non accompagnati. Rappresenta un punto di accesso unitario in grado di dare risposte oltre l’emergenza e di avviare il minore nella costruzione e realizzazione di un proprio percorso di vita.\nI servizi offerti sono:\norientamento legale per i minori, con sessioni informative di gruppo e incontri individuali;\nsupporto alle procedure per l’eventuale presentazione della domanda di protezione internazionale, rimpatrio assistito, ricongiungimento familiare;\nservizio telefonico gratuito multilingue, HelpLine;\npercorsi di alfabetizzazione;\ninformazioni sui servizi della città e del quartiere;\naccompagnamenti e/o trasferimenti;\nattività formative e ludico-ricreative;\nassistenza psicologica in collaborazione con Uonpia Policlinico;\nassistenza sanitaria e raccolta e valutazione della anamnesi dei minori da parte del Laboratorio Labanof.\nSupporto ai tutori volontari\nNel Centro viene offerto un supporto ai tutori volontari nell’esercizio della loro funzione di tutela, valorizzandone il capitale relazionale e sociale e agevolando la comunicazione e lo scambio con gli altri soggetti coinvolti negli interventi rivolti ai minori stranieri non accompagnati. Nello specifico viene assicurato:\nil coinvolgimento del tutore, a seguito della nomina, nel percorso del minore all’interno del centro multi-servizi e nelle successive fasi dell’accoglienza;\nun supporto sociale al minore e al tutore per le tematiche relative al loro rapporto e per facilitarne l’interazione e la comprensione reciproca;\ninformativa e orientamento legale;\norientamento ai servizi territoriali del Comune di Milano e al loro funzionamento;\naccompagnamento alla relazione con i diversi interlocutori coinvolti nel percorso del minore."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "C'è una pagina in cui si può sapere di più?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Sì, puoi trovare ulteriori informazioni sulla pagina ufficiale del Comune di Milano dedicata ai Minori Stranieri non accompagnati al seguente link https://www.comune.milano.it/servizi/minori-stranieri-non-accompagnati-msna .",
+      "ground": "[https://www.comune.milano.it/servizi/minori-stranieri-non-accompagnati-msna](Minori stranieri non accompagnati - Msna)"
+    }
+  ],
+  "subcategory": "Milano"
+}

@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00791",
+  "doc_src": "comune.salerno_D0064.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Vorrei avere informazioni sulla misura 1.4.2 per l'accessibilità dei servizi pubblici digitali.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "La misura 1.4.2 prevede il miglioramento dell'accessibilità dei servizi pubblici digitali per tutti i cittadini, anche in linea con normative europee e nazionali. ",
+      "ground": "La misura 1.4.2, di cui AgID è soggetto attuatore e il cui investimento è pari a 80 milioni di euro, ha come obiettivo il miglioramento dell’\naccessibilità dei servizi pubblici digitali\nper tutti i cittadini, anche in linea con quanto previsto dalla direttiva europea 2016/2102 e dalla legge n.4/2004."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Il Comune di Salerno sta facendo qualcosa?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Al momento il Comune di Salerno ha espresso l'intenzione di fare tecnologie assistive per disabili, oltre che di interventi formativi.",
+      "ground": "Il Comune di Salerno intende realizzare tecnologie assistive per disabili, interventi formativi, riduzione tipologie errore."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Capito, grazie per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Se non riceverà l'avviso entro il 25 giugno 2024, potrà recarsi presso gli uffici di Sistemi Salerno – Servizi Utility S.R.L. o inviare una e-mail a tributi@grupposistemisalerno.it.",
+      "ground": "Laddove non dovesse ricevere l’avviso di pagamento entro il 25 giugno 2024, il contribuente potrà recarsi presso gli uffici di Sistemi Salerno – Servizi Utility S.R.L. (ex Sinergia) ubicati in Via Stefano Passaro n.1 oppure, in alternativa, potrà inviare una e-mail all'indirizzo\ntributi@grupposistemisalerno.it."
+    }
+  ],
+  "subcategory": "Salerno"
+}

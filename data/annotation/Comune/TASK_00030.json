@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00030",
+  "doc_src": "comune.milano_aree-tematiche_D0046.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, potrebbe dirmi dove si celebrano matrimoni e unioni civili?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "La sede preferita per celebrare matrimoni e unioni civili è Palazzo Reale. Volendo ci sono anche altre sedi comunali indicate dalla Giunta.",
+      "ground": "La sede privilegiata per la celebrazione dei matrimoni e delle unioni civili è Palazzo Reale. In aggiunta a questo luogo storico, la Giunta comunale ha individuato ulteriori sedi comunali, idonee per prestigio e ubicazione.\nClicca sulle immagini che vedi in questa pagina per accedere alla descrizione delle location e alla galleria fotografica."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Come posso prenotare una di queste sedi per la celebrazione?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Puoi trovare tutte le informazioni sulle modalità di celebrazione e prenotazione al sito www.prenotamatrimonio.it .",
+      "ground": "Se invece desideri conoscere le modalità di celebrazione e prenotare data e luogo visita puoi visitare il seguente link: [www.prenotamatrimonio.it]"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Capito, grazie mille per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È stato un piacere aiutarti, buona giornata!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

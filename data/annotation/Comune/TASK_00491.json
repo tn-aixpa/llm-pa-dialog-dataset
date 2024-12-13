@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00491",
+  "doc_src": "comune.trento_aree-tematiche_D0138.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei avere informazioni sui contributi per attività di assistenza.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, se lei svolge un'attività di tipo socio-assistenziale senza scopo di lucro, può richiedere dei contributi che ricoprono parzialmente la gestione ordinaria annuale. Può trovare più dettagli al link https://www.comune.trento.it/Aree-tematiche/Politiche-sociali-e-abitative/Anziani/Servizi/Assegni-e-contributi/Contributi-per-attivita-ordinaria-in-campo-socio-assistenziale .",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Politiche-sociali-e-abitative/Anziani/Servizi/Assegni-e-contributi/Contributi-per-attivita-ordinaria-in-campo-socio-assistenziale](Contributi per attività ordinaria in campo socio-assistenziale)\nIl Comune di Trento può erogare dei contributi a parziale copertura delle spese della gestione ordinaria annuale per sostenere i soggetti pubblici e privati che, operando nel territorio comunale con finalità socio-assistenziali e senza scopo di lucro, svolgono attività di cooperazione sociale."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Capisco, e per i contributi per cure dentistiche?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "I contributi per cure ortodontiche è di competenza dell'Azienda provinciale per i servizi sanitari.",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Politiche-sociali-e-abitative/Anziani/Servizi/Assegni-e-contributi/Contributi-per-cure-ortodontiche](Contributi per cure ortodontiche)\nIntervento di competenza dell'Azienda provinciale per i servizi sanitari"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Prego, sono qui per aiutare.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

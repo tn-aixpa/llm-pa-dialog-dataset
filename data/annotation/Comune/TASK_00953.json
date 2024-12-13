@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00953",
+  "doc_src": "comune.milano_aree-tematiche_links_D0261.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "È necessario pagare per ricevere i libri di testo per i libri delle scuole primarie?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "No, se il bambino rispetta determinare caratteristiche relative alla sua residenza, non è necessario pagare per ricevere i libri di testo.",
+      "ground": "Anche nell’anno scolastico 2023/2024, le bambine e i bambini che frequentano la scuola Primaria hanno diritto a\nricevere gratuitamente i libri di testo dal proprio Comune di residenza.\nIl Comune di Milano fornisce i libri alle bambine e ai bambini:\nresidenti a Milano e che frequentano le scuole statali e paritarie nel Comune di Milano\nresidenti a Milano e che frequentano le scuole statali e paritarie fuori dal Comune di Milano\nresidenti a Milano e che assolvono l’obbligo scolastico attraverso l’istruzione parentale\nnon residenti a Milano, né in altro Comune italiano."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "E come si può ricevere i libri di testo?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Per ricevere i libri di testo dal Comune di Milano occorre verificare che il comune di residenza del bambino sia Milano, recarsi presso la propria cartolibreria muniti di codice fiscale o tessera sanitaria del bambino e dell’elenco dei libri della propria classe (da richiedere alla scuola).\n\nLe persone che non risiedono a Milano devono chiedere al proprio Comune di residenza.",
+      "ground": "Per ricevere i libri dal Comune di Milano occorre:\nverificare che il comune di residenza del bambino o della bambina sia quello di Milano\ndal\n15 luglio 2023,\nrecarsi presso la propria cartolibreria muniti di\n[https://www.agenziaentrate.gov.it/portale/web/guest/mini-guida-codice-fiscale-per-stranieri](codice fiscale)\no\ntessera sanitaria\ndella bambina o del bambino e dell’\nelenco dei libri della propria classe\n(da richiedere alla scuola).\nLe persone\nnon residenti a Milano possono rivolgersi al proprio Comune di residenza"
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Se si ha ancora dei dubbi chi si può contattare?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Per informazioni, segnalazioni o richieste di supporto, puoi inviare un'e-mail a ED.cedolelibrarie@comune.milano.it",
+      "ground": "Per informazioni, segnalazioni o richieste di supporto, puoi inviare un'e-mail a:\n[mailto:ED.cedolelibrarie@comune.milano.it](ED.cedolelibrarie@comune.milano.it)"
+    }
+  ],
+  "subcategory": "Milano"
+}

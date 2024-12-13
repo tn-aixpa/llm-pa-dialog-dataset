@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00176",
+  "doc_src": "comune.milano_aree-tematiche_links_D0204.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sui contributi alla call Milano 2020. Sono ancora disponibili?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, mi dispiace ma non le so dire se i contributi siano ancora disponibili.",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Sono per caso consultabili gli allegati per le varie proposte?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, in seguito i link rilevanti:\n- contributi arrivati /documents/20126/95930101/Milano+2020+risultati+finali.pdf/ed03823a-94d9-9ef8-f8ce-2ec84a486e59?t=1649411006076\n- mappa delle proposte e azioni documents/20126/95930101/Milano+2020+_+proposte+cittadini_+mappa.pdf/88ed1ca2-b0db-762b-8607-210498d26c7b?t=1649411006076\n- Proposte dei cittadini /documents/20126/95930101/Milano+2020+_+proposte+cittadini.pdf/c0c91946-6e95-f285-fdda-00c9dd019339?t=1593436737523",
+      "ground": "Gli allegati presentati supportano proposte relative principalmente agli ambiti di mobilità, ambiente, impresa ed urbanistica.\n\n|||\n\n[/documents/20126/95930101/Milano+2020+risultati+finali.pdf/ed03823a-94d9-9ef8-f8ce-2ec84a486e59?t=1649411006076](Consulta i contributi arrivati »)\n[/documents/20126/95930101/Milano+2020+_+proposte+cittadini_+mappa.pdf/88ed1ca2-b0db-762b-8607-210498d26c7b?t=1649411006076](Proposte e azioni: mappa »)\n[/documents/20126/95930101/Milano+2020+_+proposte+cittadini.pdf/c0c91946-6e95-f285-fdda-00c9dd019339?t=1593436737523](Le proposte dei cittadini »)\n"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Rguardo alla strategia per la cosiddetta \"Fase 2\" , è ancora possibile inviare contributi?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Mi spiace, ma da fine maggio 2020 non è più possibile inviare contributi.",
+      "ground": "Milano 2020. Strategia di adattamento\nDocumento aperto al contributo della città\n\n|||\n\nQuesto documento ha lo scopo di elaborare una strategia per la cosiddetta “Fase 2”. A partire dal 27 aprile, e per tutto il mese di maggio, è possibile inviare il proprio contributo al documento presente nella sezione"
+    }
+  ],
+  "subcategory": "Milano"
+}

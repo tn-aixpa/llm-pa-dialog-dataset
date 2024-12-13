@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00852",
+  "doc_src": "comune.salerno_D0167.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Scusi, sa dirmi se si terrà l'evento \"Ogliara in Fiore - L'Infiorata di Salerno\" quest'anno?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Sì, l'evento quest'anno è previsto per il 1 e 2 giugno 2024.",
+      "ground": "Giunta alla quindicesima edizione, si terrà i prossimi 1 e 2 giugno nel borgo collinare di Ogliara l’evento “Ogliara in Fiore - L’Infiorata di Salerno”, organizzata dall’associazione Il Campanile di Ogliara e dalla Parrocchia S.Maria e S.Nicola di Ogliara, con il patrocinio del Comune di Salerno ed il contributo della Regione Campania.\n1/2-06/2024"
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Grazie per l'informazione.",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "È un piacere, se ha bisogno di ulteriori informazioni non esiti a contattarci.",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "E come il Comune utilizza questi fondi?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Il Comune di Salerno utilizza i fondi raccolti per supportare i più fragili, chi è in difficoltà, le famiglie, i bambini, gli anziani, i disabili e per promuovere attività socio-culturali. Ogni aiuto è fondamentale per migliorare la qualità dei servizi offerti e la qualità della vita nella nostra città.",
+      "ground": "Il Comune di Salerno da sempre opera a supporto dei più fragili, di chi è in profonda difficoltà, a sostegno delle famiglie, dei bambini, degli anziani, dei disabili e nella promozione delle attività socio-culturali.\nIl tuo aiuto è fondamentale per mantenere e migliorare sempre più la qualità dei servizi offerti e la qualità della vita nella nostra città."
+    }
+  ],
+  "subcategory": "Salerno"
+}

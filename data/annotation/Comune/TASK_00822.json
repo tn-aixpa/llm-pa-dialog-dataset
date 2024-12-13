@@ -1,0 +1,40 @@
+{
+  "task_id": "TASK_00822",
+  "doc_src": "comune.salerno_D0114.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sulla Stagione Lirica, di Balletto e di Concerti del Teatro Municipale Giuseppe Verdi per il 2024. È già partita?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno. La inizierà il 13 e 14 aprile con il musical My Fairy Lady. A seguire ci saranno poi diverse iniziative.",
+      "ground": "Prenderà il via il 13 e 14 aprile con il musical My Fairy Lady la Stagione Lirica, di Balletto e di Concerti 2024 del Teatro Municipale Giuseppe Verdi.\nAnche quest’anno il Massimo teatro cittadino, con un grande sforzo produttivo ed artistico, grazie al continuo e incessabile sostegno della Regione Campania e dell’Amministrazione del Comune di Salerno, presenta un calendario ricco e di grande valore artistico, insieme ad alcuni progetti collaterali come Musicascuola con spettacoli dedicati esclusivamente agli studenti."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Ci saranno anche spettacoli dedicati agli studenti?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, quest'anno sono previsti progetti collaterali come Musicascuola con spettacoli appositamente dedicati agli studenti. È un'ottima occasione per coinvolgere anche i giovani nel mondo dell'arte e della cultura.",
+      "ground": "Anche quest’anno il Massimo teatro cittadino, con un grande sforzo produttivo ed artistico, grazie al continuo e incessabile sostegno della Regione Campania e dell’Amministrazione del Comune di Salerno, presenta un calendario ricco e di grande valore artistico, insieme ad alcuni progetti collaterali come Musicascuola con spettacoli dedicati esclusivamente agli studenti."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "È possibile avere maggiori dettagli sulle opere liriche e i concerti in programma?",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

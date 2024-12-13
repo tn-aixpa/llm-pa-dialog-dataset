@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00477",
+  "doc_src": "comune.trento_aree-tematiche_D0108.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Il Comune sta cercando di promuovere l'attività sportiva?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Sì, lo fa in base a quanto scritto nel documento \"Gioco, divertimento, sport uno stile di vita\".",
+      "ground": "linea con gli indirizzi del documento \"Gioco, divertimento, sport uno stile di vita\"\nelaborato dal tavolo per la concertazione in tema di promozione e valorizzazione dello sport, condiviso da CONI e Consiglio delle Autonomie e approvato dalla Giunta provinciale in data 20 luglio 2007 ed aggiornato dal “Documento di aggiornamento del Protocollo d’Intesa tra Provincia Autonoma di Trento, Consiglio delle Autonomie Locali e CONI – Comitato Provinciale di Trento” adottato dalla Giunta Provinciale nella seduta di data 11 luglio 2008."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Sta lavorando da solo?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "No, il comune sta collaborando alla promozione e valorizzazione dello sport con CONI e Consiglio delle Autonomie",
+      "ground": "linea con gli indirizzi del documento \"Gioco, divertimento, sport uno stile di vita\"\nelaborato dal tavolo per la concertazione in tema di promozione e valorizzazione dello sport, condiviso da CONI e Consiglio delle Autonomie e approvato dalla Giunta provinciale in data 20 luglio 2007 ed aggiornato dal “Documento di aggiornamento del Protocollo d’Intesa tra Provincia Autonoma di Trento, Consiglio delle Autonomie Locali e CONI – Comitato Provinciale di Trento” adottato dalla Giunta Provinciale nella seduta di data 11 luglio 2008."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Ci sono progetti attivi?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Sì, ci sono il progetto \"Giocosport\", rivolto agli alunni delle scuole primarie e il progetto \"Sport nel Verde\" che promuove il gioco nel verde pubblico cittadino.",
+      "ground": "La promozione si realizza principalmente attraverso due progetti:\nprogetto \"Giocosport\", rivolto agli alunni delle scuole primarie\nprogetto \"Sport nel Verde\", con proposte di gioco e movimento negli spazi verdi della città"
+    }
+  ],
+  "subcategory": "Trento"
+}

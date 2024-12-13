@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_01079",
+  "doc_src": "canazei__2023.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Hai consigli su come usare lo spazio della biblioteca?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Può organizzare degli incontri in cui i ragazzi incontrano autori e illustratori dei loro libri preferiti, cosicché i ragazzi possano porre domande e dialogare con i loro scrittori e grafici preferiti.\nConsiglio anche l'accrescimento del patrimonio librario, che in altri Comuni si è dimostrata essere una scelta di successo.",
+      "ground": "Vengono inoltre organizzati incontri per conoscere da vicino autori\n\ned illustratori di libri per ragazzi, dialogare con loro e porgergli domande.\n\n|||\n\nVisto l’ottimo riscontro avuto da tutte le proposte attivate dalla\n\nbiblioteca il Comune continuerа a sostenere tali\n\nattivitа e ad incrementare il patrimonio librario anche nei prossimi anni."
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "E qualche suggerimento di attività da svolgersi nella stagione invernale? Tipo scii e pattinaggio.",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Mi dispiace ma non ho suggerimenti da proporle.",
+      "ground": ""
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Va bene, capisco.",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Ha altre richieste da fare?",
+      "ground": ""
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "No, per ora sono a posto.",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "Allora a presto.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

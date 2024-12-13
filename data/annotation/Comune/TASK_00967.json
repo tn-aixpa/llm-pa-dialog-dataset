@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00967",
+  "doc_src": "comune.milano_aree-tematiche_links_D0347.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Cosa è necessario per poter richiedere l'assegno di maternità?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Per poter richiedere l'assegno di maternità è necessario che la richiedente abbia il/la bambino/a nella propria scheda anagrafica e conviva effettivamente con lui/lei. La domanda può essere presentata anche dalle donne che non percepiscono l'indennità di maternità erogata dall'INPS (o da altri enti previdenziali) né alcun trattamento economico (retribuzione) da parte del datore di lavoro per il periodo di maternità, oppure dalle donne che beneficiano di un trattamento economico di importo inferiore rispetto all'importo dell'assegno.",
+      "ground": "La richiedente, per beneficiare dell'assegno, deve avere il/la bambino/a nella propria scheda anagrafica e convivere effettivamente con lui/lei.\nLa domanda per l’assegno può essere presentata dalle donne che non percepiscono l’indennità di maternità erogata dall’INPS (o da altri enti previdenziali) né alcun trattamento economico (retribuzione) da parte del datore di lavoro per il periodo di maternità.\nInoltre possono richiedere l’assegno le donne che beneficiano di un trattamento economico di importo inferiore rispetto all’importo dell’assegno (in tal caso l’assegno spetta per la quota differenziale).\nPossono richiedere l'assegno anche le madri di:\nbambini in affidamento preadottivo;\nbambini ricevuti in adozione senza affidamento. In tali casi i minori non devono aver superato i 6 anni di età al momento dell'affidamento preadottivo o dell'adozione senza affidamento. Per gli affidamenti e le adozioni internazionali i minori non devono, invece, aver superato la maggiore età;\nneonati riconosciuti dalla sola madre."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Di quanto è il contributo?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "L'importo dell'assegno mensile di maternità è di 404,17 euro per cinque mensilità, per un totale di 2.020,85 euro.",
+      "ground": "Qual è l'ammontare del contributo\nL’importo dell’assegno mensile di maternità, spettante nella misura intera, per le nascite, gli affidamenti preadottivi e le adozioni senza affidamento, avvenuti dal 1° gennaio 2024 al 31 dicembre 2024, è pari a 404,17 euro per cinque mensilità e, quindi, a complessivi 2.020,85 euro."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Dove si può avere più informazioni?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "È possibile avere più informazioni sull'assegno di maternità accedendo al seguente link: https://www.comune.milano.it/servizi/assegno-di-maternita . Puoi anche richiedere informazioni alla pagina https://servizicrm.comune.milano.it/SostegnoalReddito/Richiestecomplesse",
+      "ground": "È possibile richiedere informazioni, accedendo tramite la propria utenza SPID oppure scegliendo \"Procedi senza registrazione\".\nhttps://servizicrm.comune.milano.it/SostegnoalReddito/Richiestecomplesse\nSCRIVI\n\n[https://www.gazzettaufficiale.it/eli/id/2001/04/06/001G0157/sg](D.P.C.M. n°452 21 dicembre 2000)\n[https://www.gazzettaufficiale.it/eli/id/2001/04/26/001G0200/sg](Art. 74 Decreto Legislativo n°151 26.03.2001)\nUtilizza i servizi\n[https://www.comune.milano.it/servizi/assegno-di-maternita](Assegno di maternità)"
+    }
+  ],
+  "subcategory": "Milano"
+}

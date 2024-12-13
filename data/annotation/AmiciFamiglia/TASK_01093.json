@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01093",
+  "doc_src": "cavalese__2023.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Buongiorno, che progetti mi consiglia lei legati al favorimento dell'autonomia dei bambini?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Buongiorno, può sviluppare nella sua comunità un servizio di accompagnamento \"Pedibus\", questo risulta utile per i bambini che non usufruiscono del servizio di trasporto scolastico ma gli permette comunque di condividere il percorso casa-scuola in compagnia e sicurezza, nel rispetto del codice della strada.",
+      "ground": "DESCRIZIONE: Sempre in ottica di conciliazione famiglia-lavoro, il Comune di Cavalese continua il servizio di\n\naccompagnamento a/da scuola “Pedibus” per la Scuola Primaria di Primo Grado di Cavalese\n\norganizzato e gestito dal Comune in collaborazione con l’Associazione Nazionale Carabinieri\n\nSezione Cavalese, l’Istituto Comprensivo di Cavalese e le famiglie. Il Pedibus vuole essere\n\nun’occasione per le bambine e i bambini che non usufruiscono dei servizi di trasporto scolastico\n\nper condividere il percorso casa-scuola in compagnia e in sicurezza, sviluppando una particolare\n\nattenzione al rispetto del codice della strada."
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Mi duole dirle che questa cosa la facciamo già.",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Capisco, ma non ho altre alternative da proporle in merito. C'è altro che posso fare per lei?",
+      "ground": ""
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Vorrei che il Comune potesse rappresentare le correnti tematiche di interesse sociale sulla parità di genere.",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Potrebbe interessarle quello che ha fatto il Comune di Cavalese. Assieme a diverse associazioni ha fatto un festival che promuove le differenze di genere, aiutando quindi a superare gli stereotipi della comunità LGBTQ+.",
+      "ground": "DESCRIZIONE: Il Comune di Cavalese è co-organizzatore assieme a diverse associazioni locali del primo festival\n\ndedicato all’inclusione in Val di Fiemme, che avrа luogo dal 10 all’11 giugno 2023 a Cavalese.\n\n“AMO: io amo e sono una meraviglia” vuole promuovere la convivenza delle differenze,\n\nsuperando in questo modo preconcetti e stereotipi verso la comunitа LGBTQ+ e le persone con\n\ndisabilitа attraverso seminari, interventi di esperte/i e laboratori."
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

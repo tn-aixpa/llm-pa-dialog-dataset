@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00467",
+  "doc_src": "comune.trento_aree-tematiche_D0094.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Cosa è scritto nel decreto 12 maggio 2021 n.179 del Ministro della transizione ecologica?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Tale decreto sancisce l'obbligo di individuare figure specializzate di mobility manager aziendale e mobility manager d'are, nonché l'adozione di un Piano degli spostamenti casa-lavoro. ",
+      "ground": "Ministro delle infrastrutture e della mobilità sostenibili\nha sancito l’obbligo di individuare le figure specializzate del\nMobility manager aziendale\ne del\nMobility manager d’area\nnonché l’obbligo dell’adozione del\nPiano degli spostamenti casa-lavoro\ndel personale dipendente (Pscl)."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Grazie. Buona giornata!",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Prego, e buona giornata anche a lei!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

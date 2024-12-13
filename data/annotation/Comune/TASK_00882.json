@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00882",
+  "doc_src": "comune.salerno_D0201.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Quali sono le scadenze per il pagamento della Tari?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Per il 2024, le scadenze sono fissate dalla Deliberazione di Giunta Comunale n. 127 del 17 aprile 2024. L'importo dovuto è pagabile in un'unica soluzione entro il 30 giugno 2024, oppure in tre rate rispettando le seguenti scadenze:\n1° rata entro il 30 giugno 2024\n2° rata entro il 31 luglio 2024\n3° rata entro il 31 ottobre 2024",
+      "ground": "Si informano i gentili contribuenti che, con Deliberazione di Giunta Comunale n. 127 del 17/04/2024, sono state fissate le scadenze per il pagamento della Tari 2024.\nL’importo dovuto è pagabile, mediante il modello di versamento F24 allegato all’avviso di pagamento, in un’unica soluzione da effettuarsi entro il 30 giugno 2024."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Cosa bisogna fare se non si riceve l'avviso di pagamento?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Se non si riceverà l'avviso entro il 25 giugno 2024, è possibile recarsi presso gli uffici di Sistemi Salerno – Servizi Utility S.R.L. ubicati in Via Stefano Passaro n.1 o inviare una e-mail all'indirizzo tributi@grupposistemisalerno.it.",
+      "ground": "Laddove non dovesse ricevere l’avviso di pagamento entro il 25 giugno 2024, il contribuente potrà recarsi presso gli uffici di Sistemi Salerno – Servizi Utility S.R.L. (ex Sinergia) ubicati in Via Stefano Passaro n.1 oppure, in alternativa, potrà inviare una e-mail all'indirizzo\ntributi@grupposistemisalerno.it."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "E nel caso in cui non si volesse utilizzare il modello di pagamento allegato?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "In tal caso si potrà calcolare l'importo utilizzando il calcolatore automatico che verrà presto pubblicato sul sito web del Comune di Salerno, alla pagina Settore Tributi ed Entrate Comunali – Ufficio TARI.",
+      "ground": "Se non intende avvalersi del modello di pagamento allegato, il contribuente potrà calcolare l’importo dovuto anche utilizzando il calcolatore automatico che a breve verrà pubblicato sul sito web del Comune di Salerno – alla pagina Settore Tributi ed Entrate Comunali – Ufficio TARI."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "È stato un piacere, resto a disposizione per ulteriori chiarimenti. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

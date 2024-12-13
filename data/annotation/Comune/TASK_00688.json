@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00688",
+  "doc_src": "comune.trento_aree-tematiche_D0500.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Dove posso avere informazioni sulla costruzione di discariche per rifiuti inerti?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Per la costruzione di discariche per inerti le consiglio di consultare la pagina https://www.comune.trento.it/Aree-tematiche/Ambiente-e-territorio/Suolo-e-sottosuolo/Attivita/Autorizzazione-alla-costruzione-e-all-esercizio-di-discariche-di-rifiuti-inerti .",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Ambiente-e-territorio/Suolo-e-sottosuolo/Attivita/Autorizzazione-alla-costruzione-e-all-esercizio-di-discariche-di-rifiuti-inerti](Autorizzazione alla costruzione e all'esercizio di discariche di rifiuti inerti)\nIn questa pagina le informazioni essenziali sull'autorizzazione per le discariche di inerti"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "E se volessi cessare l'attività di noleggio, cosa dovrei fare?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "In caso di cessazione dell'attività, è necessario presentare una comunicazione di cessazione tramite SUAP telematico. Può avere più dettagli al link https://www.comune.trento.it/Aree-tematiche/Attivita-economiche/Trasporti/Noleggio-veicoli-senza-conducente/Cessazione-attivita-noleggio-senza-conducente .",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Attivita-economiche/Trasporti/Noleggio-veicoli-senza-conducente/Cessazione-attivita-noleggio-senza-conducente](Cessazione attività noleggio senza conducente)\nInformazioni per presentare, tramite\nSUAP\ntelematico, la comunicazione di cessazione dell'attività di noleggio senza conducente."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni, mi sono state molto utili.",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "È stato un piacere aiutarla. Se ha bisogno di ulteriori informazioni, non esiti a contattarci nuovamente. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

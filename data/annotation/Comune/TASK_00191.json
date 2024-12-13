@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00191",
+  "doc_src": "comune.milano_aree-tematiche_links_D0219.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sul voto per gli studenti fuori sede.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Per votare come studente fuori sede è necessario presentare domanda al proprio Comune di residenza. ",
+      "ground": "come funziona\nLe studentesse e gli studenti residenti nel Comune di Milano che, per motivi di studio, sono temporaneamente domiciliati in un Comune situato in una Regione diversa da quella di residenza, per un periodo di almeno tre mesi nel quale ricade la data delle elezioni europee, possono esercitare il diritto di voto fuori sede."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quindi se studio a Milano ma sono di un altro comune devo rivolgermi al mio Comune di residenza per votare?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Esatto, in quel caso dovrebbe trasmettere la domanda direttamente al suo Comune di residenza.  Ha tempo fino al 5 maggio.",
+      "ground": "La domanda deve essere presentata\nal proprio Comune di iscrizione nelle liste elettorali, entro il 5 maggio 2024."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "E se il Comune in cui mi trovo è nella stessa circoscrizione del mio Comune di residenza posso votare li?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Sì, se il Comune di domicilio temporaneo appartiene alla stessa circoscrizione del Comune di iscrizione alle liste elettorali, il voto può essere espresso li. ",
+      "ground": "Se il Comune di domicilio temporaneo appartiene alla stessa circoscrizione del Comune di iscrizione alle liste elettorali, il voto può essere esercitato nel Comune di domicilio temporaneo."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Capito, grazie mille per le informazioni. ",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "È un piacere, se ha bisogno di ulteriori chiarimenti non esiti a contattare l'Ufficio Elettorale al numero di telefono 02 884.65154 / 65158 . Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

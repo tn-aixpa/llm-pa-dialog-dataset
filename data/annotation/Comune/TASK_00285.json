@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_00285",
+  "doc_src": "comune.milano_aree-tematiche_links_D0317.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni su AccogliMI. Offrite percorsi gratuiti?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Sì, AccogliMI offre percorsi gratuiti per i giovani dai 14 ai 18 anni e le loro famiglie. Lo scopo del progetto è favorire l'ascolto e l'accompagnamento degli adolescenti fornendo sostegno psicologico, informativo e di sensibilizzazione.",
+      "ground": "AccogliMI è un progetto dedicato a\nragazze e ragazzi dai 14 ai 18 anni\ne ai loro genitori, finalizzato a favorire l’ascolto e l’accompagnamento degli adolescenti attraverso azioni di sostegno psicologico, informazione e sensibilizzazione."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E come intende svolgere il suo scopo?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Intende farlo cercardo, fra le cose, di intercettare preventivamente i bisogni dei ragazzi ai servizi presenti nel territorio, integrare i ragazzi in percorsi del terroritorio e promuovere una conoscenza diffusa dei servizi dedicati agli adolescenti.",
+      "ground": "Obiettivi\nIntercettare precocemente il bisogno, orientando le ragazze e i ragazzi e le loro famiglie ai servizi presenti sul territorio;\nvalorizzare il gruppo dei pari come fattore protettivo, attraverso l’attivazione di percorsi di gruppo specifici e l’integrazione delle ragazze e dei ragazzi nei percorsi/laboratori/attività offerte dal territorio;\nconsentire ai ragazzi ed alle ragazze, tramite le attività proposte, di sentirsi \"parte attiva\" nel percorso di crescita e nel comunicare ai coetanei la propria esperienza, attraverso diversi canali comunicativi adeguati alla loro età;\npromuovere una conoscenza diffusa dei servizi dedicati all’adolescenza in città."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Con quali servizi?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Ascolto e accompagnamento per adolescenti in difficoltà, supporto telefonico specialistico, percorsi di consultazione breve online e in sede, percorsi di gruppo su varie tematiche legate all'adolescenza e orientamento alle risorse territoriali competenti.",
+      "ground": "Cosa offre\nAscolto e accompagnamento delle ragazze e dei ragazzi che affrontano momenti di difficoltà e che chiedono aiuto anche attraverso i loro comportamenti (ritiro scolastico, attacchi al corpo, manifestazioni di disagio di vario tipo);\naccoglienza telefonica specialistica che integra il primo ascolto (avvenuto attraverso il numero verde gratuito e/o cellulare) con l’obiettivo di approfondire la richiesta di supporto, favorire eventuali colloqui individuali o attività di gruppo previste dal progetto e mantenere/approfondire contatti con i genitori;\npercorsi di consultazione breve per adolescenti e loro genitori, online e nelle sedi dedicate dai partner di progetto;\npercorsi di gruppo su tematiche legate alla fase adolescenziale (es. affettività, sessualità e abuso di sostanze stupefacenti), organizzati sia sul territorio che nelle scuole e altre istituzioni, per valorizzare le esperienze nel gruppo dei pari;\norientamento e sostegno agli adolescenti ed alle loro famiglie all’utilizzo di risorse territoriali competenti in base ai bisogni rilevati."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Come posso accedere ai servizi di AccogliMI?",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "Puoi trovare ulteriori dettagli sul sito https://www.comune.milano.it/servizi-sociali/accoglimi . E' possibile accedere al servizio anche telefonicamente",
+      "ground": "Utilizza i servizi\n[https://www.comune.milano.it/servizi-sociali/accoglimi](AccogliMi)\nModalità di accesso al servizio:\nTelefono"
+    },
+    {
+      "id": "T09",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per l'aiuto, mi informerò meglio sui vostri servizi. ",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agente",
+      "message": "Sono a disposizione per ulteriori chiarimenti, non esiti a contattarci se necessario. Buona giornata!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

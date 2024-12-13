@@ -1,0 +1,38 @@
+I numerosi eventi nazionali ed internazionali dedicati alle smart city sono un'importante occasione per condividere esperienze, sfide e
+best practice
+, per confrontarsi con le altre città italiane e internazionali e per far conoscere il progetto Trento Smart City
+Ecco una lista degli eventi a cui il team Trento Smart City ha partecipato (su invito o su selezione), a partire dal più recente:
+[https://forumpa2021.eventifpa.it/it/partner/partner-detail/?pid=2547](ForumPA 2021)
+“Connettere le energie vitali del paese”; evento virtuale
+[https://forumpacitta2019.eventifpa.it/event-details/?id=8996](ForumPAcittà 2019)
+“Safe city: gestione integrata della sicurezza urbana”; Roma 2019
+[https://agenda.smartcityexpo.com/activities/platforms-data-for-an-integrated-sustainable-urban-mobility/](Smart City Expo World Congress 2019)
+“Solution talks: Platforms & data for an integrated and sustainable urban mobility”; Barcelona 2019
+[https://tuzla.bhing.ba/](BH Engineering Weeks 2019 - Tuzla)
+"Trento: a smart journey towards a smarter city", "EU projects: the building blocks of Trento Smart City"; Tuzla (BiH) 2019
+[https://forumpa2019.eventifpa.it/it/speakers/speaker-detail/?sid=12851](ForumPA 2019)
+Tavoli di lavoro “Infrastrutture e dati” e “Smart City & IoT”; Roma 2019
+[https://milanodigitalweek.com/](Milano digital week 2019)
+"I progetti lighthouse e le città italiane: esperienze a confronto in un'ottica di replicabilità a partire dal caso sharing cities"; Milano 2019
+[http://www.odhb.net/](Open Data Hackabot 2019)
+"Servizi di residenza per cittadini stranieri"; Trento 2019
+[http://rtsi2018.ieeesezioneitalia.it/](IEEE RTSI 2018)
+"Projects and strategies to simplify the life of the citizens"; Palermo 2018
+[https://www.mwcbarcelona.com/](Mobile World Congress 2018)
+“Smart solutions using IoT” stand FBK; Barcelona 2018
+[https://icitylab2018.eventifpa.it/event-details/?id=8342](iCityLab 2018)
+“Dati & IoT per i Servizi pubblici locali”; Firenze 2018
+[https://finanze.regione.emilia-romagna.it/documenti-di-finanza/bergamo-miglioramento-dal-basso-nella-pa-03-12-2018.pdf](Convegno “Miglioramento dal basso della PA”)
+“Sportello dei servizi online”; Bergamo 2018
+[http://www.smartcityexpo.com/en/agenda-2018/-/agenda-actividades/Solution-talks-Digitalisation-of-transport-amp-ITS-/6835](Smart City Expo World Congress)
+“Solution talks: digitalisation of transport”; Barcelona 2018
+[https://download-event.io/it/evento-2018/](Download Innovation Festival)
+Tavola rotonda “Road show città medie ANCI”; Bergamo 2018
+[http://forges.forumpa.it/assets/Speeches/21263/pr_05_fioroni_deligios_trainotti.pdf](ForumPA 2017)
+“Innovare e semplificare il rapporto tra cittadino e PA a Trento”; Roma 2017
+[https://trentinostartup.eu/eit-digital-ieri-a-povo-litalian-innovation-day-e-la-finale-della-digital-cities-challenge-1ad8b325ec1c](EIT Digital Innovation Day 2017)
+“Big Data as Smart cities enabler”; Trento 2017
+[https://www.unitn.it/archivio/events/en/isc2-2016/contents-and-program.html](IEEE International smart city conference)
+“IEEE smart cities experiences”; Trento 2016
+[https://www.eitdigital.eu/newsroom/news/article/urban-life-and-mobility-workshop-in-trento/](EIT ICT Labs “Urban Life & Mobility")
+“Smart Mobility: The use case of Trento”; Trento 2015

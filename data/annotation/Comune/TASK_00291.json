@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00291",
+  "doc_src": "comune.milano_aree-tematiche_links_D0323.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, potrebbe dirmi se la Rete antiviolenza dà servizi di ascolto per le donne vittime di violenza?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Sì, è uno dei servizi offerti dalla Rete antiviolenza, in collaborazione con le associazione che hanno sottoscritto il protocollo di intesa.",
+      "ground": "La Rete Antiviolenza del Comune di Milano\nsostiene le donne vittime di violenza attraverso l’offerta di servizi quali:\naccoglienza e ascolto\ncompetente e non giudicante che valorizzi la relazione fra donne;\n\n|||\n\nIl Comune di Milano collabora con le associazioni che hanno sottoscritto un protocollo di intesa con il Comune per interventi articolati, in grado di sostenere la donna nelle diverse situazioni di bisogno e di accompagnarla nel percorso condiviso ed individualizzato di fuoriuscita dalla violenza."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Potrebbe indicarmi quali sono le associazioni che aderiscono alla Rete?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Certamente. Le associazioni che aderiscono alla Rete sono CADMI, CeAS, C.A.S.D., Cerchi d'Acqua ONLUS, Fondazione Somaschi ONLUS, SeD, SVS Donna Aiuta Donna, SVSeD, Telefono Donna, Farsi Prossimo, Associazione Lule, La Grande Casa, La Strada, e Cooperativa Lotta contro l'emarginazione.",
+      "ground": "I soggetti che aderiscono alla Rete sono:\n[http://www.cadmi.org/](CADMI- Casa di accoglienza per le donne Maltrattate di Milano)\nvia Piacenza, 14 - 20135, Milano - tel. 02 55 01 55 19\n[https://centroambrosianodisolidarieta.org/](CeAS - CENTRO AMBROSIANO DI SOLIDARIETA’ - MAI DA SOLE)\nvia Marotta, 8 - 20145, Milano - tel. 02 21 59 73 02\n[https://www.asst-santipaolocarlo.it/centro-ascolto-e-soccorso-donna-casd-san-carlo](C.A.S.D. CENTRO ASCOLTO DONNA PRESSO ASST SANTI PAOLO E CARLO)\nvia Pio II,3 - 20142, Milano - tel. 335-6589806\n[http://cerchidacqua.org/](CERCHI D’ACQUA ONLUS)\nvia Verona,9 - 20135, Milano - tel. 02 58 430 117\n[https://fondazionesomaschi.it/](Fondazione Somaschi ONLUS)\npiazza XXV Aprile, 2 - 20121, Milano - tel. 02 62 9119 75 - 329-5870862\n[https://www.caritasambrosiana.it/](SeD- SERVIZIO DISAGIO DONNE CARITAS AMBROSIANA e FARSI PROSSIMO ONLUS S.C.S)\npiazza San Giorgio, 2 - 20122, Milano - tel. 02 76 037 352\n[http://www.svsdad.it/](SVS DONNA AIUTA DONNA ONLUS)\nvia della Commenda, 12 - 20122, Milano - tel. 02 39 628 739\n[https://www.policlinico.mi.it/centri-di-riferimento/23/centro-di-riferimento-di-assistenza-per-i-problemi-della-violenza-alle-donne-e-ai-minori-soccorso-violenza-sessuale-e-domestica-svsed](SVSeD- SOCCORSO VIOLENZA SESSUALE E DOMESTICA)\nc/o Clinica Mangiagalli, via della Commenda, 12 - 20122, Milano - tel. 02 55 032 489/8585\n[https://www.telefonodonna.it/](TELEFONO DONNA)\nc/o Osp. Niguarda Ca’ Granda. p.za Osp. Maggiore, 3 - 20162, Milano - tel. 02 64 443 043/44\n[https://www.farsiprossimo.it/](FARSI PROSSIMO ONLUS S.C.S.)\nvia San Bernardino, 4 - 20122, Milano - tel. 02 33 000 945\n[https://www.luleonlus.it/](ASSOCIAZIONE LULE ONLUS)\nvia Novara, 35 - 20081 Abbiategrasso, Milano - tel. 02 94 965 244\n[https://www.lagrandecasa.org/](LA GRANDE CASA ONLUS SOCIETA' COOPERATIVA SOCIALE)\nvia Petrarca, 146 20099 - Sesto San Giovanni, Milano - tel. 02 24 12 461\n[https://lastrada.it/](LA STRADA SOCIETA' COOPERATIVA SOCIALE)\nvia G.B. Piazzetta, 22 - 20138, Milano - tel. 02 55 213 838\n[http://www.cooplotta.it/](COOPERATIVA LOTTA CONTRO L’EMARGINAZIONE COOPERATIVA SOCIALE ONLUS)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni. Potrebbe indicarmi i modi di accesso ai servizi offerti dalla Rete antiviolenza del Comune di Milano?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Può contattare individualmente una delle associazioni citate, oppure consultare il link https://www.comune.milano.it/servizi/contrasto-alla-violenza-di-genere .\nDovrebbe esserci anche la possibilità di contattare tramite mail, sportello o telefono",
+      "ground": "Utilizza i servizi\n[https://www.comune.milano.it/servizi/contrasto-alla-violenza-di-genere](Contrasto alla violenza di genere)\nModalità di accesso al servizio:\nMail\nSportello\nTelefono"
+    }
+  ],
+  "subcategory": "Milano"
+}

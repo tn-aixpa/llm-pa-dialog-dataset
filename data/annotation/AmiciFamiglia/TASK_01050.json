@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_01050",
+  "doc_src": "andalo__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Vorrei delle azioni che tengano in considerazione la comunicazione da e verso i cittadini, hai consigli?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Le possibilità sono diverse, può decidere di tenere attiva una pagina Facebook o un canale Telegram. A supporto di questi può anche prevedere l'installazione di wi-fi comunali. Altra idea interessante è la creazione di un family info point, virtuale e fisico.",
+      "ground": "TITOLO: Pagina Faceboik\n\n|||\n\nTITOLO: Canale Telegram\n\n|||\n\nTITOLO: WIfii free point\n\n|||\n\nTITOLO: Family Info point virtuale e fisico"
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Interessante.",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "C'è altro con cui posso aiutarla?",
+      "ground": ""
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Si, hai proposte per la stagione invernale? ",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Purtroppo non ho proposte da suggerirle per la stagione invernale.",
+      "ground": ""
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "Va bene... hai qualche proposta per delle certificazioni che potrei ottenere?",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "Potrebbe richiedere la certificazione ambientale Emas.",
+      "ground": "TITOLO: Certificazione Emas\n\nTASSONOMIA: Certificazioni ambientali"
+    },
+    {
+      "id": "T9",
+      "speaker": "Citizen",
+      "message": "Mi potresti dire di più?",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agent",
+      "message": "Il piano d Andalo dell'anno 2022 ha scritta la seguente azione:\n\nTITOLO: Certificazione Emas\n\nTASSONOMIA: Certificazioni ambientali\n\nDESCRIZIONE: Il Comune di Andalo ha scelto di rinnovare la sua adesione al Regolamento EMAS attraverso la\n\nDichiarazione ambientale 2020-2023. Questa importante certificazione garantisce la trasparenza dell'azione dell'Amministrazione Comunale e da evidenza dell'impegno costante verso la tutela dell'ambiente e verso la Cprevenzione dell'inquinamento.",
+      "ground": "=== PIANO FAMIGLIA DI ANDALO ANNO 2022 ===\n\n|||\n\n"
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

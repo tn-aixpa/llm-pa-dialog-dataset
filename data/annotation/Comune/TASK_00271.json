@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00271",
+  "doc_src": "comune.milano_aree-tematiche_links_D0302.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sul trasferimento di ceneri a Milano. È possibile?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Per il trasferimento di ceneri a Milano occorre ottenere l'autorizzazione al trasporto. Se il trasporto è dopo il funerale, l'autorizzazione è data dal Comune del deceso, altrimenti, se riguarda le ceneri che hanno già una collocazione, l'autorizzazione è rilasciata dal Comune di sepoltura",
+      "ground": "Trasferimento di salme, ceneri, resti\nPer il trasferimento di salme, ceneri o resti occorre un’autorizzazione al trasporto:\nse il trasporto avviene a seguito del funerale\nl’autorizzazione viene rilasciata dal Comune di decesso;\nse il trasporto riguarda persone defunte che hanno già una collocazione\nl’autorizzazione spetta al Comune di sepoltura."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E' possibile trasferire una persona defunta a Milano se non era residente in vita nella città?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Mi spiace ma non è possibile.",
+      "ground": "Quali persone defunte è possibile trasferire a Milano?\nLe persone defunte che erano residenti in vita a Milano e che non hanno già trovato altra sepoltura possono essere trasferiti a Milano, dopo aver ottenuto dagli uffici comunali l’autorizzazione alla sepoltura in uno dei cimiteri cittadini se:"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Come posso contattare gli uffici competenti per ulteriori chiarimenti?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Nel caso di ceneri, può contattare i numeri 02 884 62150 / 02 884 62174 o la mail dsc.funebriconcessioni@comune.milano.it",
+      "ground": "Per il trasferimento di resti e ceneri\ntel. 02 884 62150 / 02 884 62174\ne-mail:\n[mailto:dsc.funebriconcessioni@comune.milano.it](dsc.funebriconcessioni@comune.milano.it)"
+    }
+  ],
+  "subcategory": "Milano"
+}

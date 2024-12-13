@@ -1,0 +1,143 @@
+Contributo di costruzione
+
+Il contributo di costruzione è regolato  dall’art. 43.1  della L.r. 12/2005
+«I titoli abilitativi per interventi di nuova costruzione, ampliamento di edifici esistenti e ristrutturazione edilizia sono soggetti alla corresponsione degli oneri di urbanizzazione primaria, secondaria e smaltimento rifiuti (solo Laboratorio/Industria), nonché del contributo sul costo di costruzione, in relazione alle destinazioni funzionali degli interventi stessi.»
+
+Composizione del contributo
+
+Il contributo è così composto:
+
+onere per urbanizzazione primaria (art. 44 L.R. 12/2005)
+onere per urbanizzazione secondaria (art. 44 L.R. 12/2005)
+onere commisurato al costo di costruzione (art. 48 L.R. 12/2005) – non per attività industriali
+smaltimento dei rifiuti – solo per le attività industriali (art. 19.1 Dpr 380/01).
+
+Maggiorazioni
+Gli interventi di nuova costruzione definiti dall’art. 27, comma 1, lett. e) L.R. 12/2005 in area a destinazione d’uso agricola e forestale di fatto (DUSAF comma 2 bis art. 43 L.R. 12/2005) sono soggetti alla maggiorazione del:
+
++ 5% su tutto il territorio per gli oneri di urb. primaria, secondaria e smaltimento rifiuti da destinare obbligatoriamente a interventi forestali a rilevanza ecologica e di incremento della naturalità (art. 43.2 bis L.R.12/2005; DGR.8757/2008).
+
+Inoltre con l’entrata in vigore (14 dicembre 2019) della L.R. 18/2019 che ha abrogato l’art. 5 comma 10 della L.R. 31/2014, è stata introdotta una ulteriore maggiorazione (art. 43.2-sexies della L.R. 12/2005), in aggiunta a quella esistente, del solo onere commisurato al costo di costruzione pari al 30% (fatta salva diversa determinazione del Comune) per gli interventi non ricompresi nel tessuto urbano consolidato; pari al 20%, per gli interventi all’interno del tessuto urbano consolidato; pari al 50%, per gli interventi di logistica o autotrasporto non incidenti sulle aree di rigenerazione.
+La delibera del Consiglio Comunale n. 28 del 17/05/2023 ha introdotto, in applicazione dell’art. 64.7 L.R. 12/05, la maggiorazione del 10% del contributo di costruzione per i progetti che prevedono il recupero abitativo dei sottotetti nella fascia centrale e del 3% nella fascia periferica.
+La delibera del Consiglio Comunale n. 28 del 17/05/2023 stabilisce, per gli edifici dismessi, la maggiorazione del contributo di costruzione per la sola quota di incremento volumetrico:
+
+fascia centrale: (100 % del contributo di costruzione dovuto relativo all’incremento volumetrico più l’incremento/decremento percentuale in base alla fascia di ubicazione dell’intervento) x 60%;
+fascia periferica: (100 % del contributo di costruzione dovuto relativo all’incremento volumetrico più l’incremento/decremento percentuale in base alla fascia di ubicazione dell’intervento) x 20%.
+
+Inoltre, per gli interventi di recupero del patrimonio edilizio dismesso con criticità, quando superiore ai 2 mila mq di Superficie Lorda (SL), con la presente delibera si stabilisce un contributo straordinario, prodotto dalla valorizzazione economica dei progetti, da suddividere al 50% tra il Comune e la parte privata.
+Riduzioni
+La delibera del Consiglio Comunale n. 28 del 17/05/2023 prevede che in presenza di Edilizia Residenziale Sociale, compresa la Residenza per Studenti Universitari, gli oneri siano ridotti del 50% o del 100% se rispettati i requisiti richiesti nell’allegato 1.F.
+Nei casi di edilizia abitativa convenzionata, relativa anche ad edifici esistenti, il contributo afferente al permesso di costruire è ridotto alla sola quota degli oneri di urbanizzazione qualora il titolare del permesso si impegni, a mezzo di una convenzione con il comune, ad applicare prezzi di vendita e canoni di locazione determinati ai sensi della convenzione-tipo prevista dall’articolo 18 (Art. 17 DPR 380/2001 - Riduzione o esonero dal contributo di costruzione).
+Per gli interventi inerenti servizi privati che rivestono carattere di interesse generale, ma che non si qualificano quali servizi pubblici o di interesse pubblico generale ai sensi dell’art. 4 del piano dei Servizi del PGT vigente, si applicano le riduzioni degli oneri di urbanizzazione come da Allegato 1.A.
+Per gli interventi di nuova costruzione, ristrutturazione urbanistica e ristrutturazione edilizia con demolizione e ricostruzione, per i quali è obbligatorio il rispetto dell’art. 10 del Piano delle Regole del PTG vigente, nei casi in cui siano soddisfatti gli obblighi CAM (criteri ambientali minimi) previsti dal DM n. 183 del 23/06/2022 e - per i soli casi di modalità convenzionata - si dotino delle analisi del ciclo di vita LCA, è possibile l’applicazione della riduzione del 20% massimo del contributo commisurato al costo di costruzione, secondo i criteri e le declinazioni che saranno specificate nel Regolamento Edilizio del Comune di Milano.
+Per gli interventi di urbanizzazione costituti da servizi di interesse pubblico o generale realizzati ai sensi dell’art. 4 del PDS del PGT e art. 9 L.R. 12/2005 è possibile l’applicazione della riduzione del 50% massimo del contributo commisurato al costo di costruzione, se dovuto, secondo i criteri e le declinazioni che saranno specificate nel Regolamento Edilizio del Comune di Milano e fino al 60% in caso di servizi per l'infanzia, fascia 0/3 anni.
+Aree agricole
+Sono aree agricole nello stato di fatto, indipendentemente dalla relativa destinazione urbanistica, quelle il cui uso effettivo rientra nelle seguenti categorie:
+
+aree agricole
+praterie naturali d’alta quota
+boschi a densità bassa
+aree in evoluzione
+aree umide interne
+
+A partire dalle informazioni territoriali disponibili nell’ambito del Sistema Informativo Territoriale Integrato (SIT Integrato), Regione Lombardia ha reso disponibile uno strato informativo in scala 1:10.000 che identifica le aree agricole nello stato di fatto (DUSAF).
+I dati sono consultabili e scaricabili dal Geoportale regionale.
+
+Calcolo del contributo di costruzione
+
+Le cifre degli oneri di urbanizzazione sono stabilite dalla Delibera del Consiglio Comunale del n. 28 del 17/05/2023 ed individuano le aliquote della nuova costruzione; per gli interventi di ristrutturazione edilizia, nonché per quelli di demolizione e ricostruzione anche con diversa sagoma, o di demolizione e ricostruzione qualificati di nuova costruzione e anche per gli interventi di ampliamento mediante utilizzo di premialità dei diritti edificatori, gli oneri sono quelli stabiliti per gli interventi di nuova costruzione, ridotti del 68%. Per gli interventi di ristrutturazione edilizia, nonché per quelli di demolizione e ricostruzione, anche con diversa sagoma, o anche per quelli di ampliamento mediante utilizzo di premialità dei diritti edificatori, lo smaltimento rifiuti è dovuto in misura pari al 50% rispetto alla nuova costruzione.
+L’entrata in vigore delle nuove tariffe viene prevista con decorrenza trascorsi 30 gg. dall’esecutività della delibera (08/06/2023), quindi a decorrere dal 08/07/2023. A decorrere da tale data, ai sensi dell'art. 38 comma 7 bis della L.R. 12/2005, le nuove tariffe verranno applicate a tutti i titoli abilitativi (CILA e SCIA), i quali richiedono il versamento degli oneri contestualmente alla presentazione, e ai permessi di costruire presentati ma non ancora rilasciati, laddove gli stessi non presentino una documentazione completa.
+L’aggiornamento viene applicato anche a tutte le varianti essenziali relative alla parte di intervento che modifica i parametri edilizi del progetto originario, con qualsiasi titolo vengano presentate.
+Al fine dell’individuazione della fascia, è consultabile la mappa sul portale che restituisce l’appartenenza del civico o degli identificativi catastali alla Zona OMI ed alla Fascia Oneri Centrale o Periferica.
+Onere commisurato al costo di costruzione
+Per tutti gli interventi che ricadono nel DM 801/77 si riportano, tra gli allegati, le tabelle per il calcolo automatico del costo di costruzione - aggiornato annualmente.
+Tutti gli altri interventi che hanno una destinazione d’uso diversa da residenziale ed industriale sono soggetti alla redazione del computo metrico estimativo in base al Listino della Camera di Commercio Metropolitana di Milano-Monza-Brianza-Lodi in vigore al momento della presentazione della SCIA o alla data del rilascio del permesso di costruire.
+Inoltre, si specifica che ai sensi dell’art. 43 comma 2-sexies lett. c) per gli interventi di logistica o autotrasporto non incidenti sulle aree di rigenerazione, è prevista una maggiorazione percentuale del contributo relativo al costo di costruzione del 50%. Conseguentemente richiamato il contenuto dell’art. 19.2 DPR 380/01 nonché dell’art. 48.4 L.R. 12/2005, che prevedono la corresponsione dell’onere commisurato al costo di costruzione per le attività commerciali e direzionali, gli importi da utilizzare ai fini degli oneri di urbanizzazione, sono quelli indicati nell’Allegato 1.A al paragrafo D) Attività Direzionali e Commerciale.
+Art. 10 PDR – componente CO2e
+In applicazione dell’art. 10 del PDR del vigente PGT, la verifica della componente CO2e è necessaria anche nei casi di progetti in deroga urbanistica, ovvero recupero di sottotetto o recupero di seminterrato e nel caso in cui non raggiungano i requisiti di cui all’art. 10, è prevista l’applicazione della monetizzazione con i medesimi criteri stabiliti dal documento tecnico di cui al citato articolo.
+
+Servizi correlati
+
+Fasce oneri di urbanizzazione - Mappa digitale per l'individuazione della fascia di appartenenza
+Modalità di accesso al servizio:
+
+Online
+
+Appuntamento Oneri - Informazioni preliminari alla presentazione delle pratiche
+Modalità di accesso al servizio:
+
+Online
+
+Appuntamento Oneri - Informazioni relative a pratiche già presentate
+Modalità di accesso al servizio:
+
+Online
+
+Allegati
+
+Deliberazione Consiglio Comunale n. 28 del 17 maggio 2023
+
+Aggiornamento degli oneri di urbanizzazione primaria e secondaria e dello smaltimento rifiuti, dovuti per i titoli abilitativi di interventi di nuova costruzione, ampliamento di edifici esistenti e ristrutturazione edilizia.
+
+Deliberazione Consiglio Comunale n. 28 del 17 maggio 2023 (pdf - 4364.862 KB)
+
+Rivalutazione del costo unitario di costruzione da applicare per la determinazione del contributo di costruzione
+
+Ai sensi dell'art. 48, comma 1 e 2 della L.R. dell'11 marzo 2005
+
+Aggiornamento costo di costruzione annualità 2024 (pdf - 271.422 KB)
+
+D.D. n. 11498 del 4/12/2023
+
+Aggiornamento costo di costruzione annualità 2023 (pdf - 315.902 KB)
+
+D.D. n. 10245 del 18/11/2022
+
+Aggiornamento costo di costruzione annualità 2022 (pdf - 350.608 KB)
+
+D.D. n. 10676 del 29/12/2021
+
+Aggiornamento costo di costruzione annualità 2021 (pdf - 293.481 KB)
+
+D.D. n. 9689 del 9/12/2020
+
+Aggiornamento costo di costruzione annualità 2020 (pdf - 522.899 KB)
+
+D.D. n. 8247 del 16/12/2019
+
+Aggiornamento costo di costruzione annualità 2019 (pdf - 1962.989 KB)
+
+D.D. n. 179 del 6/12/2018
+
+Importi Oneri di urbanizzazione
+
+Allegati alla Delibera del Consiglio Comunale n. 73_2007 (pdf - 179.681 KB)
+
+Tabella calcolo costo di costruzione per interventi che ricadono nel DM 801/77
+
+Costo di costruzione 2024 (jar - 5077.123 KB)
+
+Costo di costruzione 2023 (jar - 2539.319 KB)
+
+Costo di costruzione 2022 (jar - 107.838 KB)
+
+Riferimenti normativi
+
+Legge 28 Gennaio 1977 n. 10 (Bucalossi) art. 6 (abrogato dall'articolo 136 del D.P.R. n. 380 del 2001) introduce l’onere commisurato al costo di costruzione
+D.M. 10 Maggio 1977 – n. 801 (Residenza)
+DPR 380/01 - art. 19 (diverso dalla Residenza)
+L.R. 12/2005 - art. 48
+
+Per saperne di più su "Modalità di pagamento del contributo di costruzione e monetizzazioni"
+
+Argomenti:
+
+Autorizzazioni e Permessi
+
+Autorizzazioni e permessi - Urbanistica
+
+Edilizia e territorio
+
+
+
+

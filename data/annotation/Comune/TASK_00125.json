@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_00125",
+  "doc_src": "comune.milano_aree-tematiche_D0146.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni su come farmi riconoscere di essere in grado di gestire un asilo nido. ",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Per l'accreditamento dell'asilo nido è necessario presentare la Comunicazione Preventiva di Esercizio (CPE) oppure essere in possesso dell'autorizzazione al funzionamento e possedere i requisiti di qualificazione decisi dal Comune.",
+      "ground": "La richiesta di accreditamento è volontaria. Il soggetto “accreditato” viene riconosciuto come soggetto che può erogare prestazioni o servizi, relativi all'Unità d’Offerta Accreditata, per conto del Servizio Pubblico.\n\n|||\n\nCondizione, fondamentale e indispensabile per ottenere l’accreditamento di una Unità di Offerta sociale, è aver presentato la Comunicazione Preventiva di Esercizio (CPE) o essere in possesso dell’autorizzazione al funzionamento e possedere tutti i requisiti di qualificazione (requisiti di accreditamento) fissati dal Comune."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Quando posso presentare la domanda?",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "È possibile presentare la domanda sin da subito, sappia che i requisiti cambiano nel tempo e potrà essere necessario in futuro ripresentare la domanda entro certe scadenze. ",
+      "ground": "È possibile presentare domanda sin da subito, è previsto un periodo transitorio per consentire ai gestori di adeguarsi ai nuovi requisiti: infatti chi farà domanda di accreditamento entro il 31 gennaio 2024, avrà tempo di presentare i nuovi documenti richiesti fino al 29 febbraio 2024.\nLe unità d’offerta che sono già accreditate avranno tempo fino al 29 febbraio 2024 per presentare la richiesta di possesso dei nuovi requisiti richiesti."
+    },
+    {
+      "id": "T09",
+      "speaker": "Cittadino",
+      "message": "Capito, grazie mille per le informazioni. ",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agente",
+      "message": "Sono a disposizione per ulteriori chiarimenti. Buona giornata!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

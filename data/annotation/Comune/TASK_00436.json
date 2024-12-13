@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00436",
+  "doc_src": "comune.trento_aree-tematiche_D0045.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, potrebbe darmi informazioni sugli Open Data dell'Amministrazione Pubblica?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente. L'amministrazione Pubblica da libero accesso gratuito ai suoi dati poiché ritiene che possa dare maggiore trasparenza alla sua attività nonché dare facile accesso al patrimonio informativo ancora poco sfruttato",
+      "ground": "Con l'avvio della pubblicazione dei dati con queste modalità l'Amministrazione Pubblica intende marcare una netta discontinuità rispetto alle tradizionali modalità di gestione di dati di rilevanza pubblica. La disponibilità in modo gratuito e “libero” di questi dati si ritiene possa avere sia importanti ricadute in termini di maggiore trasparenza sull'attività dell'amministrazione e sia nei termini di messa a disposizione di un patrimonio informativo ad oggi ancora largamente sotto-sfruttato."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Posso anche io accedere a questi dati?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Esattamente. L'obiettivo è promuovere il riuso dei dati per favorire lo sviluppo di idee innovative. L'accesso a dati aperti può stimolare processi virtuosi e migliorare la qualità dei servizi pubblici e privati.",
+      "ground": "L'obiettivo è quello di promuovere il riuso dei dati favorendo lo sviluppo di idee innovative. Infatti l'accesso a dati aperti e liberamente riusabili può stimolare processi virtuosi da parte di imprese innovative, nuovi orizzonti di ricerca sul contesto socio-economico cittadino e, quindi, in definitiva, portare ad un progressivo miglioramento qualitativo dei servizi pubblici e privati."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Dove posso trovare maggiori informazioni a riguardo?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Puoi visitare il catalogo dei Dati aperti del Trentino all'indirizzo http://dati.trentino.it/ oppure l'iniziativa Open Data nel Sistema Territoriale Trentino su http://www.innovazione.provincia.tn.it/opendata .",
+      "ground": "[http://dati.trentino.it/](il catalogo dei Dati aperti del Trentino (apre il link in una nuova finestra)  )\n[http://www.innovazione.provincia.tn.it/opendata](l'iniziativa Open Data nel Sistema Territoriale Trentino (apre il link in una nuova finestra)  )"
+    }
+  ],
+  "subcategory": "Trento"
+}

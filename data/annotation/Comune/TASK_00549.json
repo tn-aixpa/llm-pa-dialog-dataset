@@ -1,0 +1,22 @@
+{
+  "task_id": "TASK_00549",
+  "doc_src": "comune.trento_aree-tematiche_D0235.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sul Segretariato sociale a Trento. ",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, per avere ulteriori informazioni sul Segretariato sociale le consiglio di consultare la risorsa http://www.trentinosociale.it/index.php/Servizi-ai-cittadini/Guida-ai-servizi/per-destinatari/Anziani/Avere-informazioni-e-orientamento-per-l-accesso-ai-servizi/Segretariato-sociale .",
+      "ground": "Tutte le informazioni sul sito Trentinosociale.it\n[http://www.trentinosociale.it/index.php/Servizi-ai-cittadini/Guida-ai-servizi/per-destinatari/Anziani/Avere-informazioni-e-orientamento-per-l-accesso-ai-servizi/Segretariato-sociale](http://www.trentinosociale.it/.../Segretariato-sociale)"
+    }
+  ],
+  "subcategory": "Trento"
+}

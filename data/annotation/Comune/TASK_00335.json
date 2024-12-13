@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00335",
+  "doc_src": "comune.milano_aree-tematiche_links_D0362.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, potrebbe dirmi se l'associazione \"Genitori si Diventa\" dà supporto anche a famiglie adottive al di fuori del Comune di Milano?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Sfortunatamente non so darle questa informazione.",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Capisco, grazie comunque. In ogni caso, c'è supporto anche per i genitori naturali?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "L'associazione si concentra sulle famiglie adottive, quindi non credo siano previsti supporti per i genitori naturali.",
+      "ground": "Genitori si Diventa è un’associazione di volontariato sociale aconfessionale e apartitica di famiglie adottive."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni, mi informerò altrove. Buona giornata.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Altrettanto, buona giornata e grazie per averci contattato.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

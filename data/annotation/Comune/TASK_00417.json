@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00417",
+  "doc_src": "comune.trento_aree-tematiche_D0023.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei chiedere informazioni su come aggiornare la mia tessera elettorale.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, per l'aggiornamento della tessera elettorale o in caso di smarrimento, furto, deterioramento o esaurimento degli spazi, è possibile richiedere il duplicato all’ufficio elettorale del Comune di Trento in Piazza Fiera, 17. Nel caso di deterioramento, dovrà presentarsi all'ufficio elettorale con la vecchia tessera.",
+      "ground": "In caso di furto o smarrimento si può richiedere il duplicato all’ufficio elettorale del Comune di Trento in Piazza Fiera, 17. Si può ottenere il duplicato anche in caso di deterioramento della tessera: basterà presentarsi all’Ufficio Elettorale con la vecchia tessera da restituire."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Cosa succede se non posso ottenere una nuova tessera?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Nei casi in cui non sia possibile il rilascio di una nuova tessera, l’Ufficio Elettorale di piazza Fiera e le circoscrizioni suburbane possono rilasciarle un attestato sostitutivo da presentare al seggio che vale esclusivamente per la singola elezione.",
+      "ground": "Nei casi in cui non sia possibile il rilascio di una nuova tessera, l’Ufficio Elettorale di piazza Fiera e le circoscrizioni suburbane potranno comunque rilasciare agli interessati un attestato sostitutivo da presentare al seggio e valevole esclusivamente per la singola elezione."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È stato un piacere aiutarti, se hai bisogno di ulteriori chiarimenti non esitare a contattarci ai numeri o agli indirizzi email che ti ho fornito. Buona giornata!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

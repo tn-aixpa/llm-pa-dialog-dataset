@@ -1,0 +1,12 @@
+Gli interventi previsti da Stardust nell'ambito della mobilità elettrica sono:
+Installazione di una
+rete di sensori
+per raccogliere dati relativi ad ambiente, energia, mobilità, sicurezza e raccolta dei rifiuti. I dati saranno elaborati e resi disponibili in tempo reale all’amministrazione e ai cittadini tramite una
+dashboard
+e utilizzati per creare servizi online avanzati.
+Realizzazione di un
+portale di partecipazione
+dove i cittadini potranno contribuire attivamente all’evoluzione smart della città.
+Installazione di alcuni
+smart point
+: punti informativi avanzati che rendono fruibili i dati raccolti dai sensori e forniscono altri servizi come il sistema d’illuminazione pubblica intelligente.

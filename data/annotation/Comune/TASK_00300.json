@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00300",
+  "doc_src": "comune.milano_aree-tematiche_links_D0332.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sui servizi sociali.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, in che modo posso aiutarla?",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Ci sono attività a famiglie vulnerabili offerte dai servizi sociali?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, i servizi sociali forniscono confronto e sostegno a chi si trova in situazione di vulnerabilità acuta o cronica, comprese le famiglie.",
+      "ground": "I servizi sociali del Comune di Milano\nforniscono confronto e sostegno specialistico a chi si trova in situazione di vulnerabilità acuta o cronica.\nPersone di ogni età e condizione, famiglie, gruppi così come comunità territoriali possono essere  supportate e accompagnate dai servizi sociali, in sinergia con le risorse della città e dei luoghi di appartenenza, attraverso interventi socio-educativi e socio-assistenziali che mirano a promuovere i loro diritti."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Dove posso trovare le linee guida?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Le linee guida sono disponibili nel documento /documents/20126/257168367/Linee-guida-sostegno-famiglie-vulnerabili.pdf/78d5052f-588d-e9a5-822f-45c3fb29c9fa?t=1624539318316 ",
+      "ground": "[/documents/20126/257168367/Linee-guida-sostegno-famiglie-vulnerabili.pdf/78d5052f-588d-e9a5-822f-45c3fb29c9fa?t=1624539318316](Linee guida sostegno famiglie vulnerabili (pdf - 10085.206 KB)\n)\nLinee guida sostegno famiglie vulnerabili"
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Perfetto, grazie mille per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "È stato un piacere aiutarla, se ha bisogno di ulteriori chiarimenti non esiti a contattarci. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

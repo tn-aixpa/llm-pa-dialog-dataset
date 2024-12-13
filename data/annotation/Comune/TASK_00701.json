@@ -1,0 +1,64 @@
+{
+  "task_id": "TASK_00701",
+  "doc_src": "comune.trento_aree-tematiche_D0520.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Quando posso iscrivere al nido per il bambino?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Le iscrizioni per il nido vanno dal 1 settembre al 30 aprile per l'anno successivo.",
+      "ground": "Dal 1 settembre al 30 aprile per il settembre successivo."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "E se il mio bambino è nato dopo il 30 aprile, quando posso presentare la domanda di ammissione?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "A partire dal 1° settembre per l'ammissione all'anno educativo successivo.",
+      "ground": "Quando potrà essere ammesso al nido?\nA partire dal 1° settembre a valere per le ammissioni dall'anno educativo successivo."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Siamo una coppia di genitori che lavorano a Trento ma non risiedono nel comune, possiamo comunque presentare domanda di ammissione al nido?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Mi dispiace, solo i genitori residenti nel Comune di Trento possono presentare domanda di ammissione.",
+      "ground": "Siamo una coppia di genitori residenti fuori comune ma lavoriamo a Trento. E' possibile presentare domanda di ammissione al nido?"
+    },
+    {
+      "id": "T07",
+      "speaker": "Citizen",
+      "message": "Quali documenti devo presentare per la domanda di ammissione al nido?",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agent",
+      "message": "È necessario compilare il modulo di domanda con autocertificazioni relative alla situazione familiare e economica, e presentare l'attestazione ICEF per i servizi alla prima infanzia.",
+      "ground": "La domanda di ammissione ai nidi d'infanzia è effettuata mediante l'apposito modulo contenente dichiarazioni in  forma di autocertificazione relativa alla situazione del nucleo familiare di riferimento del bambino (numero dei figli; situazione lavorativa dei genitori), e alla situazione economica attraverso l'attestazione ICEF per i servizi alla prima infanzia a nome del bambino da iscrivere, rilasciata da un CAF abilitato."
+    },
+    {
+      "id": "T09",
+      "speaker": "Citizen",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

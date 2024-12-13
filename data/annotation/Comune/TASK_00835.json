@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00835",
+  "doc_src": "comune.salerno_D0134.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Sono previsti interventi di creazione di parchi a Salerno?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Sì, il Dipartimento per lo sport ha disposto l'attivazione di una terza linea di intervento per la creazione di parchi e percorsi attrezzati in tutta la zona del Mezzogiorno.",
+      "ground": "Il Dipartimento per lo sport ha disposto l’attivazione di una terza linea di intervento per la creazione di parchi e percorsi attrezzati con finalità ricreative e di inclusione sociale nei territori svantaggiati del Paese, destinando 20 milioni di euro esclusivamente alle aree del Mezzogiorno per la fornitura e distribuzione di attrezzature sportive e l’applicazione di nuove tecnologie per la pratica sportiva libera."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Sono previsti anche impianti sportivi?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì. Per Salerno è previsto il finanziamento per la realizzazione di un impianto sportivo da destinare a palazzetto dello sport in località Mercatello / Mariconda.",
+      "ground": "Nella Città di Salerno,\nl'intervento consentirà il finanziamento per la realizzazione di un impianto sportivo da destinare a palazzetto dello sport in località Mercatello / Mariconda."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Che importo è stato attribuito per questo progetto?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "L'importo attribuito è di €3.500.000,00. Al momento il progetto è in fase di progettazione.",
+      "ground": "Importo attribuito:\n€\n3.500.000,00\nStato\n: in progettazione"
+    }
+  ],
+  "subcategory": "Salerno"
+}

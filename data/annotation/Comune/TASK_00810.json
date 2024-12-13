@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00810",
+  "doc_src": "comune.salerno_D0094.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, potrebbe darmi delle informazioni sull'investimento per la gestione dei rifiuti a Salerno?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, l'investimento mira a ridurre l'obsolescenza dei sistemi di gestione attuali attraverso il miglioramento e la meccanizzazione della raccolta differenziata e oltre che la creazione di strutture di trattamento più efficienti.",
+      "ground": "ridurre l’obsolescenza\ndegli attuali sistemi di gestione dei rifiuti attraverso il miglioramento e la meccanizzazione della rete di raccolta differenziata e la creazione di"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Il Comune di Salerno partecipa a questo progetto?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Sì, il Comune di Salerno partecipa al progetto per migliorare la raccolta dei rifiuti tramite la fornitura di contenitori carrellati intelligenti.",
+      "ground": "Il Comune di Salerno partecipa al progetto per migliorare la raccolta dei rifiuti tramite la fornitura di\ncontenitori carrellati intelligenti"
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni!",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "È stato un piacere aiutarla, se ha bisogno di ulteriori informazioni non esiti a ricontattarmi.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

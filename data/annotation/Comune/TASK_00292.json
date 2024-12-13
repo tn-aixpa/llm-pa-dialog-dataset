@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00292",
+  "doc_src": "comune.milano_aree-tematiche_links_D0324.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sui lavori di pubblica utilità.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Quali informazioni cerca?",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Vorrei sapere come funziona il servizio.",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Per le persone condannate che possono sostituire la pena, il Comune mette a disposizioni delle posizioni per lavori di pubblica utilità. Gli interessati devono in autonomia o attraverso un legale contattare il servizio per prendere appuntamento. Dopo un colloquio, sarà rilasciata la disponibilità da parte dell'Amministrazione ad accogliere la persona per lo svolgimento del lavoro.",
+      "ground": "Alle persone condannate che hanno ottenuto dal Giudice la possibilità di sostituire la pena, il Comune di Milano mette a disposizione 150 postazioni per effettuare lavori di pubblica utilità o Messa alla prova.\n\nCome si attivano i Lavori di pubblica utilità\nGli interessati contattano il Servizio, direttamente o tramite il proprio legale, per prendere un appuntamento\nEffettuano\ncolloquio\ncon un operatore del Servizio Lavori di Pubblica Utilità, con l'obiettivo di abbinare nel miglior modo possibile la postazione di lavoro con la persona nel rispetto delle esigenze e delle prerogative di entrambi.\nAl termine del colloquio sarà rilasciata la\ndisponibilità\nda parte dell'Amministrazione ad accogliere la persona nell'ambito dello svolgimento del lavoro di pubblica utilità."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Può fare un esempio di quali sono le attività possibili?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Alcuni esempi sono: attività in RSA, centri diurni per disabili, biblioteche, cimiteri, Arena civica, Municipi, Museo botanico o nell'attuazione del Piano anticaldo.",
+      "ground": "Cosa si fa in sostituzione della pena\nI richiedenti potranno essere impiegati, a titolo di esempio, presso:\nRSA (Residenze Sanitarie Assistite);\ncentri diurni per disabili (CDD) a gestione diretta del Comune;\nbiblioteche;\ncimiteri;\nArena civica;\nMunicipi;\nMuseo botanico;\nattuazione del Piano anticaldo."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni. Chi posso contattare per ulteriori dettagli?",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "Certamente. Può contattare il Servizio tramite telefono allo  02 884 50100 oppure per mail all'indirizzo PSS.lavoripubblicautilita@comune.milano.it",
+      "ground": "Informazioni\nTel. 02 884 50100\ne-mail:\n[mailto:PSS.lavoripubblicautilita@comune.milano.it](PSS.lavoripubblicautilita@comune.milano.it)"
+    }
+  ],
+  "subcategory": "Milano"
+}

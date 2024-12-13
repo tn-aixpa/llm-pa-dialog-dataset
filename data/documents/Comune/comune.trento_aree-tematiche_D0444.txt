@@ -1,0 +1,12 @@
+La carta semplificata del Comune di Trento è una mappa della città suddivisa per aree (nord, sud, centro) e per singola circoscrizione, disponibile allo scaricamente nel formato PDF.
+La carta semplificata del Comune di Trento deriva dalla rielaborazione dei principali tematismi della carta tecnica numerica in scala 1:2000 aggiornata al 2009.
+E’ stata realizzata nella sua prima edizione nel corso dell’anno 2004 dalla LAC Litografia Artistica Cartografica S.r.l. di Firenze ed è di esclusiva proprietà del Comune di Trento.
+La carta semplificata:
+è orientata ad una rappresentazione di facile ed immediata lettura del territorio comunale e dell’onomastica stradale; è destinata all’utenza non professionale e turistica;
+è prodotta in forma numerica;
+la scala nominale di rappresentazione è 1:8000.
+Le aree delle strade sono centrate sulla mezzeria delle stesse e la larghezza della carreggiata può non essere in scala, in particolare può essere più grande della realtà: questo per consentire l’inserimento del testo del nome della via in caratteri di dimensione leggibile.
+Sono disponibili alcuni elaborati in formato PDF pronti per la stampa:
+Ulteriori informazioni e chiarimenti possono essere richiesti all’indirizzo di posta elettronica
+[mailto:infogis@comune.trento.it](infogis@comune.trento.it)
+.

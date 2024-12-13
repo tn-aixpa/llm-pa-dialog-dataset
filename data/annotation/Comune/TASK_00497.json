@@ -1,0 +1,40 @@
+{
+  "task_id": "TASK_00497",
+  "doc_src": "comune.trento_aree-tematiche_D0145.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, vorrei informazioni riguardo alla locazione di un alloggio pubblico. Come posso averne accesso?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Le consiglio di consultare il seguente link: https://servizi.comune.trento.it/Servizi/Domanda-di-locazione-alloggio-di-edilizia-residenziale-pubblica-alloggio-Itea",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Politiche-sociali-e-abitative/Adulti/Servizi/Alloggi-pubblici-e-contributi-casa/Locazione-di-un-alloggio-pubblico](Locazione di un alloggio pubblico)\nVedi\n[https://servizi.comune.trento.it/Servizi/Domanda-di-locazione-alloggio-di-edilizia-residenziale-pubblica-alloggio-Itea](Catalogo servizi)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E il contributo integrativo per casi di particolare necessità è attivo?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Al momento la normativa provinciale è in revisione, a breve sarà disponibile una nuova pagina. Può trovare più informazioni al link https://www.comune.trento.it/Aree-tematiche/Politiche-sociali-e-abitative/Adulti/Servizi/Alloggi-pubblici-e-contributi-casa/Contributo-integrativo-per-casi-di-particolare-necessita-e-disagio .",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Politiche-sociali-e-abitative/Adulti/Servizi/Alloggi-pubblici-e-contributi-casa/Contributo-integrativo-per-casi-di-particolare-necessita-e-disagio](Contributo integrativo per casi di particolare necessità e disagio)\nLa normativa provinciale è attualmente in fase di revisione.\nA breve sarà disponibile la nuova scheda informativa con tutte le informazioni utili."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Va bene, grazie per le informazioni.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

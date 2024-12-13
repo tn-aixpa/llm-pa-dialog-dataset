@@ -1,0 +1,40 @@
+{
+  "task_id": "TASK_00140",
+  "doc_src": "comune.milano_aree-tematiche_D0162.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, ho sentito che dal 29 febbraio l'accesso ai servizi di Area B sarà possibile solo con SPID, CIE o ID azienda. È vero?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Sì, dal 29 febbraio sarà necessario utilizzare SPID, CIE o ID azienda per accedere ai servizi. La modalità attuale con username e password non sarà più valida.",
+      "ground": "I servizi del portale Area B saranno accessibili dal 29 febbraio solo con SPID, CIE o id azienda L'attuale modalità di accesso tramite username e password non sarà più in uso."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quindi se ho già un account con username e password devo comunque registrarmi con SPID, CIE o ID azienda?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Esatto, potrai comunque recuperare i tuoi dati. Puoi trovare tutte le informazioni su come ottenere SPID sul sito spid.gov.it/cos-e-spid/come-attivare-spid/ .",
+      "ground": "Se sei già registrato al sito con user e password potrai accedere al tuo profilo con SPID, CIE o id azienda senza perdere i dati inseriti.\nLeggi la guida per ottenere SPID: spid.gov.it/cos-e-spid/come-attivare-spid/"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

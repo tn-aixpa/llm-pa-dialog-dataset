@@ -1,0 +1,82 @@
+{
+  "task_id": "TASK_00903",
+  "doc_src": "comune.salerno_D0636.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei sapere quali lavori sono attualmente in corso lungo il litorale di Salerno.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, lungo il litorale sono in corso i lavori di ripascimento e messa in sicurezza del litorale di Salerno, specificamente nel tratto compreso tra il Polo Nautico e la foce del fiume Irno.",
+      "ground": "Sono iniziati i lavori di ripascimento e messa in sicurezza del litorale di Salerno nel tratto compreso tra il Polo Nautico e la foce del fiume Irno."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Questi lavori influenzeranno la balneazione durante l'estate?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "No, il progetto è stato realizzato in modo da consentire la balneazione nel periodo estivo.",
+      "ground": "Il progetto sarà realizzato in modo da consentire comunque la balneazione e la fruizione degli arenili nel periodo estivo."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Sarà possibile rimanere aggiornati sull'avanzamento dei lavori?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Sì, sarà possibile ricevere aggiornamenti per tutta la durata dei lavori.",
+      "ground": "Sull’avanzamento dei lavori saranno fornite in corso di esecuzione costanti informazioni."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Perché il Comune ha deciso di avviare questi lavori?",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "L'intento è quello di ottenere un aumento delle spiagge per la fruizione balneare. Questo intervento è inventivato dal fatto che lavori precedenti hanno ottenuti eccellenti risultati, che sono stati apprezzati sia dai cittadini che dai turisti.",
+      "ground": "L’intento è quello di ottenere gli eccellenti risultati dei lavori del primo lotto, che hanno interessato la zona orientale, dove le nuove spiagge sono ormai una consolidata realtà, apprezzata tanto dai concittadini quanto da turisti e visitatori."
+    },
+    {
+      "id": "T09",
+      "speaker": "Cittadino",
+      "message": "Questi lavori saranno sostenibili a livello ambientale?",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agente",
+      "message": "Certamente, l'intervento sarà eseguito con grande attenzione alla sostenibilità ambientale, seguendo un attento studio delle condizioni meteo marine.",
+      "ground": "È un intervento complesso che sarà eseguito, come quello precedente, con grande attenzione alla sostenibilità ambientale e dopo un attento studio delle condizioni meteo marine, al fine di conseguire una maggiore protezione contro le mareggiate, nonché di ottenere un cospicuo aumento delle spiagge per la fruizione balneare. Ambiente, economia, lavoro per la città che investe sulla risorsa mare."
+    },
+    {
+      "id": "T11",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T12",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

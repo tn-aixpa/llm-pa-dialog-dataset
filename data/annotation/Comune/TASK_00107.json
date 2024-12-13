@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00107",
+  "doc_src": "comune.milano_aree-tematiche_D0124.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni riguardo all'installazione dei dissuasori di sosta.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "L'installazione dei dissuasori di sosta serve a tutelare il diritto d'accesso alla strada da un passo carrabile o quando il transito pedonale risulta difficoltoso a causa della sosta abusiva sul marciapiede. Per la posa è necessario chiedere un'autorizzazione.",
+      "ground": "L’installazione dei dissuasori di sosta serve a tutelare il diritto d'accesso alla strada da un passo carrabile o quando il transito pedonale risulta difficoltoso a causa della sosta abusiva sul marciapiede. La loro posa è soggetta ad autorizzazione."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Posso installare dei dissuasori di sosta per proteggere il mio passo carrabile?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Attualmente sono autorizzabili solo paracarri in acciaio inox e paletti tipo parigine nel centro storico. \nPer richiedere l'autorizzazione è necessario inviare il modulo con allegata la documentazione richiesta. Il personale tecnico si occuperà di fare un sopralluogo per verificare l'effettiva esigenza e la fattibilità tecnica della posa.",
+      "ground": "Inviare il modulo, preparare la documentazione richiesta e inviare.\nDi seguito il personale tecnico effettuerà un sopralluogo per verificare l'effettiva esigenza e la fattibilità tecnica della posa."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Quanto dura l'autorizzazione una volta ottenuta?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Fino a quando le strutture vengono mantenute in efficienza oppure sino a quando altre soluzioni non ne eliminino la necessità.",
+      "ground": "Durata dell'autorizzazione\nL’autorizzazione dura sino a quando le strutture vengono mantenute in efficienza oppure sino a quando altre soluzioni non ne eliminino la necessità."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni, procederò allora a fare la mia richiesta.",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "È stato un piacere poterla aiutare.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

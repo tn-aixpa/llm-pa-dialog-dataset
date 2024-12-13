@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_00139",
+  "doc_src": "comune.milano_aree-tematiche_D0160.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni riguardo al lavoro agile e alla flessibilità oraria.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Cosa vorrebbe sapere esattamente?",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "È vero che il Comune di Milano promuove il lavoro agile tra i dipendenti?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, esatto. Il Comune di Milano ha promosso per anni la sperimentazione del lavoro agile, offrendo ai dipendenti la possibilità di lavorare in modo flessibile.",
+      "ground": "Già prima della pandemia da COVID-19 stavano prendendo forma numerosi progetti di lavoro agile in ambito pubblico e privato, che mostravano tutti i vantaggi di questa modalità di lavoro di cui l’Amministrazione Comunale ha promosso per anni la sperimentazione, sia attraverso l’iniziativa Settimana del Lavoro Agile - che nel 2019 era giunta alla sua terza edizione, dopo le Giornate di Lavoro Agile del 2014, 2015 e 2016 - sia attraverso i progetti finanziati (“MIRE - Milano in rete - dal welfare al tempo ritrovato”, che prosegue le attività di “Smart Lab - Milano Concilia 4.0” nell’ambito del Piano Territoriale di Conciliazione di Regione Lombardia). Con il passaggio da “Giornata” a “Settimana” del Lavoro Agile, oltre alla possibilità di estendere la sperimentazione a più giornate, erano stati studiati e introdotti elementi innovativi, proponendo alle aziende ed enti partecipanti di condividere la propria esperienza attraverso l’organizzazione di eventi o attraverso un’attività di peer mentoring di cui potessero beneficiare le imprese neofite, soprattutto piccole e medie."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Quanti dipendenti hanno aderito a questa iniziativa?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Nell'edizione 2019, sono stati coinvolti 53.520 lavoratori e 446 aziende hanno aderito alle cinque edizioni. In crescita rispetto i 23.034 lavoratori in 408 aziende.",
+      "ground": "Il successo dell’iniziativa è stato confermato dal trend positivo dei numeri: nell’edizione 2019 i lavoratori coinvolti sono stati 53.520, a fronte dei 23.034 del 2018, e 446 sono state le aziende che hanno aderito una o più volte alle cinque edizioni, rispetto alle 408 dell’anno precedente."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "E durante il lockdown, il lavoro agile è stato adottato anche da altri dipendenti?",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "Sì, durante il lockdown più di 7.000 lavoratori comunali hanno fatto ricorso al lavoro agile in breve tempo, dimostrando la capacità dell'Amministrazione di adattarsi alla pandemia.",
+      "ground": "L’arrivo della pandemia e il conseguente lockdown non hanno quindi trovato l’Amministrazione impreparata, consentendo in brevissimo tempo a più di 7.000 lavoratori comunali di fare ricorso a questa modalità lavorativa che slega la produttività dalla presenza fisica in ufficio, portando alla luce la necessità di una trasformazione dei modi e dei tempi di lavoro già in essere."
+    },
+    {
+      "id": "T09",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni, è stato molto utile.",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agente",
+      "message": "È stato un piacere aiutarla. Se ha altre domande, non esiti a chiedere.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

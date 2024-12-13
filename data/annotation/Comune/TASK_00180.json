@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00180",
+  "doc_src": "comune.milano_aree-tematiche_links_D0208.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni su come posso supportare un referendum.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "È possibile supportare referendum presso le sedi comunali preposte. È necessario depositare i moduli per la raccolta delle sottoscrizioni accompagnati da una lettera al sindaco.",
+      "ground": "Nelle sedi comunali preposte è possibile sottoscrivere:\nreferendum popolari nazionali, di abrogazione totale o parziale di una legge o di un atto avente valore di legge (art. 75 della Costituzione)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "In pratica come posso procedere?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Le consiglio di chiedere all'indirizzo e-mail DSC.Elettorale@comune.milano.it oppure consultare il sito web https://www.comune.milano.it/servizi/raccogliere-firme-per-referendum-nazionali-iniziative-popolari-carattere-nazionale .",
+      "ground": "Informazioni\nPer maggiori dettagli e informazioni invia una richiesta via e-mail a:\n[mailto:DSC.Elettorale@comune.milano.it](DSC.Elettorale@comune.milano.it)\n\n|||\n\n[https://www.comune.milano.it/servizi/raccogliere-firme-per-referendum-nazionali-iniziative-popolari-carattere-nazionale](Raccogliere firme per referendum e iniziative popolari a carattere nazionale)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È stato un piacere poterti aiutare. Se hai bisogno di ulteriori chiarimenti, non esitare a contattarci. Buona giornata!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

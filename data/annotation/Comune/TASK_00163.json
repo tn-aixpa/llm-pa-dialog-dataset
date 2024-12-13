@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_00163",
+  "doc_src": "comune.milano_aree-tematiche_D0189.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Salve, potrei avere informazioni sui lavori in corso in via Pacini?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, i lavori riguardano la manutenzione straordinaria della linea metropolitana M2 e dureranno fino al 2021. Attualmente il tratto stradale di via Pacini tra via Bottesini e via Teodosio è interessato dal cantiere.",
+      "ground": "Manutenzione straordinaria linea M2\nDa giugno 2019 il tratto stradale di via Pacini compreso tra via Bottesini e via Teodosio in direzione piazza Piola, è interessato dal cantiere per i lavori di risanamento della galleria della Linea metropolitana 2 tra le stazioni di Piola e Lambrate."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quanto tempo dureranno ancora i lavori?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Essendo i lavori cominciati nel 2019 e previsti di finire nel 2021, non so dirle se sono stati conclusi o sono finiti.",
+      "ground": "Manutenzione straordinaria linea M2\nDa giugno 2019 il tratto stradale di via Pacini compreso tra via Bottesini e via Teodosio in direzione piazza Piola, è interessato dal cantiere per i lavori di risanamento della galleria della Linea metropolitana 2 tra le stazioni di Piola e Lambrate.\nI lavori hanno la durata di due anni e sono necessari per assicurare l’impermeabilità della galleria, interessata dall'innalzamento della falda."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Posso parcheggiare in via Pacini durante i lavori?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "i sono state in passato limitazioni alla circolazione durante i lavori ma non mi risulta che ci siano mai stati blocchi per il parcheggio.",
+      "ground": "Gennaio 2020 - Luglio 2020\n\nchiusura della carreggiata stradale lato numeri dispari  di via Pacini in direzione piazza Piola,  tra via Bottesini e via Teodosio"
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "E per quanto riguarda gli autobus, ci saranno deviazioni?",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "La linea 39 è stata deviata dal 11 Settembre 2020 al 31 Maggio, non so dirle se ci siano deviazioni di mezzi pubblicicorrentemente in atto.",
+      "ground": "11 Settembre 2020 - 31 maggio 2021\n\ndeviazione della linea 39 sul percorso: via Brocchi, via Vallazze, viale Lombardia"
+    },
+    {
+      "id": "T09",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agente",
+      "message": "È stato un piacere, resto a disposizione per ulteriori chiarimenti. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

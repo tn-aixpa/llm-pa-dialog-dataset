@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00104",
+  "doc_src": "comune.milano_aree-tematiche_D0119.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei delle informazioni sull'Edilizia e sul territorio di Milano.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Le suggerisco di inviare una mail all'indirizzo infoedilizia@comune.milano.it per ricevere assistenza.",
+      "ground": "Per le richieste di informazioni relative allo Sportello Unico per l'Edilizia è possibile inoltrare una e-mail all'indirizzo: infoedilizia@comune.milano."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Capisco, grazie comunque. Posso almeno consultare la pagina delle FAQ per trovare risposte alle mie domande?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Può trovare la pagina FAQ all'indirizzo www.paginafaq.it .",
+      "ground": "Per una rapida risposta alle domande più frequenti è possibile consultare la pagina dedicata alle FAQ.[www.paginafaq.it]"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Va bene, farò così. Grazie per l'aiuto.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È stato un piacere poterla assistere.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

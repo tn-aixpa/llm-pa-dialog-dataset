@@ -1,0 +1,34 @@
+{
+  "task_id": "TASK_00515",
+  "doc_src": "comune.trento_aree-tematiche_D0176.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Salve, chi gestisce  a Trento i poster pubblicitari sui cartelli?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Le pubbliche affissioni nel Comune di Trento sono gestite da ICA SPA.",
+      "ground": "Nel Comune di Trento, le pubbliche affissioni e il servizio di accertamento e riscossione dell’imposta comunale sulla pubblicità e del diritto sulle pubbliche affissioni,\nin vigore fino al 31 dicembre 2020\n, sono gestiti da\n[http://www.icatributi.it/servizi_online/dettaglio_comune-cat-trento_492.html](ICA SPA)\nICA SPA"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quindi attualmente ICA SPA si occupa di questi servizi nel Comune di Trento?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, esattamente. Può trovare ulteriori informazioni sul sito http://www.icatributi.it/servizi_online/dettaglio_comune-cat-trento_492.html . Posso esserle d'aiuto in altro modo?",
+      "ground": "[http://www.icatributi.it/servizi_online/dettaglio_comune-cat-trento_492.html](ICA SPA"
+    }
+  ],
+  "subcategory": "Trento"
+}

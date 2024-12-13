@@ -1,0 +1,28 @@
+{
+  "task_id": "TASK_00208",
+  "doc_src": "comune.milano_aree-tematiche_links_D0236.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, ho 80 anni e vorrei proteggermi dalle truffe. Cosa posso fare?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Ricordati che non sei solo: la tua famiglia, le associazioni degli anziani, la Polizia di Stato, i Carabinieri e la Guardian di Finanza sono tutte persone che possono aiutarti.\nRicordati che i truffatori si vestono bene sono educati ma sopratutto scaltri.",
+      "ground": "La migliore arma di difesa è conoscere i loro trucchi e adottare alcune semplici precauzioni.\nLa tua forza è sapere che non sei sola o solo, ma puoi rivolgerti ai tuoi familiari, alle associazioni degli anziani, alla Polizia di Stato, ai Carabinieri, alla Guardia di Finanza oltre che alla Polizia locale e al Comune di Milano, che ha persone preparate che sono a disposizione per aiutarti."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

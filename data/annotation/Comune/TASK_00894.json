@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00894",
+  "doc_src": "comune.salerno_D0227.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Può dirmi di più sulla Settimana dell'Autismo a Salerno?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "La Settimana dell'Autismo, giunta alla seconda edizione, si svolgerà dal 2 al 9 aprile ed è organizzata dall'Ambito S5 e dalla Asl - UONPIA di Salerno.",
+      "ground": "Al via la seconda edizione della “Settimana dell’autismo, un impegno condiviso”, organizzata dal 2 al 9 aprile, dall’Ambito S5, Comuni di Salerno e Pellezzano, e dalla Asl - UONPIA di Salerno.\nMartedì 2 aprile, alle ore 9."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quali eventi sono previsti?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "A Salerno, martedì 2 aprile, alle ore 9.30, verranno presentati tutti gli eventi in programma presso lo stand informativo su Corso Vittorio Emanuele. Alle 18.00, al Duomo, ci sarà una santa messa dedicata e alle 19.30 il Comune verrà illuminato di blu.\nA Pellezzano invece un pulmino girerà le strade principali per sensibilizzare la comunità e alle 12.00 presso la sede comunale si presenteranno le iniziative in programma.",
+      "ground": "Martedì 2 aprile, alle ore 9.30, presso lo stand informativo allestito su Corso Vittorio Emanuele (nei pressi dell’IC Vicinanza-Pirro) verranno presentati tutti gli eventi in programma.\nAlle 18.00, al Duomo, Mons. Bellandi celebrerà una santa messa dedicata.\nAlle ore 19.30 il Comune verrà illuminato di blu, per sensibilizzare la collettività e promuovere la ricerca scientifica sull’autismo."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "È un piacere, se ha bisogno di ulteriori informazioni non esiti a contattarci.",
+      "ground": ")"
+    }
+  ],
+  "subcategory": "Salerno"
+}

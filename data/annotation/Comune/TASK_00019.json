@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00019",
+  "doc_src": "comune.milano_aree-tematiche_D0028.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sugli standard di qualità del servizio di teleriscaldamento di A2A.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno. A2A Calore e Servizi si impegna a seguire gli standard indicati dall'Autorità di Regolazione per Energia Reti e Ambiente nella Delibera 661/2018. Posso fornirle ulteriori dettagli se necessario.",
+      "ground": "A2A Calore e Servizi, in qualità di gestore del servizio di teleriscaldamento, persegue gli standard indicati dall'Autorità di Regolazione per Energia Reti e Ambiente (ARERA) nella Delibera 661/2018 sulla regolazione della qualità commerciale dei servizi di teleriscaldamento e teleraffrescamento.\nVisualizza gli standard di qualità di A2A"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Puoi dirmi quali sarebbero questi standard?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Mi dispiace ma non riesco a fornirle questa informazione al momento.",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

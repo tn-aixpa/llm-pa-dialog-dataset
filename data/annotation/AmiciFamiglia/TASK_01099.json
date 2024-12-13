@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_01099",
+  "doc_src": "commezzadura__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Buongiorno, che azioni posso scrivere dedicate alle associazioni del mio Comune?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Buongiorno, può pensare di erogare contributi oppure di fornire loro delle sale.",
+      "ground": "TITOLO: CONTRIBUTI ALLE ASSOCIAZIONI.\n\n|||\n\nTITOLO: MESSA A DISPOSIZIONE SALE"
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Cosa mi consiglia di scrivere per fornire delle sale alle associazioni?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Le riporto l'esempio di azione dal Piano Famiglia di Commezzadura dell'anno 2022.\n\nTITOLO: MESSA A DISPOSIZIONE SALE\n\nTASSONOMIA: Sostegno economico alle associazioni del territorio / Concessione spazi\n\nOBIETTIVO: Promuovere la socialitа.\n\nDESCRIZIONE: Concessione gratuita di spazi e sale per incontri e momenti conviviali.\n\nSi senta libero di modificare il contenuto di questa azione come preferisce.",
+      "ground": "=== PIANO FAMIGLIA DI COMMEZZADURA ANNO 2022 ===\n\n|||\n\nTITOLO: MESSA A DISPOSIZIONE SALE\n\nTASSONOMIA: Sostegno economico alle associazioni del territorio / Concessione spazi\n\nOBIETTIVO: Promuovere la socialitа.\n\nDESCRIZIONE: Concessione gratuita di spazi e sale per incontri e momenti conviviali."
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Grazie Mille!",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Vuole sapere altro?",
+      "ground": ""
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "Ha qualche azione più invernale da propormi?",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "Può considerare di dare un sostegno alle famiglie permettendogli di acquistare il pass stagionale a prezzo ridotto. Questo aiuterebbe anche alla promozione dello sport nel suo Comune",
+      "ground": "OBIETTIVO: Sotegno economico alle famiglie e promozione dello sport.\n\nDESCRIZIONE: Possibilitа di acquistare lo ski pass stagionale invernale a prezzo ridotto."
+    },
+    {
+      "id": "T9",
+      "speaker": "Citizen",
+      "message": "Il nostro Comune non ha montagne.",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agent",
+      "message": "Mi spiace ma non sono in grado di fornirle altri suggerimenti.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

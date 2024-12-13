@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00876",
+  "doc_src": "comune.salerno_D0193.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Ci sono ancora biglietti per  l'evento Operazione Nostalgia?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Non sono in grado di dirle se tutti i biglietti sono stati venduti. In ogni caso, i biglietti sono acquistabili su TicketOne fino alle 19 del giorno dell'evento se non sono stati venduti tutti prima. ",
+      "ground": "I tagliandi sono acquistabili sul sito TicketOne fino alle ore 19.00 del giorno dell'evento o fine all'esaurimento dei tagliandi."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E il fan village allestito all'esterno dello stadio, sarà aperto tutto il giorno?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "No, il fan village sarà aperto a partire dalle 10:30 .",
+      "ground": "Non è finita, perché si potrà vivere al massimo l'intera giornata grazie ad un fan village che sarà allestito all'esterno dello stadio a partire dalle 10:30."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni, a presto.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

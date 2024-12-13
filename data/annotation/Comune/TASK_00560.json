@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00560",
+  "doc_src": "comune.trento_aree-tematiche_D0252.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Come posso arrivare a Trento in aereo?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Purtroppo l'aeroporto di Trento è aperto solo al traffico di piccoli aerei da turismo, ma la città è comunque facilmente raggiungibile da altri aeroporti come Verona, Bergamo, Venezia e Bolzano. ",
+      "ground": "Trento possiede il proprio aeroporto,\n[http://www.aeroportocaproni.it/](l'Aeroporto Gianni Caproni)\n, il quale è aperto però solo al traffico di piccoli aerei da turismo. La città rimane comunque facilmente raggiungibile da quattro mete aeroportuali: Bolzano, Verona, Venezia e Bergamo."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E per quanto riguarda gli orari e le tariffe dei treni per Trento, dove posso trovarli?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Per gli orari e le tariffe dei treni per Trento è necessario consultare il sito ufficiale di Trenitalia, delle ferrovie austriache OBB, o delle ferrovie tedesche DB. Posso aiutarla a trovare ulteriori informazioni se ne ha bisogno.",
+      "ground": "Infatti, al suo interno è situata la diramazione per la linea della Valsugana e quella di\n[http://www.ttesercizio.it/Treno/](Trento-Malè)\n, che porta in Val di Sole. Inoltre, in occasione del Natale sono previsti treni speciali riservati ai visitatori dei tradizionali mercatini natalizi. Per orari e tariffe è necessario consultare il sito ufficiale di\n[http://www.trenitalia.com/tcom-en](Trenitalia)\n, della\n[https://www.obb-italia.com/de/](OBB)\n, le ferrovie austriache, o della\n[http://www.bahn.de/p/view/index.shtml](DB)\n, le ferrovie tedesche."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Prego, sono qui per aiutarti. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

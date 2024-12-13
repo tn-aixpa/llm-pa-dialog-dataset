@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01037",
+  "doc_src": "comSalerno1145.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "PA Operator",
+      "message": "Chi può usare il trasporto scolastico?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Possono fruire del servizio di trasporto scolastico gli alunni delle Scuole cittadine dell’Infanzia e Primarie residenti o domiciliati a Salerno, nelle frazioni alte, in zona di estrema periferia e rioni collinari, a una distanza minima di 500 metri dal plesso scolastico del proprio ambito territoriale. Inoltre, potranno essere ammessi al servizio, compatibilmente con la disponibilità di posti, anche gli alunni domiciliati lungo l’itinerario percorso dal mezzo, a una distanza non inferiore ai 300 metri dal plesso scolastico.",
+      "ground": "Del servizio di trasporto scolastico ordinario casa/scuola possono fruire gli alunni delle Scuole cittadine dell’Infanzia e Primarie residenti o domiciliati a Salerno nelle frazioni alte, in zona di estrema periferia e rioni collinari, a una distanza minima di 500 metri dal plesso scolastico del proprio ambito territoriale. Potranno essere ammessi, compatibilmente con la disponibilità di posti a sedere sugli automezzi impiegati, gli alunni domiciliati lungo l’itinerario percorso dal mezzo, a una distanza non inferiore ai 300 metri dal plesso scolastico."
+    },
+    {
+      "id": "T03",
+      "speaker": "PA Operator",
+      "message": "Il servizio è offerto gratuitamente?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Dipende. È previsto il pagamento di una quota fissa di iscrizione di € 15,00 per ogni alunno iscritto, a cui si aggiunge una tariffa mensile che dipende dall'Isee. Tuttavia, per gli alunni diversamente abili, il servizio è fornito gratuitamente.",
+      "ground": "È previsto il pagamento di una quota fissa di iscrizione, pari a € 15,00 per ogni alunno iscritto, e di una tariffa di contribuzione mensile determinata in base all’Indicatore della Situazione Economica Equivalente (Isee) così come indicato nell’avviso pubblico sulle modalità di utilizzo del servizio, presente nella sezione “Documenti correlati”.\nPer gli alunni diversamente abili il servizio è erogato in forma gratuita."
+    },
+    {
+      "id": "T05",
+      "speaker": "PA Operator",
+      "message": "Quali sono i contatti se voglio parlare con un operatore umano?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Puoi contattare gli Uffici del Settore Pubblica Istruzione telefonando ai numeri 089 667301, 089 667315 o 089 667330.",
+      "ground": "In via eccezionale, qualora si necessiti di assistenza per l’accesso alla piattaforma informatica, le domande potranno essere presentate negli Uffici del Settore Pubblica Istruzione, in via Giacomo Costa, 2 (previo appuntamento da concordare telefonando ai numeri 089 667301 - 089 667315 - 089 667330)."
+    }
+  ],
+  "subcategory": "Salerno"
+}

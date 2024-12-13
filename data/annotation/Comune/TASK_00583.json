@@ -1,0 +1,34 @@
+{
+  "task_id": "TASK_00583",
+  "doc_src": "comune.trento_aree-tematiche_D0289.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Il Comune offre servizi di accoglienza per adulti presso famiglie o singoli?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Sì, in casi in cui adulti non possono essere adeguatamente assistite dalla loro famiglia, è possiible che si facciano assistere da altre famiglie o singoli. Più informazioni sono disponibili al link https://www.comune.trento.it/Aree-tematiche/Politiche-sociali-e-abitative/Adulti/Servizi/Accoglienza-e-assistenza/Accoglienza-di-adulti-presso-famiglie-o-singoli",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Politiche-sociali-e-abitative/Adulti/Servizi/Accoglienza-e-assistenza/Accoglienza-di-adulti-presso-famiglie-o-singoli](Accoglienza di adulti presso famiglie o singoli)\nL'accoglienza di\nadulti\npresso famiglie o singoli è un intervento rivolto a persone che non possono essere adeguatamente assistite nell'ambito della famiglia d'origine."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

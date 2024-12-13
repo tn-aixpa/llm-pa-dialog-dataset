@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00963",
+  "doc_src": "comune.milano_aree-tematiche_links_D0341.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Che requisiti sono necessari per accedere a una RSA a Milano?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Perché un cittadino possa accedere in RSA a Milano, questi deve avere: età superiore ai 65 anni con condizioni sanitarie che compromettono il livello di autosufficienza, Isee sociosanitario-Residenze pari o inferiore a € 16.000,00, presenza di un immediato stato di bisogno socio-sanitario, anche con un patrimonio immobiliare non immediatamente utilizzabile. È possibile l'accesso anche al di sotto dei 65 anni se ci sono patologie che rendono necessaria la collocazione in RSA.",
+      "ground": "I requisiti d’accesso alle RSA sono:\nresidenza a Milano;\netà superiore ai 65 anni, in condizioni sanitarie tali da compromettere il livello di autosufficienza;\nIsee sociosanitario-Residenze pari o inferiore a € 16.000,00;\nsussistenza di un immediato stato di bisogno socio- sanitario, anche in presenza di un patrimonio immobiliare non immediatamente utilizzabile per il supporto economico all'inserimento in RSA. L’Amministrazione si riserva il diritto di rivalsa sul patrimonio immobiliare, sia in caso di vendita sia nel caso di successione in capo ad eredi o a legati.\nIl servizio può essere esteso a cittadini/e con età\ninferiore a 65 anni\nqualora la condizione sanitaria presenti\npatologie geriatriche tali da rendere necessaria la collocazione in RSA."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "E come si fa richiesta?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Per fare richiesta è necessario prenotare un appuntamento con l'assistente sociale presso il Servizio sociale professionale territoriale di municipio.",
+      "ground": "La richiesta dell’\nattivazione del servizio\npuò avvenire attraverso una delle seguenti modalità:\ndirettamente da parte della persona interessata;\nsu segnalazione dei parenti;\nsu segnalazione del medico di medicina generale o di altri servizi territoriali.\nE' necessario prenotare un\nappuntamento con l'assistente sociale presso il Servizio sociale professionale territoriale\ndi municipio che provvederà, durante i colloqui di approfondimento, ad acquisire la documentazione prevista."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Dove si trovano le RSA?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Le RSA si trovano a:\n- RSA Famagosta: via Rudinì, 3\n- RSA Virgilio Ferrari: via Dei Panigarola, 14\n- RSA Casa per Coniugi: via dei Cinquecento, 19 (servizio sospeso, salvo Centro Diurno Integrato)\n- RSA Gerosa Brichetto: viale Mecenate, 96\n- RSA Pindaro: via Pindaro, 44",
+      "ground": "Il Comune di Milano ha affidato le cinque Residenze milanesi a gestori esterni:\nRSA Famagosta\nvia Rudinì, 3  - tel. 02 8912.7882 / 6\nRSA Virgilio Ferrari\nvia Dei Panigarola, 14 - tel. 02 5391.194\nRSA Casa per Coniugi - servizio sospeso, salvo Centro Diurno Integrato\nvia dei Cinquecento, 19 - tel. 02 5392.964\nRSA Gerosa Brichetto\nviale Mecenate, 96 - tel. 02 5801.8008\nRSA Pindaro\nvia Pindaro, 44 - tel. 02 27009.2339"
+    }
+  ],
+  "subcategory": "Milano"
+}

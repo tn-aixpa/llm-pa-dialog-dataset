@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00061",
+  "doc_src": "comune.milano_aree-tematiche_D0083.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sul progetto \"Casa ai lavoratori\".",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Cosa vorrebbe sapere?",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "È possibile accedere a queste case se non sono lavoratore?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Mi dispiace, ma il progetto è dedicato esclusivamente ai lavoratori che hanno una capacità economica limitata. ",
+      "ground": "Il progetto “Casa ai lavoratori” costituisce un programma per la valorizzazione alternativa del patrimonio destinato a servizi abitativi pubblici, con l’obiettivo di arrivare a zero sfitti nelle case di proprietà pubblica e, allo stesso tempo, offrire soluzioni abitative in locazione a canone calmierato a lavoratori aventi una capacità economica che non consente né di sostenere un canone di locazione sul mercato libero, né di accedere al servizio abitativo pubblico."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "E se ho un ISEE superiore di €30.000?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Mi spiace, ma il suo ISEE è oltre la soglia prevista. ",
+      "ground": "Il Comune assegnerà in locazione tali alloggi – per un massimo di 12 anni - a canone concordato agli Enti selezionati tramite procedura ad evidenza pubblica a seguito della presentazione di una proposta di progetto di welfare aziendale che, a loro volta, sublocheranno le unità abitative ai propri lavoratori di riferimento, con ISEE del nucleo familiare non superiore a € 26.000, selezionati sulla base dei criteri stabiliti con Deliberazione di Giunta Comunale n. 280 del 10/03/2023."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01120",
+  "doc_src": "madruzzo__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Che tipo di servizi posso offrire con tassonomia \"Attività e progetti formativi specifici per bambini\"?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Può fornire nelle scuole delle fasce orarie di anticipo e posticipo, offrire un servizio di colonia estiva oppure fornire degli incontri in cui si fanno laboratori per i compiti e altre attività creative.",
+      "ground": "Il Comune di Madruzzo grazie agli istituti scolastici presenti sul territorio ha potuto fornire fasce scolastiche nella scuola primaria di anticipo e posticipo.\n\n|||\n\nColonie estive per bambini e ragazzi realizzate in collaborazioni con cooperativa Kaleidoscopio, associazioni musicali e sportive.\n\n|||\n\nDESCRIZIONE: Il progetto consiste in 4 incontri che prevedono laboratori per i compiti e di altre attivitа creative rivolti a bambini dai 6 agli 11 anni (mesi di gennaio/febbraio 2021)."
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Grazie.",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Le serve altro?",
+      "ground": ""
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

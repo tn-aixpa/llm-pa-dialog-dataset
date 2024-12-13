@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00359",
+  "doc_src": "comune.milano_aree-tematiche_links_D0391.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Salve, potrebbe darmi informazioni su UrBES?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, UrBES ha come obiettivo quello di declinare a livello locale il BES (Benessere Equo e Sostenibile) Nazionale, analizzando gli aspetti rilevanti della qualità della vita dei cittadini, prestando attenzione alla distribuzione del benessere tra diversi soggetti e garantendo la salvaguardia dell'ambiente e dei beni per le generazioni future.",
+      "ground": "UrBES\nha come obiettivo quello di declinare a livello locale il\n[https://www.istat.it/it/benessere-e-sostenibilità](BES Nazionale)\nB\nenessere: analisi degli aspetti rilevanti della qualità della vita dei cittadini.\nE\nquo: attenzione alla distribuzione delle componenti del benessere tra diversi soggetti.\nS\nostenibile: salvaguardia dell’ambiente e dei beni liberi per le generazioni future."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E' possibile approfondire i singoli indicatori del BES?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Assolutamente, può approfondire indicatori come la salute, l'istruzione e formazione, il lavoro e la conciliazione dei tempi di vita, il benessere economico, le relazioni sociali, la politica e le istituzioni, la sicurezza, l'ambiente, la qualità dei servizi, il paesaggio e il patrimonio culturale, la ricerca e l'innovazione.",
+      "ground": "[https://www.comune.milano.it/aree-tematiche/dati-statistici/urbes/salute](Salute)\n[https://www.comune.milano.it/aree-tematiche/dati-statistici/urbes/istruzione-formazione](Istruzione e Formazione)\n[https://www.comune.milano.it/aree-tematiche/dati-statistici/urbes/lavoro-tempi-vita](Lavoro e Conciliazione Tempi di Vita)\n[https://www.comune.milano.it/aree-tematiche/dati-statistici/urbes/benessere-economico](Benessere Economico)\n[https://www.comune.milano.it/aree-tematiche/dati-statistici/urbes/relazioni-sociali](Relazioni Sociali)\n[https://www.comune.milano.it/aree-tematiche/dati-statistici/urbes/politica-e-istituzioni](Politica e Istituzioni)\n[https://www.comune.milano.it/aree-tematiche/dati-statistici/urbes/sicurezza](Sicurezza)\n[https://www.comune.milano.it/aree-tematiche/dati-statistici/urbes/ambiente](Ambiente)\n[https://www.comune.milano.it/aree-tematiche/dati-statistici/urbes/qualita-dei-servizi](Qualità dei Servizi)\n[https://www.comune.milano.it/aree-tematiche/dati-statistici/urbes/paesaggio-e-patrimonio-culturale](Paesaggio e Patrimonio Culturale)\n[https://www.comune.milano.it/aree-tematiche/dati-statistici/urbes/ricerca-e-innovazione](Ricerca e Innovazione)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Posso confrontare i dati con altre città?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Per confrontare con altre città, segua il link /web/guest/aree-tematiche/dati-statistici/urbes/confronti-con-altre-citta",
+      "ground": "Per consultare il comportamento di alcuni indicatori con le altre città accedere al seguente\n[/web/guest/aree-tematiche/dati-statistici/urbes/confronti-con-altre-citta](link)"
+    }
+  ],
+  "subcategory": "Milano"
+}

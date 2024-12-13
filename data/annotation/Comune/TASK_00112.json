@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_00112",
+  "doc_src": "comune.milano_aree-tematiche_D0131.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Salve, vorrei informazioni riguardo all'occupazione di strade e marciapiedi con elementi di arredo.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Quali informazioni desidera?",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Posso collocare tende ombrasole e fioriere di abbellimento sul marciapiede?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "E' possibile ma deve possedere un attività commerciale e chiedere una concessione a titolo precario per l'occupazione del suolo e dello spazio pubblico",
+      "ground": "La “concessione a titolo precario per occupazione del suolo e dello spazio pubblico” consente alle attività commerciali di collocare su strade e marciapiedi elementi di arredo urbano quali:\n\ntavoli e sedie\ntende solari\ntende ombrasole\npergolati\nombrelloni\nfioriere di abbellimento\nelementi di delimitazione quali paraventi, balaustre, cordoni ecc.\npedane, pavimentazioni, tappeti\ndehors (verande) stagionali e controventature\ngazebo\nfaretti, lampioncini e lanterne"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "E posso ampliare le dimensioni della mia attività con pergolati e gazebo?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "E' possibile se lei è titolare di licenza di somministrazione, artigiano o un esercizio di vicinato al quale è consentita l'occupazione di suolo.",
+      "ground": "La concessione, valida per un periodo superiore a un anno, è rilasciata a:\n\ntitolari di licenza di somministrazione\nartigiani\nesercizi di vicinato ai quali è consentita l’occupazione del suolo\n\ncon sede fissa e interessati ad:\n\nampliarne le dimensioni\naumentarne il richiamo\nabbellirla"
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Capito, grazie per le informazioni. Come posso consultare il calcolo del canone?",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "Per calcolare il canone dovuto, può consultare il servizio di Calcolo Canone unico al sito www.calcolocanone.it",
+      "ground": "Per determinare in pochi semplici passaggi il canone dovuto consulta il servizio di Calcolo Canone unico »(www.calcolocanone.it)"
+    },
+    {
+      "id": "T09",
+      "speaker": "Cittadino",
+      "message": "Perfetto, grazie mille per l'aiuto.",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agente",
+      "message": "È stato un piacere assistervi. Se avesse altre domande, non esiti a contattarci. Buona giornata!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

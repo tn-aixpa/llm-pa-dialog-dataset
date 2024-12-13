@@ -1,0 +1,22 @@
+{
+  "task_id": "TASK_00466",
+  "doc_src": "comune.trento_aree-tematiche_D0093.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Sto cercando delle informazioni sugli impianti di Asis, sa dirmi qualcosa?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Le posso consigliare di consultare la risorsa alla pagina http://www.asis.trento.it/it/impianti/",
+      "ground": "[http://www.asis.trento.it/it/impianti/](Asis - Azienda speciale per la gestione degli impianti sportivi)"
+    }
+  ],
+  "subcategory": "Trento"
+}

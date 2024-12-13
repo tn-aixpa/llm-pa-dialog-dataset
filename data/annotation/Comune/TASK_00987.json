@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00987",
+  "doc_src": "comune.trento_aree-tematiche_D0141.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Cosa si intende per vendita al dettaglio in spacci interni?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Per vendita al dettaglio in spacci interni si intende la vendita effettuata in specifici contesti, come ad esempio a favore di dipendenti di enti o imprese, militari, soci di cooperative di consumo, aderenti a circoli privati, nelle scuole e negli ospedali solo per coloro che hanno diritto ad accedervi, nei cinema e teatri riservata agli spettatori, nei musei per i visitatori, negli alberghi esclusivamente per gli alloggiati, e in altri luoghi pubblici o privati con accesso riservato a determinate categorie o con modalità particolari come il pagamento di un biglietto.",
+      "ground": "Per vendita in spacci interni si intende la vendita al dettaglio effettuata:\na favore di dipendenti da enti o imprese, pubblici o privati;\na favore di militari;\na favore di soci di cooperative di consumo;\na favore di aderenti a circoli privati;\nnelle scuole, esclusivamente a favore di coloro che hanno titolo ad accedervi;\nnegli ospedali, esclusivamente a favore di coloro che hanno titolo ad accedervi;\nnei cinema, teatri e altri luoghi destinati ad accogliere attività di rappresentazione o\nspettacolo, esclusivamente a favore degli spettatori;\nnei musei, esclusivamente a favore dei visitatori (fatte salve le norme speciali di cui alla Legge 14.01.1993 numero 4 e al Decreto Ministeriale 24.03.1997 numero 139);\nnegli alberghi ed altre strutture ricettive, esclusivamente a favore degli alloggiati (fatte salve le norme speciali vigenti);\nnegli altri luoghi, pubblici o privati, assimilabili (accesso riservato a determinate categorie di soggetti o sottoposto a particolari modalità quali il pagamento di un biglietto)."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Dove è consentito lo spaccio interno?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Lo spaccio interno è consentito nei locali sopra menzionati che non sono aperti al pubblico né hanno accesso diretto alle strade pubbliche.",
+      "ground": "I locali nei quali è effettuata la vendita di cui al precedente comma non devono essere aperti al pubblico né devono avere accesso diretto dalla pubblica via."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Cosa bisogna fare per aprire uno spaccio interno?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Non sono in grado di fornirti direttamente questa informazioni. Potresti trovare quello che cerchi al seguente link: https://www.comune.trento.it/Aree-tematiche/Attivita-economiche/Commercio-su-area-privata/Forme-speciali-di-vendita/Spacci-interni/Nuova-apertura-di-uno-spaccio-interno .",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Attivita-economiche/Commercio-su-area-privata/Forme-speciali-di-vendita/Spacci-interni/Nuova-apertura-di-uno-spaccio-interno](Nuova apertura di uno spaccio interno)"
+    }
+  ],
+  "subcategory": "Trento"
+}

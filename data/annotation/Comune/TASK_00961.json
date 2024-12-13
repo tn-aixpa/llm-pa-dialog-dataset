@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00961",
+  "doc_src": "comune.milano_aree-tematiche_links_D0339.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Ci sono servizi per la protezione delle vittime verso il traffico di esseri umani?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Sì, il progetto \"VISA RoC - Safe Reporting\" si pone l'obiettivo di identificare e promuovere percorsi di accesso alla giustizia per le persone migranti con status irregolare che siano state vittime o testimoni di reati, con particolare attenzione alle vittime di tratta di esseri umani e di violenza di genere.",
+      "ground": "Il Comune di Milano, nell’ambito del Programma Quadro Europeo per la Ricerca e l'Innovazione UE (Horizon Europe) ha partecipato, in consorzio internazionale con varie città, enti del terzo settore e istituti accademici europei, al progetto\n\"VISA RoC - Safe Reporting\".\nIl programma si pone l’obiettivo di identificare e promuovere dei percorsi di accesso alla giustizia (denuncia sicura) per le persone migranti con status irregolare che siano state vittime o testimoni di reati, con particolare attenzione alle vittime di tratta di esseri umani e di violenza di genere."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Ci sono anche dei servizi di protezione per le vittime?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Sì, ci sono dei servizi di protezione per le vittime che includono accoglienza e pronto intervento, ospitalità in strutture protette o appartamenti, interventi educativi, tirocini lavorativi e corsi di italiano.",
+      "ground": "Accoglienza e pronto intervento a chiunque abbia denunciato o intenda denunciare la rete criminale dedita al traffico delle persone;\nospitalità in strutture protette ad indirizzo segreto nel periodo di iniziale fuoriuscita dal circuito dello sfruttamento;\nospitalità in appartamenti nella fase di acquisizione di una completa autonomia;\ninterventi educativi di accompagnamento all'inserimento sociale di coloro che, pur usufruendo di un contesto abitativo proprio, debbano essere sostenuti nel processo di integrazione socio-lavorativa;\nattivazione di tirocini lavorativi e borse lavoro;\ncorsi di italiano;\nprogetti educativi individualizzati e finalizzati al reinserimento sociale."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "E' disponibile un link per approfondimenti?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Sì, per saperne di più puoi accedere al link https://www.safereporting.eu/safe-milano/ .",
+      "ground": "Se vuoi saperne di più, clicca\nhttps://www.safereporting.eu/safe-milano/\n."
+    }
+  ],
+  "subcategory": "Milano"
+}

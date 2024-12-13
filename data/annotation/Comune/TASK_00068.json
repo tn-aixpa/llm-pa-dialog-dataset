@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00068",
+  "doc_src": "comune.milano_aree-tematiche_D0090.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, potrebbe dirmi se le biblioteche di pubblica lettura sono aperte al pubblico?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Sì, le biblioteche di pubblica lettura sono aperte da lunedì a sabato con orario continuato.",
+      "ground": "Le bibilioteche sono aperte da lunedì a sabato con orario continuato e offrono accesso gratuito a libri e contenuti multimediali, quotidiani e riviste, risorse digitali e banche dati."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Offrono anche servizi come postazioni internet e attività culturali?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Certamente, ci sono anche aree dedicate e attività dedicate a bambini e ragazzi, oltre che gruppi di lettura e molto altro.",
+      "ground": "Principali servizi:\n\ninformazioni bibliografiche e di comunità;\nprestito e consultazione;\nlettura e studio in spazi attrezzati;\npostazioni internet e wifi;\naree per bambini e ragazzi;\nMediaLibraryOnLine (MLOL);\nattività culturali per adulti e ragazzi;\ngruppi di lettura."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Ci sono servizi online?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Sì, è possibile consultare le biblioteche online o leggere libri online.",
+      "ground": "Biblioteche: consulenza online\n\nModalità di accesso al servizio:\n\nOnline\n\nModalità di accesso al servizio:\n\nOnline"
+    }
+  ],
+  "subcategory": "Milano"
+}

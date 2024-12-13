@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01016",
+  "doc_src": "comSalerno0882.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Chi può partecipare alla realizzazione del progetto P.I.A.T?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Se intendi il progetto \"P.I.A.T. Balnea – Percorsi Innovativi Accessibili per il Turismo Balneare\", possono partecipare alla realizzazione i soggetti del Terzo Settore che siano in possesso dei requisiti generali e di capacità tecnico-professionale.",
+      "ground": "Pubblicata la determina n. 3181 del 07/06/2023 di approvazione di un Avviso pubblico per l’individuazione di soggetti del Terzo Settore, in possesso dei requisiti generali e di capacità tecnico-professionale, che manifestino la disponibilità alla co-progettazione e alla realizzazione del Progetto “P.I.A.T. Balnea – Percorsi Innovativi Accessibili per il Turismo Balneare”."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Si può presentare la documentazione in un ufficio?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Mi dispiace ma non sono in grado di fornire questa informazione.",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Quando si può presentare domanda?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Non sono in grado di dirti qual è la data di inizio, ma l'invio della domanda è da farsi entro il 15 Giugno ore 16.",
+      "ground": "Le domande di partecipazione  dovranno pervenire entro e non oltre il giorno 15/06/2023 alle ore 16,00 esclusivamente attraverso consegna a mezzo PEC al seguente indirizzo: "
+    }
+  ],
+  "subcategory": "Salerno"
+}

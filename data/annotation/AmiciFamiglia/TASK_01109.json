@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01109",
+  "doc_src": "fiave'__2023.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "A che tipo diattività potrei offrire sostegni tariffari?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Potrebbe offrire sostegni tariffari alle seguenti attività:\n- Associazioni;\n- Scuola e sport;\n- sci;\n- nuoto.",
+      "ground": "TITOLO: Contributi alle associazioni\n\n|||\n\nTITOLO: Scuola e sport\n\n|||\n\nTITOLO: Sostegno allo sci"
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Hai anche delle proposte culturali?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Sì, in seguito le propongo una lista di azioni con tassonomia \"Proposte culturali: museo, cinema, teatro, arte ecc.\":\n- Ecomuseo delle Giudicarie\n- Socializzazione, ambiente, tradizione e cultura\n- Universitа della Terza Etа e del tempo Disponibile",
+      "ground": "TITOLO: Socializzazione, ambiente, tradizione e cultura\n\n|||\n\nTITOLO: Universitа della Terza Etа e del tempo Disponibile\n\n|||\n\nTITOLO: Ecomuseo delle Giudicarie"
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Cosa intendi per la seconda azione?",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Per la seconda azione, si intende un sostegno alle Pro Loco locali, nonché al gruppo Giovani e al gruppo Alpini  e altri, per aiutarli nell'organizzazioni di attività, serate e manifestazioni atte a riscoprire ambiente e tradizioni locali.",
+      "ground": "DESCRIZIONE: Sostegno alla Pro Loco di Fiavй, al Gruppo Giovani, al Gruppo Alpini, alla Compagnia Schuetzen 3 Pief per l'organizzazione di attivitа, serate , manifestazioni per riscoprire l'ambiente e le tradizioni locali."
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

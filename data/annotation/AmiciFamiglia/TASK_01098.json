@@ -1,0 +1,94 @@
+{
+  "task_id": "TASK_01098",
+  "doc_src": "codogne'__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Cosa mi consiglia di azione con tassonomia \"Ambulatori e servizi sanitari\"?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Può offrire un servizio di consulenza psicologica finalizzato a supportare minori e famiglie, oltre che valutare e gestire situazioni complesse.",
+      "ground": "DESCRIZIONE: Il Servizio di consulenza psicologica è finalizzato al supporto all’equipe neIl’eIaborare progettualitа rivolte a minor i e famiglie. Punta altresм alla valutazione e gestione di situazione complesse, caratterizzate anche da elevata conflittualitа genitoriale e/o con decreto di affidamento al servizio sociale da parte dell’autoritа giudiziaria."
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Mi darebbe il testo originale dell'azione?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "In seguito il testo dell'azione.\n\nTITOLO: Consulenza psicologica\n\nTASSONOMIA: Ambulatori e servizi sanitari\n\nDESCRIZIONE: Il Servizio di consulenza psicologica è finalizzato al supporto all’equipe neIl’eIaborare progettualitа rivolte a minor i e famiglie. Punta altresм alla valutazione e gestione di situazione complesse, caratterizzate anche da elevata conflittualitа genitoriale e/o con decreto di affidamento al servizio sociale da parte dell’autoritа giudiziaria.\n\n",
+      "ground": ""
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Bene grazie.",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Le serve altro?",
+      "ground": ""
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "Che azione potrei scrivere per offrire contributi per la compera di legna?",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "Mi spiace ma non sono in grado di fornire suggerimenti.",
+      "ground": ""
+    },
+    {
+      "id": "T9",
+      "speaker": "Citizen",
+      "message": "Ha proposte per facilitare la vita degli anziani?",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agent",
+      "message": "Potrebbe fornire un servizio di pasti a domicilio per persone anziane, invalide o adulti in difficoltà. Per limitare possibili abusi può chiedere di dover fare una richiesta che verrà valutata dai Servizi Sociali del Comune.",
+      "ground": "DESCRIZIONE: Il Servizio pasti a domicilio consiste nella consegna, da parte di un operatore dei pasti caldi presso l'abitazione di persone anziane, invalido ed adulti che si trovano in contingenti situazioni di parziale o totale non autosufficienza o incapaci di prepararsi sufficienti ed equilibrati pasti. La richiesta va presentata all’Ufficio Servizi Sociali del Comune, verrа valutata la necessitа e autorizzata l'erogazione del servizio."
+    },
+    {
+      "id": "T11",
+      "speaker": "Citizen",
+      "message": "Sembra una buona idea.",
+      "ground": ""
+    },
+    {
+      "id": "T12",
+      "speaker": "Agent",
+      "message": "Ha bisogno di altro.",
+      "ground": ""
+    },
+    {
+      "id": "T13",
+      "speaker": "Citizen",
+      "message": "No.",
+      "ground": ""
+    },
+    {
+      "id": "T14",
+      "speaker": "Agent",
+      "message": "Buona giornata allora.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

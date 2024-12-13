@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00440",
+  "doc_src": "comune.trento_aree-tematiche_D0051.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, qual è la procedura per richiedere l'autorizzazione allo scarico?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Può trovare tutte le informazioni e la modulistica necessaria al seguente link https://www.novareti.eu/content/modulistica-per-gli-impianti-ecologici .",
+      "ground": "Informazioni inerenti la procedura per richiedere l'autorizzazione o il parere allo scarico, e relativa modulistica disponibile al seguente link:\n[https://www.novareti.eu/content/modulistica-per-gli-impianti-ecologici](https://www.novareti.eu/content/modulistica-per-gli-impianti-ecologici)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

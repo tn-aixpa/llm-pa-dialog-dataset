@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00833",
+  "doc_src": "comune.salerno_D0127.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Quali sono gli aggiornamenti sulla situazione riguardante la sistemazione di Piazza Cavour?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Al momento l'iter amministrativo e legale per la risoluzione della convenzione con il concessionario è ancora in corso. La decisione verrà presa lunedì prossimo dalla Giunta Comunale. Ci sono stati tentativi da parte della Giunta Comunale di trovare una soluzione adeguata affinché i parcheggi venisero realizzati ma non si è riusciti a trovare una soluzione adeguata.",
+      "ground": "Avviato l'iter amministrativo e legale finalizzato alla risoluzione, per inadempimento del concessionario, della convenzione per la progettazione, esecuzione e gestione dell'intervento di \"Sistemazione piazza e realizzazione parcheggi in Piazza Cavour”. La decisione verrà assunta dalla Giunta Comunale lunedì prossimo."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quindi non ci sono ancora novità su quando verranno realizzati i parcheggi e la sistemazione della piazza?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Al momento si è deciso di procedere per vie legali. Questo permetterà alla gente di tornare a frequentare la piazza.",
+      "ground": "Pertanto, la Civica Amministrazione ha deciso di adire le vie legali, restituendo ai concittadini e visitatori una delle piazze più belle del lungomare salernitano, risolvendo, così, tutte le problematiche determinate dall'inadempienza del concessionario."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

@@ -1,0 +1,40 @@
+{
+  "task_id": "TASK_00160",
+  "doc_src": "comune.milano_aree-tematiche_D0186.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sul ponte di Via Farini. Posso passare con la macchina?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, dal 5 Settembre il ponte è normalmente percorribile dal trasposto pubblico.",
+      "ground": "Il 5 settembre è stato riaperto il ponte di via Farini come da cronoprogramma e ha ripreso la circolazione sia dei veicoli che del trasporto pubblico."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Capito, e per i parcheggi e la sosta in zona, ci sono delle restrizioni?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Non mi risulta che ci siano parcheggi in zona.",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

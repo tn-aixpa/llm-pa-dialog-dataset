@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00733",
+  "doc_src": "comune.trento_aree-tematiche_D0583.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Buongiorno, vorrei chiedere informazioni su come ottenere un permesso temporaneo per vendere area pubblica durante una manifestazione. È possibile?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Buongiorno, sì, è possibile in occasione di ricorrenze tradizionali o di manifestazioni straordinarie. Per ottenere l'autorizzazione è necessario presentare la domanda. ",
+      "ground": "La domanda deve essere presentata per ottenere l'autorizzazione alla vendita con occupazione di un posteggio su area pubblica in occasione di ricorrenze tradizionali o di manifestazioni straordinarie o di particolare interesse. L'autorizzazione è valida per la sola durata delle predette manifestazioni."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "E per quanto tempo sarebbe valida questa autorizzazione?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "L'autorizzazione è valida solo per la durata delle manifestazioni indicate.",
+      "ground": "L'autorizzazione è valida per la sola durata delle predette manifestazioni."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Come posso fare la domanda per questa richiesta?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Mi spiace ma non sono in grado di fornire questa risposta.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

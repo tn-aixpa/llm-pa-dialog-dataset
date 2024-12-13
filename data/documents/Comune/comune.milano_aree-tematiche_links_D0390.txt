@@ -1,0 +1,28 @@
+Sei statistiche per la storia della città
+Come è cambiata Milano? Sei statistiche descrivono la storia della città, attraverso indicatori economici e demografici.
+Per gli indicatori
+demografici
+abbiamo:
+•    I dati della popolazione
+residente
+dal 1880 al 2022, dove si assiste ad una crescita stabile dei residenti fino al 1973 e poi ad una lenta decrescita.
+•    I
+nati vivi residenti
+, dove si registra una contrazione delle nascite in concomitanza dei periodi bellici, un incremento di natalità a partire dagli anni Cinquanta e una curva discendente dal 1970
+•    I
+matrimoni
+, dove a partire dagli anni Settanta si è in presenza di una costante diminuzione delle coppie che formalizzano l’unione mentre, a partire dagli anni Duemila, al prevalere del rito civile su quello religioso.
+Per gli indicatori
+economic
+i si propone:
+•    Il tasso di
+inflazione
+, ossia l’incremento dei prezzi di beni e servizi essenziali al consumo per Milano . Si possono notare picchi di contrazione del potere d’acquisto negli anni Settanta e Ottanta e la successiva costante diminuzione del tasso di inflazione a partire dagli anni Novanta circa.
+•    Per l’
+occupazione
+, i dati ISTAT di Milano e Lombardia. Viene descritto il rapporto tra il numero degli occupati e l’intera popolazione residente. Si può notare che la curva di crescita è costante dal 1995, con le quasi sole eccezioni del 2008 e fine 2019
+•    Il tasso di
+disoccupazione
+, che riporta i dati ISTAT sul numero di disoccupati a Milano e in Lombardia rispetto alla forza lavoro residente, calcolata nella fascia di età tra i 15 e i 74 anni. Il tasso di disoccupazione ha un andamento abbastanza continuo per la Lombardia e discontinuo per Milano.
+Per approfondimenti, consultare e scaricare i dati:
+[https://dati.comune.milano.it/sei_statistiche_per_la_storia_della_citta/sei_statistiche.html](OpenDataComuneMilano)

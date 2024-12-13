@@ -1,0 +1,34 @@
+{
+  "task_id": "TASK_00623",
+  "doc_src": "comune.trento_aree-tematiche_D0364.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Vorrei informazioni sui nidi d'infanzia.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, per informazioni su sui nidi per l'infanzia le suggerisco di consultare il link /Comune/Organizzazione-comunale/Organigramma/Uffici/Servizi-per-l-infanzia-e-istruzione .",
+      "ground": "per informazioni sui nidi d'infanzia e gli altri servizi prima infanzia 0-3 anni, scuole dell'infanzia, primarie e secondarie di primo grado rivolgersi all'ufficio\n[/Comune/Organizzazione-comunale/Organigramma/Uffici/Servizi-per-l-infanzia-e-istruzione](Servizi per l'infanzia e istruzione)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E per quanto riguarda l'assistenza scolastica?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Per informazioni sull'assistenza scolastica può rivolgersi alla Comunità della Valle dei Laghi nel link http://www.comunita.valledeilaghi.tn.it/Aree-Tematiche/Istruzione/Contatti.",
+      "ground": "per informazioni sull'assistenza scolastica rivolgersi alla\n[http://www.comunita.valledeilaghi.tn.it/Aree-Tematiche/Istruzione/Contatti](Comunità della Valle dei Laghi)"
+    }
+  ],
+  "subcategory": "Trento"
+}

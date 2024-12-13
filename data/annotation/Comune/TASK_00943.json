@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00943",
+  "doc_src": "comune.milano_aree-tematiche_links_D0231.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Che servizi offre Milano per la sicurezza dei cittadini?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Milano offre diversi servizi per la sicurezza dei cittadini, tra cui la possibilità di aderire all'Anagrafe Telecamere per la videosorveglianza, corsi di autodifesa femminile con il progetto \"Sicurezza in Rosa\", supporto per reati come lo stalking e le violenze con servizi di mediazione, sostegno e prevenzione, la segnalazione di reati contro donne e minori e il Trattamento Sanitario Obbligatorio (TSO).",
+      "ground": "[https://www.comune.milano.it/servizi/aderisci-all-anagrafe-telecamere](Aderisci all'Anagrafe Telecamere)\n[https://www.comune.milano.it/servizi/come-recuperare-una-bici-rubata](Come recuperare una bici rubata)\n\n|||\n\n[https://www.comune.milano.it/servizi/corsi-di-autodifesa-femminile-sicurezza-in-rosa](Corsi di autodifesa femminile | Sicurezza in Rosa)\n\n|||\n\n[https://www.comune.milano.it/servizi/reati-stalking-violenze-mediazione-sostegno-prevenzione](Reati, stalking, violenze: mediazione, sostegno, prevenzione)\n\n|||\n\n[https://www.comune.milano.it/servizi/difesa-contro-la-violenza-su-donne-e-minori](Segnala reati contro donne e minori)\n\n|||\n\n[https://www.comune.milano.it/servizi/trattamento-sanitario-obbligatorio-tso](Trattamento Sanitario Obbligatorio TSO)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Come si può accedere ai corsi di autodifesa femminile offerti dal progetto \"Sicurezza in Rosa\"?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Per accedere ai corsi di autodifesa femminile ti consiglio di consultare il link https://www.comune.milano.it/servizi/corsi-di-autodifesa-femminile-sicurezza-in-rosa",
+      "ground": "[https://www.comune.milano.it/servizi/corsi-di-autodifesa-femminile-sicurezza-in-rosa](Corsi di autodifesa femminile | Sicurezza in Rosa)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Per il Servizio Sanitario Obbligatorio invece?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Puoi trovare informazioni dettagliate sul Servizio Sanitario Obbligatorio al link: https://www.comune.milano.it/servizi/trattamento-sanitario-obbligatorio-tso",
+      "ground": "[https://www.comune.milano.it/servizi/trattamento-sanitario-obbligatorio-tso](Trattamento Sanitario Obbligatorio TSO)"
+    }
+  ],
+  "subcategory": "Milano"
+}

@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_01044",
+  "doc_src": "Plan_57667.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Devo scrivere un nuovo piano per il mio Comune, come mi consigli di iniziare?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Un buon inizio può essere citare il piano \"Happy Family\" e dare delle informazioni relativo ad esso, di cosa si occupa e le sue finalità. Se è il vostro caso, può essere anche importante evidenziare come il piano segua la tassonomia dell'Agenzia della famiglia e darne una breve descrizione.",
+      "ground": "Il piano Happy Family 2021 è una ricognizione di interventi, progetti, servizi e politiche che direttamente e trasversalmente interessano le famiglie, avendo come finalitа generali e specifiche quelle descritte nel paragrafo successivo in coerenza con il contesto complessivo di “governance” enunciato negli “Indirizzi generali di governo del Sindaco Francesco Valduga” approvati con deliberazione consiliare n. 49 dd. 9 dicembre 2021.\n\n|||\n\n\nLa stesura del piano è stata formulata seguendo la tassonomia tematica, proposta dall’Agenzia della famiglia, che organizza gli interventi in macro-ambiti, ognuno articolato in numerosi paragrafi. Questa classificazione ha consentito di recuperare e valorizzare numerose azioni dell’Amministrazione Comunale che non erano state evidenziate nei precedenti piani."
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Sono spunti davvero buoni. Grazie.",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Il piacere è mio. C'è altro che desidera?",
+      "ground": ""
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Mi potrebbe fare un esempio di alcune azioni?",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Certo, le riporto alcuni titoli di azioni:\n- Sistemi premianti nella scelta dei fornitori;\n- Alloggi pubblici;\n- Sale e spazi per le associazioni;\n- Strumenti e sistemi informativi (newsletter siti web app notiziari).",
+      "ground": "TITOLO: Sistemi premianti nella scelta dei fornitori\n\n|||\n\nTITOLO: Alloggi pubblici\n\n|||\n\nTITOLO: Sale e spazi per le associazioni\n\n|||\n\n"
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "Mi potrebbe dire di più sull'ultima azione?",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "Certo. L'azione si pone di realizzare una nuova rivista di informazione del Comune, consultabile via web e forse anche cartaecea.",
+      "ground": "OBIETTIVO: E’ in via di definizione e realizzazione la nuova rivista di informazione del Comune di Rovereto, che sarа consultabile in forma digitale sul portale web istituzionale e, auspicabilmente, distribuito gratuitamente nei centri di aggregazione (associazioni, circoscrizioni, ambulatori medici etc)."
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00128",
+  "doc_src": "comune.milano_aree-tematiche_D0149.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei avere informazioni su come aprire una struttura socio assistenziale.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "La Regione Lombardia ha stabilito norme e modalità che i gestori devono seguire per l’apertura di tali strutture. I dettagli sono nella Legge Regionale n. 3/2008 e nelle modifiche apportate dal Decreto della Direzione Generale Famiglia e Solidarietà Sociale n.1254/2010",
+      "ground": "La Regione Lombardia ha stabilito norme e modalità che i gestori devono seguire per l’apertura di strutture socio assistenziali (Legge Regionale n. 3/2008 e, successivamente, Decreto della Direzione Generale Famiglia e Solidarietà Sociale n. 1254/2010)."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Se volessi aprire una struttura sociale sperimentale, a chi mi rivolgo?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "In caso di apertura o modifica, deve rivolgersi direttamente alle Direzioni del Comune di Milano che hanno istituito la sperimentazione.",
+      "ground": "I Soggetti Gestori che intendano aprire o modificare una struttura sperimentale dovranno rivolgersi direttamente alle Direzioni del Comune di Milano che hanno istituito la sperimentazione."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni, credo di avere capito cosa devo fare. Buona giornata.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È stato un piacere poterla aiutare. A lei.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

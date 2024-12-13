@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00311",
+  "doc_src": "comune.milano_aree-tematiche_links_D0343.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei avere informazioni sulla salute mentale a Milano.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, a Milano l'unitò Salute Mentale realizza attività che promuovono inclusione sociale, vita autonoma e contrasto alle discriminazioni. Ne è un esempio l'evento Milano4mentalhealth 2023",
+      "ground": "L’unità Salute Mentale si impegna alla realizzazione di attività volte all'inclusione sociale, alla vita autonoma e alla promozione di iniziative a contrasto di qualsiasi forma di discriminazione, nell'obiettivo più ampio di sancire il diritto ad un benessere esistenziale, alla vita, al lavoro.\n\n|||\n\nQueste le ragioni alla base del\nMilano4mentalhealth 2023\n, l’evento che  promuove e valorizza tante iniziative sul tema del benessere psicologico. La scelta di ottobre, il mese della\nGiornata mondiale della Salute mentale\n, è riprova dell’impegno dell’Amministrazione sul tema, nonché della volontà di fare rete con tutti gli attori del territorio."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Ci sono dei fondi dati per mettere in atto queste idee?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, il Comune attualmente finanzia interventi come assistenza economica, buoni pasto, cura dell'ambiente, assistenza domiciliare, soggiorni terapeutici e altro ancora per i cittadini milanesi che hanno bisogno di supporto psichiatrico.",
+      "ground": "Attualmente il Comune di Milano finanzia gli interventi previsti dal Fondo Sociale per la Salute Mentale a partire dalla programmazione dei Dipartimenti di Salute mentale e Dipendenze (DSMD) che propongono gli interventi socio assistenziali nell’area della malattia mentale per i cittadini milanesi che hanno in carico nei loro servizi psichiatrici."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie per le spiegazioni. E per quanto riguarda l'accesso ai trattamenti sanitari obbligatori?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "L'ufficio comunale si occupa di ottemperare agli obblighi di legge in materia di trattamenti sanitari obbligatori.",
+      "ground": "L’ufficio comunale provvede ad ottemperare agli obblighi di legge in materia di trattamenti ed accertamenti sanitari obbligatori."
+    }
+  ],
+  "subcategory": "Milano"
+}

@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00241",
+  "doc_src": "comune.milano_aree-tematiche_links_D0270.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, potrebbe darmi informazioni su MilanoSifastoria?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, MilanoSifastoria è un progetto promosso dal Comune di Milano e dalla Rete \"Milanosifastoria\" per promuovere la cultura e la formazione storica nell'area milanese. ",
+      "ground": "Milanosifastoria\nè un progetto, lanciato nel 2014 e promosso da Comune di Milano e Rete \"Milanosifastoria\", finalizzato al rilancio della cultura e della formazione storica nell'area milanese."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Il progetto è stato approvato?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, il progetto è stato approvato dalla Giunta Comunale e ha portato a un Protocollo di Intesa fra tre Assessorati e i soggetti della Rete.",
+      "ground": "Il progetto è stato approvato dalla Giunta Comunale e ha portato a un Protocollo di Intesa fra tre Assessorati – Cultura, Educazione e Politiche per il lavoro – e i soggetti della Rete."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Ci sono iniziative legate all'anniversario dell'inizio della Resistenza italiana?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Sì, ci sono iniziative legate all'occorrenza del 80° anniversario dall'inizio della Resistenza italia e della Repubblica Sociale Italiana.",
+      "ground": "Accanto ai consolidati progetti (Cinema e Storia), format (Le Milano di…) e filoni tematici, questa edizione propone alcuni cicli di iniziative su tematiche legate all’80° anniversario dell’inizio della Resistenza italiana e della Repubblica Sociale Italiana, al 150° dell’aggregazione del Comune dei Corpi Santi al Comune di Milano e al Centenario della ulteriore aggregazione di altri 11 “Comuni contermini”."
+    }
+  ],
+  "subcategory": "Milano"
+}

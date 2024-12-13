@@ -1,0 +1,40 @@
+{
+  "task_id": "TASK_00050",
+  "doc_src": "comune.milano_aree-tematiche_D0072.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei avere informazioni sulla gestione e la manutenzione degli immobili di Edilizia Residenziale Pubblica.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Il patrimonio immobiliare di Edilizia Residenziale Pubblica è gestito dalla Società MM Spa, che si occupa della gestione amministrativa e contabile, dei rapporti con l'utenza e delle manutenzioni ordinarie e straordinarie.",
+      "ground": "Il patrimonio immobiliare di Edilizia Residenziale Pubblica, di proprietà del Comune di Milano, che comprende circa 30.000 unità tra abitazioni ed usi diversi, è stato affidato in gestione alla Società MM Spa con la convenzione, di durata trentennale, stipulata in data 30 giugno 2015.\nAlla predetta Società - che agisce in nome e per conto del Comune di Milano - competono le funzioni di property management, ovvero la gestione amministrativa e contabile, i rapporti con l’utenza, i cambi alloggio, i piani di mobilità e le funzioni di facility management, ossia la gestione di tutti i servizi e le forniture e le manutenzioni ordinarie e straordinarie."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quindi la Società MM Spa si occupa anche della manutenzione straordinaria degli immobili?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, il Comune pianifica gli interventi di manutenzione straordinaria in base alle necessità e alle priorità indicate da Metropolitana Milanese Casa.",
+      "ground": "Sulla base delle necessità e le priorità di intervento indicate da Metropolitana Milanese Casa, Il Comune di Milano pianifica gli interventi di manutenzione straordinaria sul proprio patrimonio residenziale attraverso:"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Capito, grazie per le informazioni.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

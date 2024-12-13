@@ -1,0 +1,34 @@
+{
+  "task_id": "TASK_00535",
+  "doc_src": "comune.trento_aree-tematiche_D0217.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, potrebbe darmi informazioni sul referendum sulla qualificazione come posto biologico?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Il referendum di Domenica 26 settembre è di tipo propositivo e vuole interrogare la popolazione sulla qualificazione come distretto biologico del territorio agricolo della provincia di Trento.\n\nIl quesito posto sulla scheda è il seguente:\n\nVolete che, al fine di tutelare la salute, l'ambiente e la biodiversità, la Provincia Autonoma di Trento disciplini l'istituzione su tutto il territorio agricolo provinciale di un distretto biologico, adottando iniziative legislative e provvedimenti amministrativi – nel rispetto delle competenze nazionali ed europee – finalizzati a promuovere la coltivazione, l'allevamento, la trasformazione, la preparazione alimentare e agroindustriale dei prodotti agricoli prevalentemente con i metodi biologici, ai sensi dell’articolo 13 del decreto legislativo 228/2001, e compatibilmente con i distretti biologici esistenti?",
+      "ground": "Domenica 26 settembre 2021 si svolgerà il referendum provinciale propositivo sulla\nqualificazione come distretto biologico del territorio agricolo della provincia di Trento\n.\nIl quesito indicato sulla scheda è il seguente:\n“\nVolete che, al fine di tutelare la salute, l'ambiente e la biodiversità, la Provincia Autonoma di Trento disciplini l'istituzione su tutto il territorio agricolo provinciale di un distretto biologico, adottando iniziative legislative e provvedimenti amministrativi – nel rispetto delle competenze nazionali ed europee – finalizzati a promuovere la coltivazione, l'allevamento, la trasformazione, la preparazione alimentare e agroindustriale dei prodotti agricoli prevalentemente con i metodi biologici, ai sensi dell’articolo 13 del decreto legislativo 228/2001, e compatibilmente con i distretti biologici esistenti?\n”"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quindi, se ho capito bene, il quesito chiede se si desidera che vengano adottate iniziative legislative e provvedimenti amministrativi?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Esattamente.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

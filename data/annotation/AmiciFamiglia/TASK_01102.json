@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_01102",
+  "doc_src": "consorzio_intercomunale_di_servizi_(c.i.dis.)__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Buongiorno.",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Buongiorno, c'è qualcosa che vorrebbe chiedere?",
+      "ground": ""
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Che azione posso scrivere con etichetta \"Carta dei Servizi\"?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Può scrivere un azione il cui obiettivo è di sostenere le famiglie con attenzione particolare a quelle più numerose o vulnerabili. Può arrivare a questo obiettivo costruendo un gruppo di progettazione per la creazione della Carta della Famiglia come sostegno e promozione di opportunità e benefici.",
+      "ground": "OBIETTIVO: Sostenere le famiglie con attenzione particolare a quelle più numerose e/o vulnerabili\n\nDESCRIZIONE: • Costituzione di un gruppo di progettazione per I’ideazione di una Carta della Famiglia quale strumento per il sostegno e per la promozione di opportunitа e benefici di carattere sociale, educativo, commerciale, culturale e sportivo."
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Hai anche proposte per scrivere un'azione sulla cittadinanza giovanile?",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Può incentivare la solidarietà nei confronti dei cittadini più fragili e la comunità in cui vivono, nonché esperienze di rigenerazione ambientale e attivare circoli virtuosi di dare-ricevere.\n\nQuesti obiettivi si possono sviluppare verso i servizi alla personale, ambientali, sportivi, culturali e commerciali.\n\nSe dovesse scrivere un'azione ispirata al testo sopra, le consiglio di mettere come tassonomia \"Progetti di partecipazione attiva di bambini, ragazzi e giovani (consiglio comunale dei ragazzi..)\"",
+      "ground": "TASSONOMIA: Progetti di partecipazione attiva di bambini, ragazzi e giovani (consiglio comunale dei ragazzi..)\n\nOBIETTIVO: Promuovere la cittadinanza attiva dei giovani del territorio, responsabilizzandoli alla solidarietа nei confronti dei cittadini più fragili e verso la comunitа in cui vivono;\n\nPromuovere esperienze di rigenerazione ambientale, materiale e immateriale;\n\nAttivare circoli virtuosi di reciproco scambio dare-ricevere\n\nDESCRIZIONE: Diverse sono le aree in cui I 'azione potrebbe svilupparsi:\n\nservizi alia persona (minori, anziani, disabilitа)\n\nambientale (aree verdi, parchi, rigenerazione, riciclo…)\n\nsportiva (associazionismo)\n\nculturale (associazionismo, biblioteche)\n\ncommerciale (negozi, imprese, …) con la progettazione di una card per i cittadini tra i 18 e i 25 anni che potrebbe assicurare alcuni benefit: scontistica, buoni acquisto, accesso gratuito a corsi sportivi culturali e/o servizi…"
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "Lo farò sicuramente.",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "Vuole sapere altro?",
+      "ground": ""
+    },
+    {
+      "id": "T9",
+      "speaker": "Citizen",
+      "message": "No, sono a posto grazie.",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agent",
+      "message": "Grazie a lei, buona serata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

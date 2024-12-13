@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00234",
+  "doc_src": "comune.milano_aree-tematiche_links_D0263.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni riguardo alle iscrizioni alle scuole elementari.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, posso aiutarla. Le iscrizioni per l'anno scolastico 2024-2025 sono aperte dalle 8:00 del 18 gennaio alle 20:00 del 10 febbraio 2024. I genitori devono iscrivere i bambini che compiono 6 anni entro il 31 dicembre 2024 alla prima classe della scuola primaria statale o paritaria.",
+      "ground": "In Italia, l'istruzione scolastica è obbligatoria per almeno 10 anni, a partire dal sesto anno di età (prima classe della scuola primaria), come specificato dal\n[https://www.miur.gov.it/obbligo-scolastico"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E se non intendo iscrivere mio figlio a una scuola primaria statale o paritaria? ",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "In Italia c'è l'obbligo di frequentare la scuola dai 6 ai 16 anni.\nIl Comune si assicurerà che tutti i bambini assolvano a questo obbligo, che se non verrà rispettato, porterà alla pena detentiva dei genitori e la segnalazione alle Autorità giudiziarie.",
+      "ground": "Iscrizione Scuole Primarie e Secondarie\nLa scuola è obbligatoria per legge dai 6 ai 16 anni.\n\n|||\n\nAl Comune di Milano, come a tutti i Comuni italiani, spetta vigilare sull'assolvimento del diritto dovere di istruzione sui minori in età di obbligo scolastico residenti in città.\nIl mancato assolvimento di tale dovere ha rilevanza penale per i responsabili (genitori/tutori) dei minori e comporta l'obbligo di segnalazione all'Autorità giudiziaria."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Vengono anche offerti servizi di orientamento?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Certamente, il servizio CODIS - Unità contrasto alla dispersione scolastica, offre azioni educative organizzate a scuola e sul territorio. E' responsabile dei servizi di Tutoring Educativo e Orientamento scolastico.",
+      "ground": "CODIS – Unità contrasto alla dispersione scolastica\nIl servizio si occupa di prevenzione e contrasto alla dispersione scolastica (6-16 anni) attraverso azioni educative organizzate a scuola e sul territorio.\nOrientamento scolastico:\ndedicato agli studenti delle scuole secondarie di primo e di secondo grado (riorientamento), alle famiglie, ai docenti. Interviene nei gruppi classe e con i singoli per favorire l'orientamento alla scelta e offre formazione e consulenza; il servizio rivolge particolare attenzione anche ai minori con disabilità che usufruiscono del sostegno.\nTutoring Educativo:\nnuovo servizio di presa in carico educativa dei minori in situazioni particolarmente gravi di dispersione scolastica o già in stato di abbandono scolastico, segnalati dalla Scuole o dai servizi territoriali per favorire il rientro in classe. Il servizio, attraverso colloqui rivolti ai minori, alla famiglia e ai docenti di riferimento del minore fornisce un’azione di analisi, consulenza e tutoraggio in supporto alle diverse situazioni di fragilità."
+    }
+  ],
+  "subcategory": "Milano"
+}

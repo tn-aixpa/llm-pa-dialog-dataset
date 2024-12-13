@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00766",
+  "doc_src": "comune.salerno_D0030.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni riguardo al servizio di trasporto e accompagnamento ai seggi elettorali per gli elettori con disabilità durante le Elezioni Europee dell'8 e 9 giugno 2024. È ancora attivo?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, sì, il servizio è ancora attivo. Per informazioni e prenotazioni puoi contattare il numero 089 666112.",
+      "ground": "Per informazioni e prenotazioni contattare il numero 089 666112."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E qual è l'orario di apertura del call center?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Il call center sarà operativo da lunedì 27 maggio con i seguenti orari:\nLun 27 maggio\nDalle 8 alle 18\nMar 28 maggio\nDalle 8 alle 20\nMer 29 maggio\nDalle 8 alle 18\nGio 30 maggio\nDalle 8 alle 20\nVen 31 maggio\nDalle 8 alle 18\nSab 1 giugno\nDalle 8 alle 20\nDom 2 giugno\nDalle 8 alle 20\nLun 3 giugno\nDalle 8 alle 18\nMar 4 giugno\nDalle 8 alle 20\nMer 5 giugno\nDalle 8 alle 18\nGio 6 giugno\nDalle 8 alle 20\nVen 7 giugno\nDalle 8 alle 18\nSab 8 giugno\nfino a chiusura seggi\nDom 9 giugno",
+      "ground": "Il\ncall center\nsarà operativo da lunedì 27 maggio con i seguenti orari:\nLun 27 maggio\nDalle 8 alle 18\nMar 28 maggio\nDalle 8 alle 20\nMer 29 maggio\nDalle 8 alle 18\nGio 30 maggio\nDalle 8 alle 20\nVen 31 maggio\nDalle 8 alle 18\nSab 1 giugno\nDalle 8 alle 20\nDom 2 giugno\nDalle 8 alle 20\nLun 3 giugno\nDalle 8 alle 18\nMar 4 giugno\nDalle 8 alle 20\nMer 5 giugno\nDalle 8 alle 18\nGio 6 giugno\nDalle 8 alle 20\nVen 7 giugno\nDalle 8 alle 18\nSab 8 giugno\nfino a chiusura seggi\nDom 9 giugno"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "E per i certificati medici occorrenti per il voto assistito, ci sono orari di apertura straordinaria dell'ambulatorio di Medicina legale?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Sì, può trovare in seguito la comunicazione degli orari di apertura straordinaria dell'ambulatorio di Medicina legale ASL https://www.comune.salerno.it/sites/default/files/2024-06/orari%20apertura%20straordinaria%20medicina%20legale.pdf .",
+      "ground": "Si allega comunicazione degli orari di\napertura straordinaria dell'ambulatorio di Medicina legale ASL\n, competente al rilascio dei certificati medici occorrenti per il voto assistito.\n[https://www.comune.salerno.it/sites/default/files/2024-06/orari%20apertura%20straordinaria%20medicina%20legale.pdf](orari apertura straordinaria medicina legale.pdf)"
+    }
+  ],
+  "subcategory": "Salerno"
+}

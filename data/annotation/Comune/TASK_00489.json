@@ -1,0 +1,34 @@
+{
+  "task_id": "TASK_00489",
+  "doc_src": "comune.trento_aree-tematiche_D0134.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni riguardo al rilascio delle concessioni per l'occupazione di suolo pubblico per propaganda elettorale.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, può ottenere il rilascio delle concessione per l'occupazione di suolo pubblico al seguente link https://servizi.comune.trento.it/Servizi/Richiesta-occupazione-suolo-pubblico-per-propaganda-elettorale-e-referendaria\nLe ricordo comunque che la domanda è limitata ai 30 giorni che precedono lo svolgimento delle elezioni. ",
+      "ground": "Ottieni il\n[https://servizi.comune.trento.it/Servizi/Richiesta-occupazione-suolo-pubblico-per-propaganda-elettorale-e-referendaria](rilascio delle concessioni per l'occupazione di suolo pubblico)\nper propaganda elettorale o referendaria nei 30 giorni antecedenti lo svolgimento delle elezioni o del referendum."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni. ",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "È stato un piacere poterla aiutare. Buona giornata!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

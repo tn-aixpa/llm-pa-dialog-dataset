@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00707",
+  "doc_src": "comune.trento_aree-tematiche_D0530.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sull'inserimento nelle graduatorie di mercato dei non titolari di posteggio fisso.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "La domanda di inserimento deve essere presentata nelle graduatorie di mercato dei non titolari di posteggio fisso. Consente l'occupazione dei posteggi vacanti in caso di assenza dei titolari di posteggio. L'assegnazione dei posti avviene in ordine decrescente. Sono previste graduatorie separate per gli ambulanti commercianti e per i produttori agricoli.",
+      "ground": "La domanda deve essere presentata per l'inserimento nelle graduatorie di mercato dei non titolari di posteggio fisso. Consente l'occupazione dei posteggi vacanti in caso di assenza dei titolari di posteggio. L'assegnazione dei posti avviene in ordine decrescente. Sono previste graduatorie separate per gli ambulanti commercianti e per i produttori agricoli."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "È possibile presentare la domanda senza autorizzazione di tipo A o B?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Mi dispiace, ma occorre dichiarare di essere in possesso di una autorizzazione di tipo A  o di tipo B  per l'attività di vendita su area pubblica o di essere produttori agricoli o artigiani.",
+      "ground": "https://www.comune.trento.it/Aree-tematiche/Attivita-economiche/Commercio-su-area-pubblica/Graduatoria-di-mercato/Domanda-di-inserimento-in-graduatoria-di-mercato](Domanda di inserimento in graduatoria di mercato)\nPer presentare la domanda occorre dichiarare di essere in possesso di una autorizzazione di tipo A (rilasciata da un Comune della Provincia di Trento) o di tipo B (rilasciata da qualsiasi Comune italiano) per l'attività di vendita su area pubblica o di essere produttori agricoli o artigiani."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni, mi orienterò per ottenere l'autorizzazione necessaria.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Di nulla, sono a disposizione per ulteriori chiarimenti se necessario. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

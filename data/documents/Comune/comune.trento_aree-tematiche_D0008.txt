@@ -1,0 +1,33 @@
+Il progetto ha portato a tre importanti risultati utili sia per l'amministrazione che per i cittadini: il calcolo del modal split (per capire le abitudini di spostamento di cittadini e pendolari), la raccolta di dati relativi ai parcheggi a strisce gialle e alle rastrelliere per biciclette, la creazione di una dashboard (dove poter visualizzare su mappa i dati relativi alla mobilità)
+[]()
+Modal split
+Il primo obiettivo di progetto era il calcolo del modal split per capire le abitudini di spostamento di cittadini e pendolari. Per calcolare il modal split il progetto ha messo a disposizione un’app (per permettere ai cittadini di tracciare i propri spostamenti), un processo di analisi dei dati basato su tecniche di machine learning ed una dashboard, ovvero un cruscotto online su cui il Comune può visualizzare i dati in forma aggregata, tramite dei grafici.
+Durante il progetto sono stati organizzati sette esperimenti che hanno coinvolto circa 220 cittadini con l’obiettivo di migliorare il processo di analisi dei dati e l'usabilità dell’app i-Log, dando loro la possibilità di modificare i viaggi rilevati o aggiungerne di nuovi direttamente dall'app. In base al feedback raccolto dai partecipanti alla fine di ogni sessione, le istruzioni per partecipare all'esperimento sono state integrate da una guida passo passo per la configurazione del telefono e durante gli esperimenti è stata fornita un'assistenza personalizzata a chi avesse riscontrato difficoltà.
+L'esperimento finale ha coinvolto circa 150 partecipanti che hanno effettuato e tracciato 888 spostamenti. I relativi dati sono stati integrati, in forma aggregata, in una sezione della dashboard riservata al Comune. Infine, a ciascun partecipante è stato inviato un modal split personale relativo ai viaggi individuali effettuati nei giorni dell'esperimento e ai mezzi di trasporto utilizzati.
+A questo link è possibile trovare informazioni più dettagliate su questo use case:
+[https://www.comune.trento.it/Progetti/Qrowd/Modal-split](Modal split / Qrowd / Progetti)
+[]()
+Nella figura: esempio di visualizzazione del modal split, percentuale dei mezzi di trasporto utilizzati quotidianamente dai cittadini per spostarsi in città
+.
+[]()
+(Questi dati non si riferiscono alla città di Trento)
+[]()
+Parcheggi
+Un secondo obiettivo del progetto era quello di integrare i dati già in possesso dell’amministrazione relativi ai parcheggi a strisce gialle e agli stalli per biciclette con dati raccolti tramite strumenti di crowdsourcing che hanno permesso a cittadini locali e a utenti di tutto il mondo di fornire utili informazioni relative ai vari tipi di parcheggio (posizione, tipo e numero di parcheggi).
+Gli strumenti di crowdsourcing utilizzati sono stati l’app i-Log con cui i cittadini di Trento hanno raccolto dati sul luogo e la piattaforma Virtual City Explorer che ha permesso a utenti registrati di tutto il mondo di esplorare virtualmente la città utilizzando Google Street View e scattare foto geolocalizzate dei vari parcheggi.
+Durante il progetto sono state lanciate diverse sfide, sia tramite il Virtual City Explorer che utilizzando i-Log. Questi dati sono stati fusi assieme a quelli già in possesso dell’amministrazione e possono essere visualizzati su una mappa interattiva all’interno della dashboard dedicata ai cittadini:
+[http://citizendashboard.qrowd.aksw.org/qrowdDashboard/](QROWD | Dashboard)
+A questo link è possibile trovare informazioni più dettagliate su questo use case:
+[https://www.comune.trento.it/Progetti/Qrowd/Parcheggi](Parcheggi / Qrowd / Progetti)
+[]()
+Nella figura: visualizzazione sulla dashboard degli stalli per biciclette in centro storico, risultato della fusione di dati provenienti dagli open data (Municipality dataset), dal Virtual City Explorer e da Open Street Map (Linked Geodata)
+[]()
+Dashboard
+Un terzo e non meno importante obiettivo era di mostrare su mappa diversi dati relativi alla mobilità urbana, di modo che diventassero facilmente “leggibili” anche da chi non possiede una conoscenza tecnica approfondita. Per questo motivo è stata creata una dashboard, ovvero un cruscotto online dove vedere dati utili per chi guida e per chi si sposta in bici, oltre ad altri dati di natura trasversale (ad esempio, punti di interesse come scuole, biblioteche, impianti sportivi ecc).
+Dapprima sono stati catalogati tutti i dati relativi alla mobilità, sia direttamente (ad esempio, la posizione delle piste ciclabili comunali e provinciali) che indirettamente (meteo e punti di interesse).
+Il progetto ha poi permesso di integrare i dati relativi ai parcheggi a strisce gialle e alle rastrelliere per le biciclette già in possesso dell’amministrazione con dati raccolti tramite crowdsourcing.
+Infine, tutti questi dati sono stati integrati in mappe dedicate all’interno della dashboard disponibile a questo link:
+[http://citizendashboard.qrowd.aksw.org/qrowdDashboard/](QROWD | Dashboard)
+Esiste anche una versione della dashboard dedicata ai dipendenti del Comune all’interno della quale è possibile visualizzare i dati del modal split che, per motivi di privacy, non possono essere resi disponibili pubblicamente.
+[]()
+Nella figura: visualizzazione sulla dashboard di vari punti di interesse della città

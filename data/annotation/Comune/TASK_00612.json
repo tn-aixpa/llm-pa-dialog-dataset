@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00612",
+  "doc_src": "comune.trento_aree-tematiche_D0342.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, potrebbe darmi informazioni riguardo al processo Family Audit ?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, il Comune di Trento ha aderito al processo di Audit promosso dalla Provincia Autonoma di Trento per certificare la propria politica di gestione del personale. Durante il percorso di applicazione del processo, sono state seguite diverse fasi che hanno portato al conseguimento della certificazione di base e infine del certificato finale.",
+      "ground": "La Giunta comunale, nella seduta del 4 giugno 2007 ha aderito al processo di\nAudit\npromosso dalla Provincia Autonoma di Trento, disponendone l'applicazione sperimentale presso il Servizio biblioteca e archivio storico, al fine di certificare la propria politica di gestione del personale attraverso l’individuazione di obiettivi e provvedimenti per migliorare le possibilità di conciliazione tra famiglia e lavoro.\nIl percorso di applicazione del processo di Audit si è sviluppato nel corso del 2008 con:\nla costituzione del gruppo di lavoro interno\nl'analisi della situazione da parte del gruppo medesimo con il supporto di auditors esterni e con riferimento ai campi di azione previsti dal modello\nl'approvazione del piano di attuazione per il miglioramento\nla visita dei valutatori esterni ed il conseguimento della certificazione di base riconosciuta dal Consiglio di Audit provinciale\nNel corso dell'evento svoltosi in data 07/05/2009 presso la Provincia Autonoma di Trento dal titolo \"Conciliazione Famiglia e Lavoro - La certificazione familiare delle aziende trentine\" è stato consegnato al Comune di Trento - Servizio Biblioteca ed Archivio storico il Certificato Base dell'Audit. "
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È stato un piacere poterla aiutare. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

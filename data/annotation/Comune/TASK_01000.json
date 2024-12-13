@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01000",
+  "doc_src": "comSalerno0789.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Come si riceverà i contributi per l'acquisto dei libri di testo?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "I contributi per l'acquisto dei libri di testo saranno liquidati in due modi: \n- Se si ha fornito il Codice IBAN, verrà l'accreditato l'importo spettante direttamente sul proprio Conto Corrente;\n- Chi ha invece richiesto il pagamento tramite cassa, dovrà invece contattare il Settore Ragioneria per la riscossione.",
+      "ground": "Si porta a conoscenza degli utenti interessati alla riscossione dei Contributi per l’acquisto dei libri di testo riferiti all’Anno Scolastico 2022/23, che i relativi mandati di pagamento sono in esecuzione a cura del competente Settore Ragioneria e saranno liquidati come segue:\n• Coloro i quali hanno fornito il Codice IBAN riceveranno l’accredito dell’importo spettante direttamente sul proprio Conto Corrente.\n• Coloro i quali hanno richiesto il pagamento tramite cassa potranno contattare i seguenti recapiti del Settore Ragioneria al fine di concordare tempi e modalità di riscossione del mandato entro il termine del corrente anno 2023:"
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Quali sono i recapiti del Settore Ragioneria?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "I recapiti del Settore Ragioneria sono i seguenti: \nTelefoni: 089 662437 – 662404 \nMail: g.lenza@comune.salerno.it e manuela.lia@comune.salerno.it",
+      "ground": "Settore Ragioneria\nTelefoni: 089 662437 – 662404\nMail: g.lenza@comune.salerno.it; manuela.lia@comune.salerno.it\nIl sostegno economico alle famiglie degli studenti per l’acquisto dei libri di testo rappresenta una delle priorità che l’Amministrazione Comunale ha fatto proprie nel campo dell’Istruzione e del Diritto allo Studio."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Dove posso trovare i documenti per poter chiedere i contributi?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "I documenti per poter chiedere i contributi possono essere trovati sul sito istituzionale dell'Ente: www.comune.salerno.it, nella sezione “Comunicati Stampa” o nella sezione “Amministrazione” sottosezione Settori > Settore Pubblica Istruzione alla pagina “Dotazioni Didattiche/ Assegnazione Cedole librarie Contributi”. Inoltre, è possibile trovarli presso il Settore Istruzione e Formazione in via G. Costa n. 2.",
+      "ground": "Allo scopo di agevolare la corretta presentazione delle domande, l’apposita modulistica unitamente al presente Comunicato, è a disposizione dell'utente sul sito istituzionale dell’Ente: www.comune.salerno.it nella sezione “Comunicati Stampa” o nella sezione “Amministrazione” sottosezione Settori >Settore Pubblica Istruzione alla pagina “Dotazioni Didattiche/ Assegnazione Cedole librarie Contributi” ovvero  presso il Settore Istruzione e Formazione in via G. Costa n. 2."
+    }
+  ],
+  "subcategory": "Salerno"
+}

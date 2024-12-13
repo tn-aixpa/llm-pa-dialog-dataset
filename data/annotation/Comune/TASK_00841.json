@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00841",
+  "doc_src": "comune.salerno_D0147.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "L'evento \"Il Parco delle Meraviglie - Kids Day\" è adatto anche ai ragazzi?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "L'evento è dedicato ai più piccoli, quindi potrebbe non essere adatto ai più grandi.",
+      "ground": "L'evento, dedicato ai più piccoli e patrocinato dal Comune di Salerno, proporrà numerose attività educative e divertenti: musica, riciclo creativo, laboratori, sport, giochi di strada."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Capisco, e ci saranno attività per i genitori durante l'evento?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Mi dispiace, ma l'evento è principalmente rivolto ai bambini, quindi potrebbe non essere previsto alcun intrattenimento specifico per i genitori.",
+      "ground": "L'evento, dedicato ai più piccoli e patrocinato dal Comune di Salerno, proporrà numerose attività educative e divertenti:"
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Grazie comunque per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Prego, se ha altre domande non esiti a chiedere. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

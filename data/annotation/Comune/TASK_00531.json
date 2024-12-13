@@ -1,0 +1,52 @@
+{
+  "task_id": "TASK_00531",
+  "doc_src": "comune.trento_aree-tematiche_D0211.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, potrebbe darmi informazioni sul Distretto Tecnologico Trentino?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Distretto Tecnologico Trentino S.cons. a r.l. è in Piazza Manifattura 1, Rovereto.\nLi può raggiungere al telefono 0464 443450 e al fax 0464443460 .",
+      "ground": "Aziende partecipate - informazioni inerenti Distretto Tecnologico Trentino S.cons. a r.l. - Piazza Manifattura, 1 - 38068 ROVERETO (TN) - Tel. 0464/443450 - Fax 0464/443460  - aggiornamento 06 aprile 2020 - Partecipazione dismessa"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Dove posso trovare la mappa dei parcheggi?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "La mappa dei parcheggi, che mette assieme dati istituzionali e di crowdsourcing, è consultabile al link http://citizendashboard.qrowd.aksw.org/qrowdDashboard/ .",
+      "ground": "I dati provenienti da tutte le diverse fonti (istituzionali e\ncrowdsourcing\n) sono stati fusi assieme e possono essere visualizzati su una mappa interattiva all’interno della\ndashboard dedicata ai cittadini\n:\n[http://citizendashboard.qrowd.aksw.org/qrowdDashboard/](QROWD | Dashboard)"
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni, proverò a contribuire tramite il Virtual City Explorer.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

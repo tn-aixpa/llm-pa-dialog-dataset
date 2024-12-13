@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_01086",
+  "doc_src": "castello_tesino__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Che cos'hai da propormi con tassonomia \"Incontri di progettazione e programmazione, gruppo di lavoro\"?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Mi dispiace ma non ho proposte con tale tassonomia.",
+      "ground": ""
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Oh, peccato.",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Ho modo di aiutarla in altro modo?",
+      "ground": ""
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Per la fornitura legna cosa mi consigli di scrivere?",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Può trovare di interesse quello che ha scritto il Comune di Castello Tesino nel 2022:\n\nOBIETTIVO: Il contributo economico erogato servirа di sostegno alle famiglie con l'obiettivo di favorirne la permanenza all'interno del territorio comunale ed evitare cosм lo spopolamento del paese.\n\nDESCRIZIONE: Al compimento del 5° anno d'etа, ai nuovi nati residenti nel Comune di Castello Tesino dalla nascita, verrа erogato un contributo in legname pari a 60 metri cubi, previa verifica dell'avvenuta frequenza ininterrotta alla Scuola Provinciale dell'Infanzia di Castello Tesino.\n\nAd ogni bimbo di etа inferiore ai 10 anni che, pur avendo avuto alla nascita diversa residenza, abbia mantenuto almeno per 5 anni la residenza nel Comune di Castello Tesino, comprovata dalla frequenza della Scuola Provinciale dell'Infanzia di Castello Tesino e della Scuola Elementare del Tesino, e purchй ancora residente alla data di presentazione della domanda, è corrisposto del legname da opera mediante assegno di piante in piedi per un volume totale stimato di mc. 60.\n\n",
+      "ground": "=== PIANO FAMIGLIA DI CASTELLO TESINO ANNO 2022 ===\n\n|||\n\nOBIETTIVO: Il contributo economico erogato servirа di sostegno alle famiglie con l'obiettivo di favorirne la permanenza all'interno del territorio comunale ed evitare cosм lo spopolamento del paese.\n\nDESCRIZIONE: Al compimento del 5° anno d'etа, ai nuovi nati residenti nel Comune di Castello Tesino dalla nascita, verrа erogato un contributo in legname pari a 60 metri cubi, previa verifica dell'avvenuta frequenza ininterrotta alla Scuola Provinciale dell'Infanzia di Castello Tesino.\n\nAd ogni bimbo di etа inferiore ai 10 anni che, pur avendo avuto alla nascita diversa residenza, abbia mantenuto almeno per 5 anni la residenza nel Comune di Castello Tesino, comprovata dalla frequenza della Scuola Provinciale dell'Infanzia di Castello Tesino e della Scuola Elementare del Tesino, e purchй ancora residente alla data di presentazione della domanda, è corrisposto del legname da opera mediante assegno di piante in piedi per un volume totale stimato di mc. 60."
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "E per il contrasto alle dipendenze ha consigli?",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "Può lanciare una campagna di sensibilizzazione in cui informa dei rischi su alcool, sostanze stupefacenti e gioco d'azzardo negli adolescenti. Alcune possibili modalità sono incontri con esperti del settore, annunci stampa su quotidiani e collaborazioni con associazioni locali",
+      "ground": "OBIETTIVO: Diffondere una corretta informazione sui rischi e sui danni causati dall’abuso di alcol, sostanze stupefacenti e gioco d'azzardo negli adolescenti.\n\nDESCRIZIONE: Il Comune di Castello Tesino intende attuare una campagna di sensibilizzazione idonea a fornire corretta informazione sui rischi e sui danni causati dall’abuso di alcol e sostanze stupefacenti negli adolescenti. I mezzi scelti sono: incontri con esperti del settore (restrizioni anti-Covid permettendo), annunci stampa sui quotidiani provinciali, collaborazioni con il Gruppo Giovani del Tesino, spot sul web e sui canali social, coinvolgimento delle Forze dell’ordine per un controllo condiviso circa la vendita dialcool ai minori."
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

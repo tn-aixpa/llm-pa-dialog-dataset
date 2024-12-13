@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00438",
+  "doc_src": "comune.trento_aree-tematiche_D0048.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei installare un dehors nel mio terreno.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, le informazioni principali sono contenute nell'art. 11 del Regolamento Edilizio Comunale e nel Disciplinare approvato con Deliberazione di Consiglio Comunale. È necessario contattare il Servizio di Edilizia Privata e SUAP per ulteriori dettagli.",
+      "ground": "La relativa disciplina è contenuta nell'art. 11 del Regolamento Edilizio Comunale e nel Disciplinare approvato con Deliberazione di Consiglio Comunale d.d. 30.5.2017 n. 63."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E per l'installazione di dehors su suolo pubblico?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Per l'installazione di dehors su suolo pubblico deve contattare il Servizio Patrimonio.",
+      "ground": "Per l'installazione di Dehors su suolo pubblico è competente il\n[/Comune/Organizzazione-comunale/Organigramma/Servizi-non-attivi/PATRIMONIO](Servizio Patrimonio)\nmentre per quanto riguarda l'installazione di plateatici o di strutture stagionali estive su suolo pubblico è competente il\n[/Comune/Organizzazione-comunale/Organigramma/Servizi/CORPO-POLIZIA-LOCALE-DI-TRENTO-MONTE-BONDONE](Corpo di Polizia Locale)\nCorpo di Polizia Locale"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Ha per caso un contatto?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Non sono in grado di fornire contatti, ma potrebbe trovare i dettagli che le interessano al link /Comune/Organizzazione-comunale/Organigramma/Servizi-non-attivi/PATRIMONIO .",
+      "ground": "Per l'installazione di Dehors su suolo pubblico è competente il\n[/Comune/Organizzazione-comunale/Organigramma/Servizi-non-attivi/PATRIMONIO](Servizio Patrimonio)\nmentre per quanto riguarda l'installazione di plateatici o di strutture stagionali estive su suolo pubblico è competente il\n[/Comune/Organizzazione-comunale/Organigramma/Servizi/CORPO-POLIZIA-LOCALE-DI-TRENTO-MONTE-BONDONE](Corpo di Polizia Locale)\nCorpo di Polizia Locale"
+    }
+  ],
+  "subcategory": "Trento"
+}

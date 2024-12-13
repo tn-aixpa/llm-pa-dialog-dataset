@@ -1,0 +1,8 @@
+Benvenuti nel
+portale cartografico
+del Comune di Trento.
+Da questo speciale punto di osservazione potrete navigare nella
+[https://gis.comune.trento.it/it/#map=macrogroup-maps-2](cartografia online)
+del Comune di Trento ed apprezzare da diversi punti di vista gli aspetti del nostro territorio.
+Potrete scaricare i temi della cartografia di base, toponomastica ed ortofoto e troverete i link ai nostri servizi wms e wfs.
+Per un corretto uso dei dati e dei servizi qui presenti raccomandiamo la lettura delle condizioni d'uso.

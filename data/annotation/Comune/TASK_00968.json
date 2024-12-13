@@ -1,0 +1,34 @@
+{
+  "task_id": "TASK_00968",
+  "doc_src": "comune.milano_aree-tematiche_links_D0356.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Quali sono gli Enti che partecipano al Tavolo Permanente Alzheimer?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Sono presenti al Tavolo Permanente Alzheimer enti come A.M.A. Associazione Malattia di Alzheimer - Milano, Associazione Al Confine Onlus, Associazione Le Compagnie Malviste, Associazione Walter Vinci Onlus - SonoraMente, Atelier della mente, Cooperativa Sociale EQUA, Cooperativa Sociale Paloma 2000, Cooperativa Sociale Piccolo Principe, Cooperativa Sociale Pro.Ges S.c.a.r.l. - Casa Per Coniugi, Cooperativa Sociale Eureka! A.r.l. - Curami, Fondazione Manuli Onlus, Fondazione Ravasi-Garzanti Onlus, Z.E.A. - Associazione alzhalarte.",
+      "ground": "Chi siede al Tavolo\nRappresentanti del Comune di Milano\nRappresentante di ATS (Agenzia per la Tutela della Salute) di Milano\nRappresentante dei Medici di Medicina Generale\nIstituzioni sanitarie, come le ex-Unità di Valutazione Alzheimer ora CDCD (Centri per Disturbi Cognitivi e Demenza) e le Residenze Sanitarie Assistenziali (RSA) sedi di Nuclei Alzheimer e Centri Diurni Integrati\nEnti del Terzo Settore\n\nEnti del Terzo Settore e Municipi\nDi seguito gli Enti del Terzo Settore che partecipano al Tavolo Permanente Alzheimer e i Municipi presso i quali svolgono interventi gratuiti in presenza o da remoto.\n[http://www.amamilano.org](A.M.A. Associazione Malattia di Alzheimer -Milano)\n(Municipi 4-5)\n[http://www.alconfine.net/](Associazione Al Confine Onlus)\n(Municipi 8-9)\n[http://www.lecompagniemalviste.org](Associazione Le Compagnie Malviste)\n(Municipio 7)\n[http://www.waltervincionlus.it/](Associazione Walter Vinci Onlus - SonoraMente)\n(Municipi - tutti)\n[https://atelierdellamente.it/](Atelier della mente)\n[https://equacooperativa.it/cosa-facciamo/servizi/](Cooperativa Sociale EQUA)\n[http://www.paloma2000.it](Cooperativa Sociale Paloma 2000)\n[http://www.piccoloprincipeonlus.org](Cooperativa Sociale Piccolo Principe)\n(Municipi 2-3-4-5-6-7-9)\n[http://www.proges.it/nostre-strutture/strutture-anziani/coniugi.aspx](Cooperativa Sociale Pro.Ges S.c.a.r.l. - Casa Per Coniugi)\n(Municipio 4)\n[http://www.curami.net/](Cooperativa Sociale Eureka! A.r.l. - Curami)\n(Municipi  3-6-7)\n[http://www.fondazione-manuli.org/](Fondazione Manuli Onlus)\n(Municipi 1-6)\n[http://www.fondazioneravasi-garzanti.org/](Fondazione Ravasi-Garzanti Onlus)\n(Municipi- tutti)\n[https://zeaproject.wixsite.com/alzhalarte](Z.E.A. - Associazione alzhalarte)\n(Municipi - tutti)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Ci sono giornate dedicate all'Alzheimer?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Sì, il 21 settembre ricorre la Giornata Mondiale Alzheimer, in generale si ricorda l'Alzheimer per tutto il mese di Settembre.",
+      "ground": "Settembre è il Mese Mondiale Alzheimer e il 21 settembre ricorre la Giornata Mondiale Alzheimer, istituita nel 1994 dall'Organizzazione Mondiale della Sanità (OMS) e dall'Alzheimer's Disease International (ADI), la federazione internazionale delle associazioni Alzheimer."
+    }
+  ],
+  "subcategory": "Milano"
+}

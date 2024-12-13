@@ -1,0 +1,19 @@
+La rete di monitoraggio provinciale della qualità dell'aria è gestita dall'Agenzia Provinciale per la Protezione dell'Ambiente ed è costituita da diverse stazioni di monitoraggio fisse dislocate sul territorio provinciale, che rilevano le concentrazioni degli inquinanti in atmosfera.
+Nel Comune di Trento sono presenti due stazioni di monitoraggio fisse
+[]()
+Centralina presso il parco Santa Chiara
+La stazione di monitoraggio di Trento – S.Chiara è attiva dal 1995 ed è una stazione di tipo ‘fondo urbano’.
+Gli inquinanti analizzati sono i seguenti: Biossido di zolfo (SO2), Ossidi di azoto (NOX), Ozono (O3), Particolato sottile (PM10), Particolato fine (PM2,5), Idrocarburi Policiclici Aromatici (IPA), Metalli, Meteo
+[]()
+Centralina presso via Bolzano
+La stazione di Trento in via Bolzano è collocata a margine di una strada urbana altamente trafficata.
+Gli inquinanti analizzati sono i seguenti: Ossido di carbonio (CO), Ossidi di azoto (NOX), Particolato sottile PM10, Particolato fine PM2,5, Benzene, Meteo
+[]()
+I dati di monitoraggio
+Sul sito dell'APPA sono pubblicati:
+i dati di qualità dell'aria rilevati giornalmente dalle centraline nella forma di un“bollettino giornaliero”
+[https://appa.alpz.it/aria](https://appa.alpz.it/aria)
+i rapporti mensili di qualità dell'aria in cui sono riportate le valutazioni relative all'andamento mensile degli inquinanti rilevati
+[https://www.appa.provincia.tn.it/Documenti-e-dati/Documenti-tecnici-di-supporto/Rapporti-mensili-sulla-qualita-dell-aria](https://www.appa.provincia.tn.it/Documenti-e-dati/Documenti-tecnici-di-supporto/Rapporti-mensili-sulla-qualita-dell-aria)
+i rapporti annuali di qualità dell'aria in cui sono riportate le valutazioni relative all'andamento annuale degli inquinanti rilevati
+[https://www.appa.provincia.tn.it/Documenti-e-dati/Documenti-tecnici-di-supporto/Rapporti-annuali-sulla-qualita-dell-aria](https://www.appa.provincia.tn.it/Documenti-e-dati/Documenti-tecnici-di-supporto/Rapporti-annuali-sulla-qualita-dell-aria)

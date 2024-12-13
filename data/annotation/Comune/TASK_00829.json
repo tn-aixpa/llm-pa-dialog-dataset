@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00829",
+  "doc_src": "comune.salerno_D0123.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, il Comune di Salerno ha una convenzione con AIRBNB per la l'imposta di soggiorno?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, al momento il Comune di Salerno non ha attualmente in essere alcuna convenzione con AIRBNB per la riscossione dell'imposta di soggiorno.",
+      "ground": "Si comunica che il Comune di Salerno non ha attualmente in essere alcuna convenzione con il portale AIRBNB per la riscossione dell’imposta di soggiorno."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Allora la normativa richiamata dalla comunicazione di AIRBNB cosa riguarda?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "La normativa richiamata in detta comunicazione riguarda il versamento della \"cedolare secca\" e non l'imposta di soggiorno. ",
+      "ground": "Si comunica che il Comune di Salerno non ha attualmente in essere alcuna convenzione con il portale AIRBNB per la riscossione dell’imposta di soggiorno. A seguito dell’invio della mail di AIRBNB all’indirizzo di diverse strutture ricettive, si informa che la normativa richiamata in detta comunicazione (Modifiche introdotte dalla Legge Finanziaria 2024 al D.L. 50/2017) riguarda il versamento della “cedolare secca” e non l’imposta di soggiorno."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "E cosa cambia?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Niente. I gestori devono continuare ad inserire i dati relativi all'imposta di soggiorno nel sistema PagopA. Per l'imposta di soggiorno  i gestori a continuare a dareil numero degli ospiti, relativi pernottamenti e il riversamento dell'imposta di soggiorno al Comune tramite il sistema PagopA, seguendo le modalità prescritte dal Regolamento vigente.",
+      "ground": "Si invitano, pertanto, i gestori a continuare a provvedere all’inserimento in Tourist Tax del numero degli ospiti, dei relativi pernottamenti ed al riversamento diretto dell’imposta di soggiorno al Comune di Salerno attraverso esclusivamente il sistema PagopA con le consuete modalità prescritte dal vigente Regolamento.\n[/node/3892](Ufficio Imposta di soggiorno)"
+    }
+  ],
+  "subcategory": "Salerno"
+}

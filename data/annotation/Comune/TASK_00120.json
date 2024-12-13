@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00120",
+  "doc_src": "comune.milano_aree-tematiche_D0140.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni riguardo alle occupazioni di suolo pubblico che non coinvolgono eventi.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Quali informazioni specifiche sta cercando?",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Vorrei tenere un'attività che non è un evento a una località sottoposta a vincolo monumentale, cosa devo fare?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Quando compila la modulistica per l'occupazione, dovrà segnalare che la località è sottoposta a vincolo monumentale. La domanda verrà poi sottopèosta alla valutazione del Comitato Interassessorale.",
+      "ground": "Nella compilazione della modulistica per richieste di occupazioni che non siano eventi, si dovrà segnalare se le località richieste sono sottoposte a vincolo monumentale o ambientale. In questi casi le domande verranno sottoposte alla valutazione del Comitato Interassessorale."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie per l'assistenza.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È stato un piacere. Se ha bisogno di ulteriori informazioni, non esiti a contattarci. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

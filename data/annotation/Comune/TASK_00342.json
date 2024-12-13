@@ -1,0 +1,40 @@
+{
+  "task_id": "TASK_00342",
+  "doc_src": "comune.milano_aree-tematiche_links_D0375.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei avere informazioni sulla San Leo Kickboxing. Posso praticare kickboxing lì?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno. Sì, la San Leo Kickboxing e Fitness è un'associazione senza scopo di lucro che offre la possibilità di praticare kickboxing e altre attività sportive.",
+      "ground": "San Leo kickboxing e fitness\nLa San Leo Kickboxing e Fitness è un’associazione senza scopo di lucro che opera per fini sportivi, ricreativi e culturali.\nNegli spazi che il Comune le ha assegnato in Via Consolini 26 l’associazione ha realizzato una palestra per l’esercizio della kickboxing e di altre attività sportive."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Capisco, e riguardo agli orari di apertura?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Non ho accesso agli orari di apertura, ma potresti trovare più informazioni al link https://www.comune.milano.it/documents/20126/2038021/San+Leo+Kickboxing+e+Fitness.pdf/9ad8e175-6b1e-27a4-a684-d24882e04cfe?t=1563872089510 .",
+      "ground": "[https://www.comune.milano.it/documents/20126/2038021/San+Leo+Kickboxing+e+Fitness.pdf/9ad8e175-6b1e-27a4-a684-d24882e04cfe?t=1563872089510](clicca qui)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

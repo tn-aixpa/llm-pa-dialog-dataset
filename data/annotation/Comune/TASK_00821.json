@@ -1,0 +1,40 @@
+{
+  "task_id": "TASK_00821",
+  "doc_src": "comune.salerno_D0113.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, scusi, potrebbe darmi informazioni sul progetto contro la violenza sulle donne presentato a Palazzo di Città?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, il progetto si chiama \"Un impegno concreto contro la violenza sulle donne\" ed è stato presentato venerdì 8 marzo a Palazzo di Città. Verrà stampato il numero verde 1522 sui ticket dei parcheggi cittadini gestiti da Salerno Mobilità per sensibilizzare le donne a denunciare soprusi e violenze",
+      "ground": "Venerdì 8 marzo, a Palazzo di Città, è stato presentato il progetto “Un impegno concreto contro la violenza sulle donne”. Il numero verde 1522 verrà stampato sui ticket dei parcheggi cittadini in gestione a Salerno Mobilità, per sensibilizzare le donne a denunciare episodi di soprusi e violenze."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per l'aiuto, buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

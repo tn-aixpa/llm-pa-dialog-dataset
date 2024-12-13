@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00941",
+  "doc_src": "comune.milano_aree-tematiche_links_D0246.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Cosa si intende per procedimenti di bonifica?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "I procedimenti di bonifica si riferiscono alle attività svolte per ripristinare l'ambiente da inquinamenti o da situazioni di degrado ambientale, al fine di rendere l'area sicura per la salute umana e l'ecosistema. Queste attività possono includere la rimozione di rifiuti pericolosi, la pulizia del suolo e delle acque, nonché interventi di risanamento ambientale.",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Quali sono i numeri sui procedimenti di bonifica a Milano?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "A Milano sono aperti 377 procedimenti di bonifica, che coprono una superficie complessiva di 6.539.580 metri quadrati. Inoltre, sono stati conclusi 1481 procedimenti di bonifica che riguardano una superficie totale di 14.985.800 metri quadrati.",
+      "ground": "377 procedimenti di bonifica aperti: superficie complessiva 6.539.580* metri quadrati\n1481 procedimenti di bonifica conclusi: superficie complessiva 14.985.800* metri quadrati\nÈ possibile filtrare e/o scaricare l’elenco procedimenti direttamente dal Geoportale SIT - Bonifiche.\n*valore calcolato con: DATUM WGS84 - proiezione UTM Zone 32N"
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "C'è qualche sito che traccia i siti che sono stati bonificati?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Attraverso il Geoportale del Comune di Milano è possibile visualizzare informazioni cartografiche relative ai perimetri dei siti che sono stati oggetto di procedimenti di bonifica.\n\nLink: https://geoportale.comune.milano.it/portal/apps/webappviewer/index.html?id=e6ce471980c14a0c8191116e8de921a4",
+      "ground": "E' possibile visualizzare tramite il\n[https://geoportale.comune.milano.it/portal/apps/webappviewer/index.html?id=e6ce471980c14a0c8191116e8de921a4](Geoportale)\ndel Comune di Milano informazioni cartografiche relative a:\nperimetri dei siti oggetto di procedimenti di bonifica;\nsiti dove insistono limitazioni alle destinazioni d'uso insediabili in virtù di accertati livelli di qualità dei suoli (conformità agli usi commerciali/industriali ma non verde/residenziali);\ndati idrogeologici (profondità e gradiente locale della prima falda)."
+    }
+  ],
+  "subcategory": "Milano"
+}

@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_00223",
+  "doc_src": "comune.milano_aree-tematiche_links_D0251.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, potrebbe darmi informazioni sulle pubblicazioni urbanistiche in corso?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Mi dispiace, al momento non sono presenti pubblicazioni in corso.",
+      "ground": "Elenco delle pubblicazioni urbanistiche in corso\nNon sono presenti pubblicazioni in corso."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E sugli archivi degli anni passati, posso accedervi?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Certamente, abbiamo archivi dal 2017 fino al 2024 disponibili online.",
+      "ground": "[https://www.comune.milano.it/aree-tematiche/rigenerazione-urbana-e-urbanistica/pubblicazioni-urbanistiche/archivio-2021](Archivio 2021)\nArchivio 2021\n[https://www.comune.milano.it/aree-tematiche/rigenerazione-urbana-e-urbanistica/pubblicazioni-urbanistiche/archivio-2020](Archivio 2020)\nArchivio 2020\n[https://www.comune.milano.it/aree-tematiche/rigenerazione-urbana-e-urbanistica/pubblicazioni-urbanistiche/archivio-2019](Archivio 2019)\nArchivio 2019\n[https://www.comune.milano.it/aree-tematiche/rigenerazione-urbana-e-urbanistica/pubblicazioni-urbanistiche/archivio-2018](Archivio 2018)\nArchivio 2018\n[https://www.comune.milano.it/aree-tematiche/rigenerazione-urbana-e-urbanistica/pubblicazioni-urbanistiche/archivio-2017](Archivio 2017)\nArchivio 2017\n[https://www.comune.milano.it/archivio/pu/web_new_pu/](Anni precedenti)\nAnni precedenti\n[https://www.comune.milano.it/aree-tematiche/rigenerazione-urbana-e-urbanistica/pubblicazioni-urbanistiche/archivio-2022](Archivio 2022)\nArchivio 2022\n[https://www.comune.milano.it/archivio-2023](Archivio 2023)\nArchivio 2023\n[https://www.comune.milano.it/aree-tematiche/rigenerazione-urbana-e-urbanistica/pubblicazioni-urbanistiche/archivio-2024](Archivio 2024)\nArchivio 2024"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie, e per quanto riguarda l'Albo Pretorio?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Per l'Albo Pretorio del Comune di Milano, può trovare tutte le informazioni necessarie sul sito https://www.comune.milano.it/comune/albo-pretorio .",
+      "ground": "[https://www.comune.milano.it/comune/albo-pretorio](Comune di Milano - Albo Pretorio)\nComune di Milano - Albo Pretorio"
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "E per la cartografia della Regione Lombardia?",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "La cartografia della Regione Lombardia è disponibile al sito https://www.cartografia.regione.lombardia.it/sivas/ .",
+      "ground": "[https://www.comune.milano.it/comune/albo-pretorio](Comune di Milano - Albo Pretorio)\nComune di Milano - Albo Pretorio"
+    },
+    {
+      "id": "T09",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agente",
+      "message": "È stato un piacere poterla aiutare. Buona giornata!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

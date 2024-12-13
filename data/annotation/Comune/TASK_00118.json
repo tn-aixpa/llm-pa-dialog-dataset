@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00118",
+  "doc_src": "comune.milano_aree-tematiche_D0138.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sull'affissione libera. Posso utilizzare manifesti di dimensioni diverse?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno. Sì, può utilizzare le seguenti dimensioni: 70x100, 100x140, 140x200, 300x140 e 300x200. La durata minima di esposizione è di 10 giorni con multipli di 5. Sconsigliamo comunque di andare oltre ai 20 giorni perché il materiale si rovina.",
+      "ground": "Il formato dei manifesti può essere scelto tra 70x100 - 100x140 - 140x200 - 300x140 – 300x200, la durata di esposizione minima è di 10 giorni con multipli di 5 (sconsigliamo l’esposizione oltre i 20 giorni per deterioramento del materiale esposto)."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quali sono i tempi per richiedere l'affissione libera?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "La richiesta deve essere inviata via mail almeno tre settimane prima dell'inizio dell'esposizione e i manifesti devono essere consegnati al magazzino almeno una settimana prima dell'inizio dell'esposizione.",
+      "ground": "La richiesta di affissione in Libera deve essere inviata via mail, tre settimane prima dell’inizio esposizione e i manifesti consegnati c/o il magazzino almeno una settimana prima dell’inizio esposizione."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Capito, grazie per le informazioni. ",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Di nulla, per ulteriori chiarimenti siamo a disposizione. Buona giornata!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

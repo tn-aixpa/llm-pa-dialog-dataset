@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00985",
+  "doc_src": "comune.trento_aree-tematiche_D0122.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Qual è la legge che ha istituito il Canone mercatale nel Comune di Trento?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Il Canone mercatale è stato istituito dal Comune di Trento ai sensi dell'art. 1 comma 837 della legge 27 dicembre 2019, n. 160 e ss.mm e ii.",
+      "ground": "Il Canone mercatale è stato istituito dal Comune di Trento dal 1° gennaio 2021 ai sensi dell'art. 1 comma 837 della legge 27 dicembre 2019, n. 160 e ss.mm e ii."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Qual è il regolamento che disciplina il Canone mercatale?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Il regolamento che disciplina il Canone mercatale è il \"Regolamento del commercio su aree pubbliche\" disponibile al link /Comune/Atti-e-albo-pretorio/Regolamenti/In-vigore/Regolamento-del-commercio-su-area-pubblica .",
+      "ground": "Presupposto per l'applicazione del canone è l'occupazione delle aree e degli spazi appartenenti al demanio o al patrimonio indisponibile, destinati a mercati realizzati anche in strutture attrezzate, come individuati dal\n[/Comune/Atti-e-albo-pretorio/Regolamenti/In-vigore/Regolamento-del-commercio-su-area-pubblica](Regolamento del commercio su aree pubbliche)\n, concessi ai titolari di concessione e agli spuntisti."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Quali sono le tariffe del canone?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Le tariffe, approvate con la deliberazione della Giunta comunale 14 novembre 2022, n. 279, sono disponibili al link /Aree-tematiche/Tributi-canoni-e-tariffe-comunali/Canoni/Canone-mercatale/Elenco-delle-fasce-tariffarie.",
+      "ground": "Ad esso è allegato l'elenco delle fasce tariffarie all'interno delle quali sono collocati i mercati e posteggi isolati ([/Aree-tematiche/Tributi-canoni-e-tariffe-comunali/Canoni/Canone-mercatale/Elenco-delle-fasce-tariffarie](Allegato C)\n).\nTariffe\nLe tariffe sono state approvate con\n[/Comune/Atti-e-albo-pretorio/Deliberazioni/Deliberazioni-di-Giunta/Delibera-279-del-2022-Giunta-Comunale](deliberazione della Giunta comunale 14 novembre 2022, n. 279)"
+    }
+  ],
+  "subcategory": "Trento"
+}

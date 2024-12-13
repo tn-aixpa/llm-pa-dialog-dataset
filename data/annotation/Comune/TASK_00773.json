@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00773",
+  "doc_src": "comune.salerno_D0037.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, cosa sa dirmi sulle agevolazioni tariffarie per i servizi di trasporto per le prossime elezioni europe?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Le agevolazioni tariffarie sono previste per gli elettori che si recheranno a votare nel proprio Comune di iscrizione elettorale. Potranno usufruire di tariffe agevolate offerte da enti e società di trasporto. Tutti i dettagli sono riportati nella seguente circolare https://www.comune.salerno.it/sites/default/files/2024-05/Pref.Sa_.2024.0083596.pdf .",
+      "ground": "Si rammenta che anche in occasione delle prossime consultazioni elettorali europee, come di consueto, gli elettori che si recheranno a votare nel proprio Comune di iscrizione elettorale potranno usufruire delle agevolazioni tariffarie applicate da enti e società che gestiscono i relativi servizi di trasporto, quali sono dettagliatamente riportate nella circolare della Prefettura che si allega.\n[https://www.comune.salerno.it/sites/default/files/2024-05/Pref.Sa_.2024.0083596.pdf](circolare agevolazioni tariffarie)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quindi posso beneficiare di queste agevolazioni se voto nel mio Comune?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Esattamente, le agevolazioni sono riservate agli elettori che si recheranno a votare nel Comune in cui sono iscritti. È importante consultare la circolare della Prefettura per conoscere i dettagli e le modalità di accesso alle tariffe agevolate.",
+      "ground": "Si rammenta che anche in occasione delle prossime consultazioni elettorali europee, come di consueto, gli elettori che si recheranno a votare nel proprio Comune di iscrizione elettorale potranno usufruire delle agevolazioni tariffarie applicate da enti e società che gestiscono i relativi servizi di trasporto, quali sono dettagliatamente riportate nella circolare della Prefettura che si allega."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Capito, grazie mille per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È un piacere, rimango a disposizione per ulteriori chiarimenti. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

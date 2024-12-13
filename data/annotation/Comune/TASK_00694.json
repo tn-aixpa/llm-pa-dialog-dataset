@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00694",
+  "doc_src": "comune.trento_aree-tematiche_D0510.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Vorrei poter vedere dove sono locati i punti di raccolta nal caso ci fosse un'emergenza.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Le consiglio di aprire la pagina Aree-tematiche/Protezione-civile/Piano-di-protezione-civile/Cartografie-aree-strategiche e selezionare una circoscrizione. Così dovrebbe riuscire a trovare i punti di raccolta grazie alla simbologia identificativa",
+      "ground": "Per localizzare il punto di raccolta si deve aprire il riquadro\n[/Aree-tematiche/Protezione-civile/Piano-di-protezione-civile/Cartografie-aree-strategiche](cartografie aree strategiche)\n, andare alla circoscrizione di appartenenza e individuarlo facilmente grazie alla\n[/Aree-tematiche/Protezione-civile/Simbologia-aree-strategiche](simbologia)\nidentificativa."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Posso avere informazioni più dettagliate sui luoghi di interesse strategico?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Certamente, puoi consultare le mappe cartografiche dei luoghi di interesse strategico al link /Aree-tematiche/Protezione-civile/Piano-di-protezione-civile/Cartografie-aree-strategiche .",
+      "ground": "Le tabelle di sintesi allegate in formato PDF forniscono informazioni sulle caratteristiche del\nluogo di interesse strategico\ncome posizione sul territorio, circoscrizione, superficie, disponibilità di acqua e illuminazione ecc. Un'importante indicazione fornita nelle tabelle è il numero\nidentificativo\ndel\nluogo di ineteresse strategico\nche ci permette di individuare il luogo stesso sulle mappe cartografiche (vedi\n[/Aree-tematiche/Protezione-civile/Piano-di-protezione-civile/Cartografie-aree-strategiche](Cartografie)\n)"
+    }
+  ],
+  "subcategory": "Trento"
+}

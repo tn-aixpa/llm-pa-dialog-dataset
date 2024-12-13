@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00971",
+  "doc_src": "comune.milano_aree-tematiche_links_D0396.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Un cittadino ha ricevuto un avviso di accertamento, cosa deve fare?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Se il cittadino non ha pagato l'importo o non l'ha fatto per intero, deve fare il pagamento entro 60 dall'avviso. Se invece il cittadino ha pagato oltre la data di scadenza senza accedere al ravvedimento, dovrà pagare la differenza tra l'importo scritto nell'avviso e quello già versato.",
+      "ground": "1. Se non hai pagato l’importo che ti viene richiesto o se non l’hai pagato per intero\nprocedi al pagamento entro 60 giorni dalla notifica dell’avviso di accertamento\noppure\nchiedi la rateazione della somma dovuta.\n2. Se hai pagato oltre la data di scadenza senza accedere al ravvedimento\ndovrai pagare la differenza tra l'importo indicato nell'avviso di accertamento e quello già versato, ossia la maggiorazione dovuta a sanzioni, spese di notifica e interessi in proporzione ai giorni di ritardo. La procedura da utilizzare si chiama\nautotutela"
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Per pagare come deve fare?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Per effettuare il pagamento deve leggere con attenzione le indicazioni contenute nell’avviso e usare soltanto il metodo di pagamento in esso indicato. I canali di pagamento potrebbero essere diversi a seconda del tipo di tributo e del periodo al quale risale l’imposta.",
+      "ground": "Per effettuare il pagamento leggi con attenzione le indicazioni contenute nell’avviso\ne usa sempre e soltanto il metodo di pagamento in esso indicato.\nI canali di pagamento potrebbero essere diversi a seconda del tipo di tributo e del periodo al quale risale l’imposta."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Ci sono possibilità di rateizzare il pagamento?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Sì, è possibile richiedere una rateazione dell'importo degli avvisi notificati seguendo le indicazioni fornite nella pagina http://comune.milano.it/rateazione . La concessione della rateazione è subordinata alla valutazione della morosità pregressa e della correttezza del contribuente nell'assolvimento degli obblighi relativi ad altri piani di rateazione già concessi. La concessione della rateazione comporterà l'accorpamento d'ufficio di tutti i debiti pregressi ad eccezione di quelli già rateizzati e di quelli riferiti a procedure cautelari e/o esecutive in corso.",
+      "ground": "E' possibile richiedere una rateazione dell'importo di avvisi notificati (con raccomandata, pec o domicilio digitale) seguendo le indicazioni della pagina\nhttp://comune.milano.it/rateazione\nLa concessione della rateazione è subordinata alla valutazione della morosità pregressa e della correttezza del contribuente in riferimento all’assolvimento degli obblighi relativi ad altri piani di rateazione già concessi. La concessione della rateazione comporterà, l’accorpamento d'ufficio di tutti i debiti pregressi ad eccezione di quelli già rateizzati e di quelli riferiti a procedure cautelari e/o esecutive in corso."
+    }
+  ],
+  "subcategory": "Milano"
+}

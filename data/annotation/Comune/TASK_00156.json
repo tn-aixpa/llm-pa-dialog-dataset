@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00156",
+  "doc_src": "comune.milano_aree-tematiche_D0182.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, devo pagare per parcheggiare la mia macchina elettrica a Milano?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Sì, può richiedere un permesso per la sosta gratuita negli spazi gialli riservati ai residenti o negli spazi blu dei parcheggi a pagamento.",
+      "ground": "I veicoli a completa trazione elettrica o ibrida con emissione di CO2 ≤ 50 g/km (quest’ultimo valore è verificabile alla voce V7 del libretto di circolazione) possono richiedere un permesso per sostare gratuitamente:\n\nnegli spazi gialli riservati ai residenti\nnegli spazi blu destinati alla sosta a pagamento"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E al di fuori di queste devo pagare?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Non le so dare i dettagli, può trovare più informazioni al link www.sostagratuita.it",
+      "ground": "Per informazioni e istruzioni consulta il link nella sezione Utilizza i servizi.\n\nUtilizza i servizi\n\nSosta gratuita di auto elettriche e ibride con ridotto impatto ambientale[www.sostagratuita.it]"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Di nulla.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

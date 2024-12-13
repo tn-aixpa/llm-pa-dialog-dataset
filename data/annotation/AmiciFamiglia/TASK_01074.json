@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01074",
+  "doc_src": "canazei__2022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Ci sono proposte disponibili per ragazzi dai 16 in su?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Può creare dei piani che intendo aggregare progetti ideati da giovani del terriitorio e portare assieme questi ragazzi, oppure fare un escape room a tema storico, dove i ragazzi devono fuggire mentre risolvono enigmi e indovinelli sulla guerra bianca.",
+      "ground": "l Piano sviluppa principalmente progetti ideati da giovani del territorio per favorire il protagonismo dei medesimi e l’aggregazione giovanile. Negli anni passati le iniziative hanno riguardato diversi campi (cultura, crescita sociale, sportivo, imprenditorialitа giovanile, ecc.).\n\n|||\n\nDESCRIZIONE: Su iniziativa dell’ Associazione “InOut” e in collaborazione con il Museo Ladino di Fassa è stato organizzato un “Escape Room” presso l’edificio comunale “Ex scuole medie'' ad Alba di Canazei.\n\nIl progetto prevede che i ragazzi, chiusi in una stanza, risolvano enigmi ed indovinelli sulla Guerra Bianca nella Dolomiti (1^ Guerra mondiale) imparando a pianificare tattiche per scappare dalla guerra ed evitare di essere prigionieri. Attraverso il gioco l’”Escape Room” consente ai giovani di sviluppare nuove abilitа e attivitа di teambuilding."
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Mi piace molto la seconda idea.",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "Le serve altro?",
+      "ground": ""
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Per l'Università della terza età ci sono proposte?",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Può attivare un circolo di anziani in modo che possa esserci uno scambio sociale e culturale, con tanto di laboratori e percorsi formativi. Potrebbe inoltre dare contributi per le spese di trasporto.",
+      "ground": "Il Comune di Canazei intende attivare nel 2022 e anni seguenti un circolo anziani quale luogo di incontro e scambio sociale/culturale, sostenendo percorsi formativi per anziani e realizzare laboratori – studio attraverso cui gli anziani diventino “protagonisti” e abbiano la possibilitа di trasmettere le loro conoscenze e le loro esperienze, anche in attivitа manuali.\n\n|||\n\nIl Comune di Canazei contribuisce alle spese di trasporto anziani per la partecipazione alle attivitа del Circola Anziani con sede in San Giovanni di Fassa."
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

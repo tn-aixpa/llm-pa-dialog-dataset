@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00551",
+  "doc_src": "comune.trento_aree-tematiche_D0239.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Buongiorno, vorrei informazioni sugli interventi di aiuto e sostegno familiare.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Buongiorno, certo. Posso aiutarla. A quali interventi specifici è interessato?",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Mi chiedevo se è possibile ricevere un assegno di maternità.",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Per l'assegno di maternità le consiglio di consultare il link http://www.apapi.provincia.tn.it/nuclei_familiari/Assegno_maternita/ .\n\nRicordo che dal 1° gennaio 2017 la competenza relativa a tali assegni è stata trasferita alla Provincia autonoma di Trento.",
+      "ground": "Dal 1° gennaio 2017\nla competenza relativa alle attività di concessione ed erogazione dell'assegno ai nuclei familiari con almeno tre figli minori e di maternità è trasferita in capo alla Provincia Autonoma di Trento\n\n|||\n\n[http://www.apapi.provincia.tn.it/nuclei_familiari/Assegno_maternita/](Assegno di maternità)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "E per l'esenzione dal ticket sanitario?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Per l'esenzione dal ticket sanitario le consiglio di consultare la pagina https://www.comune.trento.it/Aree-tematiche/Politiche-sociali-e-abitative/Famiglia-e-bambini/Servizi/Assegni-e-contributi/Esenzione-ticket-sanitario-rilascio-tesserino .",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Politiche-sociali-e-abitative/Famiglia-e-bambini/Servizi/Assegni-e-contributi/Esenzione-ticket-sanitario-rilascio-tesserino](Esenzione ticket sanitario, rilascio tesserino)"
+    }
+  ],
+  "subcategory": "Trento"
+}

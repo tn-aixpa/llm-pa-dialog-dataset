@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00054",
+  "doc_src": "comune.milano_aree-tematiche_D0076.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Salve, vorrei informazioni riguardo agli alberghi disposti a fornire ospitalità alle famiglie sfrattate.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno. Il Comune di Milano sta raccogliendo adesioni da parte delle strutture alberghiere ad ospitare famiglie sfrattate. Questo permette alle famiglie prive di alloggio di ricevere ospitalità in caso di sfratto o situazioni simili. ",
+      "ground": "Il Comune di Milano con Deliberazione di Giunta Comunale n. 1206 del 19/07/2019 intende acquisire manifestazioni di interesse da parte di strutture alberghiere sul territorio comunale disposte a fornire ospitalità a famiglie prive di alloggio a seguito di un provvedimento dell'autorità giudiziaria/amministrativa o a seguito di un evento improvviso, e a famiglie destinatarie di un contratto di locazione transitorio ex art. 23 L.R. n.16/2016.\n\nInformazioni\n\nPer chiarimenti o informazioni è possibile:\ninviare una e-mail a: CASA.CoorEmergAbit@comune.milano.it\ntelefonare al numero 02 884."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quindi ci sono alberghi che offrono questo tipo di servizio?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Al momento stiamo raccogliendo manifestazioni di interesse, è probabile che ci siano degli alberghi, ma se vuole più informazioni le consiglio di inviare una mail a ASA.CoorEmergAbit@comune.milano.it oppure di chiamare al numero 02 884.66896",
+      "ground": "Per chiarimenti o informazioni è possibile:\ninviare una e-mail a: CASA.CoorEmergAbit@comune.milano.it\ntelefonare al numero 02 884.66896"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

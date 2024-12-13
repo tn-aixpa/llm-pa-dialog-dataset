@@ -1,0 +1,22 @@
+{
+  "task_id": "TASK_00548",
+  "doc_src": "comune.trento_aree-tematiche_D0234.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, potrebbe darmi informazioni riguardo alla lottizzazione della zona C3pfs a Chiesura, Romagnano?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente. La lottizzazione è stata approvata con la deliberazione del Consiglio comunale n. 12 del 26 febbraio 2014, che ha comportato la modifica delle previsioni del Piano Regolatore Generale.",
+      "ground": "Informazioni, documenti ed elaborati grafici.\nL’approvazione del piano di lottizzazione della zona C3pfs in località Chiesura a Romagnano, avvenuta con deliberazione del Consiglio comunale n. 12 del 26 febbraio 2014, ha comportato la modifica delle previsioni del Piano Regolatore Generale."
+    }
+  ],
+  "subcategory": "Trento"
+}

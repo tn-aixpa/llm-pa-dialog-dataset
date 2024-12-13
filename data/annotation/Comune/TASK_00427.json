@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00427",
+  "doc_src": "comune.trento_aree-tematiche_D0035.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, potrebbe dirmi se offrite servizi di accoglienza di minori presso famiglie o singoli?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Sì, ci sono diversi servizi di accoglienza che famiglie e singoli offrono verso i minori.",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Politiche-sociali-e-abitative/Famiglia-e-bambini/Servizi/Accoglienza-affidamento-assistenza/Accoglienza-di-minori-presso-famiglie-o-singoli-con-il-carattere-della-semi-residenzialita-sia-diurna-che-notturna](Accoglienza di minori presso famiglie o singoli con il carattere della semi-residenzialità sia diurna che notturna)\nL'accoglienza di minori presso famiglie o singoli è una forma di intervento a carattere preventivo e di sostegno alla famiglia che consiste nell'accoglienza diurna e/o notturna con orari e tempi flessibili. Si affianca alla famiglia di origine, dove il minore continua a vivere, integrandone le funzioni genitoriali.\nServizio di competenza:\nWELFARE E COESIONE SOCIALE\n• - -\n[https://www.comune.trento.it/Aree-tematiche/Politiche-sociali-e-abitative/Famiglia-e-bambini/Servizi/Accoglienza-affidamento-assistenza/Affidamento-familiare-dei-minori](Affidamento familiare dei minori)\nL'affidamento familiare dei minori consiste nell'accoglienza di minori  privi di un ambiente familiare idoneo presso famiglie (preferibilmente con figli minori) o singoli opportunamente individuati e preparati.\nServizio di competenza:\nWELFARE E COESIONE SOCIALE\n• - -\n[https://www.comune.trento.it/Aree-tematiche/Politiche-sociali-e-abitative/Famiglia-e-bambini/Servizi/Accoglienza-affidamento-assistenza/Assistenza-domiciliare-integrata-Adi](Assistenza domiciliare integrata - Adi)\nIntervento socio-sanitario\nPer informazioni consultare il sito:\n[https://www.apss.tn.it/Servizi-e-Prestazioni/Assistenza-domiciliare](https://www.apss.tn.it/Servizi-e-Prestazioni/Assistenza-domiciliare)\nServizio di competenza:\nWELFARE E COESIONE SOCIALE\n• - -\n[https://www.comune.trento.it/Aree-tematiche/Politiche-sociali-e-abitative/Famiglia-e-bambini/Servizi/Accoglienza-affidamento-assistenza/Centri-aperti-per-minori](Centri aperti per minori)\n[]()\nTutte le informazioni sul sito Trentinosociale.it\n[http://www.trentinosociale.it/index.php/Servizi-ai-cittadini/Guida-ai-servizi/per-destinatari/Minori/Avere-occasioni-di-incontro-e-socializzazione/Centro-aperto-per-minori](http://www.trentinosociale.it/.../Centro-aperto-per-minori)\nServizio di competenza:\nWELFARE E COESIONE SOCIALE\n• - -\n[https://www.comune.trento.it/Aree-tematiche/Politiche-sociali-e-abitative/Famiglia-e-bambini/Servizi/Accoglienza-affidamento-assistenza/Servizi-a-carattere-residenziale-a-favore-di-minori-giovani-o-adulti](Servizi a carattere residenziale a favore di minori, giovani o adulti)\nI servizi residenziali sostengono le famiglie nello svolgimento delle funzioni educative e di cura, quando queste non sono in grado di far fronte ai propri compiti e gli altri servizi di aiuto e sostegno integrativi e sostitutivi di funzioni proprie del nucleo non sono stati sufficienti per mantenere i minori nel loro ambiente di vita con la tutela necessaria.\nServizio di competenza:\nWELFARE E COESIONE SOCIALE\n• - -\n[https://www.comune.trento.it/Aree-tematiche/Politiche-sociali-e-abitative/Famiglia-e-bambini/Servizi/Accoglienza-affidamento-assistenza/Servizi-a-carattere-semi-residenziale-a-favore-di-minori-giovani-o-adulti](Servizi a carattere semi-residenziale a favore di minori, giovani o adulti)\nI servizi semi-residenziali forniscono un'assistenza integrativa alla famiglia e un supporto alla vita di relazione del minore, del giovane o dell'adulto.\nServizio di competenza:\nWELFARE E COESIONE SOCIALE\n• - -\n[https://www.comune.trento.it/Aree-tematiche/Politiche-sociali-e-abitative/Famiglia-e-bambini/Servizi/Accoglienza-affidamento-assistenza/Servizi-di-spazio-neutro-a-favore-di-minori](Servizi di spazio neutro a favore di minori)\nLo spazio neutro è un luogo fisico dove si svolge l'incontro del minore con i propri familiari alla presenza di un educatore.\nServizio di competenza:\nWELFARE E COESIONE SOCIALE\n• - -\n[https://www.comune.trento.it/Aree-tematiche/Politiche-sociali-e-abitative/Famiglia-e-bambini/Servizi/Accoglienza-affidamento-assistenza/Servizi-educativi-a-domicilio-a-favore-di-minori-giovani-adulti-e-disabili](Servizi educativi a domicilio a favore di minori, giovani, adulti e disabili)\nL'intervento educativo a domicilio è finalizzato ad affiancare e sostenere lo sviluppo del minore e dell'adolescente, anche disabile, e a favorire il recupero delle competenze educative del/dei genitore/i o delle figure parentali di riferimento.\nServizio di competenza:\nWELFARE E COESIONE SOCIALE\n• - -\n[https://www.comune.trento.it/Aree-tematiche/Politiche-sociali-e-abitative/Famiglia-e-bambini/Servizi/Accoglienza-affidamento-assistenza/Servizio-di-assistenza-domiciliare-convenzionata](Servizio di assistenza domiciliare convenzionata)\nGli interventi di assistenza domiciliare riguardano il complesso delle prestazioni di natura socio-assistenziale rivolte a persone singole o nuclei familiari anche a supporto delle vita di relazione, erogate al domicilio.\nServizio di competenza:\nWELFARE E COESIONE SOCIALE"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Ci sono servizi di assistenza domiciliare?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, viene offerto il servizi di sostegno alla persona, servizio pasti, servizio lavanderia e assistenza domiciliare integrata. Può trovare più dettagli ai seguenti link:\n\nAssistenza domiciliare integrata https://www.comune.trento.it/Aree-tematiche/Politiche-sociali-e-abitative/Famiglia-e-bambini/Servizi/Accoglienza-affidamento-assistenza/Assistenza-domiciliare-integrata-Adi\nAssistenza domiciliare convenzionata https://www.comune.trento.it/Aree-tematiche/Politiche-sociali-e-abitative/Famiglia-e-bambini/Servizi/Accoglienza-affidamento-assistenza/Servizio-di-assistenza-domiciliare-convenzionata\n\n\n\n",
+      "ground": "Accoglienza di minori presso famiglie o singoli, Affidamento familiare dei minori, Centro di pronta accoglienza, Assistenza domiciliare: sostegno alla persona, Assistenza domiciliare: servizio pasti, Assistenza domiciliare: servizio di lavanderia, Assistenza domiciliare integrata (A.D.I.), Interventi educativi a domicilio, Gruppo appartamento, Centri diurni per minori, Centri aperti per minori\n\n|||\n\n[https://www.comune.trento.it/Aree-tematiche/Politiche-sociali-e-abitative/Famiglia-e-bambini/Servizi/Accoglienza-affidamento-assistenza/Assistenza-domiciliare-integrata-Adi](Assistenza domiciliare integrata - Adi)\n\n|||"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Puoi darmi qualche link anche per servizi educativi?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Al link https://www.comune.trento.it/Aree-tematiche/Politiche-sociali-e-abitative/Famiglia-e-bambini/Servizi/Accoglienza-affidamento-assistenza/Servizi-educativi-a-domicilio-a-favore-di-minori-giovani-adulti-e-disabili puoi trovare i servizi educativi a domicilio per minori, giovani, adulti e disabili.",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Politiche-sociali-e-abitative/Famiglia-e-bambini/Servizi/Accoglienza-affidamento-assistenza/Servizi-educativi-a-domicilio-a-favore-di-minori-giovani-adulti-e-disabili](Servizi educativi a domicilio a favore di minori, giovani, adulti e disabili)"
+    }
+  ],
+  "subcategory": "Trento"
+}

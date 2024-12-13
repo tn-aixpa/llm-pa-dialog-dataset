@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_00109",
+  "doc_src": "comune.milano_aree-tematiche_D0127.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sulla pubblicità a Milano. È necessaria un'autorizzazione per installare mezzi pubblicitari?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, sì, l'installazione di mezzi pubblicitari e l'esposizione di pubblicità sul territorio del Comune di Milano richiedono un'autorizzazione, o un titolo abitativo nel caso di insegne di esercizio, nonché il pagamento del canone unico.",
+      "ground": "L'installazione di mezzi pubblicitari e l'esposizione di pubblicità sul territorio del Comune di Milano sono soggetti a un provvedimento di autorizzazione o, nel caso delle insegne di esercizio, a un titolo abilitativo (SCIA), nonché al pagamento del canone unico ai sensi della L.160/2019 e del vigente Regolamento comunale sul Canone Unico Patrimoniale."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E per la pubblicità temporanea, quali sono i mezzi considerati?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sono da considerarsi mezzi di pubblicità temporanea:\n- Alcuni gonfaloni;\n- Striscioni;\n- Strutture provvisorie su suolo pubblico\n- Teli su ponteggi\n- Pellicolatura di strada e di edifici\n- Palloni aerostatici e frenati\n- Proiezioni\n- Pubblicità sui taxi",
+      "ground": "Sono considerati mezzi di pubblicità temporanea:\nSono considerati mezzi di pubblicità temporanea:\n\ncartelli e stendardi\ngonfaloni (l'elenco dei pali per questa tipologia di mezzi è consultabile negli allegati)\nstriscioni\nstrutture provvisorie su suolo pubblico\nteli su ponteggi\npellicolatura di strada e di edifici\npalloni aerostatici e frenati\nproiezioni\npubblicità sui taxi\ncartelli e stendardi"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "E per la pubblicità permanente, quali sono i mezzi considerati?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Posso solo farti alcuni esempi a titolo esemplificativo, poiché tutta l'esposizione di pubblicità pari o superiore all'anno è da considerarsi permanente:\n- Poster;\n- Teli pubblicitari su fronti ciechi;\n- Quadri pittorici;\n- Cassonetti luminosi a parete.",
+      "ground": "Per pubblicità permanente si intende l’esposizione pubblicitaria di durata pari o superiore a un anno.\nA titolo esemplificativo, si considera “permanente” l'attività pubblicitaria svolta coi seguenti mezzi:\n\nposter\nteli pubblicitari su fronti ciechi\nquadri pittorici\ncassonetti luminosi a parete\ninsegne pubblicitarie su tetto (in caso di installazione in luogo diverso dalla sede dell’attività)\ntarghe su pali \nimpianti di trasmissione e/o riproduzione di immagini\nimpianti innovativi e tecnologicamente avanzati\ninsegne di esercizio\nloghi su veicoli aziendali"
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni, come posso richiedere un'autorizzazione per l'esposizione permanente?",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "Puoi andare al sito www.pubblicitapermanente.co.uk",
+      "ground": "Pubblicità permanente[www.pubblicitapermanente.co.uk]"
+    },
+    {
+      "id": "T09",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per l'aiuto, mi metterò subito al lavoro per ottenere le autorizzazioni necessarie.",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agente",
+      "message": "È stato un piacere aiutarti, buona fortuna con la tua attività pubblicitaria.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

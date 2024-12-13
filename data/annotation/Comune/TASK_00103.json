@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_00103",
+  "doc_src": "comune.milano_aree-tematiche_D0118.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei avere informazioni sull'ufficio Protocollo dello Sportello Unico per l'Edilizia.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, certo. Mi dica.",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "È possibile protocollare documenti tramite PEC?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, è possibile protocollare diversi tipi di documenti tramite PEC, come richieste di rimborso, proroghe dei lavori, comunicazioni di revoca e molto altro ancora.",
+      "ground": "L’Ufficio Protocollo dell’Area Sportello Unico per l’Edilizia garantisce la ricezione e la protocollazione a distanza di documenti (comunicazione/integrazione/richiesta), dei quali verifica la completezza formale.\n\nCosa è possibile protocollare attraverso la PEC\n\n|||\n\nSegnalazione certificata per l’agibilità per Permessi di costruire e per le SCIA non presentate in “Impresainungiorno” \nRichieste di rimborso di somme pagate per pratiche edilizie in corso\nRichieste di voltura del permesso di costruire\nRichieste di proroga dei termini di inizio/fine lavori dei permessi di costruire\nComunicazione di revoca del progettista/Assuntore dei lavori per le pratiche non presentate in “Impresainungiorno”\nRichieste di svincolo di polizze fidejussorie\nRichiesta di svincolo/trasferimento della pertinenzialità di parcheggio\nEsposti/segnalazioni/solleciti\nRichieste di copia conforme all’originale delle certificazioni energetiche presentate/protocollate fino a settembre 2011"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "E come posso fare per presentare i documenti?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Basta inviare la documentazione all'indirizzo PEC sueprotocollo@postacert.comune.milano.it",
+      "ground": "Cosa è possibile protocollare attraverso la PEC\n\nIndirizzo PEC: sueprotocollo@postacert.comune.milano.it"
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Ho sentito che ci sono delle avvertenze da seguire, quali sono?",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "Sì, è importante che la PEC contenga comunicazioni, integrazioni e richieste relative a una singola pratica edilizia e che i documenti siano firmati digitalmente.\nPer qualsiasi altra tipologia di documento occorre indicare la localizzazione e il numero civico della pratica di riferimento, nonché i numeri di protocollo Generale e OnlyOne.\nNon sono effettuate protocollazioni di documenti con diversa modalità di presentazioni.\nCi sono diverse richieste in base alla marca da bollo.",
+      "ground": "La PEC dovrà contenere comunicazioni/integrazioni/richieste od altra documentazione che faccia riferimento ad una singola pratica edilizia. Le stesse e i relativi allegati in formato Pdf dovranno essere firmati digitalmente\nLa PEC oltre al documento (comunicazione/integrazione/richiesta) dovrà contenere: procura alla presentazione firmata dall’avente titolo qualora lo stesso non disponga di una firma digitale o di una casella pec\nPer qualsiasi tipologia di documento occorre indicare sempre la localizzazione e civico della pratica di riferimento oltre ai numeri di Protocollo Generale e di OnlyOne (progr. W.F.)\nNon verrà effettuata alcuna protocollazione dei documenti per i quali è prevista esplicitamente una diversa modalità di presentazione\nNel caso di richieste alle quali va apposta la marca da bollo si elenca di seguito la modalità cui attenersi:"
+    },
+    {
+      "id": "T09",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni, tutto molto chiaro.",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agente",
+      "message": "È stato un piacere poterla aiutare.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

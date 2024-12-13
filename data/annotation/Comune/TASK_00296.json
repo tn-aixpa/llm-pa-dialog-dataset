@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00296",
+  "doc_src": "comune.milano_aree-tematiche_links_D0328.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, potrebbe darmi informazioni sul Festival dei beni confiscati?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, posso aiutarla. Cosa vorrebbe sapere?",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Vorrei sapere quando si tiene.",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "l'evento va dal 27 ottobre al 2 novembre.",
+      "ground": "Dal 27 ottobre al 2 novembre si è svolto il\nFestival dei beni confiscati\n, la manifestazione organizzata con l'obiettivo di informare e sensibilizzare la cittadinanza sull’azione di contrasto alle mafie a Milano e sul riutilizzo dei beni sottratti al controllo e all'uso della criminalità organizzata."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Okay grazie. Buona giornata.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Grazie a lei.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

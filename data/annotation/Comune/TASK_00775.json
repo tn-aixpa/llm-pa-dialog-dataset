@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00775",
+  "doc_src": "comune.salerno_D0040.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sulla procedura di co-progettazione per il Centro Diurno Polifunzionale per minori a Salerno.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, certo. La procedura è pubblicata nella seguente web https://albofornitori.comune.salerno.it/PortaleAppalti/it/ppgare_bandi_lista.wp . La domanda e la documentazione dovranno essere caricate entro le ore 14:00 del 31 maggio 2024.",
+      "ground": "[https://albofornitori.comune.salerno.it/PortaleAppalti/it/ppgare_bandi_lista.wp](https://albofornitori.comune.salerno.it/PortaleAppalti/it/ppgare_bandi_lista.wp)\nLa domanda di partecipazione e la documentazione relativa alla procedura dovranno essere caricate in piattaforma entro e non oltre le ore 14:00 del giorno 31/05/2024."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quindi posso partecipare?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, può ancora partecipare.",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "È stato un piacere, resto a disposizione per eventuali ulteriori chiarimenti. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

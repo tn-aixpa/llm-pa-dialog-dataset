@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01171",
+  "doc_src": "segonzano_v2.1__2023.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Scrivimi un'azione sull'organizzazione di una colonia estiva.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "TITOLO: Colonia Estiva\n\nTASSONOMIA: Agevolazioni tariffarie e contributi per servizi educativi e di conciliazione\n\nMACRO-AMBITO: Misure economiche\n\nOBIETTIVO: offrire un'opportunità di svago e apprendimento per i bambini durante il periodo estivo, promuovendo la socializzazione e il benessere delle famiglie.\n\nDESCRIZIONE: Il Comune organizza una colonia estiva per i bambini residenti. La struttura è messa a disposizione dal Comune, che collabora nell'organizzazione di alcune attività.\nL'amministrazione sostiene parte della spesa fornendo alle famiglie dei contributi se iscrivono i propri ragazzi alla colonia.",
+      "ground": "TITOLO: COLONIA ESTIVA\nTASSONOMIA: Agevolazioni tariffarie e contributi per servizi educativi e di conciliazione\nMACRO-AMBITO: Misure economiche\nOBIETTIVO: Incentivare i momenti di incontro tra bambini e ragazzi ed aiutare le famiglie, residenti e non, nell’organizzazione del tempo libero dei figli nei mesi estivi di pausa scolastica propone un servizio di centro diurno estivo a tempo pieno.\nDESCRIZIONE: Il Comune di Segonzano, in collaborazione con la Comunitа di Valle, organizza la Colonia estiva che prevede la partecipazione dei bambini residenti nei Comuni di Segonzano. Il Comune mette a disposizione la struttura dove hanno sede le attivitа principali e collabora nell'organizzazione.\nL'Amministrazione sostiene in parte la spesa per abbassare la quota a carico delle famiglie."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Che altre agevolazioni posso offrire?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Potresti offrire delle agevolazioni per le seguenti voci:\n- Servizio di aiuto compiti\n- Costi del servizio di asilo nido intercomunale\n- Voucher sportivo a favore delle famiglie\n- Ta.Ri. per riduzioni ed esenzioni in generale\n- Ta.Ri. per Deroghe per inserimento in R.S.A. o istituti di ricovero\n- Ta.Ri. per riduzioni per raccolta differenziata",
+      "ground": "SERVIZIO DI AIUTO COMPITI\n\n|||\n\nCOMPARTECIPAZIONE DEL COMUNE DI SEGONZANO AI COSTI DEL SERVIZIO DI ASILO NIDO INTERCOMUNALE\n\n|||\n\nVOUCHER SPORTIVO A FAVORE DELLE FAMIGLIE\n\n|||\n\nTA.RI. - ALTRE RIDUZIONI ED ESENZIONI\n\n|||\n\nTA.RI. - DEROGHE PER INSERIMENTO IN R.S.A. O ISTITUTI DI RICOVERO\n\n|||\n\nTA.RI. - RIDUZIONI PER RACCOLTA DIFFERENZIATA"
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Scrivimi un'azione per la riduzione della Tari per la raccolta differenziata per chi usa un composter in casa.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "TITOLO: Riduzione Tari per compostaggio domestico\n\nTASSONOMIA: Agevolazioni per tariffe comunali\n\nMACRO-AMBITO: Misure economiche\n\nOBIETTIVO: Promuovere il compostaggio domestico per ridurre i rifiuti urbani e sostenere l'ambiente.\n\nDESCRIZIONE: Ai cittadini che praticano il compostaggio della frazione organica dei rifiuti urbani con trasformazione biologica su superficie non pavimentata nelle vicinanze della propria abitazione e di uno spazio ben delimitato, è prevista una riduzione della quota variabile della Tari. L'importo della riduzione è stabilito annualmente nella delibera di approvazione del tributo e viene applicato a partire dal giorno successivo alla presentazione di un'apposita istanza che attesti la pratica del compostaggio domestico.",
+      "ground": "TITOLO: TA.RI. - RIDUZIONI PER RACCOLTA DIFFERENZIATA\nTASSONOMIA: Agevolazioni per tariffe comunali\nMACRO-AMBITO: Misure economiche\nOBIETTIVO: Sostegno economico alle famiglie\nDESCRIZIONE: Art. 17, comma 1 del Regolamento per la disciplina della TA.RI. (Tassa per la gestione dei rifiuti) approvato con deliberazione del Consiglio comunale n. 8 del 31 marzo 2021\nPer le utenze domestiche che praticano il compostaggio della frazione organica dei rifiuti urbani con trasformazione biologica su superficie non pavimentata nelle vicinanze della propria abitazione e di uno spazio ben delimitato, è prevista un a riduzione della quota variabile della tassa in misura stabilita annualmente nella delibera di approvazione del tributo, con effetto dal giorno successivo a quello di presentazione di apposita istanza nella quale si attesta che verrа praticato il compostaggio domestico. La suddetta istanza sarа valida anche per gli anni successivi, purchй non siano mutate le condizioni, con obbligo per il soggetto passivo di comunicare la cessazione dello svolgimento dell’attivitа di compostaggio. Con la presentazione della sopracitata istanza il medesimo autorizza altresм il Comune o soggetto gestore a provvedere a verifiche, anche periodiche, al fine di accertare la reale pratica di compostaggio."
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

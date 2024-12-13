@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00041",
+  "doc_src": "comune.milano_aree-tematiche_D0062.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni riguardo alle razze speciali per cui fare il patentino.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, certo. Le razze seguenti razze sono considerate razze speciali per cui è necessario il patentino:\n-American Bulldog/American Bully\n-Cane da pastore di Charplanina\n-Cane da pastore dell’Anatolia\n-Cane da pastore dell’Asia centrale\n-Cane da pastore del Caucaso\n-Cane da pastore Maremmano Abruzzese\n-Cane da Serra da Estreilla\n-Dogo Argentino\n-Fila braziliero\n-Perro da canapo majoero\n-Perro da presa canario\n-Perro da presa Mallorquin\n-Pit bull\n-Pitt bull mastiff\n-Pitt bull terrier\n-Rafeiro do alentejo\n-Rottweiler\n-Rhodesian Ridgeback\n-Tosa inu\n-American Staffordshire Terrier\n-Bandog + Molossoidi di grande taglia non iscritti ai libri genealogici ENCI-FCI\n-Bull terrier\n-Boerboel\n-Cane Corso\n-Cane lupo Cecoslovacco\n-Cane lupo di Saarloos\n-Cane lupo Italiano\n\nE qualsiasi incrocio fra queste razze",
+      "ground": "Le razze speciali per cui fare il patentino\n\nI cani definiti di razza speciale sono :\n\nAmerican Bulldog/American Bully\nCane da pastore di Charplanina\nCane da pastore dell’Anatolia\nCane da pastore dell’Asia centrale\nCane da pastore del Caucaso\nCane da pastore Maremmano Abruzzese\nCane da Serra da Estreilla\nDogo Argentino\nFila braziliero\nPerro da canapo majoero\nPerro da presa canario\nPerro da presa Mallorquin\nPit bull\nPitt bull mastiff\nPitt bull terrier\nRafeiro do alentejo\nRottweiler\nRhodesian Ridgeback\nTosa inu\nAmerican Staffordshire Terrier\nBandog + Molossoidi di grande taglia non iscritti ai libri genealogici ENCI-FCI\nBull terrier\nBoerboel\nCane Corso\nCane lupo Cecoslovacco\nCane lupo di Saarloos\nCane lupo Italiano\n\ne incroci derivanti dalle razze sopra citate. \n"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Quindi, se ho capito bene, devo fare il patentino se possiedo una o più di queste razze?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Esattamente. Per ottenere il patentino seguire un corpo composto da contenuti pre-registrati e sostenare i moduli formativi e il test finale entro la data di scadenza.",
+      "ground": "l corso  per ottenere il patentino è composto da videoregistrazioni. Per agevolarne la fruizione infatti, le lezioni non si terranno in diretta streaming ma saranno previamente registrate e pertanto disponibili online per tutta la durata del corso.\nAl termine del corso è previsto un test finale di verifica dell'apprendimento. \nI moduli formativi e il test finale dovranno essere conclusi entro la data di scadenza.  "
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "E quali sono le date e le scadenze per iscriversi al patentino del 2024?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Le date e le scadenze le trova al link www.datediscadenza.com",
+      "ground": "Date e scadenze iscrizioni Patentino 2024 www.datediscadenza.com"
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "Di nulla.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

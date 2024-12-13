@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00686",
+  "doc_src": "comune.trento_aree-tematiche_D0496.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, potrebbe gentilmente indicarmi normative di riferimento per l'energia valide per i Comuni della Provincia Autonoma di Trento?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Può trovare le info che cerca al link http://www.energia.provincia.tn.it/normativa/ .",
+      "ground": "Principali fonti normative di riferimento per le materie energetiche valide per i Comuni della Provincia Autonoma di Trento (link esterno sul sito dell' Agenzia Provinciale per l'Energia)\n[http://www.energia.provincia.tn.it/normativa/](http://www.energia.provincia.tn.it/default.asp)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per la gentilezza.",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Mi dispiace, ma il servizio è riservato ai bambini fino ai tre anni di età.",
+      "ground": "Ai servizi possono accedere le bambine e i bambini fino ai tre anni di età."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Capito, grazie comunque per le informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Prego, sono qui per qualsiasi altra domanda.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

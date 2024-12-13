@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00569",
+  "doc_src": "comune.trento_aree-tematiche_D0266.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, potrebbe dirmi se la città di Trento è parte dell'associazione \"Città Alpina dell'Anno\"?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, sì, la città di Trento fa parte dell'associazione dal 2004.",
+      "ground": "Nel 2017 l'associazione \"Città Alpina dell'Anno\", di cui anche la città di Trento fa parte dal 2004, ha festeggiato i 20 anni di attività durante i quali sono stati raggiunti grandi traguardi."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E quali sono le altre città alpine che fanno parte di questa associazione?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Attualmente le città alpine aderenti sono 17: Morbegno, Bressanone, Tolmezzo, Tolmin, Chamonix, Lecco, Annecy, Idrija, Bolzano, Brig-Glis, Chambery, Sonthofen, Trento, Herisau, Bad Reichenhall, Belluno e Villach.",
+      "ground": "Attualmente le città alpine aderenti sono 17: Morbegno, Bressanone, Tolmezzo, Tolmin, Chamonix, Lecco, Annecy, Idrija, Bolzano, Brig-Glis, Chambery, Sonthofen, Trento, Herisau, Bad Reichenhall, Belluno e Villach."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Quindi, Trento è l'unica città italiana ad appartenere a questa associazione?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "No, oltre a Trento, anche Bolzano, Morbegno, Bressanone, Tolmezzo, Lecco e Belluno fanno parte delle città alpine aderenti all'associazione \"Città Alpina dell'Anno\".",
+      "ground": "Morbegno, Bressanone, Tolmezzo, Tolmin, Chamonix, Lecco, Annecy, Idrija, Bolzano, Brig-Glis, Chambery, Sonthofen, Trento, Herisau, Bad Reichenhall, Belluno e Villach."
+    }
+  ],
+  "subcategory": "Trento"
+}

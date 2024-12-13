@@ -1,0 +1,58 @@
+{
+  "task_id": "TASK_00520",
+  "doc_src": "comune.trento_aree-tematiche_D0185.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni su come installare una luminaria.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Per l'installazione di una luminaria deve inviare della modulistica. Può trovare questa al link https://www.comune.trento.it/Aree-tematiche/Attivita-economiche/Altre-attivita-economiche/Comunicazione-per-attivita-di-installazione-e-accensione-di-luminarie .",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Attivita-economiche/Altre-attivita-economiche/Comunicazione-per-attivita-di-installazione-e-accensione-di-luminarie](Comunicazione per attività di installazione e accensione di luminarie)\nInformazioni e modulistica necessaria per presentare la comunicazione per l'attività di installazione e accensione di luminarie"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "E per la richiesta di tesserino da hobbista, a chi devo rivolgermi?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Può rivolgersi al servizio in https://servizi.comune.trento.it/Servizi/Rilascio-tesserino-attivita-di-hobbista per la richiesta di un tesserino da hobbista",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Attivita-economiche/Altre-attivita-economiche/Domanda-tesserino-attivita-di-hobbista](Domanda tesserino attività di hobbista)\nPresenta la domanda in via telematica\nusando il servizio di \"\n[https://servizi.comune.trento.it/Servizi/Rilascio-tesserino-attivita-di-hobbista](Rilascio tesserino attività di hobbista)"
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

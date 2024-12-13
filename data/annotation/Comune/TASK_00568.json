@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00568",
+  "doc_src": "comune.trento_aree-tematiche_D0264.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Buongiorno, vorrei delle informazioni riguardo ai progetti lavorativi offerti dal Comune.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Buongiorno, al momento è disponibile solo il progetto per fare segretariato sociale. Può ottenere più informazioni al link https://www.comune.trento.it/Aree-tematiche/Politiche-sociali-e-abitative/Adulti/Servizi/Progetti/Segretariato-sociale",
+      "ground": "[https://www.comune.trento.it/Aree-tematiche/Politiche-sociali-e-abitative/Adulti/Servizi/Progetti/Segretariato-sociale](Segretariato sociale)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Grazie per l'aiuto, mi recherò sul sito per ulteriori informazioni.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "È stato un piacere poterla aiutare. Se avrà bisogno di ulteriori chiarimenti non esiti a contattarci nuovamente. Buona giornata.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

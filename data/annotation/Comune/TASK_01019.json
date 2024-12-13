@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01019",
+  "doc_src": "comSalerno0949.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "PA Operator",
+      "message": "Quali parcheggi saranno utilizzabili gratuitamente durante il Giro d'Italia?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Durante il Giro d'Italia, sarà possibile utilizzare gratuitamente il parcheggio “Libertà” dalle ore 00.01 del giorno 09 Maggio fino alle 12.00 del 11 Maggio. Inoltre, tutti i parcheggi lungo strada saranno gratuiti dalle ore 06.00 del 08 Maggio fino alle 12.00 del 11 Maggio. I possessori dei permessi ZPRU potranno parcheggiare indistintamente su tutte le 9 ZONE ZPRU, sempre dalle 06.00 del 08 Maggio fino 12.00 del 11 Maggio.",
+      "ground": "L’utilizzo gratuito del nuovo parcheggio “Libertà” a partire dalle ore 00.01del giorno 09/05 e fino alle ore 12.00 del giorno 11/05.\nL’utilizzo gratuito di tutti i parcheggi lungo strada, dalle ore 06.00 del giorno 08/05 alle ore 12.00 del giorno 11/05;\nLa possibilità per i possessori dei permessi ZPRU di parcheggiare indistintamente su tutte le 9 ZONE ZPRU, dalle ore 06.00 del giorno 08/05 alle ore 12.00 del giorno 11/05."
+    },
+    {
+      "id": "T03",
+      "speaker": "PA Operator",
+      "message": "Quali sono invece i parcheggi che non si potrà utilizzare?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Non si potrà fare sosta sui parcheggi che rientrano nel circuito definito per l'evento. Questi includono i parcheggi di Concordia, Mazzini, Sotto-Piazza della Concordia, Foce Irno (a raso), Foce Irno Interrato, Vinciprova, Carella, area camper l. Colombo, G. A. Amendola, F. de Mattia, Ten. Col. C. Calò, G. Natella, C. Mauro, G. Vicinanza, M. Marino, SS M. Salernitani, A. de Felice, A. Cilento, l. Trieste, G. Garibaldi, Roma, P. di Mare, R. Costanza, G. Verdi e p.zza Amendola.",
+      "ground": "L’interdizione alla sosta su tutti i parcheggi automatizzati, a rotazione e lungo strada che rientrano nel circuito definito per tale evento. Pertanto, l’interdizione alla sosta regolamentata interesserà i parcheggi di Concordia, Mazzini , Sotto-Piazza della Concordia, Foce Irno (a raso), Foce Irno Interrato, Vinciprova, Carella, area camper l. Colombo, G. A. Amendola, F. de Mattia, Ten. Col. C. Calò, G. Natella, C. Mauro, G. Vicinanza, M. Marino, SS M. Salernitani, A. de Felice, A. Cilento, l. Trieste, G. Garibaldi, Roma, P. di Mare, R. Costanza, G. Verdi, p.zza Amendola."
+    },
+    {
+      "id": "T05",
+      "speaker": "PA Operator",
+      "message": "Chi si può contattare per sapere di più?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Per avere informazioni, puoi contattare la Salerno Mobilità S.p.A. ai seguenti numeri: 800 46 81 10 (numero verde h 24), 089 2769233 (Control Room h 24), 338 8940068 (servizio rimozione auto, dalle 7.20 alle 20.40) e 089 2769111 (front office Salerno Mobilità S.p.A., dalle 9.00 alle 13.30 e dalle 15.00 alle 17.00).",
+      "ground": "Per le informazioni in tempo reale, la Salerno Mobilità S.p.A. ha predisposto i seguenti contatti telefonici:\n800 46 81 10, numero verde h 24;\n089 2769233, Control Room h 24;\n338 8940068, servizio rimozione auto, dalle ore 7.20 alle ore 20.40;\n089 2769111, front office Salerno Mobilità S.p.A., dalle ore 9.00 alle ore 13.30 e dalle ore 15.00 alle ore 17.00."
+    }
+  ],
+  "subcategory": "Salerno"
+}

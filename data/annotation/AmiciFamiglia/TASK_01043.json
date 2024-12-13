@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_01043",
+  "doc_src": "Plan_57572.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "AmiciFamiglia",
+  "turns": [
+    {
+      "id": "T1",
+      "speaker": "Citizen",
+      "message": "Vorrei creare un nuovo piano per il mio Comune, da dove mi suggerisci di partire?",
+      "ground": ""
+    },
+    {
+      "id": "T2",
+      "speaker": "Agent",
+      "message": "Un esempio interessante lo offre il Comune di Segonzano, che vuole sostenere le politiche di benessere familiare.\nSegonzano intende superare la vecchia logica assistenzialistica per intraprendere delle nuove politiche il cui la famiglia è soggetto attivo e propositvo allo sviluppo. Lo scopo è di rendere il territorio comunale accogliente e attrattivo per le famiglia e chi ci interagisce.",
+      "ground": "Il Comune di SEGONZANO intende sostenere le politiche per il benessere famigliare e porre al centro delle proprie politiche la famiglia, per perseguirne la piena promozione.\n\nCon tale ottica e attraverso il coinvolgimento di tutte le risorse attivabili sul territorio Provinciale, il Comune di SEGONZANO intende superare la vecchia logica assistenzialistica per intraprendere un nuovo corso di politiche nei diversi settori di intervento in cui la famiglia diventa soggetto attivo e propositivo e motivo di sviluppo.\nIl territorio del Comune di SEGONZANO si vuole qualificare sempre più come territorio accogliente e attrattivo per le famiglie e per i soggetti che interagiscono con esse, capace di offrire servizi ed opportunitа che rispondano alle aspettative delle famiglie, operando in una logica di Distretto Famiglia e Comune amico della Famiglia, all'interno del quale attori diversi per ambiti di attivitа perseguono l'obiettivo comune di accrescere sul territorio il benessere famigliare."
+    },
+    {
+      "id": "T3",
+      "speaker": "Citizen",
+      "message": "Più nel concreto, cosa vuole fare?",
+      "ground": ""
+    },
+    {
+      "id": "T4",
+      "speaker": "Agent",
+      "message": "In seguito le riporto una lista di alcune delle delle azioni che il Comune di Segonzano intende compiere:\n- Adesione al Distretto Famiglia\n- Piano Giovani di Zona - PGZ\n- Segnalazioni, Suggerimenti e Reclami\n- Potenziamento dell'offerta didattiva\n- Rete di riserve Val di Cembra Avisio\n- Promozione delle Politiche Familiari\n- Alloggio temporaneo in caso di emergenza\n- Contributo comunale per l'acquisto di pannolini lavabili\n- Sostegno Economico alle Associazioni\n- Sostegno alla natalità\n- Servizio di aiuto compiti\n- Colonia Estiva\n- Diritto di legnatico",
+      "ground": "TITOLO: ADESIONE AL DISTRETTO FAMIGLIA\n\n|||\n\nTITOLO: PIANO GIOVANI DI ZONA - PGZ\n\n|||\n\nTITOLO: SEGNALAZIONI, SUGGERIMENTI E RECLAMI\n\n|||\n\nTITOLO: POTENZIAMENTO DELL'OFFERTA DIDATTICA\n\n|||\n\nTITOLO: RETE DI RISERVE VAL DI CEMBRA AVISIO\n\n|||\n\nTITOLO: PROMOZIONE DELLE POLITICHE FAMILIARI\n\n|||\n\nTITOLO: ALLOGGIO TEMPORANEO IN CASO DI EMERGENZA\n\n|||\n\nTITOLO: CONTRIBUTO COMUNALE PER L'ACQUISTO DI PANNOLINI LAVABILI\n\n|||\n\nTITOLO: SOSTEGNO ECONOMICO ALLE ASSOCIAZIONI\n\n|||\n\nTITOLO: SOSTEGNO ALLA NATALITA'\n\n|||\n\nTITOLO: SERVIZIO DI AIUTO COMPITI\n\n|||\n\nTITOLO: COLONIA ESTIVA\n\n|||\n\nTITOLO: DIRITTO DI LEGNATICO"
+    },
+    {
+      "id": "T5",
+      "speaker": "Citizen",
+      "message": "Puoi dirmi di più sul Piano Giovani di Zona?",
+      "ground": ""
+    },
+    {
+      "id": "T6",
+      "speaker": "Agent",
+      "message": "Il Piano Giovani di Zona (PGZ) si propone di raccogliere i bisogno del territorio per la creazioni di progetti che favoriscono a rendere i giovani protagonisti del territorio. Il budget per questi progetti ha un minimo di 1€ per abitante, ma si impegna a garantire comunque un importo almeno pari al 20% del disavanzo complessivo dei singoli piani, oltre a stilare un bilancio apposito allo stanziamenti di risorse per il Piano Giovani annuale",
+      "ground": "OBIETTIVO: L’organo che coordina il PGZ è il Tavolo del Confronto e della Proposta. Il Tavolo del Confronto e della Proposta raccoglie i bisogni del territorio, sollecita la creazione di progetti, predispone e approva (ogni due anni) il Piano Strategico Generale (Psg) e i suoi aggiornamenti nel tempo. Il Tavolo approva il Piano strategico giovani del Piano Giovani della Valle di Cembra fissa gli obiettivi e le finalitа del PGZ.\n\nDESCRIZIONE: Il Piano Giovani della Valle di Cembra (PGZ) nasce dalla libera iniziativa dei Comuni di una specifica zona, che decidono di riunirsi con lo scopo di attivare sul territorio azioni a favore del mondo giovanile per rendere protagonisti i giovani del proprio territorio. Anche la Valle di Cembra ha attivato il proprio PGZ, di cui fanno parte tutti i Comuni della Valle, coordinati dalla Comunitа della Valle di Cembra, in qualitа di ente capofila.\n\n|||\n\n I Comuni aderenti si impegnano a garantire al Tavolo del Confronto e della Proposta un budget minimo pari ad Ђ 1,00 (euro uno) per abitante, secondo il numero di abitanti risultante al 31 dicembre dell’anno precedente a quello di presentazione del piano strategico. I Comuni si impegnano comunque a garantire un importo pari almeno al 20% del disavanzo complessivo dei singoli Piani, come espressamente richiesto dalle linee guida dell'Assessorato alle politiche giovanili della Provincia Autonoma di Trento e a prevedere annualmente a bilancio un apposito stanziamento per il finanziamento del Piano Giovani annuale."
+    },
+    {
+      "id": "T7",
+      "speaker": "Citizen",
+      "message": "E riguardo il sostegno economico alle Associazioni?",
+      "ground": ""
+    },
+    {
+      "id": "T8",
+      "speaker": "Agent",
+      "message": "Segonzano, che vede le associazioni come risorsa fondamentale per la realizzazione e sviluppo di politiche sociali nonché di sviluppo di cultura, sport, salute e valorizzazione ambientale, intende favorire e valorizzare le forme associative del territorio comunale. Vuole fare ciò Fornendo contributi ordinari e straordinari.\n",
+      "ground": "OBIETTIVO: Favorire e valorizzare le forme associative presenti sul territorio comunale e le loro progettualitа\n\nDESCRIZIONE: Il Comune di Segonzano ha adottato il ''Regolamento comunale per la concessione di finanziamenti e benefici economici ad associazioni ed enti pubblici e privati, ai sensi dell'art. 7 della L.R. 31.07.1993, n. 13''. Con il Regolamento vengono definiti i criteri e le modalitа per la concessione di contributi ordinari e straordinari ciт anche per quanto definito nell'art. 7 dello Statuto comunale\n\nIl Comune di Segonzano, coerentemente con il principio della sussidiarietа e in attuazione dei principi generali fissati dall'art. 7 dello Statuto comunale, riconosce, favorisce, valorizzazione e sostiene le forme associative per la loro presenza e radicamento sul territorio, quale risorsa fondamentale con la quale interagire nella definizione, realizzazione e sviluppo delle politiche sociali, di sviluppo della cultura e dello sport, di tutela della salute e dell'ambiente e di valorizzazione del territorio."
+    },
+    {
+      "id": "T9",
+      "speaker": "Citizen",
+      "message": "Grazie mille, penso che mi possa bastare per ora.",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agent",
+      "message": "E'  stato un piacere assisterla.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "AmiciFamiglia"
+}

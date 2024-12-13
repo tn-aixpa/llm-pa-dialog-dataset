@@ -1,0 +1,40 @@
+{
+  "task_id": "TASK_00759",
+  "doc_src": "comune.salerno_D0023.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Come si può donare il cinque per mille alle politiche sociali del Comune di Salerno?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "destinare il 5 per mille ai progetti socio-culturali, Deve indicare nel modello della dichiarazione dei redditi il Codice Fiscale del Comune di Salerno, che è 80000330656.",
+      "ground": " Basta indicare nel modello della dichiarazione dei redditi (o segnalare al proprio commercialista) la tua scelta. Il Codice Fiscale per destinare il 5 per mille al Comune di Salerno è: 80000330656."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00708",
+  "doc_src": "comune.trento_aree-tematiche_D0531.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Scusi, sa dirmi se c'è un parco naturale qui vicino a Trento?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Certamente, il Parco naturale Doss Trento è una delle principali attrattive naturali della zona.",
+      "ground": "Le principali attrattive naturali nei dintorni di Trento: il Parco naturale Doss Trento, il Monte Bondone, il Giardino botanico alpino delle Viote"
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Il Monte Bondone, è vicino alla città?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Sì, il Monte Bondone è un'altra attrazione naturale che si trova nei dintorni di Trento.",
+      "ground": "Le principali attrattive naturali nei dintorni di Trento: il Parco naturale Doss Trento, il Monte Bondone, il Giardino botanico alpino delle Viote"
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "E c'è anche un giardino botanico?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Sì, il giardino botanico alpino è nel pressi della città di Trento.",
+      "ground": "Le principali attrattive naturali nei dintorni di Trento: il Parco naturale Doss Trento, il Monte Bondone, il Giardino botanico alpino delle Viote"
+    }
+  ],
+  "subcategory": "Trento"
+}

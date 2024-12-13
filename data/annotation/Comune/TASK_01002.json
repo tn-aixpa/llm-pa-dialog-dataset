@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_01002",
+  "doc_src": "comSalerno0798.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Quando ricomincia lo scuolabus?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Il servizio di scuolabus ricomincia da lunedì 18 settembre.",
+      "ground": "Da lunedì 18 settembre parte il servizio di trasporto scolastico per gli alunni delle scuole dell’Infanzia e Primaria."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Quante scuolabus sono disponibili e da chi saranno gestiti?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Sono disponibili otto scuolabus, gestiti da una ditta privata che si è aggiudicata la gara d’appalto per un triennio scolastico.",
+      "ground": "Otto scuolabus serviranno le frazioni alte e le zone periferiche della città, garantendo il trasporto sia nella fascia oraria antimeridiana che di pomeriggio, per i bambini che usufruiscono della refezione scolastica.\nIl servizio è affidato a una ditta privata che si è aggiudicata la gara d’appalto per un triennio scolastico."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Come si può chiedere allo scuolabus di fermarsi di fronte alla propria casa?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Mi dispiace ma non sono in grado di fornire questa informazione.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

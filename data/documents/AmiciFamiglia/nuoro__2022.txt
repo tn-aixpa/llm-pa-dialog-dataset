@@ -1,0 +1,250 @@
+=== PIANO FAMIGLIA DI NUORO ANNO 2022 ===
+
+nan
+
+
+
+
+
+=== AZIONI ===
+
+
+
+TITOLO: Fornitura legna
+
+TASSONOMIA: Fornitura legna
+
+DESCRIZIONE: Anche per il 2022 l'Amministrazione provvederа alla fornitura di legna da ardere da consegnare alle famiglie che ne hanno diritto e che ne faranno richiesta
+
+-----
+
+
+
+TITOLO: Mappatura dei servizi Family - Dossier politiche familiari
+
+TASSONOMIA: Strumenti di comunicazione
+
+DESCRIZIONE: Creazione di un sistema di mappatura e di promozione dei servizi per la famiglia e creazione del dossier delle politiche familiari. Attraverso l’inserimento sulle piattaforme digitali in possesso dell’amministrazione si intende dare ambia comunicazione di tutte le organizzazioni che operano nel territorio di Nuoro
+
+-----
+
+
+
+TITOLO: Educazione ambientale
+
+TASSONOMIA: Attivitа  di educazione ambientale (laboratori, giornate ecologiche, giornata del riuso, raccolta differenziata)
+
+DESCRIZIONE: Attivitа di educazione ambientale, incontri, laboratori, giornate ecologiche, Ecolonie, destinate a famiglie e bambini con la collaborazione del CEAS (centro educazione ambientale Sardegna) inserito nella rete INFEA (informazione educazione ambientale) del Ministero dell'Ambiente. Attivitа  ludica di sensibilizzazione alla raccolta differenziata e al riciclo con attivitа come le Ricicliadi, Casa dolce casa, e SostenibiliTour dedicate alle scuole primarie e secondarie di primo grado
+
+-----
+
+
+
+TITOLO: Progetto Teatro Anch'io
+
+TASSONOMIA: Proposte culturali: museo, cinema, teatro, arte ecc.
+
+-----
+
+
+
+TITOLO: Festival Patapum
+
+TASSONOMIA: Proposte culturali: museo, cinema, teatro, arte ecc.
+
+-----
+
+
+
+TITOLO: Festival dell'innovazione sociale
+
+TASSONOMIA: Proposte culturali: museo, cinema, teatro, arte ecc.
+
+-----
+
+
+
+TITOLO: Spazio giovani
+
+TASSONOMIA: Centri di aggregazione per giovani
+
+-----
+
+
+
+TITOLO: Scuola civica di Musica
+
+TASSONOMIA: Centri di aggregazione per giovani
+
+-----
+
+
+
+TITOLO: Operativitа di strada
+
+TASSONOMIA: Attivitа/progetti formativi specifici per bambini e ragazzi
+
+-----
+
+
+
+TITOLO: Consiglio comunale dei ragazzi
+
+TASSONOMIA: Progetti di partecipazione attiva di bambini, ragazzi e giovani (consiglio comunale dei ragazzi..)
+
+-----
+
+
+
+TITOLO: Consulta comunale dei Giovani
+
+TASSONOMIA: Progetti di partecipazione attiva di bambini, ragazzi e giovani (consiglio comunale dei ragazzi..)
+
+-----
+
+
+
+TITOLO: Servizio civile universale
+
+TASSONOMIA: Progetti di partecipazione attiva di bambini, ragazzi e giovani (consiglio comunale dei ragazzi..)
+
+-----
+
+
+
+TITOLO: Fasciatoi
+
+TASSONOMIA: Fasciatoi/Spazio allattamento/Baby Little Home/Spazi per la famiglia
+
+DESCRIZIONE: Allestimento fasciatoio presso i servizi igienici della casa comunale
+
+-----
+
+
+
+TITOLO: Spazio pappa e cambio
+
+TASSONOMIA: Fasciatoi/Spazio allattamento/Baby Little Home/Spazi per la famiglia
+
+DESCRIZIONE: Spazio per il cambio e spazio pappa per i bambini nel centro commerciale Prato Sardo ed Exme
+
+-----
+
+
+
+TITOLO: Sentieristica Family
+
+TASSONOMIA: Sentieristica Family
+
+DESCRIZIONE: Realizzazione
+
+sentieristica Family al Parco Monte Ortobene
+
+-----
+
+
+
+TITOLO: Parcheggi rosa
+
+TASSONOMIA: Sostegno alla mobilitа
+
+DESCRIZIONE: Attualmente sono presenti alcuni parcheggi rosa nei centri commerciali e nell’ospedale. Si intende creare e tracciare nuovi stalli nelle zone del tribunale (via Manzoni) e del municipio (via Dante), promuovendo inoltre una campagna di sensibilizzazione sull'argomento tramite i canali social
+
+-----
+
+
+
+TITOLO: Piste ciclabili
+
+TASSONOMIA: Progetti per favorire l’autonomia dei bambini (Pedibus, Nonno vigile, ecc.)
+
+DESCRIZIONE: Nel 2022 verrа inaugurato il primo lotto della nuova pista ciclabile (viale Sardegna - viale Costituzione) che permetterа una circolazione sicura delle bici
+
+-----
+
+
+
+TITOLO: Marchio Family
+
+TASSONOMIA: Certificazioni ambientali
+
+DESCRIZIONE: Creazione sistema di qualificazione dei comparti con marchio di attenzione con il coinvolgimento dell’assessorato alle attivitа produttive
+
+-----
+
+
+
+TITOLO: Pianificazione urbanistica
+
+TASSONOMIA: Pianificazione urbanistica (strade, parchi, orti, campi sportivi ecc.)
+
+DESCRIZIONE: Pianificazione urbanistica attenta alla facilitazione relazionale (aree pedonali, orti per famiglie) all'interno del progetto di riqualificazione urbana ''Piano delle periferie'' e ''rigenerazione urbana''
+
+-----
+
+
+
+TITOLO: Ostello della gioventù
+
+TASSONOMIA: Housing sociale
+
+DESCRIZIONE: Nuoro ha un ostello immerso nella natura del monte Ortobene, inserito in un contesto sportivo (piscina all'aperto, campi da tennis e campo di calcio) adatto all'accoglienza di famiglie e ragazzi. Si intende promuovere questa struttura al target famiglia
+
+-----
+
+
+
+TITOLO: Centro per la famiglia
+
+TASSONOMIA: Servizi integrativi: Spazio genitori/bambini, spazio gioco
+
+DESCRIZIONE: Il comune di Nuoro intende potenziare il centro per la famiglia con la presenza di un’equipe multidisciplinare dedicata al supporto ai nuclei familiari per il perseguimento del benessere della famiglia e dei minori
+
+-----
+
+
+
+TITOLO: Centro estivo Senza Pensieri
+
+TASSONOMIA: Servizi doposcuola e servizi estivi
+
+-----
+
+
+
+TITOLO: Ecocolonia
+
+TASSONOMIA: Servizi doposcuola e servizi estivi
+
+-----
+
+
+
+TITOLO: Supporto scolastico
+
+TASSONOMIA: Servizi doposcuola e servizi estivi
+
+DESCRIZIONE: Si intende dare attuazione a questa azione tramite: il SET - servizio educativo territoriale - scuola senza barriere supporto specialistico per bambini diversamente abili durante l'orario scolastico
+
+-----
+
+
+
+TITOLO: Biblioteca Family Oriented
+
+TASSONOMIA: Biblioteca family-oriented / media library
+
+DESCRIZIONE: Consorzio Biblotecario Sebastiano Satta (piazza Asproni): area bambini con libri e materiale audio e video, arredi a misura di bambino
+
+-----
+
+
+
+TITOLO: Asili nido comunali
+
+TASSONOMIA: Nido d’infanzia (pubblico, in convenzione)
+
+DESCRIZIONE: A Nuoro ci sono tre nidi comunali che accolgono circa 160 bambini, senza alcuna lista d'attesa. Si intende implementare il servizio in un ottica di maggiore conciliazione famiglia lavoro, con apertura durante le vacanze, nido estivo e flessibilitа di orario di ingresso e uscita
+
+-----
+

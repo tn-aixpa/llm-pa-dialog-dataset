@@ -1,0 +1,125 @@
+MaaS - Mobility as a Service
+
+Nell'ambito dei fondi PNRR per la digitalizzazione e innovazione nella PA, il Comune di Milano è stato selezionato per sperimentare il progetto MaaS - Mobilità come Servizio - Mobility as a Service - a favore di una maggiore accessibilità, multimodalità e sostenibilità degli spostamenti.
+Con i fondi destinati al progetto, il Comune avvierà una sperimentazione con il coinvolgimento di circa 5.000 utenti, distribuendo € 1.000.000 di incentivi.
+
+Cos'è il MaaS?
+
+Il Mobility as a Service (MaaS) è un concetto globale di mobilità che prevede l'integrazione di molteplici servizi di trasporto pubblico e privato accessibili grazie a un unico canale digitale. Attraverso “piattaforme digitali di intermediazione”, che combinano varie funzionalità e garantiscono diverse alternative di viaggio – dal trasporto pubblico al car sharing, dal bike sharing ai taxi – gli utenti possono pianificare, prenotare e pagare più servizi in base alle proprie esigenze.
+Questo nuovo paradigma per la mobilità è stato declinato dal Governo italiano attraverso il progetto Mobility as a Service for Italy a cui il Piano Nazionale di Ripresa e Resilienza (PNRR) dedica una parte degli investimenti (per un totale di 40 milioni di euro più 16,9 milioni aggiuntivi stanziati dal Fondo Complementare) e per il quale il Dipartimento per la trasformazione digitale (DTD) è soggetto attuatore, con il supporto del Ministero delle infrastrutture e dei Trasporti (MIT).
+Nell’ambito di questo progetto nazionale, Milano è stata scelta, insieme a Roma e Napoli, come città “pilota” per avviare una sperimentazione sul servizio MaaS (valore del finanziamento € 2.500.000)
+
+Il Maas a Milano
+
+Il progetto MaaS di Milano prevede l’individuazione di uno o più soggetti disposti a sviluppare una soluzione MaaS integrando più Operatori di Trasporto (incluso il Trasporto Pubblico Locale) con un’offerta multimodale che coinvolga almeno tre tipologie di trasporto diverse tra loro (estendendosi a taxi e forme di mobilità in sharing). Il progetto prevede che il Comune assuma il ruolo di regolatore e favorisca lo sviluppo del servizio MaaS con iniziative destinati agli utenti e attraverso una campagna promozionale del servizio.
+In funzione delle richieste del progetto nazionale, il modello architetturale presuppone che i Maas Operator utilizzino la piattaforma centrale DS&SRF nell’erogazione dei servizi di mobilità, piattaforma che conterrà quindi tutti i dati relativi all’offerta di trasporto composta da dati statici e dinamici (quali rotte, orari, disponibilità dei mezzi, tariffe).
+In questo progetto, i cittadini (o city user), rivertono il ruolo di partecipanti attivi alla sperimentazione, anche grazie a contributi che, sulla base di specifici cluster individuati, riceveranno dal Comune di Milano, in modo da testare il sistema e incentivarne l’utilizzo.
+
+Chi può diventare sperimentatore?
+
+La fase sperimentale del progetto è iniziata a luglio 2023 e prosegue.
+Con Deliberazione di Giunta Comunale n. 1457/2023 sono stati ampliati alcuni cluster, che oggi risultano i seguenti:
+
+Lavoratori, residenti e non residenti a Milano, con sede operativa di lavoro nella Città Metropolitana di Milano
+Studenti universitari a Milano (residenti e non residenti)
+Categorie deboli residenti a Milano
+Residenti nella Città Metropolitana di Milano utilizzatori di auto in divieto di circolazione rispetto a ZTL ambientali
+
+Per diventare sperimentatore, compila la domanda:
+MODULO DOMANDA – Studenti universitari a Milano (residenti e non residenti)[www.modulodomandamaas.pdf]
+MODULO DOMANDA – Lavoratori, residenti e non residenti a Milano, con sede operativa di lavoro nella Città Metropolitana di Milano
+MODULO DOMANDA – Categorie deboli residenti a Milano
+MODULO DOMANDA – Residenti nella Città Metropolitana di Milano utilizzatori di auto in divieto di circolazione rispetto a ZTL ambientali
+
+I contributi per la sperimentazione
+
+Ai soggetti sperimentatori saranno erogati dei contributi per incentivare all’utilizzo delle piattaforme MaaS.
+In particolare, saranno erogate 2 tipologie di incentivi, tra loro cumulabili:
+
+WELCOME BONUS
+A ciascun soggetto sperimentatore, verrà erogato un bonus dal valore di € 10 per ciascuna registrazione alle piattaforme MaaS Operator, spendibile sulla singola piattaforma di registrazione.
+Si tratta di un incentivo una tantum, fino a 50 euro max (€ 10 x 5 MaaS Operator).
+ 
+BONUS MENSILE
+Ogni sperimentatore ha diritto a un bonus mensile per l’acquisto di pacchetti viaggio, sino ad una percentuale massima del 50% del valore dei titoli di viaggio emessi spendibile su tutte le piattaforme dei MaaS Operator a cui lo sperimentatore si è iscritto, con scadenza alla fine del mese di erogazione.
+Tale bonus è di valore variabile in funzione della categoria di appartenenza, secondo quanto riportato come segue:
+
+Lavoratori, residenti e non residenti a Milano, la cui sede operativa di lavoro sia nella Città Metropolitana di Milano – € 30
+Studenti universitari residenti e non residenti a Milano - € 20
+Categorie deboli residenti a Milano - € 40
+Residenti nella Città Metropolitana di Milano utilizzatori di auto in divieto di circolazione rispetto a ZTL ambientali - € 30
+
+Iscriviti alle APP dei MaaS Operator
+
+Per partecipare alla sperimentazione Mobility as a Service – Milano, scarica una o più delle seguenti app:
+
+ACI-Sara GO
+
+Per aderire alla sperimentazione MaaS su ACI-Sara Go:
+1)    scarica l’app ACI-Sara Go per Android o iOS e registra il tuo account;
+2)    verifica il codice sperimentatore compilando questo modulo;
+3)    inizia a usare i servizi di mobilità disponibili su ACI-Sara Go.
+Se riscontri problemi o hai bisogno di aiuto:
+-    scrivi a servizioclienti@mycicero.it
+-    telefona al numero: 02 82.900.734 (risponde dal lunedì al venerdì, dalle 08:00 alle 20:00)
+
+MooneyGo
+
+Per aderire alla sperimentazione MaaS su MooneyGo: :
+1)    scarica l’app MooneyGo per Android o iOS e registra il tuo account;
+2)    verifica il codice sperimentatore compilando questo modulo;
+3)    inizia a usare i servizi di mobilità disponibili su MooneyGo.
+Se riscontri problemi o hai bisogno di aiuto:
+-    scrivi a assistenza@mooneygo.it 
+-    telefona al numero 071 9207000 (risponde dal lunedì al venerdì, dalle 08:00 alle 20:00)
+
+UnipolMove City
+
+Per aderire alla sperimentazione MaaS su UnipolMove CITY:
+1)    scarica l’app UnipolMove CITY per Android o iOS;
+2)    accedi alla sezione “Profilo e pagamenti” e inserisci il tuo codice sperimentatore nel campo “Codice sperimentatore MaaS4Italy”;
+3)    inizia a usare i servizi di mobilità disponibili su UnipolMove CITY.
+N.B. UnipolMove CITY renderà presto disponibile la possibilità di verificare il proprio credito all’interno dell’app. Ad oggi, anche se questa funzionalità non è ancora presente, il credito viene correttamente associato allo sperimentatore ed è sempre possibile visionare lo sconto applicato nella ricevuta dopo ogni viaggio.
+Se riscontri problemi o hai bisogno di aiuto:
+- consulta le FAQ 
+- accedi alla chat. Vai su “Centro assistenza” e seleziona “Contattaci”
+- telefona al numero 800 11 77 44
+
+URBI
+
+Per aderire alla sperimentazione MaaS su URBI:
+1)    scarica l’app URBI per Android o iOS;
+2)    tappa sull’icona “URBI è MaaS Operator” dalla Home o dal Menu;
+3)    verifica il tuo codice sperimentatore;
+4)    completa il tuo profilo e inizia a usare i servizi di mobilità disponibili su URBI.
+Se riscontri problemi o hai bisogno di aiuto:
+-    consulta le FAQ 
+-    scrivi a support@urbi.co
+-    accedi alla chat. Vai su “Contatti e segnalazioni” e seleziona “Parla con noi”.
+
+WETAXI
+
+Per aderire alla sperimentazione MaaS su Wetaxi:
+1)    scarica l’app Wetaxi;
+2)    compila i campi con i tuoi dati e il codice di affiliazione “MaaS4italy”;
+3)    verifica il tuo numero di telefono;
+4)    seleziona “Milano” dal menu delle città;
+5)    inserisci il tuo codice sperimentatore e clicca su “Fine”;
+6)    inizia a usare i servizi di mobilità disponibili su WeTaxi.
+ 
+Se riscontri problemi o hai bisogno di aiuto:
+-    telefona al numero 02 3061
+-    scrivi a assistenza@wetaxi.it (risponde dal lunedì al venerdì, dalle 09:00 alle 18:00)
+
+Informazioni
+
+Per chiarimenti e informazioni scrivi a:
+maas4italymilano@comune.milano.it
+
+Collegamenti
+
+Bando sperimentazione MaaS
+
+
+
+

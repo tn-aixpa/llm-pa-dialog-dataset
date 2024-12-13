@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00986",
+  "doc_src": "comune.trento_aree-tematiche_D0128.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Che cosa succede se i lavori non vengono ultimati entro i termini previsti per la SCIA?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Se i lavori non sono ultimati entro i termini previsti, il titolare del permesso di costruire deve chiedere un nuovo titolo edilizio. Inoltre, resta fermo quanto previsto dall'articolo 85 della L.P. 15/2015 riguardo alla SCIA per l'esecuzione dei lavori necessari per rendere l'opera agibile.",
+      "ground": "Se i lavori non sono ultimati entro i termini previsti, il titolare del permesso di costruire deve chiedere un nuovo titolo edilizio. Resta fermo quanto previsto dall'articolo 85 della L.P. 15/2015, relativamente alla SCIA per l'esecuzione dei lavori necessari per rendere l'opera agibile."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Entro quando bisogna finire i lavori una volta cominciati?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "I lavori devono essere ultimati entro cinque anni dalla comunicazione di inizio dei lavori. Tuttavia, a causa della pandemia di COVID-19, per i permessi di costruire, i lavori possono essere ultimati entro sette anni dalla comunicazione di inizio, ma questa disposizione è valida fino al 31 dicembre 2021.",
+      "ground": "I lavori devono essere ultimati entro\ncinque anni\ndalla comunicazione di inizio dei lavori e la relativa data di fine dei lavori deve essere comunicata al Comune entro sei mesi dalla fine dei lavori.\nCon Legge provinciale 13 maggio 2020, n. 3, cd. “Ripartenza Trentino 2”, in ragione della situazione eccezionale venutasi a creare in conseguenza della pandemia di COVID-19, è stato disposto tuttavia che fino al 31 dicembre 2021, i lavori oggetto del permesso di costruire sono ultimati entro\nsette anni\ndalla comunicazione di inizio dei lavori e la relativa data di fine dei lavori deve essere comunicata al Comune entro un anno dalla fine dei lavori."
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Nel caso di interventi soggetti a CILA cambia qualcosa?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Sì, nel caso di interventi soggetti a CILA non deve essere depositata alcuna dichiarazione di fine dei lavori.",
+      "ground": "Per gli interventi soggetti a CILA non deve essere depositata alcuna dichiarazione di fine dei lavori."
+    }
+  ],
+  "subcategory": "Trento"
+}

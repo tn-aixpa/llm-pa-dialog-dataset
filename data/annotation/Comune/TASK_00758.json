@@ -1,0 +1,40 @@
+{
+  "task_id": "TASK_00758",
+  "doc_src": "comune.salerno_D0022.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei informazioni sull'asta pubblica per la vendita degli immobili del Comune di Salerno.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, posso aiutarla. La vendita degli immobili del Comune di Salerno è prevista mediante asta pubblica ad offerte segrete. Le domande di partecipazione devono pervenire entro le ore 12 del giorno 12 luglio 2024.\nGli immobili in vendita sono indicati nel seguente avviso https://www.comune.salerno.it/sites/default/files/2024-05/avviso%20d%27asta%20PUA%20CR%2031.pdf .",
+      "ground": "Il Comune di Salerno rende noto che, con determinazione dirigenziale n. 2680 del 30/05/2024, sono posti in vendita, mediante  asta pubblica ad offerte segrete in aumento sul prezzo a base d’asta, gli immobili indicati nell'Avviso allegato, di proprietà del Comune di Salerno, siti al LOTTO 1 PUA CR31 località ex Via Allende – Stadio Arechi\nLe domande di partecipazione dovranno pervenire entro le ore 12 del giorno 12/07/2024.\n\n|||\n\n[https://www.comune.salerno.it/sites/default/files/2024-05/avviso%20d%27asta%20PUA%20CR%2031.pdf](Avviso)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E dove posso trovare i moduli da compilare per partecipare all'asta?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Può trovare i moduli ai seguenti link:\n\nMod. A1 - Domanda persona fisica\nhttps://www.comune.salerno.it/sites/default/files/2024-05/avviso%20d%27asta%20PUA%20CR%2031.pdf\n\nMod. A2 - Domanda società\nhttps://www.comune.salerno.it/sites/default/files/2024-05/02%29%20-%20mod.%20A2%20domanda%20Societ%C3%A0_0.pdf\n\nMod. B2 - Persone giuridiche\nhttps://www.comune.salerno.it/sites/default/files/2024-05/04%29%20-%20mod.%20B2%20persone%20giuridiche_0.pdf\n\nMod. B3 - Altri soggetti persona giuridica\nhttps://www.comune.salerno.it/sites/default/files/2024-05/05%29%20-%20mod.%20B3%20altri%20soggetti%20persona%20giuridica_0.pdf\n\nMod. C\nhttps://www.comune.salerno.it/sites/default/files/2024-05/06%29%20-%20mod.%20C_0.pdf\n\nMod. D1 - Offerta persona fisica\nhttps://www.comune.salerno.it/sites/default/files/2024-05/07%29%20-%20mod.%20D1%20offerta%20persona%20fisica_0.pdf\n\nMod. D2 - Offerta persona giuridica\nhttps://www.comune.salerno.it/sites/default/files/2024-05/08%29%20-%20mod.%20D2%20offerta%20persona%20giuridica_0.pdf\n\nMod. E - Restituzione cauzione\nhttps://www.comune.salerno.it/sites/default/files/2024-05/09%29%20-%20mod.%20E%20restituzione%20cauzione_0.pdf\n\nMod. dichiarazione privacy\nhttps://www.comune.salerno.it/sites/default/files/2024-05/10%29%20-%20mod.%20dichiarazione%20privacy_0.pdf",
+      "ground": "[https://www.comune.salerno.it/sites/default/files/2024-05/01%29%20-%20mod.%20A1%20%20domanda%20persona%20fisica_0.pdf](Mod. A1 - Domanda persona fisica)\n[https://www.comune.salerno.it/sites/default/files/2024-05/02%29%20-%20mod.%20A2%20domanda%20Societ%C3%A0_0.pdf](Mod. A2 - Domanda società)\n[https://www.comune.salerno.it/sites/default/files/2024-05/04%29%20-%20mod.%20B2%20persone%20giuridiche_0.pdf](Mod. B2 - Persone giuridiche)\n[https://www.comune.salerno.it/sites/default/files/2024-05/05%29%20-%20mod.%20B3%20altri%20soggetti%20persona%20giuridica_0.pdf](Mod. B3 - Altri soggetti persona giuridica)\n[https://www.comune.salerno.it/sites/default/files/2024-05/06%29%20-%20mod.%20C_0.pdf](Mod. C)\n[https://www.comune.salerno.it/sites/default/files/2024-05/07%29%20-%20mod.%20D1%20offerta%20persona%20fisica_0.pdf](Mod. D1 - Offerta persona fisica)\n[https://www.comune.salerno.it/sites/default/files/2024-05/08%29%20-%20mod.%20D2%20offerta%20persona%20giuridica_0.pdf](Mod. D2 - Offerta persona giuridica)\n[https://www.comune.salerno.it/sites/default/files/2024-05/09%29%20-%20mod.%20E%20restituzione%20cauzione_0.pdf](Mod. E - Restituzione cauzione)\n[https://www.comune.salerno.it/sites/default/files/2024-05/10%29%20-%20mod.%20dichiarazione%20privacy_0.pdf](Mod. dichiarazione privacy)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per le informazioni.",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

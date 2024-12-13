@@ -1,0 +1,70 @@
+{
+  "task_id": "TASK_00132",
+  "doc_src": "comune.milano_aree-tematiche_D0153.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei avere informazioni sui soggiorni studio all'estero organizzati dalla Presidenza del Consiglio Comunale.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Certamente, cosa vuole sapere di preciso?",
+      "ground": ""
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Mi chiedevo se ci sono possibilità per adulti e famiglie milanesi di partecipare a questi soggiorni.",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Sì, ci sono anche soggiorni dedicati ad adulti e famiglie. E' possibile mandare la domanda fino ad esaurimento dei posti disponibili.",
+      "ground": "Da martedì 19 marzo alle ore 14:00 fino alla  comunicazione di esaurimento posti da parte delle scuole"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Capito, e quali sono i requisiti per partecipare?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Gli adulti devono avere almeno 20 anni e lavorare, studiare o essere residenti/domiciliati nel territorio del Comune di Milano. Per le famiglie, è necessario che almeno un componente del nucleo familiare partecipante soddisfi i suddetti requisiti.",
+      "ground": "accompagnatori per ogni gruppo, individuati nell’ambito del personale interno all’Amministrazione comunale.\n\nGuida alle iscrizioni ai soggiorni studio all’estero per studenti delle scuole secondarie di secondo grado\n\nSoggiorni per adulti e famiglie: informazioni di base\n\nRequisiti\n\nAdulti\n\t- età minima 20 anni\n\t- lavorare, studiare o essere residenti/domiciliati nel territorio del Comune di Milano\n\t \nFamiglie (almeno un adulto con un bambino che segua il corso di lingua)\n\t- almeno un componente del nucleo familiare partecipante deve studiare, lavorare o essere residente/domiciliato nel territorio del Comune di Milano."
+    },
+    {
+      "id": "T07",
+      "speaker": "Cittadino",
+      "message": "Quali sono le destinazioni disponibili per questi soggiorni?",
+      "ground": ""
+    },
+    {
+      "id": "T08",
+      "speaker": "Agente",
+      "message": "Per singoli adulti, i soggiorni correntemente disponibili sono:\nPer l'inglese, Limassol Cipro e Dublino EIRE;\nPer l'italiano Berlino;\nPer il tedesco Berlino e Francoforte sM D;\nPer il francese Lione F;\nper lo spagnolo Salamanca e;\n\nPer le famiglie invece è disponibile solo il corso di inglese a Cipro",
+      "ground": "Adulti e famiglie\n\ninglese Limassol Cipro individuali \ninglese Dublino EIRE individuali \nitaliano Berlino dietro le quinte individuali \ntedesco Berlino corso di lingua itinerante individuali \ntedesco Francoforte sM D individuali \nfrancese Lione F individuali \nspagnolo Salamanca e individuali \ninglese Cipro famiglie"
+    },
+    {
+      "id": "T09",
+      "speaker": "Cittadino",
+      "message": "Grazie mille per l'aiuto, mi informerò meglio su queste opportunità.",
+      "ground": ""
+    },
+    {
+      "id": "T10",
+      "speaker": "Agente",
+      "message": "È stato un piacere poterla assistere. Se ha bisogno di ulteriori informazioni, può contattare l'ufficio Relazioni del Consiglio Comunale per mail all'indirizzo pcc.viaggistudio@comune.milano.it o per telefono al numero 02 884.50372",
+      "ground": "Informazioni\n\nUfficio Relazioni del Consiglio Comunale\n\ne-mail: pcc.viaggistudio@comune.milano.it\ntel: 02 884.50372"
+    }
+  ],
+  "subcategory": "Milano"
+}

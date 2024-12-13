@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00710",
+  "doc_src": "comune.trento_aree-tematiche_D0533.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Buongiorno, vorrei informazioni sul progetto di fattibilità tecnico economica della circonvallazione di Trento.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Buongiorno, c'è stata una raccolta delle risposte poste al progetto della circonvallazione di trento. Al link /Aree-tematiche/TrentoLab/Progetto-integrato/Domande-e-risposte/La-circonvallazione-ferroviaria-il-primo-tassello-della-citta-che-cambia dovrebbe trovare una raccolta di queste con le risposte. Le risposte sono state elaborate in una collaborazione tra Rfi e la Provincia autonoma e Comune di Trento.",
+      "ground": "Le domande sono arrivate al Comune anche in seguito al\n[/Aree-tematiche/TrentoLab/Progetto-integrato/Domande-e-risposte/La-circonvallazione-ferroviaria-il-primo-tassello-della-citta-che-cambia](webinar informativo)\norganizzato dalle Circoscrizioni di Povo e Villazzano, e sono suddivise per argomenti. I testi delle risposte sono stati elaborati in collaborazione tra Rfi, Provincia autonoma e Comune di Trento."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

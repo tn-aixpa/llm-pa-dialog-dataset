@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00426",
+  "doc_src": "comune.trento_aree-tematiche_D0034.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Buongiorno, potrebbe darmi delle informazioni sui Laghi e sull'abisso di Lamar?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Certamente, l'area protetta dei Laghi e dell'abisso di Lamar si trova sul versante est della Paganella, caratterizzata da profondi fenomeni di carsismo. Non ha immissari o emissari importanti ma solo piccoli ruscelli e probabilmente fonti sommerse. È uno specchio d'acqua trasparentissimo, circondato dal bosco e da rocce cangianti, con un'ampia spiaggia sul lato occidentale. La vegetazione è di notevole pregio, con specie rare in provincia. Salendo lungo i versanti alle sponde dei laghi si incontrano varie foreste. Il sito è di rilevante importanza per la nidificazione di specie protette.",
+      "ground": "L'area protetta è situata sul versante est della Paganella, in una zona a substrato calcareo caratterizzata da profondi fenomeni di carsismo. Non ha immissari o emissari importanti ma solo piccoli ruscelli, e, probabilmente, fonti sommerse. È uno specchio d'acqua trasparentissimo, le sue verdi acque sono circondate dal bosco e da rocce cangianti con un'ampia spiaggia sul lato occidentale. Di notevole pregio è la vegetazione idrofitica, inoltre il Lago Santo presenta una cintura di vegetazione di sponda che ospita alcune specie rare in provincia. Salendo lungo i versanrti alle sponde dei laghi si incontrano formazioni forestali ascrivibili all'orno-strieto, alla faggeta con\nOstrya\ne le faggete mesofile con abete bianco e tasso. Il sito è di rilevante importanza per la nidificazione, la sosta e lo svernamento di specie di uccelli protette o in forte regresso, e a distribuzione localizzata sulle Alpi."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Quindi ci sono molte specie di uccelli?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Non sono in grado di fornire numeri sulla quantità o varietà di uccelli nell'area.",
+      "ground": ""
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Capito, grazie comunque.",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "È stato un piacere aiutarla, se ha altre domande non esiti a chiedere. Buona giornata!",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Trento"
+}

@@ -1,0 +1,28 @@
+Il Comune di Trento sta diffondendo all'interno dell'amministrazione l'utilizzo di
+Quantum GIS
+quale strumento Desktop per consultare, produrre e stampare mappe cartografiche. Per rispondere al meglio alle proprie esigenze talvolta vengono realizzati internamente dei
+plugin
+(aggiunta di funzionalità) da applicare a QGIS per facilitarne e migliorarne l'utilizzo. Questi plugin sono pubblicati con licenza GPL e disponibili al download in questa pagina.
+ATTENZIONE
+- Questi plugin sono stati inizialmente realizzati in una configurazione altamente personalizzata.
+La versione scaricabile in questa pagina non è quella utilizzata al nostro interno, ma è stata modificata per renderla configurabile, per questo non è "pronta all'uso".
+In ogni caso, questi plugin andrebbero presi solo come riferimento per la programmazione e non come utilizzabili in produzione. Inoltre non possiamo garantire pieno supporto ad ambienti diversi dai nostri.
+Ricerca via e numero civico
+Questo plugin fornisce un'interfaccia per la ricerca semplice ed intuitiva delle vie cittadine e dei numeri civici. Conoscendo il codice o il nome di una via o il numero civico.
+Il Plugin richiede l'apertura dei seguenti layer vettoriali all'interno di QGIS:
+layer lineare che rappresenta le
+vie cittadine
+(opzionale) layer puntuale che rappresenta i
+numeri civici principali
+, con riferimento alla via di appartenenza attraverso un opportuno codice
+(opzionale) layer puntuale che rappresenta i
+numeri civici secondari
+, con riferimento alla via di appartenenza attraverso un opportuno codice
+Clicca sul collegamento sottostante per scaricare il codice del plugin e le istruzioni per installarlo.
+[/content/download/635938/6107657/file/ricerca_via.zip](ricerca_via.zip)
+31,46 kB
+Toponomastica
+Questo plugin fornisce una serie di funzionalità di editing avanzato per inserire in mappa elementi lineari (vie cittadine) ed elementi puntuali (numeri civici)
+Clicca sul collegamento sottostante per scaricare il codice del plugin e la documentazione approfondita.
+[/content/download/635939/6107662/file/toponomastica.zip](toponomastica.zip)
+748,98 kB

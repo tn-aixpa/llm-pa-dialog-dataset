@@ -1,0 +1,9 @@
+Atlante della rigenerazione urbana
+L’Atlante è una
+mappa consultabile on line
+che restituisce una visione d’insieme e periodicamente aggiornata degli oltre
+100 progetti di rigenerazione urbana
+in corso (sopra i 5000 mq di Superficie Territoriale), degli interventi pubblici e privati più rilevanti.
+L’Atlante fornisce, per ogni progetto, le informazioni essenziali sulla superficie, le funzioni, lo stato del procedimento e, dove disponibile, una pagina di approfondimento dedicata.
+I progetti comprendono: i Piani Attuativi, i Piani Integrati di Intervento, i Permessi di Costruire Convenzionati e gli Accordi di programma in corso. Vengono inoltre segnalati i nuovi Parchi, i Programmi Innovativi per la Qualità dell’Abitare (PINQUA), alcuni interventi del Piano Quartieri, i Progetti React-EU, i bandi di concorso attivi e il patrimonio edilizio dismesso, oltre ad alcune previsioni strategiche del Piano di Governo del Territorio (Grandi Funzioni Urbane, Nodi e Piazze).
+[https://geoportale.comune.milano.it/portal/apps/webappviewer/index.html?id=898e7d52b24c40d8a2930226971e126a](Clicca e consulta l'Atlante della rigenerazione urbana)

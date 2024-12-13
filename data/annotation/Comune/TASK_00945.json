@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00945",
+  "doc_src": "comune.milano_aree-tematiche_links_D0233.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Come si entra nella Protezione Civile?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "Per entrare nella Protezione Civile è indispensabile seguire i corsi organizzati periodicamente dagli Enti preposti.",
+      "ground": "Come si entra nella Protezione Civile?\nÈ indispensabile seguire i corsi organizzati periodicamente dagli Enti preposti."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Che normative regolano la Protezione Civile?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Le normative che regolano la Protezione Civile sono diverse. Fra queste ci sono: il Decreto Legislativo n° 1 del 2 gennaio 2018, il Decreto Legislativo 31 marzo 1998, n. 112, il Decreto Legislativo 18 agosto 2000, n. 267, la Legge 9 novembre 2001, n. 401, la Legge 26 luglio 2005, n. 152, la Legge n. 100 del 12 luglio 2012. Ci sono inoltre varie direttive e indirizzi operativi emanati dal Presidente del Consiglio dei Ministri e dal Dipartimento della Protezione Civile.",
+      "ground": "Norme generali\nDecreto Legislativo 31 marzo 1998, n. 112 \"Conferimento di funzioni e compiti amministrativi dello Stato alle regioni ed agli enti locali, in attuazione del capo I della legge 15 marzo 1997, n. 59\"\nDecreto Legislativo 18 agosto 2000, n. 267 \"Testo unico delle leggi sull'ordinamento degli enti locali\"\nLegge 9 novembre 2001, n. 401 “Conversione in legge, con modificazioni, del decreto-legge 7 settembre 2001, n. 343, recante disposizioni urgenti per assicurare il coordinamento operativo delle strutture preposte alle attività di protezione civile”\nDirettiva del Presidente del Consiglio dei Ministri 27 febbraio 2004 \"Indirizzi operativi per la gestione organizzativa e funzionale del sistema di allertamento nazionale, statale e regionale per il rischio idrogeologico ed idraulico ai fini di Protezione Civile\"\nLegge 26 luglio 2005, n. 152 “Conversione in legge, con modificazioni, del D.L. 31 maggio 2005, n. 90, recante disposizioni urgenti in materia di protezione civile\nLegge n. 100 del 12 luglio 2012 - Conversione in legge, con modificazioni, del decreto-legge 15 maggio 2012, n. 59, recante disposizioni urgenti per il riordino della protezione civile\nNota della Presidenza del Consiglio dei Ministri - Dipartimento della Protezione Civile DPC/RlA/52196 22 ottobre 2015 \"Attività volte a prevedere, prevenire e fronteggiare eventuali situazioni di emergenza connesse a fenomeni meteorologici, idrogeologici e idraulici\"\nNota della Presidenza del Consiglio dei Ministri - Dipartimento della Protezione Civile DPC/RIA7117 10 febbraio 2016 “Indicazioni operative recanti Metodi e criteri per l’omogeneizzazione dei messaggi del Sistema di allertamento nazionale per il rischio meteo-idrogeologico e idraulico e della risposta del sistema di Protezione Civile\"\nDecreto Legislativo n° 1 del 2 gennaio 2018 “Codice della protezione civile”\nRischio idraulico/idrogeologico\nLegge 3 agosto 1998, n. 267 \"Conversione in legge, con modificazioni, del decreto-legge 11 giugno 1998, n. 180, recante misure urgenti per la prevenzione del rischio idrogeologico ed a favore delle zone colpite da disastri franosi nella regione Campania\"\nDecreto del Presidente del Consiglio dei Ministri 24/05/2001 “Piano stralcio per l'assetto idrogeologico del bacino idrografico del fiume Po”\nDecreto Legislativo n° 49/2010 “Attuazione della direttiva 2007/60/CE relativa alla valutazione e gestione dei rischi di alluvioni  (Direttiva Alluvioni o Floods Directive)\nD.P.C.M. del 8 febbraio 2013 «Indirizzi operativi per l’istituzione dell’Unità di Comando e Controllo del bacino del fiume Po ai fini del governo delle piene, nonché modifiche ed integrazioni alla direttiva del Presidente del Consiglio dei Ministri del 27 febbraio 2004 e successive modificazioni»\nD.P.C.M. del 27 ottobre 2016, con il quale viene approvato il “Piano di Gestione del Rischio di Alluvioni del Distretto Idrografico Padano” (PGRA)\nRischio sismico\nDecreto del Ministero dei Lavori Pubblici 05 marzo 1984 “dichiarazione di sismicità di alcune zone della Lombardia”\nDecreto del Presidente del Consiglio dei Ministri Dipartimento di Protezione Civile 12 giugno 1998, ordinanza “Individuazione delle zone ad elevato rischio sismico del territorio nazionale”.\nO.P.C.M. 3274 del 20 marzo 2003 “Primi elementi in materia di criteri generali per la classificazione sismica del territorio nazionale e di normative tecniche per le costruzioni in zona sismica”;\nO.P.C.M. 3519 del 28 aprile 2006 dalla G.U. n.108 del 11/05/06 \"Criteri generali per l'individuazione delle zone sismiche e per la formazione e l'aggiornamento degli elenchi delle medesime zone”;\nD.P.C.M. del 14 gennaio 2014 «Programma nazionale di soccorso per il rischio sismico»\nRischio incendio boschivo\nLegge 21 novembre 2000, n. 353 \"Legge-quadro in materia di incendi boschivi”\nRischio industriale e Nucleare\nDecreto Legislativo n. 230 del 17 marzo 1995: attuazione delle direttive 89/618/Euratom, 90/641/Euratom, 96/29/Euratom e 2006/117/Euratom in materia di radiazioni ionizzanti\nDecreto Legislativo 17 agosto 1999, n. 334 \"Attuazione della direttiva 96/82/CE relativa al controllo dei pericoli di incidenti rilevanti connessi con determinate sostanze pericolose” e smi\nD.P.C.M. 25 febbraio 2005 Linee guida per la pianificazione dell’emergenza esterna degli stabilimenti industriali e rischio d’incidente rilevante\nDecreto Legislativo 21 settembre 2005, n. 238 \"Attuazione della direttiva 2003/105/CE, che modifica la direttiva 96/82/CE, sul controllo dei pericoli di incidenti rilevanti connessi con determinate sostanze pericolose\"\nD.P.C.M. 16.02.2007, G.U. 07.03.2007 “Linee guida per l'informazione alla popolazione sul rischio industriale\nDirettive e Indirizzi Operativi\nDir. P.C.M. 27 febbraio 2004 (1). ”Indirizzi operativi per la gestione organizzativa e funzionale del sistema di allertamento nazionale, statale e regionale per il rischio idrogeologico ed idraulico ai fini di protezione civile\nDirettiva 2 febbraio 2005: linee guida per l'individuazione di aree di ricovero di emergenza per strutture prefabbricate di protezione civile\nD.P.C.M. 06 aprile 2006: “Direttiva del Capo del Dipartimento della Protezione Civile del 02 maggio 2006 – Indicazioni per il coordinamento delle iniziative e delle misure finalizzate a disciplinare gli interventi di soccorso e di assistenza alla popolazione in occasione di incidenti stradali, ferroviari ed aerei in mare, di esplosioni e crolli di strutture e di incidenti con presenza di sostanze pericolose”\nDirettiva del 5 ottobre 2007: Indirizzi operativi per prevedere, prevenire e fronteggiare le emergenze legate a fenomeni idrogeologici e idraulici\nDirettiva del 27 ottobre 2008: Indirizzi operativi per prevedere, prevenire e fronteggiare le emergenze legate ai fenomeni idrogeologici e idraulici\nD.P.C.M. del 3 dicembre 2008: “Indirizzi operativi per la gestione delle emergenze”;\nDirettiva del Presidente del Consiglio dei Ministri del 9 febbraio 2011: Valutazione e riduzione del rischio sismico del patrimonio culturale\nDirettiva del 9 novembre 2012: indirizzi operativi per assicurare l’unitaria partecipazione organizzazioni di volontariato all’attività di protezione civile\nIndicazioni operative della Presidenza del Consiglio dei Ministri – Dipartimento della Protezione Civile del 31 marzo 2015: «Determinazione dei criteri generali per l’individuazione dei Centri Operativi di Coordinamento e delle Aree di Emergenza»\nNota della Presidenza del Consiglio dei Ministri - Dipartimento della Protezione Civile DPC/RlA/52196 22 ottobre 2015: \"Attività volte a prevedere, prevenire e fronteggiare eventuali situazioni di emergenza connesse a fenomeni meteorologici, idrogeologici e idraulici\"\nNota della Presidenza del Consiglio dei Ministri - Dipartimento della Protezione Civile DPC/RIA7117 10 febbraio 2016: “Indicazioni operative recanti Metodi e criteri per l’omogeneizzazione dei messaggi del Sistema di allertamento nazionale per il rischio meteo-idrogeologico e idraulico e della risposta del sistema di Protezione Civile\""
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Cosa fa il Referente Operativo Comunale?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Il Referente Operativo Comunale da supporto al sindaco. In fase di normalità, svolge compiti come sovraintendere alla stesura del piano di emergenza comunale e organizzare il Gruppo Comunale di Protezione civile, mentre in fase di emergenza sovraintende la sorveglia del territorio, coordina evacuazioni e assiste praticamente la popolazione. ",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Milano"
+}

@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00329",
+  "doc_src": "comune.milano_aree-tematiche_links_D0363.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Scusi, potrebbe dirmi se Joint è un’associazione no-profit?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Sì, Joint è un’associazione di promozione sociale no-profit specializzata in progetti di educazione non formale e apprendimento interculturale.",
+      "ground": "Joint\nJoint  è un’associazione di promozione sociale attiva nel no-profit e specializzata in progetti di educazione non formale e apprendimento interculturale rivolti ai giovani."
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "E dove si trova la sede?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "La sede di Joint si trova in Via San Giacomo 32A, spazi che il Comune ha assegnato all'associazione.",
+      "ground": "Negli spazi che il Comune le ha assegnato in Via San Giacomo 32A professionisti e volontari dell’associazione si alternano e collaborano per l’ideazione, la progettazione ed il coordinamento dei progetti di mobilità e volontariato internazionale promossi dalla Comunità Europea."
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "Quindi, ci sono professionisti e volontari che lavorano insieme per progetti di mobilità internazionale?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "Esatto, i professionisti e i volontari di Joint collaborano per l'ideazione, la progettazione e il coordinamento dei progetti di mobilità e volontariato internazionale promossi dalla Comunità Europea.",
+      "ground": "Negli spazi che il Comune le ha assegnato in Via San Giacomo 32A professionisti e volontari dell’associazione si alternano e collaborano per l’ideazione, la progettazione ed il coordinamento dei progetti di mobilità e volontariato internazionale promossi dalla Comunità Europea."
+    }
+  ],
+  "subcategory": "Milano"
+}

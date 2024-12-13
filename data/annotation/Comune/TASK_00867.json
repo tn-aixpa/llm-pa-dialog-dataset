@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00867",
+  "doc_src": "comune.salerno_D0180.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Cittadino",
+      "message": "Buongiorno, vorrei avere informazioni sulle agevolazioni tariffarie per il trasporto durante le prossime consultazioni elettorali europee.",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agente",
+      "message": "Buongiorno, certo. Le agevolazioni tariffarie saranno disponibili per gli elettori che si recheranno a votare nel proprio Comune di iscrizione elettorale. Le informazioni dettagliate sono riportate nella circolare al link https://www.comune.salerno.it/sites/default/files/2024-05/Pref.Sa_.2024.0083596.pdf",
+      "ground": "Si rammenta che anche in occasione delle prossime consultazioni elettorali europee, come di consueto, gli elettori che si recheranno a votare nel proprio Comune di iscrizione elettorale potranno usufruire delle agevolazioni tariffarie applicate da enti e società che gestiscono i relativi servizi di trasporto, quali sono dettagliatamente riportate nella circolare della Prefettura che si allega.\n[https://www.comune.salerno.it/sites/default/files/2024-05/Pref.Sa_.2024.0083596.pdf](circolare agevolazioni tariffarie)"
+    },
+    {
+      "id": "T03",
+      "speaker": "Cittadino",
+      "message": "Mi potrebbe indicare dove posso trovare ulteriori informazioni sull'Ufficio Elettorale?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agente",
+      "message": "Per informazioni sull'Ufficio Elettorale può visitare il  link /node/3649",
+      "ground": "[/node/3649](Ufficio Elettorale)\nUfficio Elettorale"
+    },
+    {
+      "id": "T05",
+      "speaker": "Cittadino",
+      "message": "",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agente",
+      "message": "",
+      "ground": ""
+    }
+  ],
+  "subcategory": "Salerno"
+}

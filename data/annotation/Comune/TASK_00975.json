@@ -1,0 +1,46 @@
+{
+  "task_id": "TASK_00975",
+  "doc_src": "comSalerno0702.txt",
+  "user": "Operatore PA",
+  "dial_style": "Tu",
+  "category": "Comune",
+  "turns": [
+    {
+      "id": "T01",
+      "speaker": "Citizen",
+      "message": "Quali sono gli orari in cui è vietata la vendita di bevande in vetro e lattine durante le festività natalizie?",
+      "ground": ""
+    },
+    {
+      "id": "T02",
+      "speaker": "Agent",
+      "message": "È vietata la vendita di bevande in vetro e lattine dalle ore 10:00 del 24 Dicembre alle ore 8:00 del 25 Dicembre e dalle ore 10:00 del 31 Dicembre alle ore 8:00 del 1 Gennaio.",
+      "ground": "- Ordinanza sindacale per il divieto di vendita per asporto, abbandono e consumo bevande, con bottiglie, bicchieri o contenitori in genere, in vetro ovvero lattine in alluminio, dalle ore 10:00 del 24/12/2023 alle ore 08:00 del 25/12/2023 e dalle ore 10:00 del 31/12/2023 alle ore 08:00 del 01/01/2024."
+    },
+    {
+      "id": "T03",
+      "speaker": "Citizen",
+      "message": "Posso vedere l'ordinanza originale?",
+      "ground": ""
+    },
+    {
+      "id": "T04",
+      "speaker": "Agent",
+      "message": "Certo! Puoi vedere l'ordinanza originale riguardante il divieto di vendita di bevande in vetro durante le festività natalizie al seguente link: https://www.comune.salerno.it/sites/default/files/2023-12/Ordinanza%20Sindacale%20di%20divieto%20di%20vendita%20di%20bevande%20in%20vetro%20durante%20le%20vigilie%202023.pdf .",
+      "ground": "[https://www.comune.salerno.it/sites/default/files/2023-12/Ordinanza%20Sindacale%20di%20divieto%20di%20vendita%20di%20bevande%20in%20vetro%20durante%20le%20vigilie%202023.pdf](Ordinanza bevande in vetro)"
+    },
+    {
+      "id": "T05",
+      "speaker": "Citizen",
+      "message": "Per i fuochi d'artificio ci sono restrizioni?",
+      "ground": ""
+    },
+    {
+      "id": "T06",
+      "speaker": "Agent",
+      "message": "Sì, ci sono restrizioni per l'utilizzo di fuochi d'artificio. È vietato l'uso, sulle strade pubbliche e in luoghi aperti al pubblico, di fuochi d’artificio, petardi, mortaretti e altri materiali esplodenti, dalle ore 10:00 del 24 Dicembre alle ore 8:00 del 25 Dicembre e dalle ore 10:00 del 31 Dicembre alle ore 8:00 del 1 Gennaio.",
+      "ground": "In allegato\n- Ordinanza sindacale per il divieto di vendita per asporto, abbandono e consumo bevande, con bottiglie, bicchieri o contenitori in genere, in vetro ovvero lattine in alluminio, dalle ore 10:00 del 24/12/2023 alle ore 08:00 del 25/12/2023 e dalle ore 10:00 del 31/12/2023 alle ore 08:00 del 01/01/2024.\n- Ordinanza sindacale per il divieto di utilizzo, sulla pubblica via, in luoghi aperti al pubblico ed esposti al pubblico, di fuochi d’artificio, petardi, mortaretti e altri materiali esplodenti, dalle ore 10:00 del 24/12/2023 alle ore 08:00 del 25/12/2023 e  dalle ore 10:00 del 31/12/2023 alle ore 08:00 del 01/01/2024."
+    }
+  ],
+  "subcategory": "Salerno"
+}

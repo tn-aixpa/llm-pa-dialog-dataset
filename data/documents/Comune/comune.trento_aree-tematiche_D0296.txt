@@ -1,0 +1,10 @@
+Censimento di dissesti franosi ed alluvionali, avvenuti in passato o potenziali.
+La mappatura delle criticità idrogeologiche si configura come uno screening dei dissesti franosi ed alluvionali, che hanno vulnerato il territorio comunale e di quelli riconosciuti come potenziali negli studi geologici condotti a sostegno della pianificazione territoriale.
+Esso è finalizzato a migliorare l'intervento dell'Amministrazione comunale sul territorio riguardo a più funzioni, che vanno dalla Protezione Civile alla pianificazione ambientale ed urbanistica.
+La mappatura è stata realizzata dal personale del Servizio Ambiente del Comune di Trento con la collaborazione di altri Servizi ed in particolare dal Servizio Gestioni.
+I dati riportati nello studio risultano aggiornati al 2007.
+la cartografia è consultabile sul
+[/Aree-tematiche/Cartografia/Portale-cartografico](portale cartografico "Ambiente" del Comune di Trento)
+, selezionando "
+idrogeologia
+" fra le possibili viste proposte nel menù a tendina.
